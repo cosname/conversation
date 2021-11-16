@@ -6,24 +6,30 @@ COS访谈是由统计之都发起，由志愿者共同组织的访谈活动。�
 ## 采访计划表
 
 
-- 袁卫 （状态：采访完毕，文稿整理中）
-- 高敏雪 （状态：问题准备完毕）
-- 吴喜之
-- 苗旺
+- 袁卫， （状态：采访完毕，文稿整理中）
+- 高敏雪， （状态：问题准备完毕）
+- 杨剑，（状态：准备中）
+- 吴喜之，（状态：准备中）
+- 苗旺，（状态：准备中）
 
 ## 待翻译列表，欢迎参与
 
-- [Donald Bruce Rubin](./pdf/rubin.pdf)，状态：翻译完成，校对中……
-- [Bradley Efron](./pdf/efron.pdf)
+下面是统计之都准备组织翻译的采访稿。欢迎您的共同参与！
+
+- [Donald Bruce Rubin](./pdf/Rubin.pdf)，状态：翻译初稿完成，校对中……
+- [Bradley Efron](./pdf/Efron.pdf)
 - [John Tukey](./pdf/JohnTukey.pdf)
 - [D R COX](./pdf/D-R-Cox.pdf)
 - [George Box](./pdf/George-Box.pdf)
 
-欢迎参与，[翻译指南](guide.md)参见链接。
+翻译和校对相关流程和细节，可在这里[查看指南](guide.md)。
 ## 历史访谈文章
 
+在过去8年，统计之都共组织采访或者翻译外文访谈共40多期，绝大多数都进行了编号。
+他们之中，有在校学生，有职场新人，有青年教师，有学界业界大佬，也有国内外院士。
+您可以在[统计之都访谈主页](https://cosx.org/categories/cos%E8%AE%BF%E8%B0%88)来浏览这些文章。
 
-[COS访谈](https://cosx.org/categories/cos%E8%AE%BF%E8%B0%88)
+以下是汇总列表：
 
 - [COS访谈第38期：黄建华老师](https://cosx.org/2020/06/interview-of-huangjianhua/)
 - [COS访谈第37期：俞声老师——践行医学信息学的统计人](https://cosx.org/2020/05/interview-of-yusheng/)
@@ -66,4 +72,3 @@ COS访谈是由统计之都发起，由志愿者共同组织的访谈活动。�
 - [COS访谈第3期：易丹辉教授](https://cosx.org/2013/07/interview-of-yidanhui/)
 - [COS访谈第2期：约翰·霍普金斯大学Jeff Leek](https://cosx.org/2013/06/interviewof-jeff-leek/)
 - [COS访谈第1期：吕晓玲](https://cosx.org/2013/03/interview-of-xiaolinglu/)
-- []()
