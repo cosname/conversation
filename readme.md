@@ -14,15 +14,15 @@ COS访谈是由统计之都发起，由志愿者共同组织的访谈活动。�
 
 ## 待翻译列表，欢迎参与
 
-下面是统计之都准备组织翻译的采访稿。欢迎您的共同参与！
+下面是统计之都准备组织翻译的采访稿。欢迎您一起来参与！
 
-- [Donald Bruce Rubin](./pdf/Rubin.pdf)，状态：翻译初稿完成，校对中……
-- [Bradley Efron](./pdf/Efron.pdf)
-- [John Tukey](./pdf/JohnTukey.pdf)
-- [D R COX](./pdf/D-R-Cox.pdf)
-- [George Box](./pdf/George-Box.pdf)
+- [Donald Bruce Rubin](./pdf/Rubin.pdf)，状态：翻译初稿完成，校对中
+- [Bradley Efron](./pdf/Efron.pdf)，[Mathpix Markdown版](https://snip.mathpix.com/COStudy/notes/efron)，状态：准备中
+- [John Tukey](./pdf/JohnTukey.pdf)，[Mathpix Markdown版](https://snip.mathpix.com/COStudy/notes/john-w-tukey)，状态：准备中
+- [D R COX](./pdf/D-R-Cox.pdf)，[Mathpix Markdown版](https://snip.mathpix.com/COStudy/notes/d-r-cox)，状态：准备中
+- [George Box](./pdf/George-Box.pdf)，[Mathpix Markdown版](https://snip.mathpix.com/COStudy/notes/george-box)，状态：准备中
 
-翻译和校对相关流程和细节，可在这里[查看指南](guide.md)。
+翻译和校对的相关流程和细节，可在这里[查看指南](guide.md)。
 ## 历史访谈文章
 
 在过去8年，统计之都共组织采访或者翻译外文访谈共40多期，绝大多数都进行了编号。
