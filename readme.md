@@ -16,11 +16,11 @@ COS访谈是由统计之都发起，由志愿者共同组织的访谈活动。�
 
 下面是统计之都准备组织翻译的采访稿。欢迎您一起来参与！
 
-- [Donald Rubin](./pdf/Rubin.pdf)，[Markdown版](2021-12-30-D-B-Rubin.md)，状态：翻译初稿完成，校对中
-- [Bradley Efron](./pdf/Efron.pdf)，[Markdown版](./translate/Efron.md)，状态：准备中
-- [John Tukey](./pdf/JohnTukey.pdf)，[Markdown版](./translate/Tukey.md)，状态：准备中
-- [George Box](./pdf/George-Box.pdf)，[Markdown版](./translate/George-Box.md)，状态：准备中
-- [D R COX](./pdf/D-R-Cox.pdf)，[Markdown版](./translate/D-R-Cox.md)，状态：准备中
+- [Donald Rubin](./pdf/Rubin.pdf)，[Markdown版](./translate/D-B-Rubin.md)。状态：完成。[中译定稿版](./done/D-B-Rubin-CN.md)。
+- [Bradley Efron](./pdf/Efron.pdf)，[Markdown版](./translate/Efron.md)。状态：准备中
+- [John Tukey](./pdf/JohnTukey.pdf)，[Markdown版](./translate/Tukey.md)。状态：准备中
+- [George Box](./pdf/George-Box.pdf)，[Markdown版](./translate/George-Box.md)。状态：准备中
+- [D R COX](./pdf/D-R-Cox.pdf)，[Markdown版](./translate/D-R-Cox.md)。状态：准备中
 
 
 翻译和校对的相关流程和细节，可在这里[查看指南](guide.md)。
