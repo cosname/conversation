@@ -31,6 +31,8 @@ COS访谈是由统计之都发起，由志愿者共同组织的访谈活动。�
 您可以在[统计之都访谈主页](https://cosx.org/categories/cos%E8%AE%BF%E8%B0%88)来浏览这些文章。
 
 以下是汇总列表：
+
+- [COS访谈第41期：统计大师Donald B. Rubin](https://cosx.org/2021/11/interview-of-rubin/)
 - [COS访谈第40期：Breiman](https://cosx.org/2016/12/a-conversaton-with-leo-breiman/)
 - [COS访谈第39期：吴建福教授](https://cosx.org/2018/04/interview-of-jeff-wu/)
 - [COS访谈第38期：黄建华老师](https://cosx.org/2020/06/interview-of-huangjianhua/)
