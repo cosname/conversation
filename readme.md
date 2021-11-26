@@ -1,7 +1,13 @@
-# COS访谈
+# 统计之都访谈（COS访谈）
 
-COS访谈是由统计之都发起，由志愿者共同组织的访谈活动。访谈对象主要包括统计学与数据科学相关科教人员、青年学子和产业实践者。无论扬名四海，还是未出茅庐，他们都在努力用数据科学之火点亮千行百业之光。
+统计之都访谈（COS访谈）是由统计之都发起，由志愿者共同组织的访谈活动。访谈对象主要包括统计学与数据科学相关科教人员、青年学子和产业实践者。无论扬名四海，还是未出茅庐，他们都在努力用数据科学之火点亮千行百业之光。统计之都访谈的目标通过分享真实的思想、理念、经验，来启迪思考，促进发展和创新。
 
+项目官方地址在Gitee和Github上：
+
+- Gitee：[https://gitee.com/costudy/conversation](https://gitee.com/costudy/conversation)
+- Github：[https://github.com/cosname/conversation](https://github.com/cosname/conversation)
+
+您可以通过项目页面或者添加微信个人号（ID：COStudy）来共同参与统计之都访谈的相关活动。
 
 ## 采访计划表
 
