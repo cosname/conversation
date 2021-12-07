@@ -11,27 +11,27 @@ Luisa T. Fernholz and Stephan Morgenthaler
 
 John Wilder Tukey, Donner Professor of Science Emeritus at Princeton University, was born in New Bedford, Massachusetts, on June 16,1915 . After earning bachelor's and master's degrees in chemistry at Brown University in 1936 and 1937 , respectively, he started his career at Princeton University with a Ph.D. in mathematics in 1939 followed by an immediate appointment as Henry B. Fine Instructor in Mathematics. A decade later, at age 35 , he was advanced to a full professorship. He directed the Statistical Research Group at Princeton University from its founding in 1956 ; when the Department of Statistics was formed in 1965 , he was named its first chairman and held that post until 1970 . He was appointed to the Donner Chair in 1976 and remained at Princeton until reaching emeritus status in 1985. At the same time, he was a Member of Technical Staff at AT\T Bell Laboratories since 1945, advancing to Assistant Director of Research, Communications Principles, in 1958 and, in 1961 , to Associate Executive Director, Research Information Sciences, a position he held until retirement in 1985 .
 
-约翰·怀尔德·图基（John Wilder Tukey），普林斯顿大学Donner科学荣誉退休教授，1915年6月16日出生于马萨诸塞州的新贝德福德。在获得学士和硕士学位的化学在布朗大学于1936年和1937年分别举行，他的职业生涯在普林斯顿大学与博士学位在数学于1939年紧接着被任命为亨利B.细教师数学。十年后，35岁的他，升为正教授。他领导的统计研究小组在普林斯顿大学成立于1956年，当统计系成立于1965年，他被任命为首任主席，并担任此职务至1970年。他被任命为Donner主席于1976年，并保持在普林斯顿，直到获得名誉地位于1985年.同时，自1945年起他还是AT&T Bell实验室的技术成员，1958年晋升为通信原理研究助理主任，1961年晋升为研究信息科学副执行主任。
+约翰·怀尔德·图基（John Wilder Tukey）是普林斯顿大学Donner荣誉科学教授。他于1915年6月16日出生于马萨诸塞州的新贝德福德。在1936年和1937年分别获得布朗大学化学学士和硕士学位之后，他于1939年以数学博士身份在普林斯顿大学开始了他的职业生涯，紧接着，他就被任命为亨利B.费恩数学指导。十年后，他在35岁时升为正教授。他自1956年成立伊始就领导了普林斯顿大学统计研究小组。当1965年统计系成立时，他被任命为首任系主任，并到1970年为止一直担任此职务。他于1976年被任命为Donner主席【译者注：Donner chair的意思不太确定】，并在1985年获得荣誉称号前一直待在普林斯顿。此外，自1945年起他还担任贝尔实验室的技术成员，1958年晋升为通信原理助理研究主任，1961年晋升为研究信息科学副执行主任后一直任该职位直到1985年退休。
 
 Throughout World War II he participated in projects assigned to the Princeton Branch of the Frankford Arsenal Fire Control Design Division. This wartime service marked the beginning of his close and continuing association with governmental committees and agencies. Among other activities he was a member of the U.S. Delegation to the Conference on the Discontinuance of Nuclear Weapons Tests in Geneva in 1959, served on the President's Science Advisory Committee from 1960 to 1964 and was a member of President Johnson's Task Force on Environmental Pollution and President Nixon's Task Force on Air Pollution. The long list of awards and honors that Tukey has received includes the S. S. Wilks Medal from the American Statistical Association (ASA) (1965), the National Medal of Science (1973), the Medal of Honor from the IEEE (1982), the Deming Medal from the American Society of Quality Control (1983) and the Educational Testing Service Award (1990). He holds honorary degrees from Case Institute of Technology, the University of Chicago and Brown, Temple, Yale and Waterloo Universities; in June 1998, he was awarded an honorary degree from Princeton University. He has led the way to the fields of exploratory data analysis (EDA) and robust estimation. His contributions to the spectral analysis of time series and other aspects of digital signal processes have been widely used in engineering and science. His collaboration with a fellow mathematician resulted in the discovery of the fast Fourier transform (FFT) algorithm. Author of Exploratory Data Analysis and eight volumes of collected papers, he has contributed to a wide variety of areas and has coauthored several books. He has guided more than 50 graduate students to successful Ph.D.'s and inspired their careers. A detailed list of his students as well as a complete curriculum vitae can be found in The Practice of Data Analysis (1997), edited by D. Brillinger, L. Fernholz, and S. Morgenthaler, Princeton University Press.
 
-在第二次世界大战期间，他参与了弗兰克福德阿森纳消防设计部普林斯顿分部的项目。这次战时服役标志着他开始与政府委员会和机构保持密切和持续的联系。除其他活动外，他是美国出席1959年日内瓦停止核武器试验会议代表团的成员，1960年至1964年在总统科学咨询委员会任职，是约翰逊总统环境污染工作队的成员尼克松总统的空气污染特别工作组。图基获得的一长串奖项和荣誉包括美国统计协会（ASA）的威尔克斯奖章（1965年）、国家科学奖章（1973年）、IEEE荣誉奖章（1982年）、美国戴明奖章质量控制学会（1983年）和教育测试服务奖（1990年）。他拥有凯斯理工学院、芝加哥大学和布朗大学、坦普尔大学、耶鲁大学和滑铁卢大学的荣誉学位；1998年6月，他被普林斯顿大学授予荣誉学位。他领导了探索性数据分析（EDA）和鲁棒估计领域。他对时间序列的频谱分析和数字信号过程的其他方面的贡献已广泛应用于工程和科学领域。他与一位数学家同事的合作导致了快速傅里叶变换（FFT）算法的发现。《探索性数据分析》和八卷论文集的作者，他对广泛的领域做出了贡献，并合著了几本书。他指导了50多名研究生获得成功的博士学位，并激励了他们的职业生涯。他的学生的详细名单以及完整的简历可以在《数据分析实践》（1997）中找到，该杂志由普林斯顿大学出版社的布里林格、费恩霍尔茨和摩根塔勒编辑。
+在第二次世界大战期间，他参与了弗兰克福德阿森纳消防设计部普林斯顿分部的项目。这次战时服役标志着他与政府委员会和机构保持密切和持续联系的开端。除此以外，他也是美国出席1959年日内瓦停止核武器试验会议代表团的成员，于1960年至1964年任职于总统科学咨询委员会，并且是约翰逊总统的环境污染工作组和尼克松总统的空气污染工作组成员。图基获得的一长串奖项和荣誉包括美国统计协会（ASA）的威尔克斯奖章（1965年）、国家科学奖章（1973年）、IEEE荣誉奖章（1982年）、美国戴明奖章质量控制学会（1983年）和教育测试服务奖（1990年）。他拥有凯斯理工学院、芝加哥大学和布朗大学、坦普尔大学、耶鲁大学和滑铁卢大学的荣誉学位。1998年6月，他被普林斯顿大学授予荣誉学位。他引领了通向探索性数据分析（EDA）和鲁棒估计领域【译者注：专业名词，不确定译名】的研究。他对时间序列的频谱分析和数字信号过程的其他方面的贡献已广泛应用于工程和科学领域。他与一位数学家同事合作发现了快速傅里叶变换（FFT）算法。作为《探索性数据分析》和八卷论文集的作者，他对广泛的领域做出了贡献，并合著了好几本书。超过50名研究生在他的指导下成功获得了博士学位，并且职业生涯也得到了他的激励。他的学生的详细名单以及完整的简历可以在《数据分析实践》（1997）中找到，该杂志由普林斯顿大学出版社的布里林格、费恩霍尔茨和摩根塔勒编辑。
 
 John W. Tukey married Elizabeth Louise Rapp in 1950. Before their marriage, she was Personnel Director of the Educational Testing Service in Princeton, New Jersey.
 
-约翰·W·图基于1950年与伊丽莎白·路易斯·拉普（Elizabeth Louise Rapp）结婚。在他们结婚之前，她是新泽西州普林斯顿市教育考试服务处的人事主管。
+约翰·W·图基于1950年与伊丽莎白·路易斯·拉普（Elizabeth Louise Rapp）结婚。在他们结婚之前，伊丽莎白是新泽西州普林斯顿市教育考试服务处的人事主管。
 
 On June 25, 1997, Luisa Fernholz and Stephan Morgenthaler talked with John and Elizabeth Tukey at their home in Princeton, New Jersey. The conversation ranged over various aspects of John's remarkable career and unique personality. A separate interview has been published in The Practice of Data Analysis (Brillinger, Fernholz and Morgenthaler, 1997). It was recorded on June 20, 1995, at the two-day symposium held at Princeton University to celebrate John's 80 th birthday. Also shown at this symposium was a videotape produced by BellCore and the American Statistical Association in 1993 , in which John and Elizabeth Tukey, in conversation with Ram Gnanadesikan and David Hoaglin, discussed a number of topics ranging from statistics to more general issues, including many personal insights. The present interview is intended to complement the two previous ones.
 
-1997年6月25日，路易莎·费恩霍尔茨（Luisa Fernholz）和斯蒂芬·摩根塔勒（Stephan Morgenthaler）在新泽西州普林斯顿的家中与约翰和伊丽莎白·图基（Elizabeth Tukey）交谈。谈话涉及约翰非凡的职业生涯和独特个性的各个方面。另一个访谈发表在《数据分析实践》（Brillinger、Fernholz和Morgenthaler，1997）中。这是1995年6月20日在普林斯顿大学举行的庆祝约翰80岁生日的两天研讨会上录制的。这次研讨会上还播放了BellCore和美国统计协会于1993年制作的一盘录像带，其中John和Elizabeth Tukey在与Ram Gnanadesikan和David Hoaglin的对话中讨论了从统计到更一般性问题的许多话题，包括许多个人见解。本次访谈旨在补充前两次访谈。
+1997年6月25日，路易莎·费恩霍尔茨（Luisa Fernholz）和斯蒂芬·摩根塔勒（Stephan Morgenthaler）在约翰和伊丽莎白·图基（Elizabeth Tukey）新泽西州普林斯顿的家中在他们进行了一次访谈。谈话涉及约翰非凡的职业生涯和独特个性的各个方面。另外一个访谈发表在《数据分析实践》（Brillinger、Fernholz和Morgenthaler，1997）中。这是1995年6月20日在普林斯顿大学举行的庆祝约翰80岁生日的两日研讨会上录制的。那次研讨会上还播放了BellCore和美国统计协会于1993年制作的一盘录像带，其中约翰和伊丽莎白·图基在与Ram Gnanadesikan和David Hoaglin的对话中探讨了从统计到更一般性问题的许多话题，包含了许多个人见解。本次访谈旨在对前两次访谈做一个补充。
 
 Elizabeth Tukey has been a driving force in John's life and her comments and anecdotes add a personal touch, complementing his statements. She had read and agreed to the publication of the present conversation. Unfortunately, Elizabeth passed away on January 6,1998 . This article is also a tribute to her memory.
 
-伊丽莎白·图基一直是约翰生活的驱动力，她的评论和轶事增添了个人色彩，补充了他的陈述。她已经阅读并同意发表这次谈话。不幸的是，伊丽莎白于1998年1月6日去世。这篇文章也是对她的纪念。
+伊丽莎白·图基一直是约翰生活的驱动力，她的评论和轶事补充了他的陈述，并增添了某种个人色彩。她已经阅读并同意发表这次谈话。不幸的是，伊丽莎白于1998年1月6日去世。这篇文章也是对她的纪念。
 
 In the following conversation, the questions, denoted by Q, were asked by Luisa T. Fernholz and Stephan Morgenthaler. Answers by John W. Tukey are denoted by J and answers by Elizabeth Tukey are denoted by E.
 
-在接下来的对话中，路易莎·费恩霍尔茨和斯蒂芬·摩根塔勒提出了以“问：”表示的问题。约翰·W·图基的答案用“约翰：”表示，伊丽莎白·图基的答案用“伊丽莎白：”表示。
+在接下来的对话中，路易莎·费恩霍尔茨和斯蒂芬·摩根塔勒提出的问题以“问：”表示。约翰·W·图基的答案用“约翰：”表示，伊丽莎白·图基的答案用“伊丽莎白：”表示。
 
 ## STATISTICS
 
@@ -39,7 +39,7 @@ In the following conversation, the questions, denoted by Q, were asked by Luisa 
 
 问：Let's talk about your view of statistics as opposed to the prevailing view when you were young. My impression is that the mainstream view was really this Fisherian one, where you had a probability model with parameters that you estimated and tested and so on. And you came along and proposed things that were looking much more closely at the data and letting the data guide what you do.
 
-问：让我们谈谈你对统计的看法，与你年轻时的主流看法相反。我的印象是，主流观点实际上是菲舍尔观点，你有一个概率模型，其中包含你估计和测试的参数，等等。你提出了一些建议，这些建议更仔细地观察数据，让数据指导你的工作。
+问：让我们谈谈你对统计的看法，它们与你年轻时的主流看法相反。我的印象是，主流观点实际上是菲舍尔观点，你有个概率模型，其中包含你估计和测试的参数，等等。而你提出了一些东西，建议更仔细地观察数据，并让数据指导你的工作。
 
 ![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-02.jpg?height=587&width=404&top_left_y=460&top_left_x=694)
 
@@ -47,9 +47,9 @@ FIG. 1. John Tukey, date and place unknown.
 
 图1。约翰·图基，日期和地点不详。
 
-约翰：I'm not sure that that's what happened early on. My first quasistatistical paper is probabilistic. It's the one about the fractional part of a statistical variable. I had read a fair amount of statistics because I read a fair amount of many of the things that were in the math library at Brown. I read them rather than studied them. Let me get a bibliography [gets a bibliography from the bookcase]. The first statistical paper is Scheffé and Tukey (1944) which is a very short note on sample sizes for population tolerance limits. Now, at that point I had my educational experience working on war problems, a large part of the time in double harness with Charlie Winsor. So, it was natural to regard statistics as something that had the purpose of being used on data-maybe not directly, but at most at some remove. Now, I can't believe that other people who had had practical experience failed to have this view, but they certainly-I would say-failed to advertise it. I guess we are to take as our initial period the last part of the $1940 \mathrm{~s}$, from 1944 on. I don't really know how people thought generally. I know how Charlie Winsor thought; it was easy to discover that. (I also had some understanding of how Sam Wilks thought, which was quite different.) Charlie had a very brief engineering background and a much longer background working with Raymond Pearl in what might now be called biometrics-biostatistics, but not as highly formalized. So, for Charlie dealing with data was the natural thing.
+约翰：I'm not sure that that's what happened early on. My first quasistatistical paper is probabilistic. It's the one about the fractional part of a statistical variable. I had read a fair amount of statistics because I read a fair amount of many of the things that were in the math library at Brown. I read them rather than studied them. Let me get a bibliography [gets a bibliography from the bookcase]. The first statistical paper is Scheffé and Tukey (1944) which is a very short note on sample sizes for population tolerance limits. Now, at that point I had my educational experience working on war problems, a large part of the time in double harness with Charlie Winsor. So, it was natural to regard statistics as something that had the purpose of being used on data-maybe not directly, but at most at some remove. Now, I can't believe that other people who had had practical experience failed to have this view, but they certainly-I would say-failed to advertise it. I guess we are to take as our initial period the last part of the 1940s, from 1944 on. I don't really know how people thought generally. I know how Charlie Winsor thought; it was easy to discover that. (I also had some understanding of how Sam Wilks thought, which was quite different.) Charlie had a very brief engineering background and a much longer background working with Raymond Pearl in what might now be called biometrics-biostatistics, but not as highly formalized. So, for Charlie dealing with data was the natural thing.
 
-约翰：我不确定早些时候发生了什么。我的第一篇准统计论文是概率论。它是关于统计变量的分数部分的。我读了大量的统计学，因为我读了布朗大学数学图书馆里的很多东西。我读它们而不是研究它们。让我拿一份参考书目[从书架上拿一份参考书目]。第一篇统计论文是Schefféand Tukey（1944年），这是一篇关于人口容忍限度样本量的简短说明。现在，在那一点上，我有了研究战争问题的教育经验，大部分时间是和查理·温索一起工作的。因此，将统计学视为用于数据的东西是很自然的，也许不是直接的，但最多是在某种程度上。现在，我不能相信其他有实际经验的人没有这种观点，但他们肯定——我想说他们没有宣传这种观点。我想我们应该把1940美元的最后一部分作为我们的初始时期，从1944年开始。我真的不知道人们一般是怎么想的。我知道查理·温瑟是怎么想的；很容易发现这一点。（我对山姆·威尔克斯（Sam Wilks）的想法也有一些了解，这是完全不同的。）查理有着非常简短的工程背景，以及与雷蒙德·珀尔（Raymond Pearl）合作的更长的背景，现在可以称之为生物统计，但没有那么正式。因此，对于查理来说，处理数据是很自然的事情。
+约翰：我不确定早些时候发生了什么。我的第一篇准统计论文是概率论。它是关于统计变量的分数部分的。由于我曾在布朗大学数学图书馆做了大量阅读，我也阅读了很多统计学方面的文献。我只是阅读并不研究它们。让我拿一份参考书目[从书架上拿了一份参考书目]。我的第一篇统计学论文是Scheffé and Tukey（1944年）。这是一篇关于总体容忍限【译者注：专业名词population tolerance limits】的简短说明。那时侯，我已经完成了教育，在解决战争中遇到的问题，其中大部分时间是和查理·温索（Charlie Winsor）在一起工作。因此，将统计学视为用于数据的东西是很自然的，也许不是直接的，但也最多是间接的【译者注：at some remove不确定译法】。现在，虽然我不能相信其他有实际经验的人不持有这种观点，但我想说，他们肯定没有成功地宣传这种观点。我猜我们应该把二十世纪40年代后期作为我们的初始时期，从1944年开始。我真的不知道人们一般是怎么想的。我知道查理·温瑟是怎么想的，这很容易发现。（我对山姆·威尔克斯（Sam Wilks）的想法也有一些了解，那是完全不同的。）查理有着非常简短的工程背景，以及与雷蒙德·珀尔（Raymond Pearl）合作的更长的背景。他们合作的领域现在可以称之为生物统计，但没有那么正式。因此，对于查理来说，处理数据是很自然的事情。
 
 ![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=583&width=509&top_left_y=85&top_left_x=96)
 
@@ -61,11 +61,11 @@ FIG. $2 .$ John and Elizabeth Tukey on the day of their wedding.
 
 问：Without thinking of population parameters at all?
 
-问：根本不考虑人口参数？
+问：完全不考虑样本总体的参数？
 
 约翰：No. No, no no! I'm trying to cast my mind back. No, because the counterexample in a sense is the 1947 paper by Hastings, Mosteller, Tukey and Winsor "Low moments for small samples: a comparative study of order statistics," which was a low-power version [of computations for inference purposes], but not confined to the Gaussian. We also had the rectangular and one reasonably stretched-tail distribution. Now, you don't get involved in that if you're abhorrent of population parameters. And Charlie was involved in the working of that. That's not just a decorative appearance on the list of authors.
 
-约翰：不，不，不！我正试着回想过去。不，因为从某种意义上说，反例是黑斯廷斯、莫斯特勒、图基和温索在1947年发表的论文《小样本的低阶矩：顺序统计的比较研究》，这是一个低功耗版本[用于推理的计算]，但不限于高斯分布。我们也有矩形和一个合理拉伸的尾巴分布。现在，如果你厌恶人口参数，你就不会卷入其中。查理也参与了这项工作。这不仅仅是作者名单上的装饰性外表。
+约翰：不。不，不，不！我正试着回想过去。不，因为从某种意义上说，反例是黑斯廷斯、莫斯特勒、图基和温索在1947年发表的论文《小样本的低阶矩：顺序统计的比较研究》【译者注：专业名词需要确认】，这是一个低阶【译者注：low power译为低阶是否正确？】版本[用于推理的计算]【译者注：inference purpose不确定】，但不限于高斯分布【译者注：需审核】。我们也有矩形和一个合理尾部的分布。如果你讨厌样本总体参数，你就不会参与其中。查理·温索也参与了这项工作。他的名字不仅仅是作者列表上的装饰。
 
 ![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=531&width=508&top_left_y=85&top_left_x=642)
 
@@ -78,13 +78,13 @@ FiG. 3. John W. Tukey receiving the National Medal of Science from President Nix
 
 问：你会说你阅读了大部分发表的文献吗？当它出来的时候，你读了吗？
 
-约翰：don't know. What was maybe more important was that I read Series $B$, then called the Supplement to the Journal of the Royal Statistical Society - read, again, rather than studied-from volume 1 on. And I read through Biometrika, so that I had a reasonably good feel for what people were doing or had been doing-for 40 years in the case of Biometrika.
+约翰：I don't know. What was maybe more important was that I read Series B, then called the Supplement to the Journal of the Royal Statistical Society - read, again, rather than studied-from volume 1 on. And I read through Biometrika, so that I had a reasonably good feel for what people were doing or had been doing-for 40 years in the case of Biometrika.
 
-约翰：不知道。也许更重要的是，我读了JRSS-B（《皇家统计学会杂志》）——反复阅读，而不是从第一卷开始学习。我通读了Biometrika，所以我对40年来人们在做什么或已经做了什么有了一个相当好的感觉。
+约翰：我不知道。也许更重要的是，我读了B系列，那时被称为《皇家统计学会杂志》的附录，我读了，反复地读，而不是从第一卷开始学习。我通读了Biometrika，所以我对40年来人们在做什么或已经做了什么有了一个相当好的感觉。
 
 问：Interestingly enough, those are two British publications. So, are you rather a statistician in the British sense of the word? Was it the Americans who brought in the more theoretical stuff?
 
-问：有趣的是，这是两份英国出版物。那么，你是英国意义上的统计学家吗？是美国人带来了更具理论性的东西吗？
+问：有趣的是，这两份都是英国出版物。那么，你是英国意义上的统计学家吗【译者注：不确定】？是美国人带来了更具理论性的东西吗？
 
 约翰：No, not necessarily. John Wishart, for example, was all mathematical as opposed to data-oriented. I suspect I never worried as much as some people would have thought I should about "what people were doing.'
 
