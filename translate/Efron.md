@@ -115,7 +115,6 @@ Efron：另一种说法是我不再有想法了。不知何故，这种情况在
 Tibshirani: One thing I found surprising is that we tend to find statistics relatively easy, but other scientists find it hard. A good scientist colleague of mine says it would be a lot harder for me to teach him statistics than it would be for him to teach me biology. When I look at biology it looks very daunting; it's a huge mass of facts that look mysterious. But statistics is a way of thinking that's very hard for other people to develop if they haven't been trained early on in the field. So, it's good news for us that we have something that's unique.
 
 Tibshirani：我发现一件令人惊讶的事情是，我们倾向于发现统计数据相对容易，但其他科学家发现很难。我的一位优秀的科学家同事说，对我来说，教他统计学要比教我生物学困难得多。当我看生物学时，它看起来非常令人畏惧；这是一大堆看起来很神秘的事实。但是统计是一种思维方式，如果其他人没有在该领域早期接受过培训，他们很难发展这种思维方式。所以，这对我们来说是个好消息，我们（统计学家）有一些独特的东西。
-
 Morris: Do you think it's hard or do you think we've made it hard?
 
 Morris：你认为这很难还是我们让它变得很难？
@@ -126,7 +125,7 @@ Tibshirani：这是有道理的，但我认为重要的简单概念并不像它�
 
 Morris: Like what...?
 
-Morris：像什么。。。？
+Morris：例如。。。？
 
 Tibshirani: A permutation test to infer a $p$-value from a set of data
 
@@ -134,11 +133,11 @@ Tibshirani：从一组数据推断p值的置换测试
 
 Morris: I thought you might say $p$-value right off the bat. See, I think $p$-values are hard. I mean they're easy to know as numbers. But they're very confusing, in a sense that people misapply them. $p$-value is, of course, the statement about the data, given the null hypothesis, but people think it's got something to do say about the probability of the null hypothesis given the data.
 
-Morris：我想你可能会马上说$p$值。看，我认为$p$值很难。我的意思是它们很容易被称为数字。但从某种意义上说，它们非常令人困惑，因为人们误用了它们。当然，p值是关于数据的陈述，给出了无效假设，但人们认为它可以说明给定数据的无效假设的概率。
+Morris：我想你可能会马上说$p$值。看，我认为$p$值很难。如果只是把$p$值当作数字的话是很好理解的。但从某种意义上说，它们非常令人困惑，因为人们误用了它们。当然，p值是关于数据的陈述，给出了无效假设，但人们认为它可以说明给定数据的无效假设的概率。
 
 Tibshirani: Another example is confounding. A lot of very good scientists design bad experiments in which important effects are confounded with experimental biases. Confounding is something that is fundamental to our subject, we understand it and know how to address it. 
 
-Tibshirani：另一个例子是混淆。许多非常优秀的科学家设计了糟糕的实验，在这些实验中，重要的影响与实验偏见混淆在一起。混淆是我们的主题的基础，我们理解它并知道如何解决它。
+Tibshirani：另一个例子是混淆。许多非常优秀的科学家设计了糟糕的实验，在这些实验中，重要的影响与实验偏差混淆在一起。混淆是我们的主题的基础，我们理解它并知道如何解决它。
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-04.jpg?height=416&width=323&top_left_y=150&top_left_x=189)
 
@@ -148,19 +147,19 @@ FIG. 3. High school graduation photo, 1956.
 
 Efron: I think that many of my scientific colleagues are pretty good at probability; they naturally can do probability calculations involving elaborate models, but they're very bad at reasoning backwards from data to what the probability model might have been. I remember when going into statistics that first year I thought "this will be pretty easy, I've dealt with math and that's supposed to be hard." But statistics was much harder for me at the beginning than any other field. It took years before I felt really comfortable. It's hard to figure out why people do what we do, why use $p$-values, why stuff like that.
 
-Efron：我认为我的许多科学同事都非常擅长概率论；他们自然可以进行涉及复杂模型的概率计算，但他们非常不擅长从数据到概率模型可能是什么的逆向推理。我记得第一年进入统计学专业时，我想“这很容易，我学过数学，这应该很难。”但统计学在一开始对我来说比任何其他领域都难。过了好几年我才感觉到真正的舒适。很难理解为什么人们会做我们做的事情，为什么使用p值，为什么会这样。
+Efron：我认为我的许多科研同事都非常擅长概率论；他们可以轻松的进行涉及复杂模型的概率计算，但他们非常不擅长从数据推导到概率模型可能是什么的逆向推理。我记得第一年进入统计学专业时，我想“这很容易，我已经学过很难的数学了。”但统计学在一开始对我来说比任何其他领域都难。过了好几年我才感觉到真正的习惯。很难理解为什么人们会做我们做的事情，为什么使用p值，为什么人们喜欢这样（这里翻译感觉有点问题）。
 
 You have to do some applications and get some feeling for it. Statistics is the only place where statistical inference is done. We really perform a service. It's backwards thinking. You think from the specific case, back to the general case rather than vice versa. According to the philosophers, that may even be impossible. But we do it everyday.
 
-你必须做一些应用程序，并对它有一些感觉。统计是唯一进行统计推断的地方。我们真的提供了服务。这是逆向思维。你从具体情况出发，回到一般情况，而不是相反。根据哲学家的说法，这甚至可能是不可能的。但我们每天都这么做。
+你必须做一些应用程序，并对它有一些感觉。统计是唯一进行统计推断的地方(这里感觉有问题）。我们真的提供了服务。这是逆向思维。你从具体情况出发思考，回到一般情况，而不是相反。根据哲学家的说法，这甚至可能是不可能的。但我们每天都这么做。
 
 Tibshirani: I arrived at Stanford in 1981, a couple years after you'd invented the bootstrap. Tell us about the thoughts that led up to the bootstrap and how it happened.
 
-Tibshirani：我在1981年来到斯坦福大学，就在你发明bootstrap的几年之后。告诉我们引导引导引导的想法以及它是如何发生的。
+Tibshirani：我在1981年来到斯坦福大学，就在你发明bootstrap的几年之后。请告诉我们它的想法以及它是如何发生的。
 
 Efron: The bootstrap illustrates the value of having good colleagues. Rupert Miller had written a paper called "A Trustworthy Jackknife," which was a good attempt to theoretically justify the jackknife. Then Rupert and I were both on sabbatical the same year at Imperial College in 1972, with David Cox, and Rupert gave a talk about the jackknife. David came up to me afterwards and asked: "Do you really think there's anything to this?"'What I realized many years later was that he was giving me a strong hint to work on this. I was asked to give the Rietz lecture in 1977 and I wrote down one line: What is the jackknife an approximation to? As soon as I wrote that line, I essentially was onto the answer. I started out with something really quite elaborate, I call it the combination distribution because I was taking combinations instead of permutations, and then I started to realize I could get rid of some of the machinery, and then I got rid of more of the machinery, and pretty soon there was no machinery. This seemed pretty dull, but I gave the talk and everyone loved it. Since then, I never thought that I was a good judge of what I was working on.
 
-Efron：bootstrap说明了拥有好同事的价值。鲁伯特·米勒（Rupert Miller）写了一篇题为“值得信赖的折刀”的论文，这是一次很好的尝试，从理论上证明折刀的合理性。1972年，我和鲁珀特同年都在帝国理工学院休假，大卫·考克斯和鲁珀特一起做了一个关于折刀的演讲。大卫后来走到我跟前，问我：“你真的认为这有什么关系吗？”“多年后我意识到，他给了我一个强烈的暗示，让我去做这件事。1977年，我被要求做里兹讲座，我写下了一句话：折刀近似于什么？我一写那句话，基本上就知道答案了。我从一个非常复杂的东西开始，我称之为组合分布，因为我用组合代替排列，然后我开始意识到我可以摆脱一些机械，然后我摆脱了更多的机械，很快就没有机械了。这看起来很无聊，但我做了演讲，每个人都喜欢。从那时起，我从未想过我是一个很好的判断我在做什么。
+Efron：bootstrap说明了拥有好同事的作用。鲁伯特·米勒（Rupert Miller）写了一篇题为“值得信赖的折刀(jackknife)”的论文，这是一次很好的尝试，从理论上证明折刀的合理性。1972年，我和鲁珀特同年都在帝国理工学院休假，大卫·考克斯和鲁珀特一起做了一个关于折刀的演讲。大卫后来走到我跟前，问我：“你真的认为这就是关于jackknife的全部了吗？”“多年后我意识到，他给了我一个强烈的暗示，让我去做这件事。1977年，我被要求做里兹讲座，我写下了一句话：折刀近似于什么？当我写下那句话的时候，基本上就知道答案了。我从一个非常复杂的东西开始，我称之为组合分布，因为我用组合代替排列，然后我开始意识到我可以摆脱一些机械(机械思维，我这么认为)，然后我摆脱了更多的机械(思维)，很快就没有机械(思维)了。这看起来很无聊，但我做了演讲并且大家都喜欢。从那以后，我再也没有认为我能客观地判断自己的成果。
 
 Tibshirani: It was sent to the Annals. What kind of reception did it get?
 
@@ -169,7 +168,6 @@ Tibshirani：它被载入Annals。受到了什么样的接待？
 Efron: Rupert Miller was the editor of the Annals at the time. I submitted what was the Rietz lecture, and it got turned down. The associate editor, who will remain nameless, said it that didn't have any theorems in it. So, I put some theorems in at the end and put a lot of pressure on Rupert, and he finally published it. Earlier I had been editor of $J A S A$, and this reminded me of a rule I had. When a paper made people angry, you should look at it more closely. Anger-arousing papers divide into a bimodal class. There are the worst papers you ever saw, that was a big class, and a few good ones.
 
 Efron：鲁珀特·米勒当时是Annals的编辑。我提交了Rietz讲座，但被拒绝了。这位不愿透露姓名的副主编说，这本书中没有任何定理。所以，我在最后加入了一些定理，给鲁伯特施加了很大的压力，他最终发表了这篇文章。早些时候，我是$JASA$的编辑，这让我想起了我的一条规则。当一篇文章让人生气时，你应该更仔细地看它。引起愤怒的论文分为两类。这里有你见过的最差的论文，那是一个大班，还有一些好的。
-
 And since then I've written a lot of papers. If you think that every paper I submit gets accepted right away, you're wrong. I've had many papers turned down. I usually work really hard on revisions. I try hard to rewrite and take referees seriously, but I'm never discouraged by referees not liking something because sometimes it's because you may have a new idea.
 
 从那以后我写了很多论文。如果你认为我提交的每一篇论文都能马上被接受，那你就错了。我有许多文件被拒绝了。我通常非常努力地修改。我努力重写并认真对待裁判，但我从不因裁判不喜欢某样东西而气馁，因为有时候这是因为你可能有了新的想法。
