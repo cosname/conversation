@@ -4,14 +4,13 @@
 
 Luisa T. Fernholz and Stephan Morgenthaler
 
-##  abstract
+## abstract
 
-##  摘要
-
+## 摘要
 
 John Wilder Tukey, Donner Professor of Science Emeritus at Princeton University, was born in New Bedford, Massachusetts, on June 16,1915 . After earning bachelor's and master's degrees in chemistry at Brown University in 1936 and 1937 , respectively, he started his career at Princeton University with a Ph.D. in mathematics in 1939 followed by an immediate appointment as Henry B. Fine Instructor in Mathematics. A decade later, at age 35 , he was advanced to a full professorship. He directed the Statistical Research Group at Princeton University from its founding in 1956 ; when the Department of Statistics was formed in 1965 , he was named its first chairman and held that post until 1970 . He was appointed to the Donner Chair in 1976 and remained at Princeton until reaching emeritus status in 1985. At the same time, he was a Member of Technical Staff at AT\T Bell Laboratories since 1945, advancing to Assistant Director of Research, Communications Principles, in 1958 and, in 1961 , to Associate Executive Director, Research Information Sciences, a position he held until retirement in 1985 .
 
-约翰·怀尔德·图基（John Wilder Tukey）是普林斯顿大学Donner荣誉科学教授。他于1915年6月16日出生于马萨诸塞州的新贝德福德，1936年和1937年分别获得布朗大学化学学士和硕士学位。1939年，他以数学博士身份在普林斯顿大学开始了职业生涯。没过多久，他就被任命为亨利B.费恩数学讲师。十年之后，35岁的他升为正教授。自1956年普林斯顿大学统计研究小组成立以来，他一直担任该小组的负责人。1965年统计系成立时，他被任命为首任系主任直到1970年。他于1976年被任命为Donner主席【译者注：Donner chair的意思不太确定】，并一直待在普林斯顿，直到1985年获得荣誉称号【译者注：不知道获得什么荣誉称号】。此外，自1945年起他还是贝尔实验室的技术成员，1958年晋升为通信原理助理研究主任，1961年晋升为研究信息科学副执行主任，之后一直任该职位，直到1985年退休。
+约翰·怀尔德·图基（John Wilder Tukey）是普林斯顿大学Donner荣誉科学教授。他于1915年6月16日出生于马萨诸塞州的新贝德福德，1936年和1937年分别获得布朗大学化学学士和硕士学位。1939年，他以数学博士身份在普林斯顿大学开始了职业生涯。没过多久，他就被任命为亨利B.费恩（Henry B. Fine）数学讲师。十年之后，35岁的他升为正教授。自1956年普林斯顿大学统计研究小组成立以来，他一直担任该小组的负责人。1965年统计系成立时，他被任命为首任系主任直到1970年。他于1976年被任命为Donner主席【译者注：Donner chair的意思不太确定】，并一直待在普林斯顿，直到1985年荣休。此外，自1945年起他还是贝尔实验室的技术成员，1958年晋升为通信原理助理研究主任，1961年晋升为研究信息科学副执行主任，之后一直任该职位，直到1985年退休。
 
 Throughout World War II he participated in projects assigned to the Princeton Branch of the Frankford Arsenal Fire Control Design Division. This wartime service marked the beginning of his close and continuing association with governmental committees and agencies. Among other activities he was a member of the U.S. Delegation to the Conference on the Discontinuance of Nuclear Weapons Tests in Geneva in 1959, served on the President's Science Advisory Committee from 1960 to 1964 and was a member of President Johnson's Task Force on Environmental Pollution and President Nixon's Task Force on Air Pollution. The long list of awards and honors that Tukey has received includes the S. S. Wilks Medal from the American Statistical Association (ASA) (1965), the National Medal of Science (1973), the Medal of Honor from the IEEE (1982), the Deming Medal from the American Society of Quality Control (1983) and the Educational Testing Service Award (1990). He holds honorary degrees from Case Institute of Technology, the University of Chicago and Brown, Temple, Yale and Waterloo Universities; in June 1998, he was awarded an honorary degree from Princeton University. He has led the way to the fields of exploratory data analysis (EDA) and robust estimation. His contributions to the spectral analysis of time series and other aspects of digital signal processes have been widely used in engineering and science. His collaboration with a fellow mathematician resulted in the discovery of the fast Fourier transform (FFT) algorithm. Author of Exploratory Data Analysis and eight volumes of collected papers, he has contributed to a wide variety of areas and has coauthored several books. He has guided more than 50 graduate students to successful Ph.D.'s and inspired their careers. A detailed list of his students as well as a complete curriculum vitae can be found in The Practice of Data Analysis (1997), edited by D. Brillinger, L. Fernholz, and S. Morgenthaler, Princeton University Press.
 
@@ -51,13 +50,11 @@ FIG. 1. John Tukey, date and place unknown.
 
 约翰：我不确定早期发生了什么。我的第一篇准统计论文是概率论。它是关于统计变量的分数部分。我在统计方面有相当大的阅读量，因为我读了布朗大学数学图书馆里很多的书。我只是读并不研究它们。让我拿一份参考书目[从书架上拿了一份参考书目]。我的第一篇统计学论文是Scheffé and Tukey（1944年）。这是一篇关于总体容忍限【译者注：专业名词population tolerance limits】的简短说明。那时侯，我有了研究战争问题的教育经验，其中大部分时间是和查理·温索（Charlie Winsor）在一起工作。因此，将统计学视为用于数据的东西是很自然的，也许不是直接的，但也最多是间接的【译者注：at some remove不确定译法】。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道查理·温瑟是怎么想的，这很容易发现。（我对山姆·威尔克斯（Sam Wilks）的想法也有一些了解，那是完全不同的。）查理有着非常简短的工程背景，以及更长的与雷蒙德·珀尔（Raymond Pearl）合作的背景。他们合作的领域现在可以称之为生物统计，但没有那么正式。因此，对于查理来说，处理数据是很自然的事情。
 
-![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=583&width=509&top_left_y=85&top_left_x=96)
+1. ![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=583&width=509&top_left_y=85&top_left_x=96)
 
 FIG. $2 .$ John and Elizabeth Tukey on the day of their wedding.
 
 图2.约翰和伊丽莎白·图基在他们结婚的那天。
-
-
 
 问：Without thinking of population parameters at all?
 
@@ -72,7 +69,6 @@ FIG. $2 .$ John and Elizabeth Tukey on the day of their wedding.
 FiG. 3. John W. Tukey receiving the National Medal of Science from President Nixon in $1973 .$
 
 图3. 约翰·W·图基于1973年获得尼克松总统颁发的国家科学奖章。
-
 
 问：Would you say that you read most of the literature that was published? As it came out, you read it?
 
@@ -94,8 +90,6 @@ FiG. 3. John W. Tukey receiving the National Medal of Science from President Nix
 
 问：谈到这些更加面向数据的方法，让我感到惊讶的是，为什么非参数方法（我认为也是在那个时候出现的）没有产生更大的影响。人们没有说：“这是我们必须做的事情。”
 
-
-
 ![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=805&width=507&top_left_y=85&top_left_x=96)
 
 Fig. 4. John Tukey, date and place unknown.
@@ -106,14 +100,11 @@ Fig. 4. John Tukey, date and place unknown.
 
 约翰：嗯，就是这样发生了——具体历史我记得不是很清楚，但其中一些事情可能要追溯到第一次世界大战前，主要是社会科学领域的孤立事件。而对于一个即将成为活跃领域的事物有两个重要的要求，时间和地点，以及强度会不同。一是它必须看起来足够数学化，以避免来自数学同事的批评。二是必须有足够的论文问题来维持活跃度【译者注：trade的意思不确定】。就我而言，我想再加上第三点，它应当适时地【译者注：in due course译法不确定】对数据分析产生有用的影响。我想前两种观点有个推论：如果它看起来是一个连贯的思想体系，有共同的原则等等，那么会是个有力的加分项。有一篇费希尔的论文，我临时引用可能不会很准确（费希尔，1929年），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到以后这不一定是对的。我想说在特定的应用中，非参数方法可以很好地保护（传统统计推断方法），以免那些想要往其他方向的人的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是说数据的每个部分并不真正满足高斯分布【译者注：专业词汇需复核】。如果有人能证明非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数方法不太适合对事物及其分支进行细微分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好属性也挺好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样清楚该往哪里走。我并不是说经典回归就很理想很棒，但它通常是一种尝试深入的自然方式。我认为这是阻碍非参数方法的一个因素。我认为另一件事，是事实上你最终会试图为所有可能的输入值提供证明。但是，你对这个世界了解够多的话，你知道你并不真正需要穷尽所有可能的输入值。嗯，我不认为这会困扰人们，但我认为这必须来自于你对事物的感觉。
 
-
 ![](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=466&width=508&top_left_y=85&top_left_x=642)
 
 FiG. $5 .$ John W. Tukey, Princeton University (early years).
 
 图5.约翰·W·图基，普林斯顿大学（早年）。
-
-
 
 问：You could do better by fixing yourself a framework
 
@@ -231,11 +222,9 @@ J : Yes. Although the question of what is correct is not as trivial as one would
 
 ## 贝尔实验室
 
-
 问：When you started working at Bell Labs was your experience somewhat similar to what happens today?
 
 问：当你开始在贝尔实验室工作时，你的经历是否与现今发生的事情有些相似？
-
 
 约翰：When I first went to work for Bell Labs the war was still on. We were winding up what we'd been doing at Princeton and I went to Bell Labs with the specific thought that I was going to be involved with the NIKE program (antiaircraft missile), which was just then sort of being partly tooled up in terms of thinking and so on.
 
@@ -383,7 +372,6 @@ J : Yes. Although the question of what is correct is not as trivial as one would
 
 J : And there were other things going on in parallel that didn't necessarily get written into that. There are two volumes of collected papers on time series and related things.
 
-
 约翰：还有其他一些事情是同时并列进行的，不一定写进去。有两卷关于时间序列和与其相关东西的论文集。
 
 问：The interesting aspect of all this is that you say you did it at Bell Labs and one would think that it's signal processing, but it wasn't really that-it was atmospheric data.
@@ -393,10 +381,10 @@ J : And there were other things going on in parallel that didn't necessarily get
 约翰：No, we just happened to mention atmospheric data. I'm not sure what all it was used for. But, for example, after Mike Healy and Bruce Bogert and I got involved with cepstra (see Bogert, Healy and Tukey, 1963), one of the people there used more-orless cepstra-related things to produce the first machine that would really give a reliable account of the pitch of your voice. And, radar tracking errors is not an area that was devoid of interest for the Laboratories. More recently, there've been people who have been doing underwater geophysics, where spectrum analysis was crucial. Et cetera. The Budenbom data caused our perception of "a quarter, a half, a quarter" and eventually led us to the understanding that a Viennese meteorologist named von Hann had liked to do this. It was not atmospheric data; it was radar performance.
 
 约翰：不是，我们只是碰巧提到了大气数据。我并不知道那都是用来干什么的。但举个例子，在迈克·希利（Mike Healy）、布鲁斯·博格特（Bruce Bogert）和我参与了倒谱研究【译者注：专业名词】（见Bogert, Healy和Tukey，1963年）之后，那里的一个人或多或少用了倒谱相关的东西制作了第一台能真正可靠地描述你声音音调的机器。而且，雷达跟踪误差并不是实验室不感兴趣的领域。最近，有人从事水下地球物理学，其中光谱分析至关重要。诸如此类。布登博姆（Budenbom）的数据让我们产生了“四分之一，二分之一，四分之一”的认识，并最终让我们认识到一位名叫冯·汉恩（von Hann）的维也纳气象学家喜欢这样做。这不是大气数据（引发的），是雷达性能（数据）。
+
 ## PERSONAL
 
 ## 个人相关
-
 
 问：Let's leave statistics behind temporarily, John, and let's talk about your work habits. We are all impressed by the enormous amount of work that you have produced and we wonder how a person can produce so much. Did you have a very disciplined way of doing things? How many hours of sleep do you need?
 
@@ -538,7 +526,6 @@ J : One of the statistics departments, there were two for a long time. And they 
 
 ## 成长和教育
 
-
 问：John, we know you have been raised in New England. How important was your cultural New England background in your life? Do you think it shaped you in a certain way? Do you think that things would have been different had you been raised in another part of the country?
 
 约翰，我们知道你是在新英格兰长大的。你的新英格兰文化背景对你的生活有多重要？你认为它以某种方式塑造了你吗？你认为如果你在这个国家的另一个地方长大，情况会有所不同吗？
@@ -579,7 +566,6 @@ J : One of the statistics departments, there were two for a long time. And they 
 
 约翰：对. 
 
-
 伊丽莎白：John's father said to me that if John came to him with a question, they wouldn't necessarily answer it, but would give him the clues to go and look it up and to dig. And I think that is another very characteristic thing, that he's not afraid to jump in and look for something. When he went to Brown, he had not been any place where he had been with other school children his age. He'd had neighborhood friends but he was not part of a group. And I thought about this in my later years, because it's pretty outstanding that he is a lone figure in a way. There are plenty of people who know him and there are plenty of people who like him, but he remains-I think-just that. And I think it's because of the fact that he never went to school till he got to Brown. He commuted to college for two years and then he lived on campus. He was actually the class of 1937 but he graduated in three years, class of 1936 . Brown looked at this record and said "Oh gosh, you know, why don't you just go ahead (this was the spring before commencement)-why don't you take your degree now?" And then he stayed the extra year for the master's degree. His mother was very active in the community; she was head of the YW when I was first married. She taught school in Quincy, Massachusetts, and in Bridgton, Maine. In Maine, she said that when she woke up in the morning she had to break the ice on her bowl and pitcher set in order to get water to wash herself. But, she very shortly got a very good job at Quincy High School and then from there was hired for the New Bedford High School. She and John's father had met while they were at Bates College in the same class. John's father was teaching in Liberty, Missouri. They got married in 1912. John's mother had to give up her job when she married because the state of Massachusetts law declared that no two people in one family could work.
 
 伊丽莎白：约翰的父亲对我说，如果约翰来问他一个问题，他们不一定会回答，但会给他线索让他去查找发掘。我认为这是另一个很有特点的事情，他不怕自己跳进（问题）找答案。当他去布朗大学时，他没有去过任何和他同龄的其他学生去过的地方。他有邻居朋友，但从不是某个团体的一部分。在我晚年的时候我就想到了这一点，因为他在某种程度上是一个孤独的人，这一点非常突出。有很多人认识他，也有很多人喜欢他，但我想他仍然保持原样。我认为这是因为他直到进了布朗大学才去上学。他上了两年的大学后，住进了校园里。他实际上是1937级的学生，但他在三年后和1936级学生一起毕业了。布朗看了他的成绩说：“哦，天哪，你知道，你为什么不继续攻读（这是毕业典礼前的春天）——你为什么不现在就拿学位呢？”然后他又多留了一年攻读硕士学位。他的母亲在社区里非常活跃；我刚结婚时，她是YW的负责人。她曾在马萨诸塞州的昆西和缅因州的布里奇顿任教。她告诉我，在缅因州，当她早上醒来时，必须打破碗和水罐上的冰，以便取水洗漱。但是，她很快在昆西高中找到了一份很好的工作，然后从那里被新的贝德福德高中聘用。她和约翰的父亲是在贝茨学院同一个班认识的。约翰的父亲在密苏里州的自由市教书。他们于1912年结婚。约翰的母亲结婚后不得不放弃工作，因为马萨诸塞州的法律规定一个家庭中不可以有两个人工作。
@@ -596,31 +582,25 @@ J : One of the statistics departments, there were two for a long time. And they 
 
 约翰：我不认为这只是裙带关系。她不可能当一名全职教师。
 
-
 伊丽莎白：She could substitute and she did substitute in everything from typing to Portuguese. I'm just trying to think. I think that sums up the main things about his father and his mother
 
 伊丽莎白：她可以代课，而且从打字到葡萄牙语，她什么都代过。我只是试着回想。我想这概括了他父亲和母亲的主要特点
-
 
 问：What are the things you like to do, John, to relax?
 
 问：约翰，你喜欢做什么来放松？
 
-
 伊丽莎白：Read mystery stories. Number one.
 
 伊丽莎白：阅读神秘故事排第一。
-
 
 约翰：What do you think would come next-listening to classical music?
 
 约翰：你觉得接下来是什么 - 听古典音乐吗？
 
-
 问：Do crosswords?
 
 问：做填字游戏呢？
-
 
 伊丽莎白：Yes, but not in a big way. If there's one around he'll do what he can on it. 约翰：Actually double crosstics are more my thing than crosswords, but that varies over long stretches of time. There would be years when I did more of it and years when I did less.
 
@@ -688,8 +668,6 @@ FiG. 6. John and Elizabeth Tukey in Key West with fish they caught.
 
 图6.约翰和伊丽莎白·图基以及他们在基韦斯特捕到的鱼。
 
-
-
 问：Gardening is another thing you enjoy. Is that correct?
 
 问：园艺是另一件你喜欢的事。对吗？
@@ -699,6 +677,7 @@ FiG. 6. John and Elizabeth Tukey in Key West with fish they caught.
 伊丽莎白：园艺的问题在于，你腿后的膝盖骨开始移动，你可以跪下来工作，但爬起来越来越困难。所以我认为这将会给园艺带来限制。但是，他是个了不起的除草人。他和他的父亲过去常常出去到花园里除草，聊聊天，参观参观。而且，很有耐心。对大多数人来说，除草是他们在花园里做的最糟糕的事情，但这是他最喜欢做的。所以我很幸运。
 
 ## PRINCETON GRADUATE YEARS
+
 ## 普林斯顿的研究生岁月
 
 问：Can you tell us about the time when you were a graduate student at Princeton?
@@ -722,7 +701,6 @@ FiG. 6. John and Elizabeth Tukey in Key West with fish they caught.
 伊丽莎白：在我们结婚之前，你或多或少一直住在研究生院。
 
 约翰：Now, there was a group, largely of mathematicians, who ate together and ate at the near end to the first table on the right as you went into Proctor Hall. And Lyman Spitzer, who died recently, was the official Fuehrer-this was far enough before 1941 so Fuehrer was not completely a bad word. He was responsible for dividing extra ice creams into the required number of slices, required for the people who were interested in things of this sort. He was an astrophysicist. There was also an astronomer or two. Frank Smithies, who had come from Cambridge as a mathematics postdoc, was part of the group.
-
 
 约翰：嗯，有一个小团体在一起吃饭，里面多数是数学家。他们在普罗克托大厅入口右边第一张桌子的近端吃饭。最近去世的莱曼·斯皮策（Lyman Spitzer）是官方元首，这是在1941年之前足够早的时候，当时元首还不完全是个坏词。他负责把多余的冰淇淋分成喜欢这类东西的人所需的片数。他是一位天体物理学家。还有一两个天文学家。弗兰克·史密斯（Frank Smithies）来自剑桥，是一名数学博士后，他也是这个小团体的一员。
 
@@ -760,9 +738,7 @@ E : Cambridge, England.
 
 约翰：Yes, the Turing car. I think that's it. I know Ralph Boas was one of them, because there is a picture somewhere of Ralph with his umbrella pointing to a street sign in Chapel Hill that says 12 and $3 / 4$ Street N.W. I won't guarantee the prevailing accuracy of that.
 
-
 约翰：是的，图灵车。我想就是那样。我知道拉尔夫·博阿斯就是其中之一，因为在某处有一张照片，拉尔夫拿着雨伞指着教堂山上的一个路标，上面写着“西北12又4分之3街”。我不能保证这一点有普遍的准确性【译者注：这一段话的意思不太理解】。
-
 
 ## ENVIRONMENTAL POLICY
 
@@ -773,7 +749,6 @@ E : Cambridge, England.
 问：您参与公共服务的一个重要部分是环境。你能告诉我们一些关于这个的情况吗？
 
 伊丽莎白：Well, let me tell you the story; it's very interesting. Rachel Carson had written her book in the 1950s. And in the early $1960 \mathrm{~s}$, people were beginning to really take all these environmental things to heart, people who were the avant-garde. And I can remember one of the summers-and I think it was 1962-when we were at the Behavioral Sciences Center and we got invited to a cocktail party over on the Stanford campus and there we saw Kai Lai Chung, a mathematician that John had known long ago. And so, we were circulating around having a ginger ale or something and Kai Lai spied John and he came over and told him that he personally, John, should do something about the environment, that it was absolutely intolerable what was going on as told by Rachel Carson, and he got all fired up. I think everybody knew at that point that John was very active in Washington, because this was while he was on the President's Science Advisory Committee (PSAC). And he said: "John, you got to do something about this!" Well, about two years later-John was off the President's Science Advisory Committee-but Lyndon Johnson became President and as part of the Great Society program one of the things he wanted to do was to look at the environment. Now, John, you can pick up from there.
-
 
 伊丽莎白：好的，让我来告诉你这个故事；这很有趣。雷切尔·卡森（Rachel Carson）在1950年代写了她的书（即《杀死一只知更鸟》）。在1960年代早期，那些先锋派的人开始真正把所有这些环境问题放在心上。我记得有一个夏天，我想那是1962年，当时我们在行为科学中心，我们被邀请参加斯坦福大学校园的一个鸡尾酒会，在那里我们看到了钟开莱，一位约翰很久以前就认识的数学家。我们在喝姜汁汽水之类的东西时，钟发现了约翰，他过来对他说，约翰作为个人，应该为环境做点什么，发生如雷切尔·卡森所说的那种事情是绝对不能容忍的，他被激怒了。我想当时大家都知道约翰在华盛顿非常活跃，因为当时他是总统科学咨询委员会（PSAC）的成员。他说：“约翰，你得做点什么！”大约两年后，约翰退出了总统科学咨询委员会，但林登·约翰逊成为了总统，作为伟大社会计划的一部分，他想做的一件事就是观察环境。现在，约翰，你可以从这里接着说了。
 
@@ -861,23 +836,19 @@ J : He was active actually in the Middle East doing aquaculture. He was somebody
 
 约翰：对。
 
-
 ## ELECTION FORECASTS
 
 ## 选举预测
 
-
 问：When did you get involved with calling elections?
 
 问：你是哪一年参与到召集选举的？【译者注：calling的意思不确定】?
-
 
 伊丽莎白：1960.
 
 伊丽莎白：1960年。
 
 约翰：Yes, I guess I wasn't involved in anything before that; the 1960 election. Things might have started in 1959 .
-
 
 约翰：是的，我想在1960年的选举之前我没有参与任何事情。事情可能始于1959年。
 
