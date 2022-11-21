@@ -280,7 +280,7 @@ John：嗯，可能也是为了找回一些碎片。
 
 Q：Was Shewhart still at Bell Labs when you were working there?
 
-Q：你在贝尔实验室工作时，休哈特（Shewhart）还在那里吗？
+Q：你在贝尔实验室工作时，Shewhart还在那里吗？
 
 John：Yes, yes.
 
@@ -290,9 +290,9 @@ Q：Was there a statistics group?
 
 Q：那儿有统计组吗？
 
-John：Well, Walter was always in the quality control side. And the key people as of that date were Shewhart, Dodge and to a lesser degree probably Romig. They had a lot to do with quality control. They weren't even in the research department. Later on, for the last few years, Walter did move out to Murray Hill and got into Research. But there wasn't a statistics department for some time. Paul Olmstead, who was a Princeton physicist originally, was involved with applications of statistics. But, there was an informal network and I spent a little time getting a distribution list-a list of people with statistical interests sort of-to lubricate things a little. Eventually they hired Milton Terry, he was the third person who was looked at hard and the first one where all sides sort of agreed to go ahead.
+John：Well, Walter was always in the quality control side. And the key people as of that date were Shewhart, Dodge and to a lesser degree probably Romig. They had a lot to do with quality control. They weren't even in the research department. Later on, for the last few years, Walter did move out to Murray Hill and got into Research. But there wasn't a statistics department for some time. Paul Olmstead, who was a Princeton physicist originally, was involved with applications of statistics. But, there was an informal network and I spent a little time getting a distribution list-a list of people with statistical interests sort of to lubricate things a little. Eventually they hired Milton Terry, he was the third person who was looked at hard and the first one where all sides sort of agreed to go ahead.
 
-John：嗯，沃尔特一直在质量控制部门。到那时为止，核心人物是休哈特、道奇，在较小程度上可能还有罗米格。他们与质量控制有很大关系。他们甚至不在研究部门。后来，在最后几年里，沃尔特是搬到了默里山，从事研究工作。但有一段时间没有统计部门。保罗·奥姆斯特德（Paul Olmstead）原先是普林斯顿大学的物理学家，从事统计学的应用工作。但是，那儿有一个非正式的人际网，我花了一点时间弄到了一份名单——一份对统计有兴趣的人的名单，以让事情稍微进行得顺利些。最终，他们雇佣了米尔顿·特里（Milton Terry），他是第三个被认真考察的人，也是第一个各方面都认可的人。
+John：嗯，Walte一直在质量控制部门。到那时为止，核心人物是Shewhart、Dodge，在较小程度上可能还有Romig。他们与质量控制有很大关系。他们甚至不在研究部门。后来，在最后几年里，Walter是搬到了默里山（Murray Hill），从事研究工作。但有一段时间没有统计部门。Paul Olmstead原先是普林斯顿大学的物理学家，从事统计学的应用工作。但是，那儿有一个非正式的人际网，我花了一点时间弄到了一份名单——一份对统计有兴趣的人的名单，以让事情稍微进行得顺利些。最终，他们雇佣了Milton Terry，他是第三个被认真考察的人，也是第一个各方面都认可的人。
 
 Q：And he was a statistician?
 
@@ -300,11 +300,11 @@ Q：他是一名统计学家？
 
 John：He was a statistician
 
-John：他是个统计学家
+John：他是个统计学家。
 
 Q：What about people like Shannon. Was he still there? 
 
-Q：像香农这样的人呢。他还在那儿吗？
+Q：像香农（Shannon）这样的人呢。他还在那儿吗？
 
 John：Yes.
 
@@ -316,7 +316,7 @@ Q：他更像是一个数学家？
 
 John：Yes. He was definitely. But a mathematician interested in practical matters. He wrote a paper whose title bothered some of the laboratories people; it was called roughly "How to do things reliably with crummy relays" (Moore and Shannon, 1956).
 
-John：是的。他绝对是。但是是一个对实际问题感兴趣的数学家。他写了一篇论文，题目让一些实验室的人感到不安；好像是叫“如何用蹩脚的继电器可靠地做事”（Moore和Shannon，1956）。
+John：是的。他绝对是。但是是一个对实际问题感兴趣的数学家。他写了一篇论文，题目让一些实验室的人感到不安；好像是叫“如何用蹩脚的继电器可靠地做事”【译者注：Moore和Shannon，1956，[Reliable circuits using less reliable relays](https://www.sciencedirect.com/science/article/abs/pii/0016003256905592)】。
 
 Q：That was the title?
 
@@ -324,11 +324,11 @@ Q：那就是标题？
 
 John：The title had “crummy relays" in it. They didn't like that. There was a question of how did you hook things up so that if you only had a few failures it did what it was supposed to. And then of course the information theory stuff, which to a degree was in parallel invented by intelligence analysts. Shannon was a very reasonable person, but he wasn't a data analyst.
 
-John：标题里有“蹩脚的继电器”（的字眼）。他们不喜欢那样。当时有个问题是，你怎样把东西连接起来，这样即使你有几次失败，它仍然能做它该做的事。当然，信息理论的东西，某种程度上是由情报分析员同时发明的。香农是一个非常理性的人，但他不是一个数据分析员。
+John：标题里有“蹩脚的继电器”（的字眼）。他们不喜欢那样。当时有个问题是，你怎样把东西连接起来，这样即使你有几次失败，它仍然能做它该做的事。当然，信息理论的东西，某种程度上是由情报分析员同时发明的。Shannon是一个非常理性的人，但他不是一个数据分析员。
 
 Elizabeth：John, how was it then that he turned up at the Center for Behavioral Sciences the year we were there?
 
-Elizabeth：John，那时他出现在行为科学中心是怎么回事？就是我们在那儿的那年。
+Elizabeth：John，那时他出现在行为科学中心（the Center for Behavioral Sciences）是怎么回事？就是我们在那儿的那年。
 
 John：Well, probably information theory, which people thought was an important thing in the psychology etc. area. There were always a few anomalous people, even like me, at the Behavioral Sciences Center.
 
@@ -336,19 +336,19 @@ John：嗯，可能是信息理论，人们认为它在心理学等领域很重�
 
 Q：But he was considerably older than you, Shannon, was he not?
 
-Q：但香农比你大很多，不是吗？
+Q：但Shannon比你大很多，不是吗？【译者注：事实上John Tukey（1915年6月15日）比Claude Shannon（1916年4月30日）大一岁。】
 
 John：Don't know; don't think so. Had you seen him at the final dinner at the Center, in which he appeared riding a unicycle, with Betty sitting on his shoulders, you would not have thought he was an old old man.
 
-John：不知道；别这么想。如果你在中心的最后一次晚餐上看到他，他骑着独轮车，贝蒂坐在他的肩膀上，你不会认为他是个老人。
+John：不知道；别这么想。如果你在中心的最后一次晚餐上看到他，他骑着独轮车，Betty【译者注：Shannon的夫人】坐在他的肩膀上，你不会认为他是个老人。
 
 Q：Then I think we should talk a little bit about the time series analysis and your book with Blackman. Who was he?
 
-Q：那么我想我们应该谈谈时间序列分析和你与布莱克曼（Blackman）的书。他（布莱克曼）是谁？
+Q：那么我想我们应该谈谈时间序列分析（time series analysis）和你与Blackman的书。他（Blackman）是谁？
 
 John：He was a communications mathematician. Now, I'm trying to see when we ought to start this story. [John checks the bibliography while tea is being served.] Well, the origin of the later time series work probably comes from a number of practical problems, one of them being the measurement of the irregular motion in the atmosphere which causes an airplane with fixed controls not to fly a straight line-which was interesting to the boys in Whippany because one wanted to understand sort of what is the least unpredictability that might be in the airplane track. And this turned out to get Cornell Aeronautical Laboratory hired to fly airplanes along the lake, because there was as uniform a nearby surface as you knew how to find.
 
-John：他是个通信数学家。现在，让我想想这事该从哪里说起。[John一边喝茶一边查看参考书目。]嗯，后来所谓时间序列工作的起源可能来自一些实际问题，其中一个是测量大气中的不规则运动，它导致一架带有固定控制装置的飞机不能直线飞行。惠帕尼（Whippany）的男孩们对这个问题有兴趣，因为他们想了解飞机轨道上最低限度不可预测的东西是什么。最后（他们）雇了康奈尔航空实验室沿湖边驾驶飞机，因为附近有一个你知道如何找到的统一的表面。
+John：他是个通信数学家。现在，让我想想这事该从哪里说起。[John一边喝茶一边查看参考书目。]嗯，后来所谓时间序列工作的起源可能来自一些实际问题，其中一个是测量大气中的不规则运动，它导致一架带有固定控制装置的飞机不能直线飞行。惠帕尼（Whippany）的男孩们对这个问题有兴趣，因为他们想了解飞机轨道上最低限度不可预测的东西是什么。最后（他们）雇了康奈尔航空实验室（Cornell Aeronautical Laboratory）沿湖边驾驶飞机，因为你知道如何在附近找到一样均匀的表面。
 
 Q：And then you analyzed radar data?
 
@@ -356,7 +356,7 @@ Q：之后你分析了雷达数据？
 
 John：You record what the controls are doing, you record what the accelerations are and so on and then you try to make sense of it. In this case, it didn't work at first, because people had been trying to read averages for, say, a second over each second on the record. And when we got them to read exactly what the trace said at the mark, then the analysis started to make sense. But this involved fairly complicated multivariate time series where some of the regression coefficients you know from the wind tunnel behavior, maybe some of them you don't. And so, this is one of the reasons why the first time series paper I find in the bibliography is Press and Tukey "Power spectrum methods of analysis and their applications to problems in airplane dynamics." That's 1956 . The Blackman and Tukey paper "The measurement of power spectra from the point of view of communications engineering" is 1958 . There were always things going on around Princeton with Hans Panofsky from Penn State, who had been bringing measurements of low-altitude atmospheric turbulence to be tried on Johnny's new computer. [This was weather data?] It was atmospheric, but not weather. In particular there were Brookhaven tower measurements on wind component velocities in all directions. So that had got involved. That's probably earlier than the other. It didn't produce anything that I published that was directly related. Another seminar problem was H. T. Budenbom's data about the performance of a new radar that he had obtained in a certain format and wanted to get it into another format so he could take it to the coast to talk to a classified meeting. And Dick Hamming and I discovered, one way or another, that if you smooth data series with a quarter, a half, a quarter, things get appreciably better. So, Dick and I took off a considerable amount of time to try to understand why this would be, and this produced the measuring noise color memoranda (1958; see Tukey and Hamming, 1984). Blackman and Tukey was an exposition of our combined work. Blackie had been teaching things to engineers. He knew a lot about what was going on. Between us we managed to put that together.
 
-John：你记录下控制装置在做什么，记录下加速度等等，然后试着理解它。在这种情况下，它一开始不起作用，因为人们一直在试图读取记录上每秒钟的平均值。当我们让他们读标记处准确的记录时，分析就开始变得有意义了。但这涉及到相当复杂的多元时间序列，其中一些回归系数是你从风洞行为中知道的，也许有些你不知道。所以，这就是为什么我在参考书目中找到的第一篇时间序列论文是Press和Tukey的“功率谱分析方法及其在飞机动力学问题中的应用”【译者注：专业词汇】，那篇是1956年的。Blackman和Tukey的论文《从通信工程的角度测量功率谱》【译者注：专业词汇】发表于1958年。普林斯顿大学一直有和来自宾夕法尼亚州立大学的汉斯·帕诺夫斯基（Hans Panofsky）一起进行的各种活动，他一直在用John尼的新电脑测试低空大气湍流的测量结果。[这是天气数据？]是大气数据，但不是天气数据。特别是布鲁克海文塔对各个方向的风分量速度进行了测量。所以这件事就牵涉进来了。那可能比另一个早。它没有产生任何与我发表的文章直接相关的东西。另一个研讨会的问题是布登博姆（H.T.Budenbom）以某种形式获得的关于新雷达性能的数据，他希望将其转换为另一种形式，以便他将其带到海岸的一个保密会议上讨论。迪克·汉明(Dick Hamming)和我以某种方式发现，如果你用四分之一、二分之一、四分之一来平滑数据序列，情况会明显变好。因此，迪克和我花了相当长的时间试图理解为什么会这样，这产生了测量噪声颜色记忆（1958年；见Tukey和Hamming，1984年）。布莱克曼和图基的那篇论文展示了我们一起完成的工作。布莱克曼一直在教工程师们。他对当时正发生的事情了解很多。我们俩设法把那些东西整理在一起。
+John：你记录下控制装置在做什么，记录下加速度等等，然后试着理解它。在这种情况下，它一开始不起作用，因为人们一直在试图读取记录上每秒钟的平均值。当我们让他们读标记处准确的记录时，分析就开始变得有意义了。但这涉及到相当复杂的多元时间序列，其中一些回归系数是你从风洞行为中知道的，也许有些你不知道。所以，这就是为什么我在参考书目中找到的第一篇时间序列论文是Press和Tukey的《功率谱分析方法及其在飞机动力学问题中的应用》【译者注：[Power spectrum methods of analysis and their applications to problems in airplane dynamics](https://www.sciencedirect.com/science/article/pii/B9781483197289500369)】，那篇是1956年的。Blackman和Tukey的论文《从通信工程的角度测量功率谱》【译者注：[The Measurement of Power Spectra from the Point of View of Communications Engineering](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1958.tb03874.x)】发表于1958年。普林斯顿大学一直有和来自宾夕法尼亚州立大学的Hans Panofsky一起进行的各种活动，他一直在用 Johnny的新电脑测试低空大气湍流的测量结果。[这是天气数据？]是大气数据，但不是天气数据。特别是布鲁克海文塔（Brookhaven tower）对各个方向的风的分量速度进行了测量。所以这件事就牵涉进来了。那可能比另一个早。它没有产生任何与我发表的文章直接相关的东西。另一个研讨会的问题是H.T.Budenbom以某种形式获得的关于新雷达性能的数据，他希望将其转换为另一种形式，以便他将其带到海岸的一个保密会议上讨论。Dick Hamming和我以某种方式发现，如果你用四分之一、二分之一、四分之一来平滑数据序列，情况会明显变好。因此，Dick和我花了相当长的时间试图理解为什么会这样，这产生了测量噪声颜色记忆【译者注：measuring noise color memoranda，[The measurement of power spectra from the point of view of communications engineering, I, II(Blackman和Tukey,1958)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=he+measurement+of+power+spectra+from+the+point+of+view+of+communications+engineering%2C+I%2C+II&btnG=)；见Measuring noise color. In The Collected Works of J. W. Tukey 1(Tukey和 Hamming,1984)】。Blackman和Tukey的那篇论文展示了我们一起完成的工作。Blackman一直在教工程师们。他对当时正发生的事情了解很多。我们俩设法把那些东西整理在一起。
 
 Q：And the intended audience was engineers?
 
@@ -364,7 +364,7 @@ Q：目标受众是工程师吗？
 
 John：Well, the intended audience was people who could live with mathematics but not necessarily too sophisticated. Including engineers. I don't know whether the Dover publication of our work is still in print or not. The last I know, it was. In which case it's been in print since 1959 .
 
-John：嗯，目标受众是那些能够用数学的人，但不必用得太复杂。包括工程师。我不知道我们让多佛出版的作品是否还在印。我最后知道的是还在印。在这种情况下，它是从1959年起开始印刷的。
+John：嗯，目标受众是那些能够用数学的人，但不必用得太复杂。包括工程师。我不知道我们的作品多佛出版社(Dover publication)是否还在印。我最后知道的是还在印。它是从1959年起开始印刷的。
 
 Q：It added a fair amount to the statistical literature on time series.
 
@@ -380,7 +380,7 @@ Q：有趣的是，你说你是在贝尔实验室做的，人们会认为是信�
 
 John：No, we just happened to mention atmospheric data. I'm not sure what all it was used for. But, for example, after Mike Healy and Bruce Bogert and I got involved with cepstra (see Bogert, Healy and Tukey, 1963), one of the people there used more-orless cepstra-related things to produce the first machine that would really give a reliable account of the pitch of your voice. And, radar tracking errors is not an area that was devoid of interest for the Laboratories. More recently, there've been people who have been doing underwater geophysics, where spectrum analysis was crucial. Et cetera. The Budenbom data caused our perception of "a quarter, a half, a quarter" and eventually led us to the understanding that a Viennese meteorologist named von Hann had liked to do this. It was not atmospheric data; it was radar performance.
 
-John：不是，我们只是碰巧提到了大气数据。我并不知道那都是用来干什么的。但举个例子，在迈克·希利（Mike Healy）、布鲁斯·博格特（Bruce Bogert）和我参与了倒谱研究【译者注：专业名词】（见Bogert, Healy和Tukey，1963年）之后，那里的一个人或多或少用了倒谱相关的东西制作了第一台能真正可靠地描述你声音音调的机器。而且，雷达跟踪误差并不是实验室不感兴趣的领域。最近，有人从事水下地球物理学，其中光谱分析至关重要。诸如此类。布登博姆（Budenbom）的数据让我们产生了“四分之一，二分之一，四分之一”的认识，并最终让我们认识到一位名叫冯·汉恩（von Hann）的维也纳气象学家喜欢这样做。这不是大气数据（引发的），是雷达性能（数据）。
+John：不是，我们只是碰巧提到了大气数据。我并不知道那都是用来干什么的。但举个例子，在Mike Healy、Bruce Bogert和我参与了倒频谱研究【译者注：cepstrum,就是将频谱（spectrum）的英文前四个字母反过来写。[The quefrency analysis of time series for echoes : cepstrum, pseudo-autocovariance, cross-cepstrum and saphe cracking.(Bogert, Healy和Tukey，1963年)](https://www.semanticscholar.org/paper/The-quefrency-analysis-of-time-series-for-echoes-%3A-Bogert/15bb1365026071ae3423d64ed2d18c554cafd6f6)】之后，那里的一个人或多或少用了倒频谱相关的东西制作了第一台能真正可靠地描述你声音音调的机器。而且，雷达跟踪误差并不是实验室不感兴趣的领域。最近，有人从事水下地球物理学，其中光谱分析至关重要。诸如此类。Budenbom的数据让我们产生了“四分之一，二分之一，四分之一”的认识，并最终让我们认识到一位名叫von Hann的维也纳气象学家喜欢这样做。这不是大气数据（引发的），是雷达性能（数据）。
 
 ## PERSONAL
 
