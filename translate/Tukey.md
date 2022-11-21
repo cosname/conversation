@@ -418,13 +418,17 @@ Q：Over a longish period of time?
 
 Q：在很长一段时间内？
 
-Elizabeth：Yes, that was sort of the worst. There was another time when you did go back to the five hours again, John. You had said to me at that time, this was 1959 , that if you hadn't taken off weight when all of this nuclear testing stuff came up, that you would have been sick, because the stress was so great. John：Well, anyhow, I think I conventionally had an eight-hour target. Whether I got it or not was another matter.
+Elizabeth：Yes, that was sort of the worst. There was another time when you did go back to the five hours again, John. You had said to me at that time, this was 1959 , that if you hadn't taken off weight when all of this nuclear testing stuff came up, that you would have been sick, because the stress was so great. 
 
-Elizabeth：是的，那大概是最糟的。还有一次，你又回到了五个小时，John。那是在1959年，当时你对我说，如果在核试验的时候你没去掉重担【译者注：taken off weight译为去掉重担待商榷】，你会病倒的，因为压力太大了。John：嗯，不管怎样，我想我通常有一个八小时的睡眠目标。能否达到是另一回事。
+Elizabeth：是的，那大概是最糟的。还有一次，你又回到了五个小时，John。那是在1959年，当时你对我说，如果在核试验的时候你没去掉重担，你会病倒的，因为压力太大了。
+
+John：Well, anyhow, I think I conventionally had an eight-hour target. Whether I got it or not was another matter.
+
+John：嗯，不管怎样，我想我通常有一个八小时的睡眠目标。能否达到是另一回事。
 
 Elizabeth：How often do you start to work when you have your snack in the middle of the night, whenever that is?
 
-Elizabeth：当你半夜吃零食的时候，你多久开始工作？不管那是什么时候【译者注：不太明白原意】
+Elizabeth：当你半夜吃零食的时候，你多久开始工作？不管那是什么时候【疑问:意思是：半夜吃零食后会工作多久？】
 
 John：Yes, well, the snacks in the middle of the night are a relatively recent phenomenon.
 
@@ -440,7 +444,7 @@ John：但是，总的来说，对我来说，效率高的时间是早，而不�
 
 Elizabeth：And he didn't like to talk about what went on during the day at dinner or after supper. He said it was enough to get through the day without thinking about it when he came home. He reads mystery stories at night to get to sleep. And that varies, I think, depending on what the story is and what his sleep position is. He always (or almost always) had gotten up sometime about three thirty and gone downstairs to get a snack. He would come upstairs again, maybe read a little more, go back to bed and then wake up at various times. But if he woke up at five a.m. and started to work, I knew that life was tough. And that happened for a number of years when he was trying to get the statistics department established. What he said to me, at the time, was that if he hadn't had that writing to do, which was EDA essentially, he would never have gotten through all the emotional trauma of getting the department started at Princeton. At the same time, there were also some growing pains at Bell Labs. When Ram Gnanadesikan came in as the head of the statistics department at Bell about the mid-sixties-I can't tell you exactly when it was, but it made a tremendous difference to improving John's life and mine.
 
-Elizabeth：而且他不喜欢在晚餐或晚饭后谈论白天发生的事情。他说经历了一整天已经够了，回家的时候就不用想了。晚上临睡前他读一些神秘故事。他的睡姿根据故事的内容而有所不同。他总是（或几乎总是）三点半左右起床下楼去吃点心。他会再次上楼，也许会再读点书，回到床上，然后在不同的时间醒来。但如果他早上五点醒来开始工作，我就知道有麻烦了。他努力成立统计系的那几年经常发生。当时，他对我说，如果他没有写作（主要是EDA），他可能永远扛不过在普林斯顿开办这个系所经历的精神折磨。与此同时，在贝尔实验室也有一些“成长的烦恼”。大约在60年代中期，当拉姆·格纳德西肯（Ram Gnanadesikan）担任贝尔统计部门的负责人时，我不能确切地告诉你那是什么时候，但这对改善John和我的生活产生了巨大的影响。
+Elizabeth：而且他不喜欢在晚餐或晚饭后谈论白天发生的事情。他说经历了一整天已经够了，回家的时候就不用想了。晚上临睡前他读一些神秘故事。他的睡姿根据故事的内容而有所不同。他总是（或几乎总是）三点半左右起床下楼去吃点心。他会再次上楼，也许会再读点书，回到床上，然后在不同的时间醒来。但如果他早上五点醒来开始工作，我就知道有麻烦了。他努力成立统计系的那几年经常发生。当时，他对我说，如果他没有写作（主要是EDA），他可能永远扛不过在普林斯顿开办这个系所经历的精神折磨。与此同时，在贝尔实验室也有一些“成长的烦恼”。大约在60年代中期，Ram Gnanadesikan担任贝尔统计部门的负责人时，我不能确切地告诉你那是什么时候，但这对改善John和我的生活产生了巨大的影响。
 
 J : One of the statistics departments, there were two for a long time. And they operated with a very weak barrier between them.
 
@@ -458,9 +462,13 @@ Elizabeth：I wasn't worried; I just think it's funny.
 
 Elizabeth：我不担心；我只是觉得很有趣。
 
-Q：But this was just background; it didn't really enter your brain. E: He had to do that to keep out extraneous things that might have been diverting. He closed the door, put on the music as loud as he could and blocked it all out.
+Q：But this was just background; it didn't really enter your brain.
 
-Q：但这只是背景；它并没有真正进入你的大脑。伊丽莎白:他必须这样做，才能把可能会转移注意力的无关事物挡在外面。他把门关上，尽可能大声地放音乐，把它们全挡在外面。
+Q：但这只是背景；它并没有真正进入你的大脑。
+
+E: He had to do that to keep out extraneous things that might have been diverting. He closed the door, put on the music as loud as he could and blocked it all out.
+
+Elizabeth：他必须这样做，才能把可能会转移注意力的无关事物挡在外面。他把门关上，尽可能大声地放音乐，把它们全挡在外面。
 
 John："As loud as he could" is a slight exaggeration.
 
@@ -468,7 +476,7 @@ John：“尽可能大声”有点夸张。
 
 Elizabeth：Well, I did have the power to apply the breakers.
 
-Elizabeth：嗯，我确实有权力使用断路器【译者注：breaker意思不确定】。
+Elizabeth：嗯，我确实可以调整收音机。【疑问：breaker有这个意思，大概是打断正在收听的收音机的人？：[7.(US, dated) A user of CB radio.](https://en.wiktionary.org/wiki/breaker#English )】
 
 Q：Now, they have these Walkmans with earphones. You think that would have worked as well?
 
@@ -476,7 +484,7 @@ Q：现在，他们有那种带耳机的随身听。你觉得那也行吗？
 
 John：Well, what is it, three Christmases ago or two Christmases ago, the New Haven relatives gave me a Discman for a Christmas present. It's been parked on the bed ever since while I'm in town, so if I feel like it while I'm lying in bed, I can just reach over and turn it on.
 
-John：嗯，怎么说呢，两三个圣诞节前，纽黑文的亲戚给了我一个CD随身听作为圣诞礼物。打那以后，只要我在城里，它就一直放在床上，这样只要我躺在床上的时候想要用，就可以伸手打开它。
+John：嗯，怎么说呢，两三个圣诞节前，纽黑文（New Haven）的亲戚给了我一个CD随身听作为圣诞礼物。打那以后，只要我在城里，它就一直放在床上，这样只要我躺在床上的时候想要用，就可以伸手打开它。
 
 Elizabeth：How often do you do that?
 
@@ -496,7 +504,7 @@ John：也许是能快速产生想法，以及吸收想法。
 
 Elizabeth：Well, there is one little story I'll tell you. At Brown, one commencement time, John and the Dean of the Faculty were talking with each other. The Dean was a physicist and he was complaining that he never got the chance to do any work because of his administrative duties. And he had more or less brought this up with John a couple of times. And John said to him, "I think that what you really need is a place where you can get away from everything and write or do your research." And John didn't specify anything about it, but he said it should not be at the office. And so I asked John where he did his work and John said, "Why of course I do it at home." And you know, I hadn't realized that. It hadn't penetrated. He never went to the office and did anything.
 
-Elizabeth：嗯，我要告诉你一个小故事。有一次，在布朗大学的毕业典礼上，John和系主任正在互相交谈。院长是一名物理学家，他抱怨说，由于他的行政职责，他从来没有机会做任何工作。他多少跟John提过几次了。John对他说：“我认为你真正需要的是一个可以远离一切，写作或做研究的地方。”John没有具体说明，但他说不应该在办公室。所以我问John他在哪里工作，John说，“为什么（这么问）？我当然在家工作。”你知道，我还没有意识到这一点。这事没被揭穿。他从不去办公室做任何事。
+Elizabeth：嗯，我要告诉你一个小故事。有一次，在布朗大学的毕业典礼上，John和院长正在互相交谈。院长是一名物理学家，他抱怨说，由于他的行政职责，他从来没有机会做任何工作。他多少跟John提过几次了。John对他说：“我认为你真正需要的是一个可以远离一切，写作或做研究的地方。”John没有具体说明，但他说不应该在办公室。所以我问John他在哪里工作，John说，“为什么（这么问）？我当然在家工作。”你知道，我还没有意识到这一点。这事没被揭穿。他从不去办公室做任何事。
 
 John：That's a slight exaggeration, but not very much.
 
@@ -510,9 +518,9 @@ Elizabeth：This was one of the key things.
 
 Elizabeth：这是关键之一。
 
-John：Probably a fair amount of work went on in Murray Hill-because that was probably a lot less subject to distraction.
+John：Probably a fair amount of work went on in Murray Hill,because that was probably a lot less subject to distraction.
 
-John：可能相当多的工作是在默里山进行的，因为那儿可能少了很多让人分心的事。
+John：可能相当多的工作是在默里山（Murray Hill）进行的，因为那儿可能少了很多让人分心的事。
 
 Q：Better protected.
 
@@ -520,7 +528,7 @@ Q：保护得更好。
 
 Elizabeth：Well, there's one other thing that does make a difference and that is what secretarial support you had. In 1968 or 1969 John interviewed three different people to fill a secretarial job that was vacant at Bell Labs. He picked Mary Bittrich and Bell Labs never knew what hit them, because he also moved the bulk of the secretarial work being done at Princeton. I think that move was providential because Princeton never had adequate secretarial support.
 
-Elizabeth：嗯，还有一件事确实起作用，那就是你得到的秘书支持。John在1968年还是1969年面试了三个不同的人，以填补贝尔实验室空缺的秘书职位。他选择了玛丽·比特里奇（Mary Bittrich），贝尔实验室从不知道是什么打击了他们，因为他还把普林斯顿大学正做的部分秘书工作移了过来。我认为这来得正是时候，因为普林斯顿大学从来没有足够的秘书支持工作。
+Elizabeth：嗯，还有一件事确实起作用，那就是你得到的秘书支持。John在1968年还是1969年面试了三个不同的人，以填补贝尔实验室空缺的秘书职位。他选择了Mary Bittrich，贝尔实验室从不知道是什么打击了他们，因为他还把普林斯顿大学正做的部分秘书工作移了过来。我认为这来得正是时候，因为普林斯顿大学从来没有足够的秘书支持工作。
 
 ## UPBRINGING AND EDUCATION
 
