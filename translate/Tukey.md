@@ -612,8 +612,6 @@ Q：做填字游戏（crossword）呢？
 
 Elizabeth：Yes, but not in a big way. If there's one around he'll do what he can on it. 
 
-
-
 Elizabeth：是的，但不是很热衷。如果旁边正巧有一个，他会尽他所能玩的。
 
 John：Actually double crosstics are more my thing than crosswords, but that varies over long stretches of time. There would be years when I did more of it and years when I did less.
