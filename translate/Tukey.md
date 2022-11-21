@@ -904,7 +904,7 @@ Elizabeth：是的，有人打电话来。
 
 John：This varied historically through time. Initially things ran mostly on the sort of routine information handling, with a few special precincts taken singly and called in directly. But with the competition it eventually got to the stage where there were tens of thousands of precincts that were "strung" with somebody there, and when they got a result they called in. Doing this between three and five times in parallel for three networks and a couple of newspaper services was unbearable for the financial side. So, there got to be a News Election Service that collected this sort of information for all the networks. And the networks were only supposed to be able to do projections on the basis of what was available to them on a common basis. The typical NBC arrangement ended up with a statistical group doing this sort of thing and Dick Scammon paying careful attention to key precincts. The theory was that if these two agreed, it would be safe to call. But one time, when the statisticians were down in Cherry Hill (remember, this was RCA), we called the governor's race in New York and California. And for two hours, the results polled in went the other way and we sat there and didn't uncall. And after about two hours, things began to turn around and it was all right. But it wasn't guaranteed. This gave rise to a lot more pressure on the model.
 
-John：这在历史上不同时期是不同的。最初，事情主要是以常规的信息处理方式进行的，有几个特殊的选区单独进行，直接打进来。但随着竞争越来越激烈，最终进入了这样一个阶段：成千上万的选区与那里的某个人“拴在一起”，当他们得到一个结果时，他们就打进来。在三家电视台和几家报纸上同时做三到五次这样的事，从金钱方面来说是无法忍受的。因此，必须有一个新闻选举服务，为所有网络收集此类信息。而这些网络只要可以根据它们在共同基础上可以获得的信息进行预测就行。NBC的典型安排是由一个统计小组来做这类事情，Dick Scammon则仔细关注关键选区。理论上，如果两边对得上，那么发布预测【疑问：call的意思不确定】就是安全的。但是有一次，当统计学家们在樱桃山（Cherry Hill，记住，这里是RCA）的时候，我们在纽约和加利福尼亚州发布了【译者注：call的意思不确定】州长竞选统计预测。有两个小时，民意调查的结果是相反的，我们坐在那里，没有收回我们的结论。大约两个小时后，情况开始好转，一切正常。但这无法保证。这给模型带来了更大的压力。
+John：这在历史上不同时期是不同的。最初，事情主要是以常规的信息处理方式进行的，有几个特殊的选区单独进行，直接打进来。但随着竞争越来越激烈，最终进入了这样一个阶段：成千上万的选区与那里的某个人“拴在一起”，当他们得到一个结果时，他们就打进来。在三家电视台和几家报纸上同时做三到五次这样的事，从金钱方面来说是无法忍受的。因此，必须有一个新闻选举服务，为所有网络收集此类信息。而这些网络只要可以根据它们在共同基础上可以获得的信息进行预测就行。NBC的典型安排是由一个统计小组来做这类事情，Dick Scammon则仔细关注关键选区。理论上，如果两边对得上，那么发布预测就是安全的。但是有一次，当统计学家们在樱桃山（Cherry Hill，记住，这里是RCA）的时候，我们在纽约和加利福尼亚州发布了州长竞选统计预测。有两个小时，民意调查的结果是相反的，我们坐在那里，没有收回我们的结论。大约两个小时后，情况开始好转，一切正常。但这无法保证。这给模型带来了更大的压力。
 
 Elizabeth：How about the year when all the machines broke down and you had to do it just with paper and pencil and an adding machine?
 
@@ -912,15 +912,15 @@ Elizabeth：有一年，所有的机器都坏了，你们只能用纸、铅笔�
 
 John：Yes, there was one time, when things were in Radio City, the machines got in a state of mind and there were people on the floor cleaning the tape heads in the hope that that would make the program run. So, Dick Scammon and the statisticians used elementary methods as far as possible.
 
-John：是的，有一次，在广播城的时候，机器出了状况【译者注：state of mind不确定该怎么翻】，有人在地板上清理磁带头，希望可以让程序运行起来。因此，迪克·斯卡蒙德（Dick Scammon）和统计学家们尽可能地使用基本方法。
+John：是的，有一次，在广播城的时候，机器出了状况，有人在地板上清理磁带头，希望可以让程序运行起来。因此，Dick Scammon和统计学家们尽可能地使用基本方法。
 
 Elizabeth：That was kind of tense, though. That first night, it was so close that the NBC management didn't believe they could trust the figures that had come from the statisticians and, instead of allowing them to go home, they locked them up there. They did not let the statisticians out until eight thirty in the morning. And you were all right, that's the other thing.
 
-Elizabeth：不过那有点紧张。第一天晚上，距离如此之近，以至于NBC管理层不相信他们能信任统计员提供的数据，他们（管理层）把他们（统计员）锁在那儿不让他们回家。直到早上八点半才让统计员出去。而你们是正确的，那是另一回事【译者注：最后一句话所指的意思不确定】。
+Elizabeth：不过那有点紧张。第一天晚上，距离如此之近，以至于NBC管理层不相信他们能信任统计员提供的数据，他们（管理层）把他们（统计员）锁在那儿不让他们回家。直到早上八点半才让统计员出去。而你们是正确的，那是另一回事。
 
 John：Yes, that's the election where the river wards in Chicago were crucial. And there was a question of one set of people holding up an equal number of areas for those the other one was holding up. And nobody wanted to come down and say for the benefit of the other side we twist a little to make Illinois come in. This is the nearest thing to real-time statistics that exists as far as I know. Because you're supposed to be fast, but not make any mistakes.
 
-John：是的，那次选举芝加哥的river wards至关重要。有一个问题是，一组人占据了与另一组人相同数量的选区【译者注：这句话意思不太确定】。没有人愿意把（自己选区数量）降下来。我们说是为了另一方的利益，稍微转变了一下，把伊利诺伊州加了进来。据我所知，这是最接近实时统计的东西。因为你必须要很快，且不能犯任何错误。
+John：是的，那次选举芝加哥的河区（river wards）至关重要。有一个问题是，一组人占据了与另一组人相同数量的选区【疑问：这句话意思不太确定】。没有人愿意把（自己选区数量）降下来。我们说是为了另一方的利益，稍微转变了一下，把伊利诺伊州加了进来。据我所知，这是最接近实时统计的东西。因为你必须要很快，且不能犯任何错误。
 
 Elizabeth：And you didn't. You all didn't. You never had any fiascoes.
 
@@ -928,11 +928,11 @@ Elizabeth：你没有。你们都没有。你们从来没有失败过。
 
 John：We didn't have any fiascoes, but we probably called an occasional thing we shouldn't.
 
-John：我们没有过任何失败，但我们可能会预测某个我们不该预测的偶然事件【译者注：call多次出现，意思是否是预测不确定】。
+John：我们没有过任何失败，但我们可能会预测某个我们不该预测的偶然事件。
 
 Elizabeth：You mean like a senator.
 
-Elizabeth：你是说比如某一个参议员【译者注：这句话意思不太理解】。
+Elizabeth：你是说比如某一个参议员。
 
 John：Well, I just am not claiming for certain.
 
@@ -952,7 +952,7 @@ Elizabeth：没有，John可能有过一次。唯一有趣的事情发生在我�
 
 Q：Elizabeth and John, we thank you for your hospitality and for this most enjoyable conversation.
 
-Q：伊丽莎白和John，感谢你们的盛情款待和这次非常愉快的谈话。
+Q：Elizabeth和John，感谢你们的盛情款待和这次非常愉快的谈话。
 
 ## REFERENCES
 
