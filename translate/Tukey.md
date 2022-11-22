@@ -100,7 +100,7 @@ John：Well, it came about-I don't have the history clearly in mind-but some of 
 
 John：嗯，就是如此。具体历史我记得不是很清楚，但其中一些事情可能要追溯到第一次世界大战前，主要是社会科学领域的零星事件。而对于一个即将成为活跃领域的事物有两个重要的要求，这些要求在不同的时间和地点有不同的强度。一是它必须看起来足够数学化，以避免来自数学同事们的批评。二是必须有足够的论文问题来维持活跃度。就我而言，我想再加上第三点，它应当适时地对数据分析产生有用的影响。我想前两种观点有个推论：如果它看起来是一个连贯的思想体系，有共同的原则等等，那么会是个有力的加分项。
 
-有一篇Fisher的论文，我临时引用可能不会很准确（Fisher，1929,[Statistics and Biological Research](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到以后这不一定是对的。我想说在特定的应用中，**非参数技术有助于保护侧翼不受想往其他方向的人的攻击。【疑问：这句话如何翻译？】**如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是说数据并不真正满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数化并不太适合对事物进行微妙的漫无边际的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好属性是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样清楚该往哪里走。我并不是说经典回归就很理想很棒，但它通常是一种尝试深入的自然方式。我认为这是阻碍非参数方法的一个因素。另一件我认为会阻碍非参数方法的事，是事实上你最终会试图为所有可能的输入提供证明。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰人们，但我认为它必须进入你对事物的感受。
+有一篇Fisher的论文，我临时引用可能不会很准确（Fisher，1929,[Statistics and Biological Research](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到以后这不一定是对的。我想说在特定的应用中，非参数技术有助于保护其侧翼免受来自其他方向人的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是说数据并不真正满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数并不太适合对事物进行精细的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好性质是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样清楚该往哪里走。我并不是说经典回归就很理想很棒，但它通常提供了一种可以进一步探索的自然的方法。我认为这是阻碍非参数方法的一个因素。另一个是，你会疲于试图证明所有可能的输入。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰人们，这种方法必须进入到你对事物的感知中。
 
 
 ![图5.John·W·图基，普林斯顿大学（早年）。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=466&width=508&top_left_y=85&top_left_x=642)
@@ -579,7 +579,7 @@ John：对.
 
 Elizabeth：John's father said to me that if John came to him with a question, they wouldn't necessarily answer it, but would give him the clues to go and look it up and to dig. And I think that is another very characteristic thing, that he's not afraid to jump in and look for something. When he went to Brown, he had not been any place where he had been with other school children his age. He'd had neighborhood friends but he was not part of a group. And I thought about this in my later years, because it's pretty outstanding that he is a lone figure in a way. There are plenty of people who know him and there are plenty of people who like him, but he remains-I think-just that. And I think it's because of the fact that he never went to school till he got to Brown. He commuted to college for two years and then he lived on campus. He was actually the class of 1937 but he graduated in three years, class of 1936 . Brown looked at this record and said "Oh gosh, you know, why don't you just go ahead (this was the spring before commencement)-why don't you take your degree now?" And then he stayed the extra year for the master's degree. His mother was very active in the community; she was head of the YW when I was first married. She taught school in Quincy, Massachusetts, and in Bridgton, Maine. In Maine, she said that when she woke up in the morning she had to break the ice on her bowl and pitcher set in order to get water to wash herself. But, she very shortly got a very good job at Quincy High School and then from there was hired for the New Bedford High School. She and John's father had met while they were at Bates College in the same class. John's father was teaching in Liberty, Missouri. They got married in 1912. John's mother had to give up her job when she married because the state of Massachusetts law declared that no two people in one family could work.
 
-Elizabeth：John的父亲对我说，**如果John来问他一个问题，他们不一定会回答，但会给他线索让他去查找发掘。**我认为这是另一个很有特点的事情，他不怕自己跳进（问题）找答案。当他去布朗大学时，他没有去过任何和他同龄的其他学生去过的地方。他有邻居朋友，但从不是某个团体的一部分。在我晚年的时候我就想到了这一点，因为他在某种程度上是一个孤独的人，这一点非常突出。有很多人认识他，也有很多人喜欢他，但我想他仍然保持原样。我认为这是因为他直到进了布朗大学才去上学。他上了两年的大学后，住进了校园里。他实际上是1937级的学生，但他在三年后和1936级学生一起毕业了。布朗（大学）看了他的成绩说：“哦，天哪，你知道，你为什么不继续攻读（这是毕业典礼前的春天）——你为什么不现在就拿学位呢？”然后他又多留了一年攻读硕士学位。他的母亲在社区里非常活跃；我刚结婚时，她是YW的负责人 **【疑问：YW不知道是什么，基督教女青年会？Young Women's Christian Association）。】** 她曾在马萨诸塞州的昆西（Quincy）和缅因州的布里奇顿（Bridgton）任教。她告诉我，在缅因州，当她早上醒来时，必须打破碗和水罐上的冰，以便取水洗漱。但是，她很快在昆西高中找到了一份很好的工作，然后从那里被新的贝德福德高中聘用。她和John的父亲是在贝茨学院同一个班认识的。John的父亲在密苏里州的自由市教书。他们于1912年结婚。John的母亲结婚后不得不放弃工作，因为马萨诸塞州的法律规定一个家庭中不可以有两个人工作。
+Elizabeth：John的父亲对我说，**如果John来问他一个问题，他们不一定会回答，但会给他线索让他去查找发掘。**我认为这是另一个很有特点的事情，他不怕自己跳进（问题）找答案。当他去布朗大学时，他没有去过任何和他同龄的其他学生去过的地方。他有邻居朋友，但从不是某个团体的一部分。在我晚年的时候我就想到了这一点，因为他在某种程度上是一个孤独的人，这一点非常突出。有很多人认识他，也有很多人喜欢他，但我想他仍然保持原样。我认为这是因为他直到进了布朗大学才去上学。他上了两年的大学后，住进了校园里。他实际上是1937级的学生，但他在三年后和1936级学生一起毕业了。布朗（大学）看了他的成绩说：“哦，天哪，你知道，你为什么不继续攻读（这是毕业典礼前的春天）——你为什么不现在就拿学位呢？”然后他又多留了一年攻读硕士学位。他的母亲在社区里非常活跃；我刚结婚时，她是YW的负责人（译者注：YW疑为基督教女青年会，Young Women's Christian Association）。她曾在马萨诸塞州的昆西（Quincy）和缅因州的布里奇顿（Bridgton）任教。她告诉我，在缅因州，当她早上醒来时，必须打破碗和水罐上的冰，以便取水洗漱。但是，她很快在昆西高中找到了一份很好的工作，然后从那里被新的贝德福德高中聘用。她和John的父亲是在贝茨学院同一个班认识的。John的父亲在密苏里州的自由市教书。他们于1912年结婚。John的母亲结婚后不得不放弃工作，因为马萨诸塞州的法律规定一个家庭中不可以有两个人工作。
 
 John：I think that's wrong. I think the state law was that married women didn't teach.
 
@@ -869,11 +869,11 @@ Elizabeth：1960年。
 
 John：Yes, I guess I wasn't involved in anything before that; the 1960 election. Things might have started in 1959 .
 
-John：是的，我想在1960年的选举之前我没有参与任何事情。事情可能始于1959年。
+John：是的，我想在1960年之前的选举我完全没有参与。事情可能始于1959年。
 
 Elizabeth：It was tied in with the development of the computer because RCA did this originally to advertise their new computer. They were separate from NBC, though they owned them.
 
-Elizabeth：它与计算机的发展紧密相连，因为RCA（Radio Corporation of America，美国无限电公司）这样做最初是为了宣传他们的新计算机。虽然他们拥有NBC（National Broadcasting Company，全美广播公司）但他们与NBC是分开的。
+Elizabeth：它与计算机的发展紧密相连，因为RCA（Radio Corporation of America，美国无限电公司）这样做最初是为了宣传他们的新计算机。虽然他们拥有NBC（National Broadcasting Company，全美广播公司），但他们与NBC是分开的。
 
 Q：And the Kennedy election was relatively difficult.
 
@@ -893,7 +893,7 @@ Elizabeth：不，是那个。
 
 John：I'm sorry, my recollection is different. The one where one of our friends was on for one of the other networks and had to come up and apologize because it was turning out that he'd been wrong when he called it. One way or another, I was involved from 1960 to 1980 , mainly in presidential elections. I think once or twice in the intervening ones. The techniques developed through the years. Some of the rest of us, especially David Wallace, had a lot to do with how they were developed. Initially, we were just looking at what the current return was in a state and the history of how the deviation from the final answer had behaved in terms of percent voting in previous elections, which was called an $m$-curve. There got to be more and more complicated calculational procedures that eventually ended up with two up-and-down stages. One calculation taking the estimated turnout up and then down again: the top, say, is the whole state and the bottom is individual precincts or groups of precincts; another pass, up and down, for what the vote percentage was going to be.
 
-John：对不起，这和我记忆中的不一样。那是我们的一个朋友在另一个网络上，他不得不过来道歉，因为结果证明他预测错了。我以某种方式参与了1960年到1980年间的（选举），主要是总统选举。我想（我参与了）这期间选举中的一到两次。这些（选举统计）技术随着时间的推移而发展。我们中的一些人，特别是David Wallace，与它们（这些技术）的发展有很大关系。最初，我们只是看看一个州的当前回复率是多少，以及在以前的选举中，与最终答案的偏差在投票率方面的历史表现，这被称为$m$-曲线。计算过程越来越复杂，最终演变成有两个上升和下降阶段。一种计算方法是将估计（的结果）先升后降：比如说，顶部是整个州，底部是单个选区或选区组；另一个先升后降的过程是关于投票率将会如何表现。
+John：对不起，这和我记忆中的不一样。那是我们的一个朋友在另一个网点上，他不得不过来道歉，因为结果证明他预测错了。我以某种方式参与了1960年到1980年间的选举分析，主要是总统大选。一两次是中期选举。选举统计技术与时俱进。我们中的一些人，特别是David Wallace，与这些技术的发展关系很大。最初，我们只是看看一个州的当前回复率是多少，以及在以前的选举中，与最终答案的偏差在投票率方面的历史表现，这被称为$m$-曲线。计算过程越来越复杂，最终演变成有两个上升和下降阶段。一种计算方法是将估计（的结果）先升后降：比如说，顶部是整个州，底部是单个选区或选区组；另一个先升后降的过程是关于投票率将会如何表现。
 
 Q：And the input data were actual counts?
 
@@ -917,7 +917,7 @@ John：是的，有一次，在广播城的时候，机器出了状况，有人�
 
 Elizabeth：That was kind of tense, though. That first night, it was so close that the NBC management didn't believe they could trust the figures that had come from the statisticians and, instead of allowing them to go home, they locked them up there. They did not let the statisticians out until eight thirty in the morning. And you were all right, that's the other thing.
 
-Elizabeth：不过那有点紧张。第一天晚上，距离如此之近，以至于NBC管理层不相信他们能信任统计员提供的数据，他们（管理层）把他们（统计员）锁在那儿不让他们回家。直到早上八点半才让统计员出去。而你们是正确的，那是另一回事。
+Elizabeth：不过那有点紧张。第一天晚上，距离如此之近，以至于NBC管理层不相信他们能信任统计员提供的数据，他们把统计员锁在那儿不让他们回家。直到早上八点半才让统计员出去。而你们是正确的，那是另一回事。
 
 John：Yes, that's the election where the river wards in Chicago were crucial. And there was a question of one set of people holding up an equal number of areas for those the other one was holding up. And nobody wanted to come down and say for the benefit of the other side we twist a little to make Illinois come in. This is the nearest thing to real-time statistics that exists as far as I know. Because you're supposed to be fast, but not make any mistakes.
 
