@@ -1,4 +1,4 @@
-# John Wilder Tukey $(1915-2000)$
+# John Wilder Tukey (1915-2000)
 
 David R. Brillinger
 
@@ -186,7 +186,7 @@ NBC在1980年停止参与约翰。一个原因是，出口民意测验，人们�
 
 **Information Retrieval.** Starting in the mid-1960s, John Tukey sought to bring order to the literature of statistics and probability by constructing indexes of the papers of those fields. He had done extensive work for Mathematical Reviews and prepared bibliographies before, e.g., for time series, and perhaps this is what spurred him on. In particular he constructed a citation index. Regarding that effort, it is impressive to see the roll call of eminent statisticians that JWT recruited to compile the papers and the reference lists. The citation index that was constructed then was one of the earliest outside of the legal profession. JWT constructed other indices as well. These were taken over later by the American Mathematical Society and are part of MathSciNet.
 
-**信息检索。**从1960年代中期开始，约翰·图基（John Tukey）试图通过构建这些领域论文的索引来为统计和概率文献带来秩序。他在数学评论中做了广泛的工作，并准备了书目，例如时间序列，也许这就是激励他的原因。特别是他构建了引文索引。关于这一努力，令人印象深刻的是，JWT招募了著名的统计学家来编译论文和参考列表。当时构建的引文指数是法律界最早的引文指数之一。JWT也构建了其他指数。这些人后来被美国数学学会接管，是MathScinet的一部分。
+**信息检索。** 从1960年代中期开始，约翰·图基（John Tukey）试图通过构建这些领域论文的索引来为统计和概率文献带来秩序。他在数学评论中做了广泛的工作，并准备了书目，例如时间序列，也许这就是激励他的原因。特别是他构建了引文索引。关于这一努力，令人印象深刻的是，JWT招募了著名的统计学家来编译论文和参考列表。当时构建的引文指数是法律界最早的引文指数之一。JWT也构建了其他指数。这些人后来被美国数学学会接管，是MathScinet的一部分。
 
 After retirement JWT consulted at Xerox PARC. His name, with a variety of co-inventors from that company, appears on quite a number of patents, some of the key words of which are: information access, ordering document clusters, identifying drop words, generating thematic summaries, automatic document summarization, phase query formation.
 
@@ -276,7 +276,7 @@ The Mosteller-Tukey bombing example mentioned above gives an indication of the d
 **Robustness.** Robustness refers to the property of a procedure remaining effective even in the absence of usual assumptions such as normality and no incorrect data values. In simplest terms the idea is to improve upon the use of the simple arithmetic average in estimating the center of a distribution. As a simple case one can ask: Is it ever better to use the sample median than the sample mean, and if so, when?
 
 
-**鲁棒性。**鲁棒性是指程序的属性，即使没有通常的假设，例如正态性和不正确的数据值，也是有效的。用最简单的话来说，想法是改善使用简单算术平均值来估计分布中心的使用。作为一个简单的情况，人们可以提出：使用样品中位数比样品平均值更好，如果是，什么时候？
+**鲁棒性。** 鲁棒性是指程序的属性，即使没有通常的假设，例如正态性和不正确的数据值，也是有效的。用最简单的话来说，想法是改善使用简单算术平均值来估计分布中心的使用。作为一个简单的情况，人们可以提出：使用样品中位数比样品平均值更好，如果是，什么时候？
 
 Tukey had gotten interested in the problem of robustness in the last stages of his work at 20 Nassau Street. He remarked that C. P. Winsor taught him to beware of extreme deviates. The two learned, for example, that if you add $0.1$ percent of a Gaussian three times as spread out as a basic Gaussian, then the mean deviation does better than the classic standard deviation as a way of measuring scale.
 
@@ -328,7 +328,7 @@ EDA的某些部分很丑陋，但是现实世界很丑陋，尤其是当错误�
 
 **Statistical Graphics.**
 
-EDA的某些部分很丑陋，但是现实世界很丑陋，尤其是当错误和其他异常材料进入数据集时。
+**统计图**
 
 > The best single device for suggesting, and at times answering, questions beyond those originally posed is the graphical display.
 
@@ -360,11 +360,11 @@ Another novel idea of his was dyadic ANOVA, an analysis of variance for vectors.
 
 **Multiple Comparisons.** In many statistical situations there is a concern to control the error rate of statements being made. Difficulties arise if one gives in to temptations associated with the application of a number of tests to the same data set, as in asking several questions at the same time, or in carrying out several analyses of the same data set.
 
-**多次比较。**在许多统计情况下，有一个关注的问题可以控制所作的陈述错误率。如果人们屈服于与在同一数据集中应用许多测试相关的诱惑，例如同时提出几个问题，或者在进行相同数据集的几个分析时，就会出现困难。
+**多重比较。** 在许多统计情况下，有一个关注的问题可以控制所作的陈述错误率。如果人们屈服于与在同一数据集中应用许多测试相关的诱惑，例如同时提出几个问题，或者在进行相同数据集的几个分析时，就会出现困难。
 
 This is another problem that JWT acknowledged working on for a number of years before developing a solution. He actually commented once on how few papers he had written during that period. His solution was developed in a famous 1953 unpublished manuscript, "The problem of multiple comparisons". It now appears in the Collected Works.
 
-这是JWT在开发解决方案之前认可的另一个问题。实际上，他曾经评论过他在那个时期写的论文很少。他的解决方案是在1953年著名的未发表手稿“多次比较的问题”中开发的。现在出现在收集的作品中。
+这是JWT在开发解决方案之前认可的另一个问题。实际上，他曾经评论过他在那个时期写的论文很少。他的解决方案是在1953年著名的未发表手稿“多重比较的问题”中开发的。现在出现在收集的作品中。
 
 The Tukey technique is often seen under the rubric of the "honestly significantly difference" (HSD) test, another term that is JWT's. In later years JWT moved on to using the false discovery rate (FDR) of Benjamini and Hochsted when many things were being compared.
 
@@ -402,7 +402,7 @@ Tukey技术通常是在“诚实差异”（HSD）测试的标题下看到的，
 
 **The Jackknife.**  This is a tool that Tukey proposed and used for CDA over many years. In naive terms it provides an indication of the uncertainty of an estimate by judiciously combining estimates based on subsets of the full data set.
 
-**折刀。**这是Tukey多年来建议和用于CDA的工具。从天真的角度来看，它通过根据完整数据集的子集明智地组合估计来表明估计值的不确定性。
+**刀切法。** 这是Tukey多年来建议和用于CDA的工具。从天真的角度来看，它通过根据完整数据集的子集明智地组合估计来表明估计值的不确定性。
 
 He called the procedure the jackknife because
 
@@ -463,7 +463,7 @@ Tukey FFT工作的另一面是他和他的合作者在算法中找到了新颖�
 
 # Concluding Remarks
 
-# 总结
+# 结束语
 
 ## Support and Recognition
 
