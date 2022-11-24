@@ -928,11 +928,11 @@ John：是的，有一次，在广播城的时候，机器出了状况，有人�
 
 Elizabeth：That was kind of tense, though. That first night, it was so close that the NBC management didn't believe they could trust the figures that had come from the statisticians and, instead of allowing them to go home, they locked them up there. They did not let the statisticians out until eight thirty in the morning. And you were all right, that's the other thing.
 
-Elizabeth：不过那有点紧张。第一天晚上，距离如此之近，以至于NBC管理层不相信他们能信任统计员提供的数据，他们把统计员锁在那儿不让他们回家。直到早上八点半才让统计员出去。而最终你们是正确的，那是另一回事。
+Elizabeth：那还真是紧张。第一天晚上，两边差距如此之近，以至于NBC管理层不能信任统计员提供的数据，他们把统计员锁在那儿不让他们回家。直到早上八点半才让统计员出去。好在最终你们是正确的，不过那是另一回事了。
 
 John：Yes, that's the election where the river wards in Chicago were crucial. And there was a question of one set of people holding up an equal number of areas for those the other one was holding up. And nobody wanted to come down and say for the benefit of the other side we twist a little to make Illinois come in. This is the nearest thing to real-time statistics that exists as far as I know. Because you're supposed to be fast, but not make any mistakes.
 
-John：是的，那次选举芝加哥的河区（river wards）至关重要。有一个问题是，两边旗鼓相当，难分胜负。没有人愿意为了对方的利益，承认自己选区支持率降下来。我们稍微转变了一下，才把伊利诺伊州的数字加了进来。据我所知，这是最接近实时统计的情况。因为你必须要很快，且不能犯任何错误。
+John：是的，那次选举芝加哥的河区（river wards）是关键选区。有一个问题是，两边旗鼓相当，难分胜负。没有人愿意让自己的支持率数字下降，以致让对手获利。我们后来稍微转变了一下思路，把伊利诺伊州的数据加了进来，因为伊利诺伊州的数据是当时我们能知道的最接近实时统计结果的。因为你必须要很快，且不能犯任何错误。
 
 Elizabeth：And you didn't. You all didn't. You never had any fiascoes.
 
@@ -960,7 +960,7 @@ Q：统计学家是否接受过出境采访？
 
 Elizabeth：No. John may have been on once. The only thing that was interesting actually happened to me. John fixed me up with a computer screen so he could ask me some questions. I could answer right away, so I was sitting there beside him all these various times. And one night, it was about two thirty and they kept the studio stone cold because of the equipment so that you were almost frozen. And they were running the camera around the room and you know this was a minute or two they had when nothing was going on, so I'm sitting there looking at the screen-in my coat-and all at once, what did I see on the screen, but me. I fortunately got out of the picture, before I reacted. That was really kind of fun and so I am in the archives at NBC.
 
-Elizabeth：没有，John可能有过一次。唯一有趣的事情发生在我身上。John给我安装了一个电脑屏幕，这样他问我一些问题，我可以马上回答。所以我一直坐在他旁边。一天晚上，大约两点半的时候，由于设备的原因，他们把工作室里弄得冷到你简直快要冻僵了。他们拿摄像机在房间里拍摄。大概一到两分钟，什么事都没有做。所以我穿着外套坐在那里看着屏幕，突然，我在屏幕上看到了什么，除了我以外。幸好，在我做出反应之前，我已经出了画面。那真的很有趣，所以我在NBC的存档里。
+Elizabeth：没有，John可能有过一次。但唯一有趣的事情其实发生在我身上。John给我安装了一个电脑屏幕，这样他问我一些问题，我可以马上回答。所以我一直坐在他旁边。一天晚上大约两点半的时候，由于设备坏了，工作室里人快要冻僵了。然后他们在没什么事情发生的间隙，拿着摄像机在房间里拍摄。我就穿着我的厚外套坐在那里看着屏幕，突然我在屏幕上看到了我自己。幸好在我做出反应之前，我已经出了画面。我就是这样有趣的被留在NBC的存档里。
 
 Q：Elizabeth and John, we thank you for your hospitality and for this most enjoyable conversation.
 
