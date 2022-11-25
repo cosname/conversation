@@ -14,8 +14,9 @@
 下面是统计之都准备组织翻译的采访稿。欢迎您一起来参与！
 
 - [John Tukey](./pdf/JohnTukey.pdf)，[Markdown版](./translate/Tukey.md)。状态：审校中
-- [John Wilder Tukey(1915-2000)](./pdf/fea-tukey.pdf)，[Markdown版](./translate/fea-tukey.md)。状态：翻译组
-- [Bradley Efron](./pdf/Efron.pdf)，[Markdown版](./translate/Efron.md)。状态：准备中
+- [John Wilder Tukey(1915-2000)](./pdf/fea-tukey.pdf)，[Markdown版](./translate/fea-tukey.md)。状态：翻译中
+- [Donoho：数据科学50年](./pdf/50-Years-of-Data-Science.pdf)，[Markdown版](./translate/50-Years-of-Data-Science-EN+CN.md)。状态：翻译中
+- [Bradley Efron](./pdf/Efron.pdf)，[Markdown版](./translate/Efron.md)。状态：翻译中
 - [George Box](./pdf/George-Box.pdf)，[Markdown版](./translate/George-Box.md)。状态：准备中
 - [D R COX](./pdf/D-R-Cox.pdf)，[Markdown版](./translate/D-R-Cox.md)。状态：准备中
 
