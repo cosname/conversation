@@ -135,7 +135,7 @@ The following points about the U of M DSI will be very telling to such statistic
 
 Inevitably, many academic statisticians will perceive that statistics is being marginalized here; $^{3}$ the implicit message in these observations is that statistics is a part of what goes on in data science but not a very big part. At the same time, many of the concrete descriptions of what the DSI will actually do will seem to statisticians to be bread-and-butter statistics. Statistics is apparently the word that dare not speak its name in connection with such an initiative! $^{4,5}$
 
-不可避免地，许多学术统计学家会认为统计在这里被边缘化$^{3}$；这些观察中隐含的信息是，统计是数据科学的一部分，但不是很大的一部分。同时，对DSI实际操作的许多具体描述，在统计学家看来似乎都是些勉强糊口的统计学。统计显然是一个不敢说出自己名字的词$^{4,5}$。 
+不可避免地，许多学术统计学家会认为统计在这里被边缘化 $^{3}$；这些观察中隐含的信息是，统计是数据科学的一部分，但不是很大的一部分。同时，对DSI实际操作的许多具体描述，在统计学家看来似乎都是些勉强糊口的统计学。统计显然是一个不敢说出自己名字的词 $^{4,5}$。 
 
 
 Searching the web for more information about the emerging term "data science," we encounter the following definitions from the Data Science Association's "Professional Code of Conduct" (http://www.datascienceassn.org/code-of-conduct.html)
@@ -232,7 +232,7 @@ We can immediately reject "big data" as a criterion for meaningful distinction b
 我们可以立即拒绝将“大数据”作为统计学和数据科学之间有意义区分的标准 $^{12}$。
 
 
-- **History**. The very term "statistics" was coined at the beginning of modern efforts to compile census data, that is, comprehensive data about all inhabitants of a country, for example, France or the United States. Census data are roughly the scale of today's big data; but they have been around more than 200 years! A statistician, Hollerith, invented the first major advance in big data: the punched card reader to allow efficient compilation of an exhaustive U.S. census. (http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datasciencel) This advance led to formation of the IBM corporation which eventually became a force pushing computing and data to ever larger scales. Statisticians have been comfortable with large datasets for a long time, and have been holding conferences gathering together experts in "large datasets" for several decades, even as the definition of large was ever expanding.$^{14}$
+- **History**. The very term "statistics" was coined at the beginning of modern efforts to compile census data, that is, comprehensive data about all inhabitants of a country, for example, France or the United States. Census data are roughly the scale of today's big data; but they have been around more than 200 years! A statistician, Hollerith, invented the first major advance in big data: the punched card reader to allow efficient compilation of an exhaustive U.S. census. (http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datasciencel) This advance led to formation of the IBM corporation which eventually became a force pushing computing and data to ever larger scales. Statisticians have been comfortable with large datasets for a long time, and have been holding conferences gathering together experts in "large datasets" for several decades, even as the definition of large was ever expanding. $^{14}$
 
 - **历史**。“统计”一词是在现代人口普查数据编制工作之初创造的，即一个国家（例如法国或美国）所有居民的综合数据。人口普查数据大致相当于当今大数据的规模；但它们已经存在了200多年！统计学家霍尔瑞斯发明了大数据领域的第一个重大进步：穿孔卡片阅读器，可以有效地汇编详尽的美国人口普查数据。(http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datasciencel)这一进步导致了IBM公司的成立，该公司最终成为推动计算和数据规模不断扩大的力量。长期以来，统计学家对大型数据集很熟悉，几十年来，他们一直在召集“大型数据集”专家开会，尽管大型数据集的定义不断扩大 $^{14}$。
 
@@ -396,9 +396,9 @@ In this article, I organize insights that have been published over the years abo
 
 # 3. 数据分析的未来, 1962
 
-This article was prepared as an aide-memoire for a presentation made at the John Tukey centennial. More than 50 years ago, John prophesied that something like today's data science moment would be coming. In "The Future of Data Analysis" (Tukey 1962), John deeply shocked his readers (academic statisticians) with the following introductory paragraphs:$^{21}$
+This article was prepared as an aide-memoire for a presentation made at the John Tukey centennial. More than 50 years ago, John prophesied that something like today's data science moment would be coming. In "The Future of Data Analysis" (Tukey 1962), John deeply shocked his readers (academic statisticians) with the following introductory paragraphs: $^{21}$
 
-这篇文章是作为John Tukey百年纪念演讲的备忘录准备的。50多年前，John预言今天的数据科学时刻即将到来。在《数据分析的未来》（Tukey 1962）中，John用以下介绍性段落深深震撼了他的读者（学术统计学家）$^{21}$：
+这篇文章是作为John Tukey百年纪念演讲的备忘录准备的。50多年前，John预言今天的数据科学时刻即将到来。在《数据分析的未来》（Tukey 1962）中，John用以下介绍性段落深深震撼了他的读者（学术统计学家） $^{21}$：
 
 > For a long time I have thought I was a statistician, interested in inferences from the particular to the general. But as I have watched mathematical statistics evolve, I have had cause to wonder and to doubt. ..All in all I have come to feel that my central interest is in data analysis, which I take to include, among other things: procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data
 
@@ -1125,7 +1125,7 @@ Some say that 80% of the effort devoted to data science is expended by diving in
 
 - Preparation. Many datasets contain anomalies and artifacts. $^{39}$ Any data-driven project requires mindfully identifying and addressing such issues. Responses range from reformatting and recoding the values themselves, to more ambitious preprocessing, such as grouping, smoothing, and subsetting. Often today, one speaks colorfully of data cleaning and data wrangling.
 
-- 准备。许多数据集包含异常和伪影$^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子设置。今天，人们经常谈论数据清理和数据争论。
+- 准备。许多数据集包含异常和伪影 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子设置。今天，人们经常谈论数据清理和数据争论。
 
 
 - Exploration. Since John Tukey's coining of the term "exploratory data analysis" (EDA), we all agree that every data scientist devotes serious time and effort to exploring data to sanity-check its most basic properties, and to expose unexpected features. Such detective work adds crucial insights to every data-driven endeavor.  $^{40}$ 
