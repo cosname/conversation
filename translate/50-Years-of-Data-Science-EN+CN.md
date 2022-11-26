@@ -1302,8 +1302,7 @@ As data analysis and predictive modeling becomes an ever more widely distributed
 
 These six categories of activity, when fully scoped, cover a field of endeavor much larger than what current academic efforts teach or study.  $^{44,45}$ Indeed, a single category-"GDS5: Data Modeling"-dominates the representation of data science in today's academic departments, either in statistics and mathematics departments through traditional statistics teaching and research, or in computer science departments through machine learning.
 
-这六类活动，如果范围充分，涵盖的领域远远大于当前学术努力所教授或研究的领域 $^｛44，45｝$事实上，“GDS5：数据建模”这一单一类别主导了当今学术部门中数据科学的表现，无论是通过传统统计教学和研究在统计和数学部门，还是通过机器学习在计算机科学部门。
-
+这六类活动，如果范围充分，涵盖的领域远远大于当前学术努力所教授或研究的领域 $^{44,45}$。事实上，“GDS5：数据建模”这一单个类别主导了当今学术部门中数据科学的表现，无论是通过传统统计教学和研究在统计和数学部门，还是通过机器学习在计算机科学部门。
 
 This parsing-out reflects various points we have been trying to make earlier:
 
@@ -1317,17 +1316,17 @@ This parsing-out reflects various points we have been trying to make earlier:
 
 - The tension between machine learning and academic statistics is suppressed in the above classification; much of it is irrelevant to what data scientists do on a daily basis. As I say above, data scientists should use both generative and predictive modeling.
 
-- 机器学习和学术统计之间的紧张关系在上述分类中被抑制；其中大部分与数据科学家每天的工作无关。正如我上面所说，数据科学家应该同时使用生成和预测建模。
+- 机器学习和学术统计之间的紧张关系在上述分类中被遮盖；其中大部分与数据科学家每天的工作无关。正如我上面所说，数据科学家应该同时使用生成和预测建模。
 
  
 - The hoopla about distributed databases, Map/Reduce, and Hadoop is not evident in the above classification. Such tools are relevant for "GDS2: Data Representation" and "GDS3: Computing with Data" but although they are heavily cited right now, they are simply today's enablers of certain larger activities. Such activities will be around permanently, while the role for enablers like Hadoop will inevitably be streamlined away.
 
 - 关于分布式数据库、Map/Reduce和Hadoop的喧嚣在上述分类中并不明显。这些工具与“GDS2：数据表示”和“GDS3：数据计算”相关，但尽管它们现在被大量引用，但它们只是当今某些更大活动的推动者。这样的活动将永久存在，而Hadoop等推动者的角色将不可避免地被精简。
 
-
 - Current masters programs in data science cover only a fraction of the territory mapped out here. Graduates of such programs would not have had sufficient exposure to exploring data, data cleaning, data wrangling, data transformation, science about data science, and other topics in GDS.
 
-- 当前的数据科学硕士课程仅涵盖此处所示领域的一小部分。这类课程的毕业生不会有足够的机会探索数据、数据清理、数据争论、数据转换、关于数据科学的科学以及GDS中的其他主题。
+- 当前的数据科学硕士课程仅涵盖此处所示领域的一小部分。这类课程的毕业生不会有足够的机会探索数据、数据清理、数据整理、数据转换、关于数据科学的科学以及GDS中的其他主题。
+
 
 
 Other features of this inventory will emerge below.
@@ -1336,7 +1335,7 @@ Other features of this inventory will emerge below.
 
 > [44]: John Chambers' 1993 vision of "greater statistics" proposed three divisions: data preparation, data modeling, and data presentation. We accommodated them here in "GDS1: Data Exploration and Preparation;" "GDS5: Data Modeling," and "GDS4: Data Visualization and Presentation," respectively.
 
-> [44] John Chambers 1993年提出的“更大的统计”愿景提出了三个部分：数据准备、数据建模和数据呈现。我们在“GDS1：数据探索和准备；”分别为“GDS5：数据建模”和“GDS4：数据可视化和表示”。
+> [44] John Chambers 1993年提出的“大统计”愿景提出了三个部分：数据准备、数据建模和数据展示。我们在“GDS1：数据探索和准备；”分别为“GDS5：数据建模”和“GDS4：数据可视化和展示”。
 
 
 > [45]: Cleveland's 2001 program for data science included several categories which can be mapped onto (subsets) of those proposed here, for example:
@@ -1345,21 +1344,20 @@ Other features of this inventory will emerge below.
 > - His category "Computing with Data" maps onto a subset of GDS' category of the same name; the GDS category has expanded to cover developments such as Hadoop and AWS that were not yet visible in 2001.
 > - Cleveland's category "Tool Evaluation" can be mapped onto a subset of "GDS6: Science about Data Science"
 
-> [45] Cleveland2001年的数据科学计划包括几个类别，可以映射到这里提出的类别（子集），例如：
-> - 他的类别“用数据计算”映射到GDS同名类别的子集；GDS类别已经扩展到包括Hadoop和AWS等2001年尚未出现的开发。
+> [45] Cleveland 2001年的数据科学计划包括几个类别，可以映射到这里提出的类别（子集），例如：
+> - 他的类别“数据计算”映射到GDS同名类别的子集；GDS类别已经扩展到包括Hadoop和AWS等2001年尚未出现的开发。
 > - Cleveland的类别“工具评估”可以映射到“GDS6：关于数据科学的科学”的子集上
 > - Cleveland的类别“工具评估”可以映射到“GDS6：关于数据科学的科学”的子集上
 
 
 > [46]: Cleveland also allocated resources to multidisciplinary investigations and pedagogy. It seems to me that these can be mapped onto subsets of our categories. For example, pedagogy ought to be part of the science about data science-we can hope for evidence-based teaching. 
 
-> [46] Cleveland还为多学科调查和教学分配了资源。在我看来，这些可以映射到我们类别的子集上。例如，教育学应该是数据科学的一部分，我们可以期待循证教学。
+> [46] Cleveland还为多学科调查和教学分配了资源。在我看来，这些可以映射到我们类别的子集上。例如，教学方法应该是数据科学的一部分，我们可以期待循证教学。
 
 
 > [47] In our opinion, the scaling problems though real are actually transient (because technology will trivialize them over time). The more important activity encompassed under these divisions are the many ambitious and even audacious efforts to reconceptualize the standard software stack of today's data science.
 
-> [47] 在我们看来，缩放问题虽然是真实的，但实际上是暂时的（因为随着时间的推移，技术会使它们变得微不足道）。这些部门所包含的更重要的活动是许多雄心勃勃甚至大胆的努力，以重新定义当今数据科学的标准软件堆栈。
-
+> [47] 在我们看来，缩放问题虽然是真实的，但实际上是暂时的（因为随着时间的推移，技术会使它们变得微不足道）。这些部门所包含的更重要的活动是许多雄心勃勃甚至大胆的努力，以重新定义当今数据科学的标准软件栈。
 
 > [48] Practically speaking, every statistician has to master database technology in the course of applied projects. 
 
