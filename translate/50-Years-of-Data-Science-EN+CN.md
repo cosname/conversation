@@ -14,10 +14,10 @@ David Donoho  加利福尼亚州 斯坦福大学统计系
 
 More than 50 years ago, John Tukey called for a reformation of academic statistics. In "The Future of Data Analysis," he pointed to the existence of an as-yet unrecognized science, whose subject of interest was learning from data, or "data analysis." Ten to 20 years ago, John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again urged academic statistics to expand its boundaries beyond the classical domain of theoretical statistics; Chambers called for more emphasis on data preparation and presentation rather than statistical modeling; and Breiman called for emphasis on prediction rather than inference. Cleveland and Wu even suggested the catchy name "data science" for this envisioned field. A recent and growing phenomenon has been the emergence of "data science" programs at major universities, including UC Berkeley, NYU, MIT, and most prominently, the University of Michigan, which in September 2015 announced a $100M "Data Science Initiative" that aims to hire 35 new faculty. Teaching in these new programs has significant overlap in curricular subject matter with traditional statistics courses; yet many academic statisticians perceive the new programs as "cultural appropriation." This article reviews some ingredients of the current "data science moment," including recent commentary about data science in the popular media, and about how/whether data science is really different from statistics. The now-contemplated field of data science amounts to a superset of the fields of statistics and machine learning, which adds some technology for "scaling up" to "big data." This chosen superset is motivated by commercial rather than intellectual developments. Choosing in this way is likely to miss out on the really important intellectual event of the next 50 years. Because all of science itself will soon become data that can be mined, the imminent revolution in data science is not about mere "scaling up," but instead the emergence of scientific studies of data analysis science-wide. In the future, we will be able to predict how a proposal to change data analysis workflows would impact the validity of data analysis across all of science, even predicting the impacts fieldby-field. Drawing on work by Tukey, Cleveland, Chambers, and Breiman, I present a vision of data science based on the activities of people who are "learning from data," and I describe an academic field dedicated to improving that activity in an evidence-based manner. This new field is a better academic enlargement of statistics and machine learning than today's data science initiatives, while being able to accommodate the same short-term goals. Based on a presentation at the Tukey Centennial Workshop, Princeton, NJ, September 18 , 2015.
 
-50多年前，John Tukey呼吁对【学术统计学】进行改革。在《数据分析之未来》(The Future of Data Analysis)一书中，他指出了一门尚未被认识到的科学的存在，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 再次独立地敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的主要大学都出现了“数据科学”项目，最知名的是密歇根大学（University of Michigan）于2015年9月宣布了一项耗资1亿美元的“数据科学计划”，要招聘35名新教师。这些新课程的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为【“移花接木”】。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近广泛传播的媒体上关于数据科学的评论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个选择的超集是由商业而非【智力发展】驱动的。这样的选择，很可能会错过未来50年真正重要的智力活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是整个科学范围内数据分析科学研究的出现。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。借鉴Tukey、Cleveland、Chambers和Breiman的工作，我提出了一个基于“从数据中学习”的人的活动的数据科学愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够适应同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
+50多年前，John Tukey呼吁对<font color='red'>【**学术统计学**】</font>进行改革。在《数据分析之未来》(The Future of Data Analysis)一书中，他指出了一门尚未被认识到的科学的存在，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 再次独立地敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的主要大学都出现了“数据科学”项目，最知名的是密歇根大学（University of Michigan）于2015年9月宣布了一项耗资1亿美元的“数据科学计划”，要招聘35名新教师。这些新课程的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为<font color='red'>【**“移花接木”**】</font>。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近广泛传播的媒体上关于数据科学的评论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个选择的超集是由商业而非<font color='red'>【**才智发展**】</font>驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是整个科学范围内数据分析科学研究的出现。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。借鉴Tukey、Cleveland、Chambers和Breiman的工作，我提出了一个基于“从数据中学习”的人的活动的数据科学愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够适应同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
 
 
-【疑问：学术统计学不好翻译，学院派统计学？高校统计学？cultural appropriation如何翻译？【】中的为有疑问的翻译】
+<font color='red'>【**疑问：学术统计学不好翻译，学院派统计学？高校统计学？cultural appropriation如何翻译？<font color='red'>【**】</font>中的为有疑问的翻译**】</font>
 
 # 1. Today's Data Science Moment
 
@@ -73,7 +73,7 @@ There are new announcements of such initiatives weekly. $^{2}$
 
 > [2] 有关学位课程的更新的交互式地理图，请参见 http://data-science-university-programs.silk.co
 
-【疑问：疑问的缩略表可以删除】
+<font color='red'>【**疑问：疑问的缩略表可以删除**】</font>
 # 2. Data Science "Versus" Statistics
 
 # 2. 数据科学与统计
@@ -209,7 +209,7 @@ Clearly, there are many visions of data science and its relation to statistics. 
 
 显然，有许多关于数据科学及其与统计的关系的观点。在我与其他人的讨论中，我遇到了某些反复出现的“模因”(memes)。我现在依次处理主要的。
 
-【根据《牛津英语词典》，meme被定义为：“文化的基本单位，通过非遗传的方式，特别是模仿而得到传递”。meme这个词最初源自英国著名科学家理查德·道金斯（Richard Dawkins）所著的《自私的基因》（The Selfish Gene）一书，其含义是指“在诸如语言、观念、信仰、行为方式等的传递过程中与基因在生物进化过程中所起的作用相类似的那个东西。” 为了读上去与gene一词相似，道金斯去掉希腊字根mimeme（原意是模仿的意思）的词头mi，把它变为meme，这样的改变还很容易使人“联想到跟英文的“记忆”（memory）一词有关，或是联想到法文的“同样”或“自己”（meme）一词。”】
+<font color='red'>【**根据《牛津英语词典》，meme被定义为：“文化的基本单位，通过非遗传的方式，特别是模仿而得到传递”。meme这个词最初源自英国著名科学家理查德·道金斯（Richard Dawkins）所著的《自私的基因》（The Selfish Gene）一书，其含义是指“在诸如语言、观念、信仰、行为方式等的传递过程中与基因在生物进化过程中所起的作用相类似的那个东西。” 为了读上去与gene一词相似，道金斯去掉希腊字根mimeme（原意是模仿的意思）的词头mi，把它变为meme，这样的改变还很容易使人“联想到跟英文的“记忆”（memory）一词有关，或是联想到法文的“同样”或“自己”（meme）一词。”**】</font>
 
 
 
@@ -261,7 +261,7 @@ The data-science = “big data” framework is not getting at anything very intr
 
 > [14] During the Centennial workshop, one participant pointed out that John Tukey's definition of "big data" was: "anything that won't fit on one device." In John's day the device was a tape drive, but the larger point is true today, where device now means "commodity file server." The data-science $=$ "big data" framework is not getting at anything very intrinsic about the respective fields.
 
-> [14] 在百年研讨会期间，一位与会者指出，John Tukey对“大数据”的定义是：“任何不适合一台设备的东西”。在John的时代，设备是一个磁带机，但今天更重要的是，设备现在意味着【“商品文件服务器”（commodity file server）】。数据科学 = “大数据”框架没有触及各个领域的任何本质。
+> [14] 在百年研讨会期间，一位与会者指出，John Tukey对“大数据”的定义是：“任何不适合一台设备的东西”。在John的时代，设备是一个磁带机，但今天更重要的是，设备现在意味着<font color='red'>【**“商品文件服务器”（commodity file server）**】</font>。数据科学 = “大数据”框架没有触及各个领域的任何本质。
 
 > [15] It may be getting at something real about the master's degree programs, or about the research activities of individuals who will be hired under the new spate of DSI's.
 
@@ -365,7 +365,7 @@ Data science degree programs do not actually know how to satisfy the supposedly 
 
 We have seen that today's popular media tropes about data science do not withstand even basic scrutiny. This is quite understandable: writers and administrators are shocked out of their wits. Everyone believes we are facing a zeroth order discontinuity in human affairs.
 
-我们已经看到，今天广泛传播的媒体关于数据科学的比喻甚至经不起基本的推敲。这是完全可以理解的：作家和管理者们都惊呆了。每个人都认为我们面临着人类事务中的【零阶不连续性】。
+我们已经看到，今天广泛传播的媒体关于数据科学的比喻甚至经不起基本的推敲。这是完全可以理解的：作家和管理者们都惊呆了。每个人都认为我们面临着人类事务中的<font color='red'>【**零阶不连续性**】</font>。
 
 If you studied a tourist guidebook in 2010, you would have been told that life in villages in India (say) had not changed in thousands of years. If you went into those villages in 2015, you would see that many individuals there now have mobile phones and some have smartphones. This is of course the leading edge fundamental change. Soon, eight billion people will be connected to the network, and will therefore be data sources, generating a vast array of data about their activities and preferences.
 
@@ -390,7 +390,7 @@ Fortunately, there is a solid case for some entity called "data science" to be c
 Insightful statisticians have for at least 50 years been laying the groundwork for constructing that would-be entity as an enlargement of traditional academic statistics. This would-be notion of data science is not the same as the data science being touted today, although there is significant overlap. The would-be notion responds to a different set of urgent trends-intellectual rather than commercial. Facing the intellectual trends needs many of the same skills as facing the commercial ones and seems just as likely to match future student training demand and future research funding trends.
 
 
-至少50年来，有洞察力的统计学家一直在为构建这一潜在实体奠定基础，将其作为传统学术统计的扩展。这一潜在的数据科学概念与今天被吹捧的数据科学并不相同，尽管两者有很大的重叠。这一潜在的概念是对一系列不同的紧迫趋势的回应，即智力而非商业。面对智力趋势需要许多与商业趋势相同的技能，并且似乎同样有可能满足未来的学生培训需求和未来的研究资助趋势。
+至少50年来，有洞察力的统计学家一直在为构建这一潜在实体奠定基础，将其作为传统学术统计的扩展。这一潜在的数据科学概念与今天被吹捧的数据科学并不相同，尽管两者有很大的重叠。这一潜在的概念是对一系列不同的紧迫趋势的回应，即才智而非商业。面对才智趋势需要许多与商业趋势相同的技能，并且似乎同样有可能满足未来的学生培训需求和未来的研究资助趋势。
 
 The would-be notion takes data science as the science of learning from data, with all that this entails. It is matched to the most important developments in science which will arise over the coming 50 years. As scientific publication itself becomes a body of data that we can analyze and study, there are staggeringly large opportunities for improving the accuracy and validity of science, through the scientific study of the data analysis that scientists have been doing. [^20] (Farther below, we will use shortened formulations such as "science itself becomes a body of data.)
 
@@ -452,7 +452,7 @@ So Tukey's vision embedded statistics in a larger entity. Tukey's central claim 
 
 > 关于什么是一门科学，有各种各样的观点，但大多数人认为三个要素是必不可少的，即：
 > 
->（A1）智力内容， 
+>（A1）才智内容， 
 > 
 >（A2）以可理解的形式组织， 
 > 
@@ -545,9 +545,9 @@ P. J. Huber写道：“Tukey的论文的影响力并没有立即得到承认…�
 
 While Huber obviously made the choice to explore the vistas offered in Tukey's vision, academic statistics as a whole did not. $^{22}$  John Tukey's Bell Labs colleagues, not housed in academic statistics departments, more easily adopted John's vision of a field larger than what academic statistics could deliver.
 
-虽然Huber显然选择了探索Tukey愿景中的前景，但学术统计总体上并没有 $^{22}$。John Tukey的贝尔实验室同事不在学术统计部门，他们更容易接受John的视野，即一个比学术统计所能提供的更大的领域。
+虽然Huber显然选择了探索Tukey愿景中的前景，但学术统计总体上并没有 $^{22}$。John Tukey的贝尔实验室同事不在学术统计系，他们更容易接受John的视野，即一个比学术统计所能提供的更大的领域。
 
-虽然Huber显然选择了探索Tukey愿景中提供的前景，但学术统计作为一个整体却没有。22 John Tukey的贝尔实验室同事不在学术统计部门工作，他们更容易接受John的愿景，即一个比学术统计所能提供的更大的领域。
+虽然Huber显然选择了探索Tukey愿景中提供的前景，但学术统计作为一个整体却没有。22 John Tukey的贝尔实验室同事不在学术统计系工作，他们更容易接受John的愿景，即一个比学术统计所能提供的更大的领域。
 
 
 John Chambers, co-developer of the S language for statistics and data analysis while at Bell Labs, published already in 1993 the essay (Chambers 1993), provocatively titled "Greater or Lesser Statistics, A Choice for Future Research." His abstract pulled no punches:
@@ -576,7 +576,7 @@ C. F. Jeff Wu, upon his inauguration as Carver Professor of Statistics at Univer
 
 William S. Cleveland developed many valuable statistical methods and data displays while at Bell Labs, and served as a co-editor of Tukey's collected works. His 2001 article (Cleveland 2001), titled Data Science: An Action Plan for Expanding the Technical Areas of the field of Statistics addressed academic statistics departments and proposed a plan to reorient their work. His abstract read:
 
-William S.Cleveland在贝尔实验室期间开发了许多有价值的统计方法和数据展示，并担任Tukey作品集的联合编辑。他2001年发表的题为《数据科学：扩大统计领域技术领域的行动计划》的文章（Cleveland，2001, Data Science: An Action Plan for Expanding the Technical Areas of the field of Statistics ）针对学术统计部门，并提出了调整其工作方向的计划。他的摘要如下：
+William S.Cleveland在贝尔实验室期间开发了许多有价值的统计方法和数据展示，并担任Tukey作品集的联合编辑。他2001年发表的题为《数据科学：扩大统计领域技术领域的行动计划》的文章（Cleveland，2001, Data Science: An Action Plan for Expanding the Technical Areas of the field of Statistics ）针对学术统计系，并提出了调整其工作方向的计划。他的摘要如下：
 
 > An action plan to expand the technical areas of statistics focuses on the data analyst. The plan sets out six technical areas of work for a university department and advocates a specific allocation of resources devoted to research in each area and to courses in each area. The value of technical work is judged by the extent to which it benefits the data analyst, either directly or indirectly. The plan is also applicable to government research labs and corporate research organizations.
 
@@ -615,7 +615,7 @@ Cleveland提出了六个活动重点，甚至建议了精力分配。
 
 Several academic statistics departments that I know well could, at the time of Cleveland's publication, fit 100% of their activity into the 20% Cleveland allowed for theory. Cleveland's article was republished in 2014. I cannot think of an academic department that devotes today 15% of its effort on pedagogy, or 15 % on computing with data. I can think of several academic statistics departments that continue to fit essentially all their activity into the last category, theory.
 
-在Cleveland出版时，我很熟悉的几个学术统计部门可以将其100%的活动纳入Cleveland允许的20%理论。Cleveland的文章于2014年重新发表。我想不出一个学术部门今天将15%的精力投入到教学法上，或者15%的精力用于数据计算。我能想到几个学术统计部门继续将他们的所有活动纳入最后一个类别，即理论。
+在Cleveland出版时，我很熟悉的几个学术统计系可以将其100%的活动纳入Cleveland允许的20%理论。Cleveland的文章于2014年重新发表。我想不出一个学术部门今天将15%的精力投入到教学法上，或者15%的精力用于数据计算。我能想到几个学术统计系继续将他们的所有活动纳入最后一个类别，即理论。
 
 In short, academic Statisticians were exhorted repeatedly across the years, by John Tukey and by some of his Bell Labs colleagues, and even by some academics like Peter Huber and Jeff Wu, to change paths, towards a much broader definition of their field. Such exhortations had relatively little apparent effect before 2000.
 
@@ -623,7 +623,7 @@ In short, academic Statisticians were exhorted repeatedly across the years, by J
 
 > [22] If evidence were needed, the reader might consider course offerings in academic statistics departments 1970-2000. In my recollection, the fraction of course offerings recognizably adopting the direction advocated by Tukey was small in those years. There was a bit more about plotting and looking at data.
 
-> [22] 如果需要证据，读者可以考虑1970-2000年学术统计部门的课程设置。在我的记忆中，那些年，课程中明显采纳Tukey 倡导的方向的比例很小。还有一点点关于绘制和查看数据的内容。
+> [22] 如果需要证据，读者可以考虑1970-2000年学术统计系的课程设置。在我的记忆中，那些年，课程中明显采纳Tukey 倡导的方向的比例很小。还有一点点关于绘制和查看数据的内容。
 
 
 > [24] This echoes statements that John Tukey also made in FoDA, as I am sure Bill Cleveland would be proud to acknowledge.
@@ -907,7 +907,10 @@ The use of CTFs really took off at about the same time as the open source softwa
 
 It may be revealing to look at what is taught in today's data science programs at some of the universities that have recently established them. Let us consider the attractive and informative web site for the UC Berkeley Data Science Masters' degree at datascience.berkeley.edu.
 
-看看最近成立的一些大学今天的数据科学课程所教授的内容可能会有所启发。让我们考虑一下加州大学伯克利分校数据科学硕士学位数据科学的 datascience.berkeley.edu。
+
+看看最近建立数据科学项目的一些大学在今天的数据科学项目中教授的内容，可能会有所启发。让我们考虑一下加州大学伯克利分校数据科学硕士学位的有吸引力、信息丰富的网站：datascience.berkeley.edu.
+
+Reviewing the curriculum at https://datascience.berkeley.edu /academics/curriculum/ we find five foundation courses
 
 
 复习课程  https://datascience.berkeley.edu/academics/curriculum/ 我们找到五门基础课程
@@ -936,24 +939,28 @@ It may be revealing to look at what is taught in today's data science programs a
 
 Only "Storing and Retrieving Data" seems manifestly not taught by traditional statistics departments; and careful study of the words reveals that the least traditional topic among the others, "Applied Machine Learning," seems to a statistician thinking about the actual topics covered, very much like what a statistics department might or should offer-however, the use of "machine learning" in the course title is a tip off that the approach may be heavily weighted toward predictive modeling rather than inference.
 
-只有“存储和检索数据”似乎显然不是传统统计部门教的；仔细研究这些单词可以发现，在统计学家看来，其他主题中最不传统的主题“应用机器学习”似乎与统计部门可能或应该提供的内容非常相似，在课程标题中使用“机器学习”是一个提示，表明该方法可能偏重于预测建模，而不是推理。
+只有“存储和检索数据”似乎显然不是传统统计系教的。仔细研究这些词发现，在其他主题中，最不传统的主题“应用机器学习”在统计学家看来似乎是关于实际涵盖的主题，非常像统计系可能或应该提供的内容。然而，在课程标题中使用“机器学习”是一个提示，表明该方法可能会严重偏重于预测建模而不是推断。
+
 
 > Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning. The emphasis will be on intuition and practical examples rather than theoretical results, though some experience with probability, statistics, and linear algebra will be important.
 
-> 机器学习是计算机科学和统计学交叉领域中一个快速发展的领域，它关注数据中的模式。它为技术的巨大进步负责，从个性化产品推荐到手机语音识别。本课程广泛介绍了机器学习中的关键思想。重点将放在直觉和实际例子上，而不是理论结果上，尽管一些概率、统计和线性代数方面的经验很重要。
+
+> 机器学习是计算机科学和统计学交叉领域的一个快速发展的领域，涉及在数据中寻找模式。它促成了技术的巨大进步，从个性化的产品推荐，到手机中的语音识别。本课程广泛介绍了机器学习的关键思想。重点将放在直觉和实际例子上，而不是理论结果上，尽管一些概率、统计和线性代数方面的经验将很重要。
 
 The choice of topics might only give a partial idea of what takes place in the course. Under "Tools," we find an array of core information technology.
 
-主题的选择可能只会对课程中发生的事情有一个部分的了解。在“工具”下，我们找到了一系列核心信息技术。
+主题的选择可能只会对课程中的东西有一个部分的了解。在“工具”下，我们找到了一系列核心信息技术。
+
 
 > Python libraries for linear algebra, plotting, machine learning: numpy, matplotlib, sk-learn / Github for submitting project code
 
-> 用于线性代数、绘图、机器学习的Python库：numpy、matplotlib、sk learn/Github用于提交项目代码
+> 用于线性代数、绘图、机器学习的Python库：numpy、matplotlib、sk learn，Github，用于提交项目代码
 
 
 In short, course participants are producing and submitting code. Code development is not yet considered utterly de rigueur for statistics teaching, and in many statistics courses would be accomplished using code in R or other quantitative programming environments, which is much "easier" for students to use for data analysis because practically the whole of modern data analysis is already programmed in. However, $R$ has the reputation of being less scalable than Python to large problem sizes. In that sense, a person who does their work in Python might be considered to have worked harder and shown more persistence and focus than one who does the same work in R.
 
-简而言之，课程参与者正在编写和提交代码。代码开发尚未被认为是统计学教学的必要条件，在许多统计学课程中，可以在R或其他定量编程环境中使用代码来完成，这对于学生来说更容易用于数据分析，因为实际上整个现代数据分析都已编程。然而，R的可扩展性不如Python，无法解决大问题。从这个意义上讲，用Python做工作的人可能被认为比用R做同样工作的人更努力，表现出更持久和专注。
+简而言之，课程参与者正在制作和提交代码。代码开发尚未被视为统计教学的绝对必要工具。在许多统计课程中，将使用代码在R或其他定量编程环境中完成，这对于学生用于数据分析要容易得多，因为实际上整个现代数据分析都已经编程了。然而，对于大的问题，R的可扩展性不如Python。从这个意义上讲，使用Python进行工作的人可能会被认为比使用R进行同样工作的人更加努力、更加坚持、更加专注。（译者注：完全不同意哈）
+
 
 > Such thoughts continue when we consider the advanced courses.
 > 
@@ -969,29 +976,31 @@ In short, course participants are producing and submitting code. Code developmen
 
 > 当我们考虑高级课程时，这种想法仍在继续。
 > 
-> 实验和因果推断
+> 实验和因果推断(Experiments and Causal Inference)
 > 
-> 应用回归和时间序列分析
+> 应用回归和时间序列分析(Applied regression and Time Series Analysis)
 > 
-> 数据科学家的法律，政策和道德考虑
+> 数据科学家的法律，政策和道德考量(Legal, Policy, and Ethical Considerations for Data Scientists)
 > 
-> 机器学习规模。
+> 大规模机器学习(Machine Learning at Scale)
 > 
-> 扩大！ 真正的大数据。
+> 扩大！真正的大数据(Scaling up! Really big data)
 
 The first two courses seem like mainstream statistics courses that could be taught by stat departments at any research university. The third is less familiar but overlaps with "Legal, Policy, and Ethical Considerations for Data Scientists" courses that have existed at research universities for quite a while.
 
-前两门课程似乎是任何研究型大学统计系都可以教授的主流统计课程。第三门课程不太熟悉，但与研究型大学已有相当一段时间的“数据科学家的法律、政策和道德考量”课程重叠。
+前两门课程看起来像是主流的统计课程，任何研究型大学的统计系都可以教授。第三门不太熟悉，但与研究型大学已经存在了很长一段时间的“数据科学家的法律、政策和伦理考虑”课程重叠。<font color='red'>【**疑问：没看明白，谁和谁重叠了**】</font>
 
 
 The last two courses address the challenge of scaling up processes and procedures to really large data. These are courses that ordinarily would not be offered in a traditional statistics department. Who are the faculty in the UC Berkeley data science program? Apparently not traditionally pedigreed academic statisticians. In the division of the website "About MIDS faculty" on Friday September 11, 2015, I could find mostly short bios for faculty associated with the largely nonstatistical courses (such as "Scaling Up! really Big Data" or "Machine Learning at Scale"). For the approximately 50% of courses covering traditional statistical topics, fewer bios were available, and those seemed to indicate different career paths than traditional statistics Ph.D.'s-sociology Ph.D's or information science Ph.D's. The program itself is run by the information school. $^{35}$
+
+最后两门课程解决了将流程和程序扩展到真正大数据的挑战。这些课程通常不会在传统的统计系提供。加州大学伯克利分校数据科学项目的教师是谁？显然不是传统的学术统计学家。在2015年9月11日星期五“关于MIDS教师”网站的部门，我可以找到大部分与非统计课程相关的教师的简短简历（例如“扩大！真正的大数据”或“大规模机器学习”）。对于涵盖传统统计主题的大约50%的课程，可用的bios较少，这些似乎表明了与传统统计博士社会学博士或信息科学博士不同的职业道路。该项目本身由信息学院管理。 $^{35}$
 
 最后两门课程解决了将流程和过程扩展到真正大数据的挑战。这些课程通常不会在传统的统计系开设。加州大学伯克利分校数据科学项目的教员是谁？显然不是传统上的血统学术统计学家。在2015年9月11日（星期五）的“关于MIDS教师”网站的部分，我可以找到大部分与非统计课程相关的教师的简短简历（如“Scaling Up！really Big Data”或“Machine Learning at Scale”）。在涵盖传统统计主题的课程中，约有50%的课程提供了较少的生物信息，这些生物信息似乎表明了与传统统计学博士、社会学博士或信息科学博士不同的职业道路 $^{35}$。
 
 
 In FoDA, Tukey argued that the teaching of statistics as a branch of mathematics was holding back data analysis. He saw apprenticeship with real data analysts and hence real data as the solution:
 
-在FoDA中，Tukey认为统计学作为数学的一个分支的教学阻碍了数据分析。他将与真实数据分析师的学徒关系视为解决方案：
+在“数据分析之未来”(FoDA)中，Tukey认为统计学作为数学分支的教学阻碍了数据分析。他认为与真实数据分析师的学徒制是解决方案，因此真实数据是解决方案：
 
 
 > All sciences have much of art in their makeup. As well as teaching facts and well-established structures, all sciences must teach their apprentices how to think about things in the manner of that particular science, and what are its current beliefs and practices. Data analysis must do the same. Inevitably its task will be harder than that of most sciences. Physicists have usually undergone a long and concentrated exposure to those who are already masters of the field. Data analysts even if professional statisticians, will have had far less exposure to professional data analysts during their training. Three reasons for this hold today, and can at best be altered slowly:
@@ -1005,22 +1014,25 @@ In FoDA, Tukey argued that the teaching of statistics as a branch of mathematics
 > Thus data analysis, and adhering statistics, faces an unusually difficult problem of communicating certain of its essentials, one which cannot presumably be met as well as in most fields by indirect discourse and working side by side.
 
 
-> 所有的科学都有很多艺术成分。除了传授事实和公认的结构之外，所有的科学都必须教他们的学徒如何以特定科学的方式思考问题，以及当前的信仰和实践是什么。数据分析也必须如此。不可避免地，它的任务将比大多数科学更加艰巨。物理学家通常会长期集中地接触那些已经是该领域大师的人。即使是专业的统计学家，数据分析师在培训期间接触专业数据分析师的机会也会大大减少。今天之所以如此，有三个原因，最多可以慢慢改变：
+> 所有的科学都有很多艺术成分。除了传授事实和公认的结构之外，所有的科学都必须教他们的学徒如何以特定科学的方式思考问题，以及当前的信仰和实践是什么。数据分析也必须如此。不可避免地，它的任务将比大多数科学更加艰巨。物理学家通常会长期集中地接触那些已经是该领域大师的人。即使是专业的统计学家，通往数据分析师的训练期间，能接触专业数据分析师的机会也会非常之少。今天之所以如此，有三个原因，最多可以慢慢改变：
 >
-> - (c1) 统计学往往是数学的一部分。
+> - (c1) 统计学往往被作为数学的一部分来教授。
 > 
 > - (c2) 在学习统计本身中，对数据分析的关注有限。
 > 
-> - (c3) 统计学博士与物理学或数学博士相比，与专业人士亲密和积极接触的年数要少得多
+> - (c3) 统计学博士与专业人士亲密和积极接触的年数远远少于物理学或数学博士。
 >
-> 因此，数据分析和坚持统计面临着一个异常困难的问题，即如何传达其某些要点，而在大多数领域，通过间接对话和并行工作，这一问题很难得到解决。
+>  因此，数据分析和依附的统计，面临着一个异常困难的问题，即如何传达其某些要点，而这个问题在多数领域不可能通过间接讨论和工作得到解决。
 
+The Berkeley data science masters program features a capstone course, which involves a data analysis project with a large dataset. The course listing states in part that in the capstone class
 
-伯克利数据科学硕士课程的特色是一门顶级课程，其中包括一个具有大型数据集的数据分析项目。课程列表部分说明了在capstone课程中
+伯克利数据科学硕士项目的特色是顶峰课程，它涉及大型数据集的数据分析项目。课程列表部分说明了课程中的内容
+
 
 > The final project ... provides experience in formulating and carrying out a sustained, coherent, and significant course of work resulting in a tangible data science analysis project with real-world data ....The capstone is completed as a group/team project (3-4 students), and each project will focus on open, pre-existing secondary data.
 
-> 最后的项目……提供制定和实施持续、连贯和重要的工作过程的经验，从而使用真实世界数据进行有形的数据科学分析项目……。顶点是作为一个小组/团队项目（3-4名学生）完成的，每个项目都将关注开放的、预先存在的二级数据。
+> 最后的项目……提供制定和实施持续、连贯和重要的工作过程的经验，从而产生了一个带有真实世界数据的有形数据科学分析项目……。顶点是作为一个小组/团队项目（3-4名学生）完成的，<font color='red'>【**每个项目都将关注开放的、预先存在的二级数据**】</font>。
+
 
 This project seems to offer some of the "apprenticeship" opportunities that John Tukey knew from his college chemistry degree work, and considered important for data analysis.
 
@@ -1028,11 +1040,12 @@ This project seems to offer some of the "apprenticeship" opportunities that John
 
 Tukey insisted that mathematical rigor was of very limited value in teaching data analysis. This view was already evident in the quotation from FoDA immediately above. Elsewhere in FoDA Tukey said:
 
-Tukey坚持认为，数学严谨性在教学数据分析中的价值非常有限。上述FoDA的报价中已经明显体现了这一观点。在FoDA Tukey的其他地方说：
+Tukey坚持认为，数学严谨性在数据分析教学中的价值非常有限。这一观点在上面引述的“数据分析之未来”(FoDA)中已经很明显了。在FoDA的其他地方，Tukey说：
+
 
 > Teaching data analysis is not easy, and the time allowed is always far from sufficient. But these difficulties have been enhanced by the view that "avoidance of cookbookery and growth of understanding come only by mathematical treatment, with emphasis upon proofs." The problem of cookbookery is not peculiar to data analysis. But the solution of concentrating upon mathematics and proof is.
 
-> 教学数据分析并不容易，所允许的时间总是远远不够。但这些困难因以下观点而加剧：“避免烹饪书和增长理解只能通过数学处理，强调证据。”烹饪书的问题并不是数据分析所特有的。但专注于数学和证明的解决方案是。
+> 教授数据分析并不容易，所允许的时间也总是远远不够。但是，“<font color='red'>【**避免烹饪书和理解的增长**】</font>只能通过数学处理来实现，重点是证明”的观点加剧了这些困难。“烹饪书”的问题并不是数据分析所特有的。但是，专注于数学和证明的解决方案是。
 
 Tukey saw data analysis as like other sciences and not like mathematics, in that there existed knowledge which needed to be related rather than theorems which needed proof. Drawing again on his chemistry background, he remarked that
 
@@ -1042,9 +1055,10 @@ Tukey认为数据分析就像其他科学，而不是数学，因为存在需要
 
 > 今天的生物化学领域比数据分析领域包含了更详细的知识。整体教学问题更难。然而，教科书力求尽可能详细地讲述事实。
 
+
 He also suggested that experimental labs offered a way for students to learn statistics
 
-他还建议，实验实验室为学生学习统计学提供了一种途径
+他还建议实验室为学生提供了一种学习统计学的试验方法
 
 > These facts are a little complex, and may not prove infinitely easy to teach, but any class can check almost any one of them by doing its own experimental sampling.
 
@@ -1056,9 +1070,12 @@ One speculates that John Tukey might have viewed the migration of students away 
 
 In his article "Statistical Modeling: The Two Cultures," Leo Breiman argued that teaching stochastic model building and inference to the exclusion of predictive modeling was damaging the ability of statistics to attack the most interesting problems he saw on the horizon. The problems he mentioned at the time are among today's hot applications of data science. So Breiman might have welcomed teaching programs which reverse the balance between inference and prediction, that is, programs such as the UC Berkeley data science masters.
 
-在《统计建模：两种文化》一文中，Leo Breiman认为，教授随机模型构建和推理而排除预测建模会损害统计学处理他所看到的最有趣问题的能力。他当时提到的问题是当今数据科学的热门应用之一。因此，Breiman可能会欢迎扭转推断和预测之间平衡的教学项目，也就是说，像加州大学伯克利分校数据科学硕士这样的项目。
+在《统计建模：两种文化》一文中，Leo Breiman认为，教授随机模型构建和推断而排除预测建模会损害统计学处理他所看到的最有趣问题的能力。他当时提到的问题是当今数据科学的热门应用之一。因此，Breiman可能会欢迎扭转推断和预测之间平衡的教学项目，也就是说，像加州大学伯克利分校数据科学硕士这样的项目。
+
+
 
 Although my heroes Tukey, Chambers, Cleveland, and Breiman would recognize positive features in these programs, it is difficult to say whether they would approve of their long-term direction-or if there is even a long-term direction to comment about. Consider this snarky definition:
+
 
 尽管我的英雄Tukey、Chambers、Cleveland和Breiman会认识到这些项目的积极特征，但很难说他们是否会认可他们的长期方向，或者是否有一个长期方向可以评论。考虑一下这个蹩脚的定义：
 
@@ -1071,9 +1088,10 @@ This definition is grounded in fact. Data science masters' curricula are comprom
 
 这个定义实际上是有根据的。数据科学硕士课程是妥协的：从统计硕士课程中拿出一些材料，为大型数据库培训腾出空间；或者，同样地，从CS中的数据库主数据中提取一些材料，并插入一些统计学和机器学习。这样的妥协有助于管理人员快速完成学位课程，而无需对课程的长期方向及其教师将进行的研究提供任何指导。我的英雄们能提供什么长期指导？
 
+
 > [35] I do not wish to imply in the above that there is anything concerning to me about the composition of the faculty. I do wish to demonstrate that this is an opportunity being seized by nonstatisticians. An important event in the history of academic statistics was Hotelling's article "The Teaching of Statistics" (1940) (Hotelling 1940) which decried the teaching of statistics by nonmathematicians, and motivated the formation of academic statistics departments. The new developments may be undoing the many years of postwar professionalization of statistics instruction.
 
-> [35] 我不想在上文中暗示，关于教师的组成，我有任何顾虑。我确实想证明，这是一个被非政府组织抓住的机会。学术统计史上的一个重要事件是霍特林的文章《统计学教学》（1940年）（霍特林1940年），该文谴责了非数学家的统计学教学，并推动了学术统计部门的成立。这些新的发展可能正在摧毁战后多年的统计教学专业化。
+> [35] 我不想在上面暗示学院的组成与我有任何关系。我确实想证明，这是一个被非政府组织抓住的机会。学术统计史上的一个重要事件是Hotelling的文章《统计教学》(Hotelling, 1940)，该文谴责了非数学家的统计学教学，并推动了学术统计系的成立。这些新的发展可能正在摧毁战后多年的统计教学专业化。
 
 
 # 8. The Full Scope of Data Science
@@ -1083,25 +1101,26 @@ This definition is grounded in fact. Data science masters' curricula are comprom
 
 John Chambers and Bill Cleveland each envisioned a wouldbe field that is considerably larger than the consensus data science master's we have been discussing but at the same time more intellectually productive and lasting.
 
-John Chambers和Bill Cleveland各自设想了一个比我们一直在讨论的共识数据科学大师的领域要大得多的领域，但同时也更具智力和持久性。
-
+John Chambers和Bill Cleveland各自设想了一个比我们一直在讨论的共识数据科学硕士大得多的领域，但同时在才智上更有成效、更持久。
 
 The larger vision posits a professional on a quest to extract information from data-exactly as in the definitions of data science we saw earlier. The larger field cares about each and every step that the professional must take, from getting acquainted with the data all the way to delivering results based upon it, and extending even to that professional's continual review of the evidence about best practices of the whole field itself.
 
-更大的视野假设专业人士寻求从数据中提取信息，这与我们之前看到的数据科学定义完全相同。更大的领域关注专业人员必须采取的每一步，从熟悉数据到基于数据交付结果，甚至延伸到专业人员对整个领域最佳实践证据的持续审查。
+更大的视野让专业人士寻求从数据中提取信息——就像我们之前看到的数据科学的定义一样。更大的领域关心专业人士必须采取的每一步，从熟悉数据到基于数据交付结果，甚至延伸到专业人士对整个领域本身最佳实践证据的持续审查。
+
 
 Following Chambers, let us call the collection of activities mentioned until now "lesser data science" (LDS) and the larger would-be field greater data science (GDS). Chambers and Cleveland each parsed out their enlarged subject into specific divisions/topics/subfields of activity. I find it helpful to merge, relabel, and generalize the two parsings they proposed. This section presents and then discusses this classification of GDS.
 
-继Chambers之后，让我们将迄今为止提到的活动集合称为“较小的数据科学”（LDS），将更大的潜在领域称为较大的数据科学（GDS）。Chambers和Cleveland各自将他们的主题分解为特定的部门/主题/活动子领域。我发现合并、重新标记和概括他们提出的两个部分很有帮助。本节介绍并讨论GDS的这一分类。
+继Chambers之后，让我们将迄今为止提到的活动集合称为“小数据科学”（LDS, lesser data science），将更大的潜在领域称为“大数据科学”（GDS, greater data science）。Chambers和Cleveland各自将他们的主题分解为特定的部门、主题、活动子领域。我发现合并、重新标记和概括他们提出的两个部分很有帮助。本节介绍并讨论GDS的这一分类。
 
+/主题/活动子领域。我发现合并、重新标记和概括他们提出的两个解析很有帮助。本节介绍并讨论了GDS的这种分类。
 
-## 8.1 The Six Divisions
+## 8.1.  The Six Divisions
 
-## 8.1六个部门
+## 8.1. 六个部门
 
 The activities of GDS are classified into six divisions:
 
-GDS的活动分为六个部门：
+大数据科学(GDS)的活动分为六个部分：
 
 1. Data Gathering, Preparation, and Exploration
 
@@ -1116,7 +1135,7 @@ GDS的活动分为六个部门：
 6. Science about Data Science
 
  
-1. 数据收集、准备和勘探
+1. 数据收集、准备和探索
 2. 数据表示和转换
 3. 数据计算
 4. 数据建模
@@ -1125,41 +1144,37 @@ GDS的活动分为六个部门：
 
 Let's go into some detail about each division.
 
-让我们详细了解一下每个部门。
+让我们详细了解一下每个部分。
 
 **GDS1: Data Gathering, Preparation, and Exploration**. 
 
-**GDS1：数据收集、准备和勘探**。
+**GDS1：数据收集、准备和探索**。
 
 
 Some say that 80% of the effort devoted to data science is expended by diving into or becoming one with one's messy data to learn the basics of what's in them, so that data can be made ready for further exploitation. We identify three subactivities:
 
 有人说，80%的数据科学投入都是通过深入或融入杂乱的数据来学习其中的基本知识，从而为进一步开发数据做好准备。我们确定了三个子活动：
 
-
 - Gathering. This includes traditional experimental design as practiced by statisticians for well over a century, but also a variety of modern data gathering techniques and data resources. Thus, Google nGrams viewer can quantify the entire corpus of literature 1500-2008, Google Trends can quantify recent web search interests of the whole population and even of localities, humans are taking 1 trillion photos a year, many of which are posted in social media; (https://arxiv.org/abs/1706.01869) billions of utterances are posted on social media.((https://arxiv.org/abs/1704.05579)) We have new data-making technologies like next generation sequencing in computational biology, GPS location fixes, supermarket scanner data. Next gen skills can include web scraping, Pubmed scraping,(http://jamanetwork.com/journals/jama/fullarticle/2503172) image processing, and Twitter, Facebook, and Reddit munging.
 
-- 正在收集。这包括统计学家在一个多世纪以来实践的传统实验设计，也包括各种现代数据收集技术和数据资源。因此，GooglenGrams查看器可以量化1500-2008年的整个文献集，GoogleTrends可以量化整个人口甚至地方的最近网络搜索兴趣，人类每年拍摄1万亿张照片，其中许多照片发布在社交媒体上；(https://arxiv.org/abs/1706.01869)社交媒体上发布了数十亿的言论。((https://arxiv.org/abs/1704.05579))我们拥有新的数据制作技术，如计算生物学中的下一代测序、GPS定位、超市扫描仪数据。下一代技能可以包括网页抓取、Pubmed抓取、(http://jamanetwork.com/journals/jama/fullarticle/2503172)图像处理，以及Twitter、Facebook和Reddit munging。
-
+- **数据收集**。这包括统计学家在一个多世纪以来实践的传统实验设计，也包括各种现代数据收集技术和数据资源。因此，Google nGrams查看器可以量化1500-2008年的整个文献集，Google Trends可以量化整个人口甚至地方的最近网络搜索兴趣，人类每年拍摄1万亿张照片，其中许多照片发布在社交媒体上；(https://arxiv.org/abs/1706.01869)数十亿的话语被发布在社交媒体上。(https://arxiv.org/abs/1704.05579) 我们拥有新的数据制作技术，如计算生物学中的下一代测序、GPS定位、超市扫描仪数据。下一代技能可以包括网页抓取、Pubmed抓取、图像处理，以及Twitter、Facebook和Reddit munging。(http://jamanetwork.com/journals/jama/fullarticle/2503172)
 
 - Preparation. Many datasets contain anomalies and artifacts. $^{39}$ Any data-driven project requires mindfully identifying and addressing such issues. Responses range from reformatting and recoding the values themselves, to more ambitious preprocessing, such as grouping, smoothing, and subsetting. Often today, one speaks colorfully of data cleaning and data wrangling.
 
-- 准备。许多数据集包含异常和伪影 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子设置。今天，人们经常谈论数据清理和数据争论。
-
+- **数据准备**。许多数据集包含异常和错误 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子集。今天，人们经常谈论数据清理和数据争论。
 
 - Exploration. Since John Tukey's coining of the term "exploratory data analysis" (EDA), we all agree that every data scientist devotes serious time and effort to exploring data to sanity-check its most basic properties, and to expose unexpected features. Such detective work adds crucial insights to every data-driven endeavor.  $^{40}$ 
 
-- 勘探。自从John Tukey发明了“探索性数据分析”（EDA）一词以来，我们都同意，每个数据科学家都花了大量的时间和精力来探索数据，以检查其最基本的属性，并揭示意外的特征。这样的侦探工作为每一项数据驱动的努力增添了至关重要的洞察力 $^{40}$。 
+- **数据探索**。自从John Tukey发明了“探索性数据分析”（EDA）一词以来，我们都同意，每个数据科学家都花了大量的时间和精力来探索数据，以检查其最基本的属性，并揭示意外的特征。这样的探索工作为每一项数据驱动的努力增添了至关重要的洞察力 $^{40}$。 
 
 
 > [39] Peter Huber (2010) recalled the classic Coale and Stephan article on teenage widows (Coale and Stephan 1962). In this example, a frequent coding error in a census database resulted in excessively large counts of teenage widows_until the error was rooted out. This example is quaint by modern standards. If we process natural language in the wild, such blogs and tweets, anomalies are the order of the day.
 
-> [39] Peter Huber（2010）回忆了经典的Coale和Stephan关于青少年寡妇的文章（Coale和Stephen 1962）。在本例中，人口普查数据库中频繁的编码错误导致青少年丧偶人数过多，直到错误被消除。以现代标准来看，这个例子很奇怪。如果我们在野外处理自然语言，比如博客和推文，那么异常现象就是一天的规律。
-
+> [39] Peter Huber (2010) 回忆了Coale和Stephan关于青少年寡妇的经典文章（Coale和Stephen, 1962）。在本例中，人口普查数据库中频繁的编码错误导致青少年丧偶人数过多，直到错误被消除。以现代标准来看，这个例子很奇怪。如果我们在处理博客和推文等自然语言，那异常现象就是常态。
 
 > [40] At the Tukey Centennial, Rafael Irizarry gave a convincing example of exploratory data analysis of GWAS data, studying how the data row mean varied with the date on which each row was collected, convince the field of gene expression analysis to face up to some data problems that were crippling their studies. 
 
-> [40] 在Tukey Centennial上，Rafael Irizarry给出了GWAS数据探索性数据分析的一个令人信服的例子，研究了数据行的平均值如何随每一行的收集日期而变化，说服基因表达分析领域正视一些影响其研究的数据问题。
+> [40] 在Tukey 百年纪念上，Rafael Irizarry给出一个令人信服的例子，对GWAS数据进行探索性数据分析。研究了数据行的平均值如何随每一行的收集日期而变化，并说服基因表达分析领域正视一些影响其研究的数据问题。
 
 
 **GDS2: Data Representation and Transformation.** 
@@ -1168,11 +1183,13 @@ Some say that 80% of the effort devoted to data science is expended by diving in
 
 A data scientist works with many different data sources during a career. These assume a very wide range of formats, often idiosyncratic ones, and the data scientist has to easily adapt to them all. Current hardware and software constraints are part of the variety because access and processing may require careful deployment of distributed resources.
 
-数据科学家在职业生涯中使用许多不同的数据源。这些假设的格式非常广泛，通常是特殊的格式，数据科学家必须很容易地适应所有格式。当前的硬件和软件限制是其中的一部分，因为访问和处理可能需要仔细部署分布式资源。
+数据科学家在职业生涯中处理许多不同的数据源。这些数据源采用非常广泛的格式，通常是特殊的格式，数据科学家必须很容易地适应所有这些格式。当前的硬件和软件限制是多样性的一部分，因为访问和处理可能需要仔细部署分布式资源。
+
 
 Data scientists very often find that a central step in their work is to implement an appropriate transformation restructuring the originally given data into a new and more revealing form.
 
-数据科学家经常发现，他们工作的中心步骤是实施适当的转换，将最初给定的数据重组为新的、更具揭示性的形式。
+数据科学家经常发现，他们工作中的一个核心步骤是实施适当的转换，将最初给定的数据重组为新的、更具启发性的形式。
+
 
 Data scientists develop skills in two specific areas:
 
@@ -1180,11 +1197,12 @@ Data scientists develop skills in two specific areas:
 
 - Modern Databases. The scope of today's data representation includes everything from homely text files and spreadsheets to SQL and noSQL databases, distributed databases, and live data streams. Data scientists need to know the structures, transformations, and algorithms involved in using all these different representations.
 
-- 现代数据库。今天的数据表示范围包括所有内容，从简单的文本文件和电子表格到SQL和noSQL数据库、分布式数据库和实时数据流。数据科学家需要知道使用所有这些不同表示所涉及的结构、转换和算法。
+- **现代数据库**。今天的数据表示范围包括所有内容，从简单的文本文件和电子表格到SQL和noSQL数据库、分布式数据库和实时数据流。数据科学家需要知道使用所有这些不同表示所涉及的结构、转换和算法。
 
 - Mathematical Representations. These are interesting and useful mathematical structures for representing data of special types, including acoustic, image, sensor, and network data. For example, to get features with acoustic data, one often transforms to the cepstrum or the Fourier transform; for image and sensor data the wavelet transform or some other multi scale transform (e.g., pyramids in deep learning). Data scientists develop facility with such tools and mature judgment about deploying them.
 
-- 数学表示。这些是表示特殊类型数据的有趣且有用的数学结构，包括声学、图像、传感器和网络数据。例如，为了获得声学数据的特征，通常将其转换为倒谱或傅里叶变换；对于图像和传感器数据，小波变换或一些其他多尺度变换（例如深度学习中的金字塔）。数据科学家利用这些工具开发设施，并对其部署做出成熟判断。
+- **数学表示**。这些是有趣且有用的数学结构，用于表示特殊类型的数据，包括声学、图像、传感器和网络数据。例如，为了获得声学数据的特征，人们经常转换到倒谱或傅里叶变换；对于图像和传感器数据，小波变换或其他一些多尺度变换（例如，<font color='red'>【**深度学习中的金字塔**】</font>）。数据科学家需要利用这些工具开发设施，并对其部署做出成熟判断。
+
 
 **GDS3: Computing with Data**. 
 
@@ -1193,28 +1211,31 @@ Data scientists develop skills in two specific areas:
 
 Every data scientist should know and use several languages for data analysis and data processing. These can include popular languages like R and Python, but also specific languages for transforming and manipulating text, and for managing complex computational pipelines. It is not surprising to be involved in ambitious projects using a half dozen languages in concert.
 
-每个数据科学家都应该知道并使用几种语言进行数据分析和数据处理。这些语言可以包括R和Python等流行语言，也可以包括用于转换和操作文本以及管理复杂计算管道的特定语言。同时使用六种语言参与雄心勃勃的项目并不奇怪。
+
+每个数据科学家都应该知道并使用多种语言进行数据分析和数据处理。这些语言可以包括R和Python等流行语言，也可以包括用于转换、操作文本以及管理复杂计算管道的特定语言。同时使用六种语言参与雄心勃勃的项目并不奇怪。
 
 Beyond basic knowledge of languages, data scientists need to keep current on new idioms for efficiently using those languages and need to understand the deeper issues associated with computational efficiency. Cluster and cloud computing and the ability to run massive numbers of jobs on such clusters has become an overwhelmingly powerful ingredient of the modern computational landscape. To exploit this opportunity, data scientists develop workflows which organize work to be split up across many jobs to be run sequentially or else across many machines.
 
-除了语言的基本知识之外，数据科学家还需要了解有效使用这些语言的新习惯用法，并需要了解与计算效率相关的更深层次的问题。集群和云计算以及在这些集群上运行大量作业的能力已经成为现代计算环境中一个极其强大的组成部分。为了利用这一机会，数据科学家开发了工作流程，这些工作流程将工作分为多个作业，依次运行或跨多台机器运行。
+
+除了语言的基本知识之外，数据科学家还需要了解有效使用这些语言的新习惯用法，并需要了解与计算效率相关的更深层次的问题。集群和云计算以及在这些集群上运行大量作业的能力已经成为现代计算环境中一个极其强大的组成部分。为了利用这一机会，数据科学家需要开发工作流(workflows)，这些工作流将工作分为多个作业，依次运行或跨多台机器运行。
 
 Data scientists also develop workflows that document the steps of an individual data analysis or research project.
 
-数据科学家还开发工作流程，记录单个数据分析或研究项目的步骤。
+数据科学家还将搭建工作流，记录单个数据分析或研究项目的步骤。
 
 Finally, data scientists develop packages that abstract commonly used pieces of workflow and make them available for use in future projects.
 
-最后，数据科学家开发了一些软件包，这些软件包抽象了常用的工作流片段，并将其用于未来的项目。
+最后，数据科学家需要开发一些软件包，这些软件包抽象了常用的工作流片段，并将其用于未来的项目。
 
 **GDS4: Data Visualization and Presentation.** 
 
-**GDS4：数据可视化和演示。**
+**GDS4：数据可视化和展示。**
 
 
 Data visualization at one extreme overlaps with the very simple plots of EDA-histograms, scatterplots, time series plotsbut in modern practice it can be taken to much more elaborate extremes. Data scientists often spend a great deal of time decorating simple plots with additional color or symbols to bring in an important new factor, and they often crystallize their understanding of a dataset by developing a new plot which codifies it. Data scientists also create dashboards for monitoring data processing pipelines that access streaming or widely distributed data. Finally, they develop visualizations to present conclusions from a modeling exercise or CTF challenge.
 
-数据可视化在一个极端与EDA直方图、散点图、时间序列图的非常简单的图重叠，但在现代实践中，它可以达到更复杂的极端。数据科学家经常花费大量时间用额外的颜色或符号来装饰简单的图，以引入一个重要的新因素，他们经常通过开发一个新的图来明确他们对数据集的理解。数据科学家还创建了仪表板，用于监控访问流或广泛分布数据的数据处理管道。最后，他们开发可视化，以展示建模练习或CTF挑战的结论。
+数据可视化与EDA中的直方图、散点图、时间序列图的非常简单的图内容重叠，但在现代实践中，它可以达到更复杂的极端。数据科学家经常花费大量时间用额外的颜色或符号来装饰简单的图，以引入一个重要的新因素，他们经常通过开发一个新的图来明确他们对数据集的理解。数据科学家还创建了仪表板，用于监控访问流或广泛分布数据的数据处理管道。最后，他们开发可视化，以展示建模结果或共同任务框架(CTF)挑战的结论。
+
 
 **GDS5: Data Modeling**. 
 
@@ -1228,12 +1249,11 @@ Each data scientist in practice uses tools and viewpoints from both of Leo Breim
 
 - Generative modeling, in which one proposes a stochastic model that could have generated the data, and derives methods to infer properties of the underlying generative mechanism. This roughly speaking coincides with traditional academic statistics and its offshoots. $^{41}$
 
-- 生成模型，其中提出了一个可能生成数据的随机模型，并导出了推断潜在生成机制属性的方法。这大致上与传统的学术统计及其分支相吻合 $^{41}$。
-
+- **生成建模**，提出了一个可以生成数据的随机模型，并推导出推断潜在生成机制属性的方法。这大致上与传统的学术统计及其分支相吻合 $^{41}$。
 
 - Predictive modeling, in which one constructs methods which predict well over some given data universe-that is, some very specific concrete dataset. This roughly coincides with modern Machine Learning, and its industrial offshoots.  $^{42}$
 
-- 预测建模，其中一种方法可以很好地预测一些给定的数据世界，即一些非常具体的数据集。这与现代机器学习及其工业分支大致吻合 $^{42}$。
+- **预测建模**，构建预测模型，可以在一些具体给定的数据集上作出很好的预测。这与现代机器学习及其产业分支大致吻合 $^{42}$。
 
 
 > [41] It is striking how, when I review a presentation on today's data science, in which statistics is superficially given pretty short shrift, I cannot avoid noticing that the underlying tools, examples, and ideas which are being taught as data science were all literally invented by someone trained in Ph.D. statistics, and in many cases the actual software being used was developed by someone with an MA or Ph.D. in statistics. The accumulated efforts of statisticians over centuries are just too overwhelming to be papered over completely, and cannot be hidden in the teaching, research, and exercise of Data Science.)
@@ -1243,7 +1263,7 @@ Each data scientist in practice uses tools and viewpoints from both of Leo Breim
 
 > [42] Leo Breiman (2001) was correct in pointing out that academic statistics departments (at that time, and even since) have under-weighted the importance of the predictive culture in courses and hiring. It clearly needs additional emphasis.
 
-> [42] Leo Breiman（2001）正确地指出，学术统计部门（当时，甚至从那时起）低估了预测文化在课程和招聘中的重要性。这显然需要进一步强调。
+> [42] Leo Breiman (2001) 正确地指出，学术统计系（当时，甚至从那时起）低估了预测文化在课程和招聘中的重要性。这显然需要进一步强调。
 
 
 **GDS6: Science about Data Science**. 
@@ -1256,19 +1276,21 @@ Tukey proposed that a "science of data analysis" exists and should be recognized
 Tukey提出，“数据分析科学”是存在的，应该被认为是所有科学中最复杂的科学之一。他提倡研究数据分析师“在野外”实际在做什么，并提醒我们，工具的真正有效性与部署概率乘以部署后有效结果的概率有关 $^{43}$。
 
 
+
 Data scientists are doing science about data science when they identify commonly occurring analysis/processing workflows, for example, using data about their frequency of occurrence in some scholarly or business domain; when they measure the effectiveness of standard workflows in terms of the human time, the computing resource, the analysis validity, or other performance metric, and when they uncover emergent phenomena in data analysis, for example, new patterns arising in data analysis workflows, or disturbing artifacts in published analysis results.
 
-当数据科学家识别常见的分析/处理工作流时，他们正在进行数据科学方面的科学研究，例如，使用关于其在某些学术或商业领域中出现频率的数据；当他们在人力时间、计算资源、分析有效性或其他性能度量方面衡量标准工作流的有效性时，当他们发现数据分析中出现的现象时，例如，数据分析工作流中出现的新模式，或发布的分析结果中令人不安的伪影。
+当数据科学家识别常见的分析/处理工作流时，他们正在进行数据科学方面的科学研究，例如，使用关于其在某些学术或商业领域中出现频率的数据；当他们在人力时间、计算资源、分析有效性或其他性能度量方面衡量标准工作流的有效性时，当他们发现数据分析中出现的现象时，例如，数据分析工作流中出现的新模式，或发布的分析结果中令人不安的[伪影]。
+
+<font color='red'>【**上面这一段原文说的非常绕**】</font>
 
 
 The scope here also includes foundational work to make future such science possible-such as encoding documentation of individual analyses and conclusions in a standard digital format for future harvesting and meta-analysis.
 
-这里的范围还包括使未来此类科学成为可能的基础工作，例如将个人分析和结论的文档编码为标准数字格式，以用于未来的收获和荟萃分析。
+这里的范围还包括使未来此类科学成为可能的基础工作——例如以标准数字格式对单个分析和结论进行编码留档，以备将来收获和荟萃分析(meta-analysis)。
 
 As data analysis and predictive modeling becomes an ever more widely distributed global enterprise, "science about data science" will grow dramatically in significance.
 
-随着数据分析和预测建模成为一个分布越来越广泛的全球企业，“关于数据科学的科学”的重要性将显著增加。
-
+随着数据分析和预测建模成为一个分布越来越广泛的全球行业，“关于数据科学的科学”的重要性将显著增加。
 
 > [43] Data analysis per se is probably too narrow a term, because it misses all the automated data processing that goes on under the label of data science about which we can also make scientific studies of behavior "in the wild."
 
@@ -1945,7 +1967,7 @@ In 2065 , mathematical derivation and proof will not trump conclusions derived f
 
 Each proposed notion of data science involves some enlargement of academic statistics and machine learning. The "GDS" variant specifically discussed in this article derives from insights about data analysis and modeling stretching back decades. In this variant, the core motivation for the expansion to data science is intellectual. In the future, there may be great industrial demand for the skills inculcated by GDS; however, the core questions which drive the field are scientific, not industrial.
 
-每一个提出的数据科学概念都涉及到学术统计和机器学习的一些扩展。本文中特别讨论的“GDS”变体源自几十年前关于数据分析和建模的见解。在这个变体中，扩展到数据科学的核心动机是智力。未来，行业对GDS灌输的技能可能会有很大的需求；然而，推动这一领域的核心问题是科学问题，而不是工业问题。
+每一个提出的数据科学概念都涉及到学术统计和机器学习的一些扩展。本文中特别讨论的“GDS”变体源自几十年前关于数据分析和建模的见解。在这个变体中，扩展到数据科学的核心动机是才智。未来，行业对GDS灌输的技能可能会有很大的需求；然而，推动这一领域的核心问题是科学问题，而不是工业问题。
 
 
 GDS proposes that data science is the science of learning from data; it studies the methods involved in the analysis and processing of data and proposes technology to improve methods in an evidence-based manner. The scope and impact of this science will expand enormously in coming decades as scientific data and data about science itself become ubiquitously available.
@@ -2057,7 +2079,7 @@ Moreover, I think it is healthy for statisticians to have this perception. Let t
 
 Chris Wiggins is the Chief Data Scientist of the New York Times, and a Professor at Columbia affiliated with several programs, including its Data Science Initiative and its Statistics Department.
 
-Chris Wiggins 是《纽约时报》的首席数据科学家，同时也是哥伦比亚大学的教授，参与了多个项目，包括其数据科学计划和统计部门。
+Chris Wiggins 是《纽约时报》的首席数据科学家，同时也是哥伦比亚大学的教授，参与了多个项目，包括其数据科学计划和统计系。
 
 
 Wiggins and I first interacted after my talk at Princeton in September 2015 when he pointed out to me that he had earlier made a presentation about data science, for example, at ICERM, in which John Tukey's FoDA played a large part. In fact the parallelism in places of the two presentations is striking. $^{63}$
@@ -2125,7 +2147,7 @@ I like Owen's essay and offer a few mild responses.
 
 - Nowhere did I say that data science cannot be much more than statistics. I quote approvingly others who say the opposite. John Chambers was saying quite literally that there is a larger field than traditional statistics, and Bill Cleveland was saying quite literally that what some academic statistics departments are doing is a small part of data science. I did literally say that even data science as it is currently being instituted is too limited; there is a field I called "greater data science" extending beyond the limits of today's "consensus data science."
 
-- 我没有说过数据科学比统计学更重要。我赞许地引用了其他人的话，他们说的恰恰相反 John Chambers 的意思是，有一个比传统统计更大的领域，而 Bill Cleveland 的意思则是，一些学术统计部门所做的只是数据科学的一小部分。我确实说过，即使是目前正在建立的数据科学也太有限了；有一个领域我称之为“更大的数据科学”，它超越了当今“共识数据科学”的界限
+- 我没有说过数据科学比统计学更重要。我赞许地引用了其他人的话，他们说的恰恰相反 John Chambers 的意思是，有一个比传统统计更大的领域，而 Bill Cleveland 的意思则是，一些学术统计系所做的只是数据科学的一小部分。我确实说过，即使是目前正在建立的数据科学也太有限了；有一个领域我称之为“更大的数据科学”，它超越了当今“共识数据科学”的界限
 
 
 - Owen's essay focuses on the important term "data engineering," which I under-played in the main text. Data engineers exploit currently available cloud/cluster computing resources to allow the storage of large databases and to implement complex processing pipelines.  $^{65}$
