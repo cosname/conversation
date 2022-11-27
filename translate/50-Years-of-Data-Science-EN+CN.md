@@ -1366,30 +1366,29 @@ Other features of this inventory will emerge below.
 
 ## 8.3. Teaching of GDS
 
-## 8.3. GDS教学
+## 8.3. 大数据科学(GDS)教学
 
 Full recognition of the scope of GDS would require covering each of its six branches. This demands major shifts in teaching.
 
-全面承认GDS的范围需要涵盖其六个分支机构中的每一个。这需要教学的重大转变。
+全面承认大数据科学(GDS)的范围需要涵盖其六个分支中的每一个。这需要教学的重大转变。
 
 "GDS5: Data Modeling" is the easy part of data science to formalize and teach; we have been doing this for generations in statistics courses; for a decade or more in machine learning courses; and this pattern continues in the data science masters programs being introduced all around us, where it consumes most of the coursework time allocation. However, this "easy stuff" covers only a fraction of the effort required in making productive use of data.
 
-“GDS5：数据建模”是数据科学中易于形式化和教学的部分；我们在统计学课程中已经做了好几代人；十年或更长时间的机器学习课程；这种模式在我们周围的数据科学硕士课程中继续存在，它消耗了大部分的课程时间分配。然而，这种“简单的东西”只占高效利用数据所需努力的一小部分。
+“GDS5：数据建模”是数据科学中易于形式化和教授的部分；我们已经在统计学课程中这样做了几代人；在机器学习课程中已经做了十年或更长时间；这种模式在我们周围正在引入的数据科学硕士课程中继续存在，它消耗了大部分课程时间分配。然而，这种“简单的东西”只涵盖了有效利用数据所需努力的一小部分。
 
 
 "GDS1: Data Gathering, Preparation, and Exploration" is more important than "GDS5: Data Modeling," as measured using time spent by practitioners. But there have been few efforts to formalize data exploration and cleaning and such topics still are neglected in teaching. Students who only analyze precooked data are not being given the chance to learn these essential skills.
 
-“GDS1：数据收集、准备和探索”比“GDS5：数据建模”更重要，这是通过从业者花费的时间来衡量的。但是，很少有人努力将数据探索和清理正规化，这些主题在教学中仍然被忽视。只分析预烹饪数据的学生没有机会学习这些基本技能。
+根据从业人员花费的时间来衡量，“GDS1：数据收集、准备和探索”比“GDS5：数据建模”更重要。但是很少有人努力将数据探索和清理正规化，这些主题在教学中仍然被忽视。只分析预先准备好的数据的学生没有机会学习这些基本技能。
 
 
 How might teaching even address such a topic? I suggest the reader study carefully two books (together).
 
-教学如何解决这样的问题？我建议读者仔细研读两本书。
+教学如何解决这样的问题？我建议读者仔细研读这两本书。
 
 - The Book (Tango, Lichtman, and Dolphin 2007) analyzes a set of databases covering all aspects of the American game of major league baseball, including every game played in recent decades and every player who ever appeared in such games. This amazingly comprehensive work considers a near-exhaustive list of questions one might have about the quantitative performance of different baseball strategies, carefully describes how such questions can be answered using such a database, typically by a statistical two-sample test (or A/B test in internet marketing terminology).
 
--这本书（2007年《探戈》、《利奇曼》和《海豚》）分析了一组数据库，涵盖了美国职棒大联盟比赛的各个方面，包括近几十年来每一场比赛以及每一位参加过此类比赛的球员。这项令人惊讶的全面工作考虑了一系列关于不同棒球策略的量化表现的问题，仔细描述了如何使用这样的数据库来回答这些问题，通常通过统计双样本测试（或互联网营销术语中的a/B测试）。
-
+- 这本书(Tango, Lichtman, and Dolphin 2007)分析了一套涵盖美国职业棒球大联盟比赛所有方面的数据集，包括近几十年来玩的每一场比赛和曾经出现在这种比赛中的每一个球员。这项令人惊讶的全面工作考虑了一系列关于不同棒球策略的量化表现的问题，仔细描述了如何使用这样的数据库来回答这些问题，通常通过统计双样本测试（或互联网营销术语中的A/B测试）。
 
 - Analyzing Baseball Data with R (Marchi and Albert 2013) showed how to access the impressive wealth of available Baseball data using the internet and how to use R to insightfully analyze that data.
 
@@ -1398,7 +1397,7 @@ How might teaching even address such a topic? I suggest the reader study careful
 
 A student who could show how to systematically use the tools and methods taught in the second book to answer some of the interesting questions in the first book would, by my lights, have developed real expertise in the above division "GDS1: Data Gathering, Preparation, and Exploration." Similar projects can be developed for all the other "new" divisions of data science. In "GDS3: Computing with Data," one could teach students to develop and new R packages, and new data analysis workflows, in a hands-on manner.
 
-如果一个学生能够展示如何系统地使用第二本书中教授的工具和方法来回答第一本书中的一些有趣问题，在我看来，他将在上述部门“GDS1：数据收集、准备和探索”中获得真正的专业知识可以为数据科学的所有其他“新”部门开发类似的项目。在“GDS3：数据计算”中，我们可以教学生以动手的方式开发新的R包和新的数据分析工作流。
+如果一个学生能够做到使用第二本书中教授的工具和方法来回答第一本书中的一些有趣问题，在我看来，他就在“GDS1：数据收集、准备和探索”中获得了真实的专业技能。类似的项目可以为数据科学的其他新部分开发。比如，在“GDS3：数据计算”中，我们可以教学生上手来开发新的R包和新的数据分析工作流。
 
 Ben Baumer and co-authors review experiences in Horton, Baumer, and Wickham (2015) and Baumer (2015) teaching first and second courses in data science/statistics that are consistent with this approach.
 
@@ -1406,6 +1405,8 @@ Ben Baumer及其合著者回顾了Horton、Baumer和Wickham（2015）以及Baume
 
 
 The reader will worry that the large scope of GDS is much larger than what we are used to teaching. Tukey anticipated such objections, by pointing out that biochemistry textbooks seem to cover much more material than statistics textbooks; he thought that once the field commits to teaching more ambitiously, it can simply "pick up the pace." $^{49}$
+
+读者会担心大数据科学(GDS)的范围太大，这要比我们常规的教学要大得多。Tukey 预料到了这样的反对意见，他指出生物化学教科书似乎比统计教科书涵盖了更多的材料；他认为，一旦该领域更加雄心勃勃地致力于教学，它就可以简单地“加快步伐” $^{49}$。
 
 读者会担心GDS的范围比我们习惯的教学范围大得多。Tukey预料到了这样的反对意见，他指出生物化学教科书似乎比统计教科书涵盖了更多的材料；他认为，一旦该领域更加雄心勃勃地致力于教学，它就可以“加快步伐” $^{49}$。
 
@@ -1429,57 +1430,55 @@ Once we have the GDS template in mind, we can recognize that today there is all 
 
 The general topic of "computing with data" may sound at first as if it is stretchable to cover lots of mainstream academic computer science; suggesting that perhaps there is no real difference between data science and computer science. To the contrary, "computing with data" has a distinct core, and an identity separate from academic computer science. The litmus test is whether the work centers on the need to analyze data.
 
-“用数据计算”这一一般话题乍一听似乎可以延伸到许多主流学术计算机科学；这表明数据科学和计算机科学之间可能没有真正的区别。相反，“用数据计算”有一个独特的核心，它的身份与学术计算机科学不同。试金石测试是工作是否以分析数据为中心。
+“数据计算”这个总的话题乍一听似乎可以延伸到许多主流的学术计算机科学；这表明数据科学和计算机科学之间也许没有真正的区别。相反，“数据计算”有一个独特的核心，它的身份与学术计算机科学不同。试金石测试是工作是否以分析数据为中心。
 
 
 We argued earlier that the R system transformed the practice of data analysis by creating a standard language which different analysts can all use to communicate and share algorithms and workflows. Becker and Chambers (with S) and later Ihaka, Gentleman, and members of the R Core team (with R) conceived of their work as research how to best organize computations with statistical data. I too classify this as research, addressing category "GDS 3: Computing with Data." Please note how essentially ambitious the effort was, and how impactful. In recently reviewing many online presentations about data science initiatives, I was floored to see how heavily R is relied upon, even by data science instructors who claim to be doing no statistics at all.
 
-我们之前认为，R系统通过创建一种标准语言来改变数据分析的实践，不同的分析师都可以使用该语言来交流和共享算法和工作流。贝克尔和Chambers（与S）以及后来的伊哈卡、绅士和R核心团队成员（与R）将他们的工作设想为研究如何用统计学最好地组织计算。我也将其归类为研究，称之为“GDS 3：数据计算”请注意，这项努力的实质是多么雄心勃勃，多么有影响力。在最近回顾了许多关于数据科学计划的在线演示时，我惊讶地发现，即使是声称根本不做统计的数据科学讲师，R的依赖程度也是如此之高。
-
+我们之前谈到，R系统通过创建一种标准语言彻底改变了数据分析的实践，不同的分析师都可以使用这种语言来交流和共享算法和工作流程。Becker和Chambers（S）以及后来的Ihaka, Gentleman和R核心团队的成员（R）将他们的工作设想为研究如何用统计学最好地组织计算。我也将其归类为研究，涉及类别“GDS 3：数据计算”。请注意这项工作本质上是多么雄心勃勃，多么有影响力。在最近回顾了许多关于数据科学计划的在线演示时，我惊讶地发现，即使是声称根本不做统计的数据科学讲师，R的依赖程度也是如此之高。
 
 ## 8.4.2. Data Wrangling: Tidy Data
 
-## 8.4.2. 数据包装：整洁的数据
+## 8.4.2. 数据整理：清洗数据
 
 
 Hadley Wickham is a well-known contributor to the world of statistical computing, as the author of numerous packages becoming popular with R users everywhere; these include ggplot2, reshape2, plyr, tidyr, dplyr; Wickham (2011), Wickham et al. (2007), and Wickham et al. (2011). These packages abstractify and attack certain common issues in data science subfield "GDS 2: Data Representation and Transformation" and also subfield "GDS 4: Data Visualization and Presentation," and Wickham's tools have gained acceptance as indispensable to many.
 
-Hadley Wickham是统计计算领域的一位著名贡献者，他是众多软件包的作者，深受各地R用户的欢迎；其中包括ggplot2、reshape2、plyr、tidyr、dplyr；Wickham（2011）、Wickham等人（2007）和Wickham等人（2011）。这些软件包抽象并攻击了数据科学子领域“GDS 2：数据表示和转换”以及子领域“GS 4：数据可视化和表示”中的某些常见问题，Wickham的工具已被许多人接受为不可或缺的工具。
 
+Hadley Wickham是统计计算领域的知名贡献者，他开发了众多流行的软件包，包括ggplt2、reshape2、plyr、tidyr、dplyr等，这些包在世界各地的R用户中广受欢迎；参见Wickham（2011）、Wickham等人（2007）和Wickham等人（2011）。这些软件包抽象并解决了数据科学子领域“GDS 2：数据表示和转换”和子领域“GDS 4：数据可视化和展示”中的某些常见问题，Wickham的工具已被很多人认为是不可或缺的。
 
 In Wickham (2014) Wickham discussed the notion of tidy data. Noting (as I also have, above) the common estimate that 80% of data analysis is spent on the process of cleaning and preparing the data, Wickham develops a systematic way of thinking about "messy" data formats and introduces a set of tools in R that translate them to a universal "tidy" data format. He identifies several messy data formats that are commonly encountered in data analysis and shows how to transform each such format into a tidy format using his tools melt and cast. Once the data are molten, they can be very conveniently operated on using tools from the plyr library, and then the resulting output data can be "cast" into a final form for further use.
 
-在Wickham（2014）中，Wickham讨论了整洁数据的概念。Wickham注意到（正如我在上文中所述），通常估计80%的数据分析都花费在清理和准备数据的过程中，他开发了一种系统的方式来思考“杂乱”的数据格式，并在R中引入了一组工具，将其转换为通用的“整洁”数据格式。他确定了数据分析中常见的几种杂乱的数据格式，并展示了如何使用他的工具melt和cast将每种格式转换为整洁的格式。一旦数据被熔化，就可以非常方便地使用plyr库中的工具进行操作，然后可以将生成的输出数据“铸造”为最终形式以供进一步使用。
+Wickham(2014)讨论了数据整理的概念。Wickham注意到（我在上面也说过）通常的估计是，80% 的数据分析都花在了清理和准备数据上，因此他系统地思考了“凌乱”的数据格式，并在R中引入了一套工具，将它们转换成通用的“整齐”的数据格式。他识别了数据分析中常见的几种混乱的数据格式，并展示了如何使用他的工具melt和cast将每种格式转换为整齐的格式。一旦数据规整好，就可以非常方便地使用plyr库中的工具进行操作，然后将得到的输出数据“cast”为最终形式，以供进一步使用。
 
 The plyr library abstracts certain iteration processes that are very common in data analysis, of the form "apply such-andsuch a function to each element/column/row/slice" of an array. The general idea goes back to Kenneth Iverson's 1962 APL 360 programming language (Iverson 1991), and the reduce operator formalized there; younger readers will have seen the use of derivative ideas in connection with Map/Reduce and Hadoop, which added the ingredient of applying functions on many processors in parallel. Still plyr offers a very fruitful abstraction for users of R, and in particular teaches R users quite a bit about the potential of R's specific way of implementing functions as closures within environments.
 
-plyr库抽象了在数据分析中非常常见的某些迭代过程，形式为“将这样一个函数应用于数组的每个元素/列/行/片”。总的想法可以追溯到Kenneth Iverson 1962年的APL 360编程语言（Iverson 1991），并在那里正式化了reduce运算符；年轻的读者将看到与Map/Reduce和Hadoop相关的衍生思想的使用，这增加了在许多处理器上并行应用函数的成分。仍然plyr为R的用户提供了一个非常有成效的抽象，特别是向R用户传授了R在环境中实现函数作为闭包的特定方式的潜力。
-
+plyr包抽象了数据分析中非常常见的某些操作，形式为“将某函数应用于数组的每个元素/列/行/切片(element/column/row/slice)”。一般的想法可以追溯到Kenneth Iverson 1962年的APL 360编程语言（Iverson 1991），在那里正式化了reduce运算符；年轻的读者会看到与Map/Reduce和Hadoop相关的衍生思想的使用，这使得能在多处理器上并行跑函数。尽管如此，plyr为R的用户提供了一个非常有效的抽象，特别是教R用户很多关于R在环境中实现函数作为闭包的特定方式的潜力。
 
 
 Wickham has not only developed an R package making tidy data tools available; he has written an article that teaches the R user about the potential of this way of operating. This effort may have more impact on today's practice of data analysis than many highly regarded theoretical statistics articles.
 
-Wickham不仅开发了一个R包，提供了整洁的数据工具；他写了一篇文章，告诉R用户这种操作方式的潜力。与许多备受推崇的理论统计文章相比，这一努力对当今数据分析实践的影响可能更大。
+Wickham不仅开发了一个R包，提供了数据整理的工具；他还写了一篇文章，告诉R用户这种操作方式的潜力。**与许多备受推崇的理论统计文章相比，这一努力对当今数据分析实践的影响可能更大。**
 
 
-### 8.4.3. Research Presentation: Knitr
+### 8.4.3. Research Presentation: knitr
 
-### 8.4.3. 研究报告：Knitr
+### 8.4.3. 研究报告：knitr
 
 
 As a third vignette, we mention Yihui Xie's work on the knitr package in R. This helps data analysts authoring source documents that blend running R code together with text, and then compiling those documents by running the R code, extracting results from the live computation, and inserting them in a highquality PDF file, HTML web page, or other output product.
 
-作为第三个小插曲，我们提到谢益辉（Yihui Xie）在R中的knitter包的工作。这有助于数据分析人员编写将运行的R代码与文本混合在一起的源文档，然后通过运行R代码编译这些文档，从实时计算中提取结果，并将其插入高质量的PDF文件、HTML网页、，或其他输出产品。
+作为第三个小插曲，我们提到谢益辉（统计之都创始人）在R中的knitr包的工作。这有助于数据分析师将可运行的R代码与文本混合在源文档，然后通过运行R代码编译这些文档，从实时计算中提取结果，并将其插入高质量的PDF文件、HTML网页或其他输出格式。
 
 
 In effect, the entire workflow of a data analysis is intertwined with the interpretation of the results, saving a huge amount of error-prone manual cut-and-paste moving computational outputs and their place in the document.
 
-实际上，数据分析的整个工作流程与结果的解释交织在一起，节省了大量容易出错的手动剪切和粘贴移动计算输出及其在文档中的位置。
-
+这样的好处是，数据分析的整个工作流与结果的解释交织在一起，从而节省了通过大量容易出错的手动复制、粘贴、移动——来处理计算输出及其在文档中的位置。
 
 Since data analysis typically involves presentation of conclusions, there is no doubt that data science activities, in the larger sense of GDS, include preparation of reports and presentations. Research that improves those reports and presentations in some fundamental way is certainly contributing to GDS. In this case, we can view it as part of "GDS3: Computing with Data," because one is capturing the workflow of an analysis. As we show later, it also enables important research in "GDS6: Science about Data Science."
 
-由于数据分析通常涉及结论的陈述，毫无疑问，从广义的GDS来看，数据科学活动包括报告和陈述的准备。以某种基本方式改进这些报告和演示的研究无疑有助于GDS。在这种情况下，我们可以将其视为“GDS3：使用数据计算”的一部分，因为我们正在捕获分析的工作流。正如我们稍后所展示的，它还支持“GDS6：关于数据科学的科学”中的重要研究
+由于数据分析通常涉及结论的展示，毫无疑问，从大数据科学(GDS)的更宏观视角来说，数据科学活动包括报告和展示。以某种基本方式改进这些报告和展示的研究，毫无疑问是对GDS的贡献。在这种情况下，我们可以将其视为“GDS3：数据计算”的一部分，因为我们正在捕捉分析的工作流。正如我们稍后展示的，它还促成了“GDS6：关于数据科学的科学”中的重要研究。
+
 
 
 ## 8.5. Discussion
@@ -1489,22 +1488,21 @@ Since data analysis typically involves presentation of conclusions, there is no 
 
 One can multiply the above examples, making GDS research ever more concrete. Two quick hits:
 
-人们可以列举上述例子，使GDS研究更加具体。两次快速命中：
+人们可以列举上述例子，使大数据科学(GDS)研究更加具体。两个简要例子：
 
 
 - For subfield "GDS 4: Data Visualization and Presentation," one can mention several exemplary research contributions: Bill Cleveland's work on statistical graphics (Cleveland et al. 1985; Cleveland 2013), along with Leland Wilkinson's (Wilkinson 2006) and Hadley Wickham's Wickham (2011) books on the Grammar of Graphics.
 
-- 对于子领域“GDS 4:数据可视化和演示”，可以提到几个典型的研究贡献：Bill Cleveland在统计图形方面的工作（Cleveland等人，1985；Cleveland 2013），以及Leland Wilkinson（2006）和Hadley Wickham（2011）关于图形语法的著作。
+- 对于子领域“GDS 4:数据可视化和展示”，可以提到几个典型的研究贡献：Bill Cleveland在统计图形方面的工作（Cleveland等人，1985；Cleveland 2013），以及Leland Wilkinson（2006）和Hadley Wickham（2011）关于图形语法的著作。
 
 
 - For subfield "GDS 1: Data Exploration and Presentation," there is of course the original research from long ago of John Tukey on EDA (Tukey 1977); more recently Cook and Swayne's work on Dynamic graphics (Cook and Swayne 2007).
 
-- 对于子领域“GDS 1：数据探索和展示”，当然有John Tukey（1977）关于EDA的原始研究；最近，Cook和Swayne在动态图形方面的工作（Cook and Swayne 2007）。
-
+- 对于子领域“GDS 1：数据探索和展示”，当然包括John Tukey（1977）关于探索性数据分析(EDA)的原始研究；最近还有Cook和Swayne在动态图形方面的工作（Cook and Swayne 2007）。
 
 Our main points about all the above-mentioned research:
 
-我们对上述所有研究的主要观点：
+我们对上述所有研究的主要观点是：
 
 
 (a) it is not traditional research in the sense of mathematical statistics or even machine learning;
@@ -1521,11 +1519,11 @@ Our main points about all the above-mentioned research:
 
 Without a classification like GDS, it would be hard to know where to "put it all" or whether a given data science program is adequately furnished for scholar/researchers across the full spectrum of the field.
 
-如果没有像GDS这样的分类，就很难知道“把它全部放在哪里”，也很难知道给定的数据科学项目是否为整个领域的学者/研究人员提供了足够的资源。
+如果没有像大数据科学(GDS)这样的分类，就很难知道“把它全部放在哪里”，也很难知道给定的数据科学项目是否为整个领域的学者/研究人员提供了足够的加持。
 
 ## 9. Science About Data Science
 
-## 9. 科学关于数据科学
+## 9. 关于数据科学的科学
 
 
 A broad collection of technical activities is not a science; it could simply be a trade such as cooking or a technical field such as geotechnical engineering. To be entitled to use the word "science," we must have a continually evolving, evidencebased approach. "GDS6: Science about Data Science" posits such an approach; we briefly review some work showing that we can really have evidence-based data analysis. We also in each instance point to the essential role of information technology skills, the extent to which the work "looks like data science," and the professional background of the researchers involved.
