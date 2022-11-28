@@ -252,16 +252,16 @@ Morris: As regards empirical Bayes, you think it's an underachiever.
 
 Efron: Empirical Bayes is an underachiever only in comparison with things like the Wilcoxon test, which are used billions of times. People do use empirical Bayes ideas or hierarchical modeling more generally, but it really hasn't spread into the applications community. Also, I was thinking in terms of the possible gains, and things like the Wilcoxon test aren't really much of a gain over the t test in experienced hands. But empirical Bayes can surprise even statisticians with how much you can gain in practice. You can easily save 75% or 50% of the risk. So why isn't it used more? The reason is that we're not too confident about the theory and when it applies. Analysis of variance is incredibly useful: it fits so many situations. Part of the reason it's so useful is because Fisher taught scientists that statisticians can handle the analysis of variance very well, so researchers designed experiments with us in mind. If we get good at analyzing empirical Bayes situations and confident about it both in the theoretical and applied sense, then I think experimenters will start designing experiments that will make use of the kind of parallel structure you need for empirical Bayes. Microarrays are a good example of useful parallel structure.
 
-**Efron**：经验贝叶斯只有与Wilcoxon检验相比，才是一个后进生，后者被使用了数十亿次。人们确实更普遍地使用经验贝叶斯思想或分层建模，但它实际上还没有扩散到应用社区。此外，我还考虑了可能的收益，在经验丰富的人手中，Wilcoxon检验和t检验相比，并没有多大收益。但是经验贝叶斯甚至可以让统计学家惊讶，你可以在实践中获得多少收益。你可以很容易地节省75%或50%的风险。那为什么不多用呢？原因是我们对这个理论以及它的应用不太自信。方差分析非常有用：它适用于许多情况。它如此有用的部分原因是因为Fisher教导科学家们，统计学家可以很好地处理方差分析，所以研究人员在设计实验时考虑到了我们。如果我们善于分析经验贝叶斯的情况，并对其在理论和应用上都充满信心，那么我认为实验者将开始设计实验，利用经验贝叶斯所需要的那种并行结构。微阵列是有用的并行结构的一个很好的例子。
+**Efron**：经验贝叶斯只有与Wilcoxon检验相比，才是一个后进生，后者被使用了数十亿次。人们确实比以前更普遍地使用经验贝叶斯思想或分层建模，但它实际上还没有扩散到应用社区。此外，我还考虑了这些方法可能带来的收益，在经验丰富的人手中，Wilcoxon检验和t检验相比，并没有多大收益。但是使用经验贝叶斯在实践中获得的收益甚至会统计学家感到惊讶。你可以很容易地节省75%或50%的风险。那为什么不多用呢？原因是我们对这个理论以及它的应用不太自信。方差分析非常有用：它适用于许多情况。它如此有用的部分原因是因为Fisher教导科学家们，统计学家可以很好地处理方差分析，所以研究人员在设计实验时考虑到了我们。如果我们善于分析经验贝叶斯的情况，并对其在理论和应用上都充满信心，那么我认为实验者将开始设计实验，利用经验贝叶斯所需要的那种并行结构。微阵列是有用的并行结构的一个很好的例子。
 
 
 Holmes: Isn't there a problem of coherence when doing empirical Bayes? What motivates mixing paradigms, taking a Bayesian viewpoint and then using the data like a frequentist?
 
-**Holmes**：在做经验贝叶斯时，不是存在【连贯性(coherence)】问题吗？是什么促使混合范式，采取贝叶斯观点，然后像频率学家一样使用数据？
+**Holmes**：在做经验贝叶斯时，不是存在连贯性(coherence)问题吗？是什么促使混合范式，采取贝叶斯观点，然后像频率学家一样使用数据？
 
 Efron: The coherence question is a Bayesian's answer to optimality. Optimality is what frequentists talk about. Bayesians counter with coherence and say that frequentist theory tends to be incoherent in that it doesn't combine information from different situations in a logical way. And that's a perfectly good criticism, especially if you have to combine some information. There are other attractive things about the Bayesian approach. It's far more aggressively optimistic about modeling than frequentism. Frequentism tends to be quite defensive, trying to avoid making a statement that has a high probability of being wrong. There's a lot I like about Bayesian statistics. What I don't like is slapping on a prior and saying you've got an answer. It's very dangerous, especially in high-dimensional problems.
 
-**Efron**：【连贯性问题是贝叶斯对最优性的回答。】最优性是频率主义者谈论的。贝叶斯用连贯性反驳说频率主义理论往往是不连贯的，因为它没有以逻辑的方式结合来自不同情况的信息。这是一个非常好的批评，尤其是如果你必须结合一些信息。贝叶斯方法还有其他吸引人的地方。它对建模比频率主义更积极乐观。频率主义倾向于保守，试图避免做出错误概率很高的陈述。贝叶斯统计有很多我喜欢的地方。【我不喜欢的是拍打先验并说你有答案。】这是非常危险的，尤其是在高维问题中。
+**Efron**：连贯性问题是贝叶斯对最优性的回应。频率主义者通常会谈论最优性。而贝叶斯主义者则反驳说频率主义理论往往是不连贯的，因为它没有以符合逻辑的方式结合来自不同情况的信息。这是一个非常好的批评，尤其是当你必须结合一些信息的时候。贝叶斯方法还有其他吸引人的地方。它在建模时比频率主义更积极乐观。频率主义倾向于保守，试图避免做出错误概率很高的陈述。贝叶斯统计有很多我喜欢的地方。【我不喜欢的是迅速地选择一个先验然后分析一下数据就说你有了答案。】这是非常危险的，尤其是在高维问题中。
 
 Bayesian theory is quite impressive when you have a pretty good idea that the prior is at least not harmful. You may have some complicated situation that frequentism gets lost in, like multiple comparisons, and the Bayesian approach then starts saying things that are interesting.
 
@@ -269,7 +269,7 @@ Bayesian theory is quite impressive when you have a pretty good idea that the pr
 
 Tibshirani: I think another important fact is that people tend to use tools that give them answers when they didn't have any answer before. Robust statistics was very big in the 1960 s, but how much do we use it now? Robust statistics gives a higher quality result in a situation where we already had a result. The bootstrap gives an answer where we had no answer before. That's the kind of tool people are going to use, analysis of variance being a good example. It's a basic tool that gives us an answer to questions that are important, scientifically. 
 
-**Tibshirani**：我认为另一个重要的事实是，当人们以前没有任何答案时，他们倾向于使用能给他们答案的工具。稳健统计在20世纪60年代非常庞大，但我们现在用了多少？在我们已经有结果的情况下，稳健的统计学可以提供更高质量的结果。bootstrap给出了一个以前没有答案的答案。这就是人们将要使用的工具，方差分析就是一个很好的例子。这是一个基本工具，能让我们科学地回答重要的问题。
+**Tibshirani**：我认为另一个重要的事实是，人们倾向于使用能帮他们解决之前解决不了的问题的工具。稳健统计在20世纪60年代非常庞大，但我们现在用了多少？在我们已经有结果的情况下，稳健的统计学可以提供更高质量的结果。bootstrap给出了一个以前没有答案的答案。这就是人们将要使用的工具，方差分析就是一个很好的例子。这是一个基本工具，能让我们科学地回答重要的问题。
 
 
 Efron: It helps that the bootstrap is easy to use and flexible. As time goes by it gets easier and easier to apply. The kind of thing that's hard to use is a theory like "uniform minimum variance unbiased," where you have to think of a new trick for each new case in order to apply it. The things that go like gangbusters are ideas like maximum likelihood estimation, where one algorithm fits all. So maybe what I was trying to say was that empirical Bayes needs to be automated.
@@ -284,33 +284,33 @@ Tibshirani: I think the point that Brad is making is that a method has to become
 
 Morris: So, for instance, lots of different packages now have methods, for better or worse, that incorporate shrinkage of models. Has that gone far enough, in your mind?
 
-**Morris**：比如说，不管好坏，现在很多不同的软件包都有方法，【都包含了模型的收缩】。在你看来，这已经足够了吗？
+**Morris**：比如说，不管好坏，现在很多不同的软件包都包含了压缩模型的方法。在你看来，这已经足够了吗？
 
 Efron: When you use a Bayes or empirical Bayes estimate, you don't have the safety net of each theta being estimated more or less unbiasedly by its own " $x, "$ as you do in the classical theory. With maximum likelihood estimation, each parameter is estimated in a way that's fairly unbiased. If you use an empirical Bayes estimate, everything gets pulled toward the central bulge. You have to grit your teeth and believe the fact that even though any one estimate may be off, overall you're getting a lot of improvement. That's what we have to get people, including ourselves, to believe.
 
-**Efron**：当你使用贝叶斯或经验贝叶斯估计时，你不会像经典理论中那样，【或多或少地用它自己的x来估计每个θ的安全网】。在最大似然估计中，每个参数都是以一种相当无偏的方式估计的。如果你使用经验贝叶斯估计，【一切都会被拉向中央凸起】。你必须咬紧牙关，相信这样一个事实，即使任何一个估计都可能是错误的，但总的来说，你得到了很大的改善。这就是我们必须让人们，包括我们自己相信的。
+**Efron**：当你使用贝叶斯或经验贝叶斯估计时，你不会像经典理论中那样，【对每个θ的都有它或多或少无偏的估计方法】。在最大似然估计中，每个参数都是以一种相当无偏的方式估计的。如果你使用经验贝叶斯估计，【一切都会被拉向中央凸起】。你必须咬紧牙关，相信这样一个事实，即使任何一个估计都可能是错误的，但总的来说，你得到了很大的改善。这就是我们必须让人们，包括我们自己相信的。
 
 Morris: I actually believe they're all improved, not in a frequentist sense, but in the sense that on the basis of information available to you every single one of them is more likely than not to be improved. Of course, later if you tell me the true values, I'll find some are better than others.
 
-**Morris**：事实上，我相信他们都在进步，不是在频率学家的意义上，而是在你可以获得的信息的基础上，他们中的每一个都更有可能得到进步。当然，稍后如果你告诉我真正的价值，我会发现有些比其他的更好。
+**Morris**：事实上，我相信他们都在进步，不是在频率学家的意义上，而是在你可以获得的信息的基础上，他们中的每一个都更有可能得到进步。当然，稍后如果你告诉我真正的值，我会发现有些比其他的更好。
 
 
 Efron: But you may know, for example, that an usually large parameter value has say 80% chance of being underestimated.
 
-**Efron**：但你可能知道，例如，一个通常很大的参数值有80%的几率被低估。
+**Efron**：但你可能知道，例如，通常一个较大的参数值会有80%的几率被低估。
 
 Morris: I don't think that at all. If you have both levels of the model right, you're better off after you pull things in. The trick is to know about the second level of the model, which involves exchangeability of the parameters or maybe something more complicated.
 
-**Morris**：我一点也不这么认为。【如果你对模型的两个层次都做对了，在你把东西放进去之后，你会过得更好。诀窍是了解模型的第二个层次，它涉及参数的可交换性，或者更复杂的东西。】
+**Morris**：我一点也不这么认为。如果你把模型的两个层次都设计对了，在你把数据放进去之后，你会做得更好。其诀窍是你需要了解模型的第二个层次，这里面涉及参数的可交换性，或者更复杂的东西。
 
 
 Efron: So, as we've written, you have to believe in a relationship between all the parameters. You're testing penicillin and ampicillin and 10 other kinds of antibiotics, you have an estimate for each one, and you have to believe that all the data has some implications for penicillin, not just the penicillin data. 
 
-**Efron**：所以，正如我们所写的，你必须相信所有参数之间的关系。你正在测试青霉素、氨苄西林和其他10种抗生素，你对每种抗生素都有一个估计，你必须相信【所有的数据都对青霉素有一定的影响，而不仅仅是青霉素数据】。
+**Efron**：所以，正如我们所写的，你必须相信所有参数之间的关系。你正在测试青霉素、氨苄西林和其他10种抗生素，你对每种抗生素都有一个估计，你必须相信所有的数据都包含一定的关于青霉素的信息和知识，而不仅仅是青霉素数据。
 
 Morris: You have to decide a priori whether you're willing to combine estimates; the data is supposed to decide whether you can do much shrinkage. For example, in looking at data on hospitals, I tend to shrink VA hospitals who are doing a bunch of similar procedures. There are about 160 of them. I believe that the information that's in one has some relevance to the others. I don't know how much, but the data helps me decide.
 
-**Morris**：你必须先验地决定是否愿意合并估计；数据应该决定你是否可以做很多【收缩shrinkage】。例如，在查看有关医院的数据时，我倾向于【shrink】正在进行一系列类似程序的弗吉尼亚州医院。大约有160个。我相信其中的信息与其他信息有一定的相关性。我不知道有多少，但数据可以帮我决定。
+**Morris**：你必须先验地决定是否愿意合并估计；数据应该决定你是否可以做很多收缩 (shrinkage)。例如，在查看有关医院的数据时，我倾向于合并并压缩正在进行一系列类似程序的弗吉尼亚州医院的数据，大约有160个。我相信其中的信息与其他信息有一定的相关性。我不知道有多少，但数据可以帮我决定。
 
 
 
@@ -324,12 +324,12 @@ Morris: They wouldn't like it. But I'd be right, more often than not. ... It's a
 
 Efron: Well, I think the serious point is that 20 thcentury statistics mainly taught us to treat each parameter in its own right, essentially try to estimate it without bias, or to test it with an unbiased estimate. Twentyfirst century may have to undo that. You'll have to accept that you're not going to have that safeguard.
 
-**Efron**：嗯，我认为重要的一点是，20世纪的统计学主要教会我们如何正确对待每一个参数，基本上是试图无偏地估计它，或者【用无偏的估计来检验它】。21世纪可能不得不扭转这种局面。你必须接受你没有那个无偏的保障。
+**Efron**：嗯，我认为重要的一点是，20世纪的统计学主要教会我们如何正确对待每一个参数，基本上是试图无偏地估计它，或者用无偏的估计来检验它。21世纪可能不得不扭转这种局面。你必须接受你没有那个无偏的保障。
 
 
 Tibshirani: You also made a point before, that scientists ask us the kind of question that we teach them to ask. For example, they ask us for a t test because that's what they think we can do. Sometimes I think that's all they think we can do. As they learn more about statistical science, if we can treat parallel problems well with empirical Bayes, then we'll get asked that question more often.
 
-**Tibshirani**：你之前也说过，科学家问我们的问题是我们教他们去问的。例如，他们要求我们进行t检验，因为他们认为我们可以这样做。有时候我认为这就是他们认为我们能做的。随着他们学习更多关于统计科学的知识，如果我们能用经验贝叶斯很好地【处理并行问题】，那么我们会更经常地被问到这个问题。
+**Tibshirani**：你之前也说过，科学家问我们的问题是我们教他们去问的。例如，他们要求我们进行t检验，因为他们认为我们可以这样做。有时候我认为这就是他们认为我们能做的。随着他们学习更多关于统计科学的知识，如果我们能【在经验贝叶斯中很好地处理并行问题】，那么我们会更经常地被问到这个问题。
 
 Morris: So, we might try teaching our beginning courses a different way. For example, if we teach people who will never be statisticians, we ought to teach them what statistics can do. What kinds of problems come up, and when they should hire a statistician. They might like our courses better, too, because they'll see they have something to do with what they need to know; not just some sort of torture semester.
 
