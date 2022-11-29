@@ -15,7 +15,7 @@ David Donoho  加利福尼亚州 斯坦福大学统计系
 
 More than 50 years ago, John Tukey called for a reformation of academic statistics. In "The Future of Data Analysis," he pointed to the existence of an as-yet unrecognized science, whose subject of interest was learning from data, or "data analysis." Ten to 20 years ago, John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again urged academic statistics to expand its boundaries beyond the classical domain of theoretical statistics; Chambers called for more emphasis on data preparation and presentation rather than statistical modeling; and Breiman called for emphasis on prediction rather than inference. Cleveland and Wu even suggested the catchy name "data science" for this envisioned field. A recent and growing phenomenon has been the emergence of "data science" programs at major universities, including UC Berkeley, NYU, MIT, and most prominently, the University of Michigan, which in September 2015 announced a $100M "Data Science Initiative" that aims to hire 35 new faculty. Teaching in these new programs has significant overlap in curricular subject matter with traditional statistics courses; yet many academic statisticians perceive the new programs as "cultural appropriation." This article reviews some ingredients of the current "data science moment," including recent commentary about data science in the popular media, and about how/whether data science is really different from statistics. The now-contemplated field of data science amounts to a superset of the fields of statistics and machine learning, which adds some technology for "scaling up" to "big data." This chosen superset is motivated by commercial rather than intellectual developments. Choosing in this way is likely to miss out on the really important intellectual event of the next 50 years. Because all of science itself will soon become data that can be mined, the imminent revolution in data science is not about mere "scaling up," but instead the emergence of scientific studies of data analysis science-wide. In the future, we will be able to predict how a proposal to change data analysis workflows would impact the validity of data analysis across all of science, even predicting the impacts fieldby-field. Drawing on work by Tukey, Cleveland, Chambers, and Breiman, I present a vision of data science based on the activities of people who are "learning from data," and I describe an academic field dedicated to improving that activity in an evidence-based manner. This new field is a better academic enlargement of statistics and machine learning than today's data science initiatives, while being able to accommodate the same short-term goals. Based on a presentation at the Tukey Centennial Workshop, Princeton, NJ, September 18 , 2015.
 
-50多年前，John Tukey呼吁对学术统计学进行改革。在《数据分析之未来》(The Future of Data Analysis)一文中，他指出了一门尚未被认识到的科学的存在，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 再次独立地敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的主要大学都出现了“数据科学”项目，最知名的是密歇根大学（University of Michigan）于2015年9月宣布了一项耗资1亿美元的“数据科学计划”，要招聘35名新教师。这些新课程的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为“新瓶子装旧酒”。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近广泛传播的媒体上关于数据科学的评论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个选择的超集是由商业而非才智发展驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是整个科学范围内数据分析科学研究的出现。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。借鉴Tukey、Cleveland、Chambers和Breiman的工作，我提出了一个基于“从数据中学习”的人的活动的数据科学愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够适应同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
+50多年前，John Tukey呼吁对学术统计学进行改革。在“数据分析之未来”(The Future of Data Analysis)一文中，他指出了一门尚未被认识到的科学的存在，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 再次独立地敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的主要大学都出现了“数据科学”项目，最知名的是密歇根大学（University of Michigan）于2015年9月宣布了一项耗资1亿美元的“数据科学计划”，要招聘35名新教师。这些新课程的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为“新瓶子装旧酒”。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近广泛传播的媒体上关于数据科学的评论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个选择的超集是由商业而非才智发展驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是整个科学范围内数据分析科学研究的出现。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。借鉴Tukey、Cleveland、Chambers和Breiman的工作，我提出了一个基于“从数据中学习”的人的活动的数据科学愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够适应同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
 
 
 # 1. Today's Data Science Moment
@@ -68,7 +68,7 @@ There are new announcements of such initiatives weekly. $^{2}$
 
 > [2] 有关学位课程的更新的交互式地理图，请参见 http://data-science-university-programs.silk.co
 
-<font color='red'>【**疑问：疑问的缩略表可以删除**】</font>
+
 # 2. Data Science "Versus" Statistics
 
 # 2. 数据科学与统计
@@ -80,7 +80,7 @@ Many of my audience at the Tukey Centennial-where these remarks were originally 
 
 To statisticians, the DSI phenomenon can seem puzzling. Statisticians see administrators touting, as new, activities that statisticians have already been pursuing daily, for their entire careers; and which were considered standard already when those statisticians were back in graduate school.
 
-对统计学家来说，数据科学计划(DSI)似乎令人费解似乎令人费解。统计学家们认为，他们在整个职业生涯中每天都在从事的活动，被管理人员吹捧为成了鲜事；当这些统计学家回到学院时，这些活动已经被认为是标准的。
+对统计学家来说，数据科学计划(DSI)似乎令人费解。统计学家们认为，他们在整个职业生涯中每天都在从事的活动，被管理人员吹捧为成了鲜事；当这些统计学家回到学院时，这些活动已经被认为是标准的。
 
 
 The following points about the U of M DSI will be very telling to such statisticians:
@@ -201,7 +201,7 @@ We can immediately reject "big data" as a criterion for meaningful distinction b
 
 - **History**. The very term "statistics" was coined at the beginning of modern efforts to compile census data, that is, comprehensive data about all inhabitants of a country, for example, France or the United States. Census data are roughly the scale of today's big data; but they have been around more than 200 years! A statistician, Hollerith, invented the first major advance in big data: the punched card reader to allow efficient compilation of an exhaustive U.S. census. (http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datasciencel) This advance led to formation of the IBM corporation which eventually became a force pushing computing and data to ever larger scales. Statisticians have been comfortable with large datasets for a long time, and have been holding conferences gathering together experts in "large datasets" for several decades, even as the definition of large was ever expanding. $^{14}$
 
-- **历史**。“统计”一词是在现代人口普查数据编制工作之时创造的，即一个国家（例如法国或美国）所有居民的综合数据。人口普查数据大致相当于当今大数据的规模；但它们已经存在了200多年！统计学家 Hollerith 发明了大数据领域的第一个重大进步：穿孔卡片阅读器，可以有效地汇编详尽的美国人口普查数据。(http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datasciencel) 这一进步导致了IBM公司的成立，该公司最终成为一股将计算和数据推向更大规模的力量。统计学家长期以来一直对大型数据集感到满意，并且几十年来一直在召开会议，聚集“大型数据集”的专家，即便『大』的定义在不断扩大 $^{14}$。
+- **历史**。“统计”一词是在现代人口普查数据编制工作之时创造的，即一个国家（例如法国或美国）所有居民的综合数据。人口普查数据大致相当于当今大数据的规模；但它们已经存在了200多年！统计学家 Hollerith 发明了大数据领域的第一个重大进步：穿孔卡片阅读器，可以有效地汇编详尽的美国人口普查数据。(http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datasciencel) 这一进步导致了IBM公司的成立，该公司最终成为一股将计算和数据推向更大规模的力量。统计学家长期以来一直对大型数据集感到满意，并且几十年来一直在召开会议，聚集“大型数据集”的专家，即便“大”的定义在不断扩大 $^{14}$。
 
 - **Science**. Mathematical statistics researchers have pursued the scientific understanding of big datasets for decades. They have focused on what happens when a database has a large number of individuals or a large number of measurements or both. It is simply wrong to imagine that they are not thinking about such things, in force, and obsessively. Among the core discoveries of statistics as a field were sampling and sufficiency, which allow to deal with very large datasets extremely efficiently. These ideas were discovered precisely because statisticians care about big datasets.
 
@@ -220,7 +220,7 @@ The data-science = “big data” framework is not getting at anything very intr
 
 > [14] During the Centennial workshop, one participant pointed out that John Tukey's definition of "big data" was: "anything that won't fit on one device." In John's day the device was a tape drive, but the larger point is true today, where device now means "commodity file server." The data-science $=$ "big data" framework is not getting at anything very intrinsic about the respective fields.
 
-> [14] 在百年研讨会期间，一位与会者指出，John Tukey对“大数据”的定义是：“所有那些无法在一台设备装下的东西”。尽管在John的时代，设备指的是一个磁带机，而今天设备意味着<font color='red'>【**“通用文件服务器”（commodity file server）**】</font>，但总体意思依然正确。数据科学 = “大数据”框架没有触及各个领域的任何本质。
+> [14] 在百年研讨会期间，一位与会者指出，John Tukey对“大数据”的定义是：“所有那些无法在一台设备装下的东西”。尽管在John的时代，设备指的是一个磁带机，而今天设备意味着“通用文件服务器”（commodity file server），但总体意思依然正确。数据科学 = “大数据”框架没有触及各个领域的任何本质。
 
 > [15] It may be getting at something real about the master's degree programs, or about the research activities of individuals who will be hired under the new spate of DSI's.
 
@@ -320,11 +320,11 @@ Data science degree programs do not actually know how to satisfy the supposedly 
 ## 2.4 What Here is Real?
 
 
-## 2.4 什么才是真实情况？
+## 2.4 真实情况是什么？
 
 We have seen that today's popular media tropes about data science do not withstand even basic scrutiny. This is quite understandable: writers and administrators are shocked out of their wits. Everyone believes we are facing a zeroth order discontinuity in human affairs.
 
-我们已经看到，今天大众媒体关于数据科学的理解甚至经不起基本的推敲。这是完全可以理解的：媒体写手和管理者们都被吓着了。每个人都认为我们即将面临着人类社会的一个<font color='red'>【**断层式难题**】</font>。
+我们已经看到，今天大众媒体关于数据科学的理解甚至经不起基本的推敲。这是完全可以理解的：【媒体写手和管理者们都被吓着了。每个人都认为我们即将面临着人类社会的一个沟通断层】。
 
 If you studied a tourist guidebook in 2010, you would have been told that life in villages in India (say) had not changed in thousands of years. If you went into those villages in 2015, you would see that many individuals there now have mobile phones and some have smartphones. This is of course the leading edge fundamental change. Soon, eight billion people will be connected to the network, and will therefore be data sources, generating a vast array of data about their activities and preferences.
 
@@ -332,7 +332,7 @@ If you studied a tourist guidebook in 2010, you would have been told that life i
 
 The transition to universal connectivity is very striking; it will, indeed, generate vast amounts of commercial data. Exploiting that data is certain to be a major preoccupation of commercial life in coming decades.
 
-向普遍连接的转变是非常惊人的；事实上，它将产生大量的商业数据。在未来几十年里，利用这些数据肯定是商业生活的一大重点。
+迈向广泛连接的转变是非常惊人的；它将产生大量的商业数据。在未来几十年里，利用这些数据肯定是商业生活的一大重点。
 
 ## 2.5 A Better Framework
 
