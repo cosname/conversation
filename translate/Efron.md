@@ -7,6 +7,8 @@ Susan Holmes, Carl Morris and Rob Tibshirani
 
 <font color='red'>**【翻译注释：有疑问的地方标记在【】之中了**】</font>
 
+> 译者注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖），由时任美国总统亲自颁发。
+
 
 **Abstract:**  Bradley Efron is Professor of Statistics and Biostatistics at Stanford University. He works on a combination of theoretical and applied topics, including empirical Bayes, survival analysis, exponential families, bootstrap and jackknife methods and confidence intervals. Most of his applied work has originated in biomedical consulting projects at the Stanford Medical School, mixed in with a few papers concerning astronomy and physics. Even his theoretical papers usually begin with specific applied problems. All three of the interviewers here have been close scientific collaborators.
 
@@ -391,11 +393,11 @@ Morris: Well, we've hired them all away to the U.S.
 
 Efron: The U.S has not been a very friendly ground for Fisherian thinking. It's been a predominantly frequentist preserve, and what might be considered beyond-frequentist thinking, the kind of philosophically atheistic approval that goes under the machinelearning rubric. People forget that Tukey and Mosteller wrote a book together, the famous green book, where there's no probability, let alone, any theory of inference.
 
-**Efron**：对Fisher学派思维，美国并不是一个非常友好的地方。这是频率学派的保护区，在这之外，【还有一种哲学上无神论的认可——属于机器学习的范畴】。人们忘记了Tukey和Mosteller一起写了一本书，著名的绿皮书，书中没有概率，更不用说任何统计推断理论了。
+**Efron**：对Fisher学派思维，美国并不是一个非常友好的地方。这是频率学派的保护区，在这之外，【还有一种哲学上无神论的认可——属于机器学习的范畴】。人们忘记了Tukey和Mosteller一起写了一本书，著名的绿皮书，书中没有概率，更不用说任何推断理论了。
 
 Morris: It seems to me that the Fisher couldn't have been Fisher, even as brilliant as he was, without being involved in real problems. He was a great geneticist, but he also worked in agriculture and developed experimental design. I think there are people doing that now, but I' $m$ worried about the loss of the theoretical side.
 
-**Morris**：在我看来，如果不卷入真正的问题，即使Fisher再现也不可能成为Fisher，即使聪明如他。他是一位伟大的遗传学家，但他也从事农业工作，并开发了实验设计。我认为现在有人这样做，但我担心理论方面的损失。
+**Morris**：在我看来，如果不深入到真正的问题，即使强如Fisher复活过来，也决不可能成为Fisher。他是一位伟大的遗传学家，但他也从事农业工作，并开发了实验设计。我认为现在有人这样做，但我担心理论方面的损失。
 
 
 Tibshirani: I'm worried about the loss of models. What Tukey really did in the 1960 s was say that we don't need models any more. I think he swung the pendulum too far with exploratory data analysis. Now similar things are happening in machine learning, where people act as if all we need are these fast algorithms that are accurate, and we don't need a model. I believe that to understand how an algorithm works, you need to know what model it's fitting. I think that's a very fertile area; I believe the core of our field is modeling.
