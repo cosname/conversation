@@ -82,7 +82,7 @@ Q：Interestingly enough, those are two British publications. So, are you rather
 
 Q：有趣的是，这两份都是英国出版物。那么，你是英国意义上的统计学家吗？是美国人引入了更偏理论的东西吗？
 
->（译者注：20世纪前半叶统计学研究的中心在英国，以Karl Pearson（1857～1936），Ronald Fisher（1890～1962）为代表，他们更强调统计学的应用性，在置信区间和假设检验方面做出重要工作的统计学家Jerzy Neyman（1894~1981）1938年前往美国伯克利加利福尼大学开展统计学研究，他们强调了统计学中数学严格性的问题。）
+> （译者注：20世纪前半叶统计学研究的中心在英国，以Karl Pearson（1857～1936），Ronald Fisher（1890～1962）为代表，他们更强调统计学的应用性，在置信区间和假设检验方面做出重要工作的统计学家Jerzy Neyman（1894~1981）1938年前往美国伯克利加利福尼大学开展统计学研究，他们强调了统计学中数学严格性的问题。）
 
 John：No, not necessarily. John Wishart, for example, was all mathematical as opposed to data-oriented. I suspect I never worried as much as some people would have thought I should about "what people were doing.'
 
@@ -870,6 +870,8 @@ John：对。
 
 ## 选举预测
 
+> （译者注：美国总统大选的结果基本由选举日（11月首个周一的翌日）全民普选的结果决定，全民普选决定本州的选举人票投给谁，共有538个选举人选票，总统候选人获得270张选举人选票后就可以宣告胜利，大部分州的计票结果在选举日的次日可以确定，但部分州的计票时间较晚。选举预测是新闻广播公司和博彩行业的重头戏，有几种类型的数据可用：历史数据（在各个级别，例如县(country)），选举前和选举中的民意调查结果，政治学家的预测，晚上流入的部分计票结果，以及选定选区的完整结果。John Tukey使用层次贝叶斯做出了重要而准确的预测模型，进一步了解选举预测可以参考[Stephen E. Fienberg ,2007, Memories of Election Night Predictions Past: Psephologists and Statisticians at Work](https://www.tandfonline.com/doi/pdf/10.1080/09332480.2007.10722868)。）
+
 Q：When did you get involved with calling elections?
 
 Q：你是哪一年参与到选举的?
@@ -932,7 +934,7 @@ Elizabeth：那还真是紧张。第一天晚上，两边差距如此之近，�
 
 John：Yes, that's the election where the river wards in Chicago were crucial. And there was a question of one set of people holding up an equal number of areas for those the other one was holding up. And nobody wanted to come down and say for the benefit of the other side we twist a little to make Illinois come in. This is the nearest thing to real-time statistics that exists as far as I know. Because you're supposed to be fast, but not make any mistakes.
 
-John：是的，那次选举芝加哥的河区（river wards）是关键选区。有一个问题是，两边旗鼓相当，难分胜负。没有人愿意让自己的支持率数字下降，以致让对手获利。我们后来稍微转变了一下思路，把伊利诺伊州的数据加了进来，因为伊利诺伊州的数据是当时我们能知道的最接近实时统计结果的。因为你必须要很快，且不能犯任何错误。
+John：是的，那次选举芝加哥的河区（river wards）是关键选区。有一个问题是，两边旗鼓相当，难分胜负。没有人愿意让自己的支持率数字下降，以致让对手获利。我们后来稍微转变了一下思路，把伊利诺伊全州的数据加了进来。我觉得选举预测是最接近实时统计的东西。因为你必须要很快，且不能犯任何错误。
 
 Elizabeth：And you didn't. You all didn't. You never had any fiascoes.
 
