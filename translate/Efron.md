@@ -50,11 +50,14 @@ Efron: One of the reasons I came to Stanford was because of its humor magazine. 
 **Efron**：我来斯坦福的原因之一是因为它的幽默杂志。我一直想为一本幽默杂志写稿，我在加州理工学院就写过幽默专栏。斯坦福大学有一本很棒的幽默杂志“The Chaparral”。我在那里的头几个月，编辑疯了，不得不住院，然后我成了编辑。有一期我们模仿了花花公子，有点过火了。我就被学校开除了。如果不是因为在管理层中地位很高的AL Bowker、Halsey Royden和Herb Solomon说我是个好学生，我可能就被永远被开除了。所以我休学了6个月，然后回来了。那是我迄今为止最出名的一次。我的照片每天都在报纸上，因为我像个疯子一样抗争。
 
 
+<div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-02.jpg?height=717&width=508&top_left_y=148&top_left_x=655)
 
 FIG. 1. Stanford faculty photo, $1972 .$
 
 图 1：斯坦福大学教员照片，1972。
+</div>
 
 
 Morris: I remember Brad was a really good writer as an undergrad, but what you did back then was so tame, now people wouldn't think anything about it. It probably just bothered the local clergy.
@@ -87,11 +90,14 @@ Efron: My father gave us this pretty clear picture that we weren't suited for he
 
 **Efron**：我父亲非常清楚地告诉我们，我们不适合从事繁重的体力工作。我的哥哥Arthur是一位退休的英语教授，著名的浪漫主义文学专家。他创办了自己的期刊《大腹便便》（Paunch），以Sancho Panza的名字命名，是关于浪漫文学的。我看过这个杂志，它交织于深奥的英语理论和淫词艳句之中。我的两个弟弟是双胞胎，他们一直很亲近。Don 被征召入伍，去了加拿大，在那里他是一个快乐的人。同事们都是精神病社会工作者。Don 经营着自己的家庭治疗杂志，而Ron 则成为了情绪低落方面的专家。他写了一本书叫《一直愤怒》(Angry All the Time)。我的儿子 Miles 是那种我们都喜欢的孩子，他是一名人文学科的学生，在过去几年里突然对统计学产生了兴趣。他现在在教堂山从事信息检索工作。有时他打电话给我，问我一些关于奇异值分解的难题。
 
+<div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-03.jpg?height=427&width=483&top_left_y=150&top_left_x=122)
 
 FIG. 2  "Campaign photo" for ASA presidency, 2002
 
 图 2：2002年ASA主席的“竞选照片。
+</div>
 
 
 Morris: In the 1960s a lot of things were happening at once. One thing was that I couldn't make a career choice, and statistics was a way to do mathematics and do everything else in sight. A lot of our students today say that that's one of the great attractions to this field. It's not only an attraction, it's actually a necessity. It was about the 1960 s that most of the departments were being formed. Statistics was suddenly a subject that was just coming on like gangbusters. Statistics, then, at least when we were studying it, was pretty abstract. You were in biostatistics partly, but you took many other courses that were pretty much just pure mathematics.
@@ -113,7 +119,7 @@ Tibshirani: Brad, it looks to me as though your work is becoming more and more a
 
 Efron: Another way to say it is I no longer have ideas. Somehow that quit happening about 20 years ago. Now all I have is my colleagues and applied work. We have a wonderful opportunity in statistics, both men and women; we're the last gentlemen scientists, in that we can look in on lots of fields and talk to brilliant people who are confused. It's a wonderful way for me to get into a topic. Some people, more honorably, want to do applications for the application's sake, but I've always been interested in it for statistics' sake. So Rob and I have been working on microarrays together, for example. That's been wonderfully stimulating. But I'm not all that interested in the biology of microarrays. Of course, I'm interested as an amateur. What I'm really interested in is how the inference theory will come out.
 
-**Efron**：换句话说，我不再有好点子了。不知何故，这种情况发生在大约20年前。现在我只有和同事们做应用工作。在统计学方面，我们有一个极好的机会，无论男女；我们是最后的绅士科学家，因为我们可以研究众多领域，并与困惑的聪明人交谈。这对我来说是进入一个话题的绝佳方式。有些人，更可敬的是，为了应用而做应用，但我一直对统计感兴趣。例如，Rob和我一直在一起研究微阵列(microarrays)。这非常刺激。但是我对微阵列生物学不太感兴趣。当然，作为一个业余爱好者，我很感兴趣。我真正感兴趣的是统计推断理论将如何从中产生。
+**Efron**：换句话说，我不再有好点子了（从理论出发）。不知何故，这种情况发生在大约20年前。现在我只有和同事们做应用工作。在统计学方面，我们有一个极好的机会，无论男女；我们是最后的绅士科学家，因为我们可以研究众多领域，并与困惑的聪明人交谈。这对我来说是进入一个话题的绝佳方式。有些人，更可敬的是，为了应用而做应用，但我一直对统计感兴趣。例如，Rob和我一直在一起研究微阵列(microarrays)。这非常刺激。但是我对微阵列生物学不太感兴趣。当然，作为一个业余爱好者，我很感兴趣。我真正感兴趣的是统计推断理论将如何从中产生。
 
 
 Tibshirani: One thing I found surprising is that we tend to find statistics relatively easy, but other scientists find it hard. A good scientist colleague of mine says it would be a lot harder for me to teach him statistics than it would be for him to teach me biology. When I look at biology it looks very daunting; it's a huge mass of facts that look mysterious. But statistics is a way of thinking that's very hard for other people to develop if they haven't been trained early on in the field. So, it's good news for us that we have something that's unique.
@@ -146,11 +152,14 @@ Tibshirani: Another example is confounding. A lot of very good scientists design
 
 **Tibshirani**：另一个例子是混淆(confounding)。许多非常优秀的科学家设计了糟糕的实验，在这些实验中，重要的影响与实验偏差混淆在一起。混淆是我们的主题的基础，我们理解它并知道如何解决它。
 
+<div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-04.jpg?height=416&width=323&top_left_y=150&top_left_x=189)
 
 FIG. 3. High school graduation photo, 1956.
 
 图 3：高中毕业照，1956年。
+</div> 
 
 Efron: I think that many of my scientific colleagues are pretty good at probability; they naturally can do probability calculations involving elaborate models, but they're very bad at reasoning backwards from data to what the probability model might have been. I remember when going into statistics that first year I thought "this will be pretty easy, I've dealt with math and that's supposed to be hard." But statistics was much harder for me at the beginning than any other field. It took years before I felt really comfortable. It's hard to figure out why people do what we do, why use $p$-values, why stuff like that.
 
@@ -190,13 +199,19 @@ Tibshirani: I noticed a curious thing about the bootstrap when I started to give
 Morris: What I remember was that it was very timely. We'd been paying $300 an hour to use a computer, and $300 was probably $1000 now. Computers were slow, and to do one of these calculations could take minutes to an hour, so that was a real drawback. The bootstrap just happened to coincide with the beginning of personal computing. We all know now that computation is no big deal, at least costwise it's no big deal, but it's still a big deal conceptually. The bootstrap  was an example where you tried to read the literature, deal with something you knew a little about, the jackknife, and thought up a theory related to it. This approach, to read other people's results and do them one step better, can be very successful. But generally I think it's less fruitful than the approach you said to have been using the last 20 years: get involved in a real problem and pretty soon you start to see things that have never been worked out.
 
 
-**Morris**：我记得那是非常及时的。我们花了300美元一小时来使用计算机，而之前的300美元现在可能是1000美元。计算机速度很慢，而进行这些计算可能需要几分钟到一个小时，所以这是一个真正的缺点。bootstrap恰好与个人计算时代相遇。我们现在都知道，计算并不是什么大不了的事，至少从成本上来说，它不是什么大不了的事，但从概念上来说，它仍然是一件大事。bootstrap就是一个例子，你试着阅读文献，处理一些你知之甚少的事情，Jackknife，并想出一个与之相关的理论。这种方法，阅读别人的结果并把他们做得更好，可以非常成功。但总的来说，我认为这种方法比你刚说的过去20年来的做法要差：深入一个真正的问题，很快你就会看到一些从未解决过的问题。
+**Morris**：我记得那可真是太及时了。我们花了300美元一小时来使用计算机，而之前的300美元现在可能是1000美元。计算机速度很慢，而进行这些计算可能需要几分钟到一个小时，所以这是一个真正的缺点。bootstrap恰好与个人计算时代相遇。我们现在都知道，计算并不是什么大不了的事，至少从成本上来说，它不是什么大不了的事，但从概念上来说，它仍然是一件大事。bootstrap就是一个例子，你试着阅读文献，处理一些你知之甚少的事情，Jackknife，并想出一个与之相关的理论。这种方法，阅读别人的结果并把他们做得更好，可以非常成功。但总的来说，我认为这种方法比你刚说的过去20年来的做法要差：深入一个真正的问题，很快你就会看到一些从未解决过的问题。
+
+<div align="center"> 
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-05.jpg?height=535&width=1053&top_left_y=148&top_left_x=111)
+
+</div>
 
 FIG. 4. SIMS conference photo in front of Old Sequoia Hall, 1974; I'm upper left; some of those pictured: John Tukey, Peter Bloomfield, Paul Switzer, Herb Robbins, Betty Scott, Persi Diaconis, Jerzy Neyman, Ingram Olkin, Yash Mittal and Richard Olshen.
 
 图 4：1974年，旧红杉大厅前的SIMS会议照片；Efron在左上角；照片中的一些人：John Tukey, Peter Bloomfield, Paul Switzer, Herb Robbins, Betty Scott, Persi Diaconis, Jerzy Neyman, Ingram Olkin, Yash Mittal和Richard Olshen。
+
+
 
 
 Efron: I'm a bad reader ab initio, but once I've started working on something, I want to read everything in that area. I find it much easier to read once I've got a foothold in an area and can see why people are doing something. That's the hardest thing when you're writing: telling someone why you're doing something, not what you're doing. Once they understand why you're doing it, there's a good chance they'll be sympathetic.
@@ -210,15 +225,15 @@ Morris: In the bootstrap case why did you start more from theoretical ideas inst
 
 Efron: It was the fact that a colleague had raised an interesting problem that seemed intuitive to me. An awful lot of literature is dull, basically because it's surprise free. You read it, and from the beginning you know perfectly well what the answer is going to be. Every once in a while you see something that's surprising. I remember the Benjamini-Hochberg [1] result on false discovery rates really surprised me. As soon as I am surprised, then I'll read with a great deal more interest.
 
-**Efron**：事实上，一位同事提出了一个有趣的问题，这对我来说似乎很直观。很多文献都很枯燥，基本上是因为它没有出人意料的内容。你读它，一看开头你就非常清楚结尾是什么。偶尔你会看到一些令人惊讶的事情。我记得Benjamini Hochberg[1]关于错误发现率(false discovery rates)的结果真的让我吃惊。一旦我感到惊讶，我就会更加感兴趣地阅读。
+**Efron**：当我的同事们提出一个有趣问题的时候，这对我来说似乎很直观。很多文献都很枯燥，基本上是因为它没有出人意料的内容。你读它，一看开头你就非常清楚结尾是什么。偶尔你会看到一些令人惊讶的事情。我记得Benjamini Hochberg[1]关于错误发现率(false discovery rates)的结果真的让我吃惊。一旦我感到惊讶，我就会更加感兴趣地阅读。
 
 Tibshirani: Another thing that makes you unique is that you don't have very many co-authors. We are some of the few people who have written papers with you. You tend to be very individualistic in the way you work.
 
-**Tibshirani**：另一件让你与众不同的事情是你合作者寥寥无几。我们是少数几个和你一起写论文的人。你的工作方式倾向于个人主义。
+**Tibshirani**：另一件让你与众不同的事情是你合作者寥寥。我们是少数几个和你一起写论文的人。你的工作方式倾向于个人主义。
 
 Efron: Individualistic is a polite term; Rob may be saying I'm a somewhat difficult co-author. First of all, I don't understand anything, and then when I do understand it, I insist on saying it my way. My attention wanders quickly. One of the wonderful things about statistics is you can look in a lot of different fields. For a person with a short attention span, it's an ideal field because if you get tired of doing biopsy data you can go off to astronomy data. Our field is not very filled in. If you made a picture of mathematics, there'd be a very dense central spot with little spots going out a little bit from the center. If you made a picture of statistics, it would be much more diffuse with many more open spaces in the unknown areas.
 
-**Efron**：个人主义是一个礼貌说法；Rob可能想说，我是个不好合作的人。首先，我什么都不懂，然后当我懂的时候，我坚持用我的方式。我的注意力变得很快。统计学的奇妙之处之一是你可以研究许多不同的领域。对于一个注意力持续时间很短的人来说，这真是一个理想的领域，因为如果你厌倦了做活检数据，你可以转到天文学数据上去。我们这个领域的人不多。如果你画一幅数学图，会有一个非常密集的中心点，有一些小点从中心向外延伸。如果你画一张统计图，它会更加分散，在未知区域有更多的开放空间。
+**Efron**：个人主义是一个礼貌说法；Rob可能想说，我是个不好合作的人。首先，我什么都不懂，但当我懂的时候，我坚持用我的方式。我的注意力穿梭很快。统计学的奇妙之处之一是你可以研究许多不同的领域。对于一个注意力持续时间很短的人来说，这真是一个理想的领域，因为如果你厌倦了做活检数据，你可以转到天文学数据上去。我们这个领域的人不多。如果你画一幅数学图，会有一个非常密集的中心点，有一些小点从中心向外延伸。如果你画一张统计图，它会更加分散，在未知区域有更多的开放空间。
 
 
 Morris: I know one other thing the bootstrap did and that was give many statisticians an excuse to have someone buy them a computer, and that changed things. The Bayesians got left behind for a while, but of course later they came up with MCMC, the GemanGeman [3] and Gelfand-Smith [2] papers and suddenly everybody in statistics had a computer.
@@ -281,7 +296,7 @@ Efron: It helps that the bootstrap is easy to use and flexible. As time goes by 
 
 Tibshirani: I think the point that Brad is making is that a method has to become semiautomatic before it's going to become widespread. If it takes a Ph.D. in statistics to apply it every time, there just aren't enough of us around to make it a widespread tool.
 
-**Tibshirani**：我认为Brad的观点是，**一种方法必须达到半自动，才能普及。如果每次都需要统计学博士才能应用它，那么我们周围就没有足够的人来使它成为一种流行的工具。**
+**Tibshirani**：我认为Brad的观点是，**一种方法只有达到半自动化，才能普及。如果每次都需要统计学博士才能应用它，那么我们周围就没有足够的人来使它成为一种流行的工具。**
 
 Morris: So, for instance, lots of different packages now have methods, for better or worse, that incorporate shrinkage of models. Has that gone far enough, in your mind?
 
@@ -298,7 +313,7 @@ Morris: I actually believe they're all improved, not in a frequentist sense, but
 
 Efron: But you may know, for example, that an usually large parameter value has say 80% chance of being underestimated.
 
-**Efron**：但你可能知道，例如，通常一个较大的参数值会有80%的几率被低估。
+**Efron**：但你应该知道，例如，通常一个较大的参数值会有80%的几率被低估。
 
 Morris: I don't think that at all. If you have both levels of the model right, you're better off after you pull things in. The trick is to know about the second level of the model, which involves exchangeability of the parameters or maybe something more complicated.
 
@@ -347,11 +362,15 @@ Morris: What we do now is like teaching someone to drive a car by starting with 
 
 **Morris**：我们现在所做的就像是从解释T型发动机的工作原理开始教人开车。但大家只想学开车。
 
+<div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-08.jpg?height=351&width=507&top_left_y=150&top_left_x=109)
 
 FIG. 5 Induction into the National Academy of Science; signing the Big Book.
 
 图5：入选美国科学院；在这本大书上签名。
+
+</div>
 
 
 ## FISHER AND OTHER INFLUENCES
@@ -379,7 +398,7 @@ Efron: Very much so, and without any close personal contact or anything like tha
 
 Morris: That's an amazing statement. I haven't heard you say that we don't have another David Cox coming.
 
-**Morris**：这是一个惊人的声明。我没听你说我们不会再有David Cox了。
+**Morris**：这真是一个惊人的声明。我没听你说我们不会再有David Cox了。
 
 Efron: I'm not sure of that; I'm too close to the time to say that for sure. The Fisherian heritage comes mainly out of England. It's just a wonderful way of looking at statistics that really isn't either frequentist or Bayesian. It's got of spirit of compromise and "give" in it, and also a lot of algorithmic wiseness, and l don't see that wisdom as active these days even in its English homeland.
 
@@ -426,11 +445,15 @@ Tibshirani: The models can be more adventurous, they don't have to be simple lin
 **Tibshirani**：模型可以更具冒险性，它们不必是简单的线性模型。你应该时刻记住一个模型，这样你就知道在给定的环境下你能做的最好的事情是什么。因为要知道一种方法何时失败，你必须知道什么是理想的方法。然后你可以进一步说，“这是一个行不通的情况。” 为了理解原理和性质，我相信你需要模型。
 
 
+<div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-09.jpg?height=624&width=899&top_left_y=148&top_left_x=187)
 
 FIG. $6 .$ Honorary doctorate, University of Chicago Faculty, $1996 .$
 
 图 6：芝加哥大学医学院名誉博士学位，1996。
+
+</div>
 
 
 
@@ -452,7 +475,7 @@ I once gave a talk to the American Mathematical Society. The first thing I notic
 
 Tibshirani: Speaking of getting incredibly old, a lot of statisticians, when they hit 60 or 65 , start to do philosophy. They find a grand unified theory of everything, but you haven't done that. You seem to still work on smaller problems, but real applied problems. Is that a conscious decision?
 
-**Tibshirani**：说到变老，很多统计学家，当他们60岁或65岁时，开始研究哲学。他们找到了一个关于一切的伟大统一理论，但你没有做这一点。你似乎仍然在研究较小的问题，但的确是真正的应用问题。这是一个有特意的决定吗？
+**Tibshirani**：说到变老，很多统计学家，当他们60岁或65岁时，开始研究哲学。他们找到了一个关于一切的大统一理论，但你没有做这一点。你似乎仍然在研究较小问题，但的确是真正的应用问题。这是一个有特意的决定吗？
 
 
 Efron: I usually don't think about such things, but when I was 60 , a morbid date, I started thinking, "My plan has been no plan so far; I just work on whatever is fun that comes along, whatever colleague seems interesting, whatever paper seems interesting. Maybe I really ought to concentrate on trying to do one big thing." But after I thought about it I found I couldn't possibly follow that advice. There's no way you can just sit down and do a "big thing," or at least I can't. So, I just went back to doing lots of little things, and hoping that some of them will turn out okay. Statistics is a wonderfully forgiving field, you don't have to be the brightest person in the world or work day and night; all you have to do is get an idea and keep at it. Like I said, most of the field is not densely filled. And so I keep working on little problems.
@@ -474,7 +497,7 @@ Morris: So, statistics has to be fundamentally interdisciplinary, if it's going 
 
 I want to make sure we save some time to talk about another topic that you have a real perspective on. I understand you've had some administrative positions at Stanford that have let you take a bigger view of the role of statistics. Stanford has just been marvelous; you have a very strong department and very strong university, with interdisciplinary appointments. Why should we try to preserve statistics departments? I'm sure stats will survive; what can we do to keep the departments healthy and the field strong?
 
-我想确保我们节省一些时间来讨论另一个你有真正观点的话题。据我所知，你俩在斯坦福大学担任过一些行政职务，这让你们对统计的作用有了更多的认识。斯坦福大学真是太棒了；你们有一个非常强大的系和非常强大的大学，有跨学科的任命。我们为何要保留统计系？我相信统计系会继续存在；我们能做些什么来保持统计系各个部门的健康和该领域的强大？
+我想确保我们节省一些时间来讨论另一个你有真正观点的话题。据我所知，你俩在斯坦福大学担任过一些行政职务，这让你们对统计的作用有了更多的认识。斯坦福大学真是太棒了；你们有一个非常强的系和非常强的大学，有跨学科的任命。我们为何要保留统计系？我相信统计系会继续存在；我们能做些什么来保持统计系各个部门的健康和该领域的强大？
 
 
 Efron: I was Associate Dean for a while, which is described by one of my colleagues as a mouse training to become a rat. I was the Associate Dean for science. It was really quite an interesting experience. It's not easy doing these things, but statisticians have quite an advantage in the dean's office because we deal with lots of different fields, while most other academics deal only with their own field. Statisticians are very good at comparing things, which is what deans do a lot. Sometimes you can't say whether A or B is good, but you can say whether A is better than B. I spent a lot of time talking to other scientists. They're wonderful, but I wound up feeling that statistics was a very fortunate field. First of all, we're sort of small and not overhyped in the press; we're not under tremendous pressure to raise money. Biologists and chemists are under a lot of pressure to keep big labs going, because that's the only way you can do the science. You can buy a computer pretty cheaply these days, and you don't even have to buy one if you want to work in the classic tradition. Statisticians are nice to each other. Some fields are horribly competitive. Because statistics doesn't have huge prizes or a lot of publicity, people are pretty good to each other. We tend to argue a lot, but basically we like other statisticians, and we praise each other's work, in our hearts at least if not in the pages of our journals. I came happily back to statistics, hoping our little department would continue to do well. As we said before, stat departments are the only place in the world where inference is seriously studied. If statistics departments stop, people will be able to keep doing the stuff we have done, but there wouldn't be any new inferential ideas until another Fisher comes along. You said Fisher wasn't a statistician; it was almost impossible to be a statistician until Fisher.
@@ -498,12 +521,14 @@ Morris: Well, yes, we handle applications differently than math. Math used to sa
 
 **Morris**：嗯，是的，我们搞应用的方式不同于数学。数学过去常说，“这适用于物理等领域。”我希望我们继续重视所有这些不同的联系，并重视能够建立这些联系的人。
 
+<div align="center"> 
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-11.jpg?height=336&width=505&top_left_y=150&top_left_x=111)
 
 FIG. 7. Last day in my old Sequoia Hall office, 1998。
 
 图 7：1998年，在我的老红杉厅办公室的最后一天。
+</div>
 
 Efron: One thing I've been thinking might happen, from experience around Stanford; we're used to having biostatistics departments as well as statistics departments. Maybe there'll be astrostatistics departments or geostatistics departments springing up. Those fields are starting to use statistics more. In physics they used to have $10^{26}$ particles for any experiment, and no one needed statistics. But when you get down to situations where you're looking at 10 or 100 new particles, suddenly inferential efficiency becomes important. In fact, next fall there'll be a Physics and Statistics conference at the Stanford Linear Accelerator Center.
 
@@ -544,12 +569,14 @@ I'm glad we have lots of different areas statisticians work on. It gives us an e
 
 **我很高兴我们有许多统计学家从事的不同领域。这为我们拓宽了边界，与其他科学家站在一起**。统计有一个伟大的记录，从其他领域的人获得重要的想法。甚至Fisher可能就是一个例子，Wilcoxon肯定是。诀窍是保持一个强大的领域中心，同时对外界的问题和想法保持开放。回到美国统计学会，它有着巨大和传统的优势。在美国统计学会办公室的墙上，是写于1839年的一次会议的漂亮的手写会议记录。（他们似乎担心会有更多的成员。）他们还有JASA，这是一本精彩的杂志，吸引了大量的贡献，还有联合统计会议(JSM)，吸引了大量的参会者。
 
+<div align="center"> 
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-12.jpg?height=520&width=766&top_left_y=148&top_left_x=254)
 
 FIG. $8 .$ Academica Sinica, $1997 .$
 
 图 8：中国台湾科学院，1997年。
+</div>
 
 ## ADVICE AND CONCERNS
 
@@ -583,12 +610,14 @@ Efron: What we consider right, they consider confusing. Sometimes they're correc
 
 **Efron**：我们认为正确的东西，他们认为令人困惑。有时他们是正确的，这令人困惑。我记得作为一名顾问，我真正的失败之处在于一位优秀的女科学家给我带来了一个包含许多因素的大型二项式实验。我用逻辑回归仔细解释了这一切。她根本不把logits作为答案，最后把我的东西扔掉，公布了简单的百分比，对她的观众来说，这可能是对的。对她来说，这是对的。我一直希望我能多尝试交流。我可以很容易地用百分比来重申我的结果；我想这就足够了。从那以后，我一直小心翼翼地尝试用合理的语言给我的客户或合作者写通信，或者至少合理地喜欢他们习惯的想法。并不是说我总是能做到这一点。有时它涉及到我不了解的科学。
 
+<div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-13.jpg?height=338&width=505&top_left_y=150&top_left_x=111)
 
 FIG. $9 .$ A Stanford party: Jun Liu, Charles Stein, Efron and Persi Diaconis.
 
 图 9：斯坦福大学的聚会: 刘军, Charles Stein, Efron and Persi Diaconis.
-
+</div>
 
 
 That brings up an interesting question: How much of the science should you know as a collaboratoring statistician? There are different answers to that. The answer that "the more you know the better" isn't necessarily true. Because if you know too much, you get close to it and you start thinking you're the scientist. Some people are really good at educating themselves quickly on the essence of a subject. But if you have to be a biologist to help biologists with statistics, then there is no stat, there are just biologists who are better at numbers. I strongly feel there's an essence to statistical reasoning that cuts across fields. And that's what we train in. But, of course, we also like people to be good at helping with specific fields, maybe very knowledgeable, which leads to a different model of the collaborating statistician. 
@@ -598,17 +627,20 @@ That brings up an interesting question: How much of the science should you know 
 
 Holmes: Often if you don't know the science's language you can't answer their questions.
 
-**Holmes**：通常，如果你不知道科学的语言，你就无法回答他们的问题。
+**Holmes**：如果你不知道科学的语言，你基本上就无法回答他们的问题。
 
 Efron: The language is certainly important, for example, at least knowing the names for important things. Vahe Petrosian is very good at telling me enough about complicated astronomical ideas that involve tricky relativistic transformations. Well, I can't possibly really understand the physics, but at least he can show me the form of a function and then I can talk to him about it. The stuff in biology these days is very complicated; there's a lifetime of work. But we can know enough so that we can be helpful. Do we train our students correctly? I don't know. We don't tell them to go work for a year in a biology lab or something like that. Maybe we should, but somehow I don't think that would be best. It's more efficient to have them learn the stat here and at least be aware of what it takes to communicate with the scientists in various fields. Then if they go out and get a job where for the next 20 years they're going to be helping microbiologists it would be very wise for them to learn more than I know about microbiology. But I don't think it's our job to teach microbiology.
 
 **Efron**：语言当然很重要，例如，至少知道重要事物的名称。Vahe Petrosian非常擅长告诉我足够多的复杂天文学思想，这些思想涉及复杂的相对论变换。嗯，我不可能真正理解深奥的物理学，但至少他可以给我展示函数的形式，然后我可以和他谈谈。现在生物学的内容非常复杂；这是一辈子的工作。但是我们可以知道的足够多，这样我们就可以提供帮助。我们是否正确地训练学生？我不知道。我们不会告诉他们去生物实验室工作一年或类似的事情。也许我们应该，但不知何故我不认为那是最好的。让他们在这里学习统计学更有效，至少要知道与各个领域的科学家交流需要什么。然后，如果他们出去找一份工作，在未来20年里，他们将帮助微生物学家，对他们来说，学到比我更多的微生物学知识是非常明智的。但我认为我们的工作不是教微生物学。
+
+<div align="center"> 
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-13.jpg?height=377&width=767&top_left_y=1111&top_left_x=254)
 
 FiG. $10 . \quad$ Fisher lecture, England $2000 ;$ pictured with some of the Fisher children, daughter far left, son second from right.
 
 图 10：Fisher讲座，英国，2000年；图中是Fisher的几个孩子，女儿在最左边，儿子在右边第二个。
+</div>
 
 
 
