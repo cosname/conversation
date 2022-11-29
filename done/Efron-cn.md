@@ -1,7 +1,7 @@
 # 统计之都访谈第45期：统计大师Bradley Efron
 
 
-> 统计之都访谈注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖）。本文由统计之都访谈栏目组翻译出品，主要由潘岚锋完成翻译和审校定稿，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了专业的建议和帮助，感谢所有志愿者的付出。
+> 编辑部按：统计之都访谈第45期为翻译作品。原文作者Susan Holmes, Carl Morris and Rob Tibshirani，标题为*Bradley Efron: A Conversation with Good Friends*，于2003年发表在*Statistical Science*。译文主要由潘岚锋完成翻译和审校定稿，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了很多细致、专业的建议和帮助。感谢原文作者、译者和审校人员的辛勤付出。
 
 
 **摘要：** Bradley Efron是斯坦福大学统计学和生物统计学教授。他致力于理论和应用主题的结合，包括经验贝叶斯、生存分析、指数族、bootstrap、jackknife方法以及置信区间。他的大部分应用工作都来自斯坦福医学院（Stanford Medical School）的生物医学咨询项目，还有一些关于天文学和物理学的论文。甚至他的理论论文通常都是从具体的应用问题开始的。本文中的三位采访者都是他的紧密科研合作伙伴。
@@ -10,7 +10,7 @@
 1938年5月，Brad出生在明尼苏达州圣保罗，他的父母是俄罗斯犹太移民Esther和迈Miles Efron。在获得一项奖学金之后，他来到了加州理工学院，并于1960年毕业于数学系。同年秋天，他来到斯坦福大学，在统计系Rupert Miller 和 Herb Solomon的指导下，获得了博士学位。统计系的教师还包括Charles Stein、Herman Chernoff、Manny Parzen、Lincoln Moses和Ingram Olkin。Brad自1960年以来一直住在斯坦福大学，并在哈佛大学、帝国理工学院和伯克利大学学术休假。他曾在斯坦福大学担任过多个行政职务：统计系主席、理学院副院长、大学顾问委员会主席和教师委员会主席。他目前是应用数学本科项目的主席。
 
 
-Efron被授予很多荣誉，包括来自芝加哥、马德里和奥斯陆的博士学位，麦克阿瑟奖、美国科学院和美国艺术与科学院院士、国际数理统计学会(IMS)和美国统计学会(ASA)会士、威尔克斯奖章、帕尔森奖、新成立的Rao奖以及芝加哥ASA分会颁发的杰出统计学家奖。他曾担任Rietz、Wald和Fisher荣誉讲座人，还是斯坦福大学人文与科学学院荣誉教授（由Max H.Stein捐赠）。专业服务包括JASA期刊(Journal of the American Statistical Association)的理论与方法主编和IMS主席。2004年开始，他担任了ASA当选主席。
+Efron被授予很多荣誉，包括来自芝加哥、马德里和奥斯陆的博士学位，麦克阿瑟奖、美国科学院和美国艺术与科学院院士、国际数理统计学会(IMS)和美国统计学会(ASA)会士、威尔克斯奖章、帕尔森奖、新成立的Rao奖以及芝加哥ASA分会颁发的杰出统计学家奖。他曾担任Rietz、Wald和Fisher荣誉讲座人，还是斯坦福大学人文与科学学院荣誉教授（由Max H.Stein捐赠）。专业服务包括JASA期刊(Journal of the American Statistical Association)的理论与方法主编和IMS主席。2004年开始，他担任了ASA当选主席。[译者注：原文发表后，Efron教授荣获：美国国家科学奖章(2005)，这是美国自然科学最高奖；英国皇家统计学会颁发的盖伊奖章金奖(2014)；BBVA基金基础科学“知识前沿奖”(2016)；国际统计奖(2019)]
 
 本次访谈的部分内容摘自美国统计学会录制的访谈录像，由辉瑞研究中心赞助，2001年11月5日；其余的工作在斯坦福大学统计系完成。
 
