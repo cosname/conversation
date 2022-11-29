@@ -6,7 +6,7 @@
 Susan Holmes, Carl Morris and Rob Tibshirani
 
 
-> 译者注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖）。本文由统计之都访谈栏目组织翻译，由cloud、bored2020等人翻译，潘岚锋审核定稿，丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了非常专业的建议，感谢所有志愿者的付出。
+> 译者注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖）。本文由统计之都访谈栏目组织翻译，主要由潘岚锋完成翻译和审校定稿，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了非常专业的建议，感谢所有志愿者的付出。
 
 
 **Abstract:**  Bradley Efron is Professor of Statistics and Biostatistics at Stanford University. He works on a combination of theoretical and applied topics, including empirical Bayes, survival analysis, exponential families, bootstrap and jackknife methods and confidence intervals. Most of his applied work has originated in biomedical consulting projects at the Stanford Medical School, mixed in with a few papers concerning astronomy and physics. Even his theoretical papers usually begin with specific applied problems. All three of the interviewers here have been close scientific collaborators.
