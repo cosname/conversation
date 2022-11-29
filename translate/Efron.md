@@ -47,7 +47,7 @@ Tibshirani: Is it true you were kicked out of Stanford as a student?
 
 Efron: One of the reasons I came to Stanford was because of its humor magazine. I wrote a humor column at Caltech, and I always wanted to write for a humor magazine. Stanford had a great humor magazine, The Chaparral. The first few months I was there, the editor literally went crazy and had to be hospitalized, and so I became editor. For one issue we did a parody of Playboy and it went a little too far. I was expelled from school, and I would have been expelled forever except that people like $\mathrm{Al}$ Bowker, Halsey Royden and Herb Solomon, who were high in the administration, said I was a good student. So I went away for 6 months and then I came back. That was by far the most famous I've ever been. My picture was in the paper everyday because I fought like crazy.
 
-**Efron**：我来斯坦福的原因之一是因为它的幽默杂志。我一直想为一本幽默杂志写稿，我在加州理工学院就写过幽默专栏。斯坦福大学有一本很棒的幽默杂志“The Chaparral”。我在那里的头几个月，编辑疯了，不得不住院，然后我成了编辑。有一期我们模仿了花花公子，有点过火了。我就被学校开除了。如果不是因为在政府心目中地位很高的AL Bowker、Halsey Royden和Herb Solomon说我是个好学生，我可能就被永远被开除了。所以我休学了6个月，然后回来了。那是我迄今为止最出名的一次。我的照片每天都在报纸上，因为我像个疯子一样抗争。
+**Efron**：我来斯坦福的原因之一是因为它的幽默杂志。我一直想为一本幽默杂志写稿，我在加州理工学院就写过幽默专栏。斯坦福大学有一本很棒的幽默杂志“The Chaparral”。我在那里的头几个月，编辑疯了，不得不住院，然后我成了编辑。有一期我们模仿了花花公子，有点过火了。我就被学校开除了。如果不是因为在管理层中地位很高的AL Bowker、Halsey Royden和Herb Solomon说我是个好学生，我可能就被永远被开除了。所以我休学了6个月，然后回来了。那是我迄今为止最出名的一次。我的照片每天都在报纸上，因为我像个疯子一样抗争。
 
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-02.jpg?height=717&width=508&top_left_y=148&top_left_x=655)
@@ -72,7 +72,7 @@ Morris: Excommunicated.
 
 Efron: Well, they couldn't do that. But they would have if they could have.
 
-**Efron**：不，他们没权限那样做。但如果可以的话，他们一定会的。
+**Efron**：不，他们没权限那样做。但如果有的话，他们一定会。
 
 Morris: You've used those writing talents, I think; it's been part of your success in statistics. Your ability to put things in ways that help people understand better.
 
@@ -113,7 +113,7 @@ Tibshirani: Brad, it looks to me as though your work is becoming more and more a
 
 Efron: Another way to say it is I no longer have ideas. Somehow that quit happening about 20 years ago. Now all I have is my colleagues and applied work. We have a wonderful opportunity in statistics, both men and women; we're the last gentlemen scientists, in that we can look in on lots of fields and talk to brilliant people who are confused. It's a wonderful way for me to get into a topic. Some people, more honorably, want to do applications for the application's sake, but I've always been interested in it for statistics' sake. So Rob and I have been working on microarrays together, for example. That's been wonderfully stimulating. But I'm not all that interested in the biology of microarrays. Of course, I'm interested as an amateur. What I'm really interested in is how the inference theory will come out.
 
-**Efron**：换句话说，我不再有想法了。不知何故，这种情况发生在大约20年前。现在我只有和同事们做应用工作。在统计学方面，我们有一个极好的机会，无论男女；我们是最后的绅士科学家，因为我们可以研究众多领域，并与困惑的聪明人交谈。这对我来说是进入一个话题的绝佳方式。有些人，更可敬的是，为了应用而做应用，但我一直对统计感兴趣。例如，Rob和我一直在一起研究微阵列(microarrays)。这非常刺激。但是我对微阵列生物学不太感兴趣。当然，作为一个业余爱好者，我很感兴趣。我真正感兴趣的是统计推断理论将如何从中产生。
+**Efron**：换句话说，我不再有好点子了。不知何故，这种情况发生在大约20年前。现在我只有和同事们做应用工作。在统计学方面，我们有一个极好的机会，无论男女；我们是最后的绅士科学家，因为我们可以研究众多领域，并与困惑的聪明人交谈。这对我来说是进入一个话题的绝佳方式。有些人，更可敬的是，为了应用而做应用，但我一直对统计感兴趣。例如，Rob和我一直在一起研究微阵列(microarrays)。这非常刺激。但是我对微阵列生物学不太感兴趣。当然，作为一个业余爱好者，我很感兴趣。我真正感兴趣的是统计推断理论将如何从中产生。
 
 
 Tibshirani: One thing I found surprising is that we tend to find statistics relatively easy, but other scientists find it hard. A good scientist colleague of mine says it would be a lot harder for me to teach him statistics than it would be for him to teach me biology. When I look at biology it looks very daunting; it's a huge mass of facts that look mysterious. But statistics is a way of thinking that's very hard for other people to develop if they haven't been trained early on in the field. So, it's good news for us that we have something that's unique.
@@ -123,7 +123,7 @@ Tibshirani: One thing I found surprising is that we tend to find statistics rela
 
 Morris: Do you think it's hard or do you think we've made it hard?
 
-**Morris**：你认为这很难还是我们让它变得很难？
+**Morris**：你认为这很难，还是我们让它变得很难？
 
 Tibshirani: There's some truth to that, but I think the important simple concepts aren't as simple as they appear.
 
@@ -172,15 +172,15 @@ Efron: The bootstrap illustrates the value of having good colleagues. Rupert Mil
 
 Tibshirani: It was sent to the Annals. What kind of reception did it get?
 
-**Tibshirani**：它被统计年刊(Annals)刊登了。受到了什么样的待遇？
+**Tibshirani**：它被统计年刊(Annals of Statistics)刊登了。受到了什么样的待遇？
 
 Efron: Rupert Miller was the editor of the Annals at the time. I submitted what was the Rietz lecture, and it got turned down. The associate editor, who will remain nameless, said it that didn't have any theorems in it. So, I put some theorems in at the end and put a lot of pressure on Rupert, and he finally published it. Earlier I had been editor of $J A S A$, and this reminded me of a rule I had. When a paper made people angry, you should look at it more closely. Anger-arousing papers divide into a bimodal class. There are the worst papers you ever saw, that was a big class, and a few good ones.
 
-**Efron**：Rupert Miller当时是Annals的主编。我提交了Rietz讲座，但被拒绝了。匿名副主编说，这里面没有任何数学定理。所以，我在最后加入了一些定理，给Rupert施加了很大的压力，他最终发表了这篇文章。早些时候，我是JASA的主编，这让我想起了我的一条规则。**当一篇文章让人生气时，你应该更仔细地看看它。让人愤怒的论文有两种。一种是最差的，但另一种是好的。**
+**Efron**：Rupert Miller当时是Annals的主编。我提交了Rietz讲座，但被拒绝了。匿名副主编说，这里面没有任何数学定理。所以，我在最后加入了一些定理，给Rupert施加了很大的压力，他才最终发表了这篇文章。早些时候，我是JASA的主编，这让我想起了我的一条规则。当一篇文章让人生气时，你应该更仔细地看看它。让人愤怒的论文有两种。一种是最差的，但另一种是好的。
 
 And since then I've written a lot of papers. If you think that every paper I submit gets accepted right away, you're wrong. I've had many papers turned down. I usually work really hard on revisions. I try hard to rewrite and take referees seriously, but I'm never discouraged by referees not liking something because sometimes it's because you may have a new idea.
 
-之后，我还写了很多论文。如果你认为我提交的每一篇论文都能马上被接受，那你就错了。我有许多文章被拒绝了。我通常非常努力地修改。我努力重写并认真对待裁判，但我从不因裁判不喜欢某样东西而气馁，因为有时候这是因为你可能有了新的想法。
+之后，我还写了很多论文。如果你认为我提交的每一篇论文都能马上被接受，那你就错了。我有许多文章被拒了。我通常非常努力地修改。我努力重写并认真对待裁判，但我从不因裁判不喜欢某样东西而气馁，因为有时候这是因为你可能有了新的想法。
 
 
 Tibshirani: I noticed a curious thing about the bootstrap when I started to give talks after I graduated; it was much harder to give talks to people within our field. When I talked to physicists or chemists, they'd say "Oh yea, that's a simulation, we do that all the time." But as a statistical inference tool, it was much harder to embrace, because it involved random number generation, which was unsettling.
@@ -201,7 +201,7 @@ FIG. 4. SIMS conference photo in front of Old Sequoia Hall, 1974; I'm upper left
 
 Efron: I'm a bad reader ab initio, but once I've started working on something, I want to read everything in that area. I find it much easier to read once I've got a foothold in an area and can see why people are doing something. That's the hardest thing when you're writing: telling someone why you're doing something, not what you're doing. Once they understand why you're doing it, there's a good chance they'll be sympathetic.
 
-**Efron**：我一贯就不爱阅读文献，但一旦我开始做某件事，我就想阅尽所有该领域的内容。我发现，当我在某个领域站稳脚跟，并且能够了解人们为什么要做某事，阅读起来就会容易得多。这是你写作时最难的事情：**告诉别人你为什么要做这个事，而不是你在做什么。一旦他们明白你为什么这么做，他们很有可能会同情你**。
+**Efron**：我一贯就不爱阅读文献，但一旦我开始做某件事，我就想阅尽所有该领域的内容。我发现，当我在某个领域站稳脚跟，并且能够了解人们为什么要做某事，阅读起来就会容易得多。这是你写作时最难的事情：告诉别人你为什么要做这个事，而不是你在做什么。一旦他们明白你为什么这么做，他们很有可能会同情你。
 
 
 Morris: In the bootstrap case why did you start more from theoretical ideas instead of from a data set in trying to solve the problem?
