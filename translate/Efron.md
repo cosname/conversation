@@ -5,9 +5,8 @@
 
 Susan Holmes, Carl Morris and Rob Tibshirani
 
-<font color='red'>**【翻译注释：有疑问的地方标记在【】之中了**】</font>
 
-> 译者注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖），由时任美国总统亲自颁发。
+> 译者注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖）。本文由统计之都访谈栏目组织翻译。
 
 
 **Abstract:**  Bradley Efron is Professor of Statistics and Biostatistics at Stanford University. He works on a combination of theoretical and applied topics, including empirical Bayes, survival analysis, exponential families, bootstrap and jackknife methods and confidence intervals. Most of his applied work has originated in biomedical consulting projects at the Stanford Medical School, mixed in with a few papers concerning astronomy and physics. Even his theoretical papers usually begin with specific applied problems. All three of the interviewers here have been close scientific collaborators.
@@ -20,7 +19,7 @@ Brad was born in St. Paul, Minnesota, May 1938, to Esther and Miles Efron, Jewis
 
 Honors include doctorates from Chicago, Madrid and Oslo, a MacArthur Prize Fellowship, membership in the National Academy of Sciences and the American Academy of Arts and Sciences, fellowship in the IMS and ASA, the Wilks Medal, Parzen Prize, the newly inaugurated Rao Prize and the outstanding statistician award from the Chicago ASA chapter. He has been the Rietz, Wald, and Fisher lecturers and holds the Max H. Stein endowed chair as Professor of Humanities and Sciences at Stanford. Professional service includes Theory and Methods Editor of $J A S A$ and President of the IMS. Currently he is President-Elect of the American Statistical Association, becoming President in $2004 .$
 
-Efron收货荣了很多荣誉，包括来自芝加哥、马德里和奥斯陆的博士学位，麦克阿瑟奖、美国科学院和美国艺术与科学院院士、国际数理统计学会(IMS)和美国统计学会(ASA)会士、威尔克斯奖章、帕尔森奖、新成立的Rao奖以及芝加哥ASA分会颁发的杰出统计学家奖。他曾担任Rietz、Wald和Fisher荣誉讲座人，并担任斯坦福大学人文科学教授Max H.Stein【捐赠主席】。专业服务包括JASA期刊(Journal of the American Statistical Association)的理论与方法主编和IMS主席。2004年开始，他担任了ASA当选主席。
+Efron被授予很多荣誉，包括来自芝加哥、马德里和奥斯陆的博士学位，麦克阿瑟奖、美国科学院和美国艺术与科学院院士、国际数理统计学会(IMS)和美国统计学会(ASA)会士、威尔克斯奖章、帕尔森奖、新成立的Rao奖以及芝加哥ASA分会颁发的杰出统计学家奖。他曾担任Rietz、Wald和Fisher荣誉讲座人，还是斯坦福大学人文与科学学院荣誉教授（由Max H.Stein捐赠）。专业服务包括JASA期刊(Journal of the American Statistical Association)的理论与方法主编和IMS主席。2004年开始，他担任了ASA当选主席。
 
 Part of this interview was taken from an interview videotaped by the American Statistical Association and  sponsored by Pfizer Central Research, November 5 , 2001 ; the rest was done at the Statistics Department at Stanford.
 
@@ -140,7 +139,7 @@ Tibshirani: A permutation test to infer a $p$-value from a set of data
 
 Morris: I thought you might say $p$-value right off the bat. See, I think $p$-values are hard. I mean they're easy to know as numbers. But they're very confusing, in a sense that people misapply them. $p$-value is, of course, the statement about the data, given the null hypothesis, but people think it's got something to do say about the probability of the null hypothesis given the data.
 
-**Morris**：我就猜到你要说$p$值。看，我认为$p$值很难。如果只是把$p$值当作数字的话是很好理解的。但从某种意义上说，它非常令人困惑，因此人们经常误用它们。【当然，p值是关于数据的陈述，给出了无效假设，但人们认为它可以说明给定数据的无效假设的概率。】
+**Morris**：我就猜到你要说p值。看，我认为p值很难。如果只是把p值当作数字的话是很好理解的。但从某种意义上说，它非常令人困惑，因此人们经常误用它们。当然，p值说的给定原假设，你的数据是否能拒绝；但人们认为它说的是给定数据后接收原假设的概率。
 
 
 Tibshirani: Another example is confounding. A lot of very good scientists design bad experiments in which important effects are confounded with experimental biases. Confounding is something that is fundamental to our subject, we understand it and know how to address it. 
@@ -169,7 +168,7 @@ Tibshirani: I arrived at Stanford in 1981, a couple years after you'd invented t
 
 Efron: The bootstrap illustrates the value of having good colleagues. Rupert Miller had written a paper called "A Trustworthy Jackknife," which was a good attempt to theoretically justify the jackknife. Then Rupert and I were both on sabbatical the same year at Imperial College in 1972, with David Cox, and Rupert gave a talk about the jackknife. David came up to me afterwards and asked: "Do you really think there's anything to this?"'What I realized many years later was that he was giving me a strong hint to work on this. I was asked to give the Rietz lecture in 1977 and I wrote down one line: What is the jackknife an approximation to? As soon as I wrote that line, I essentially was onto the answer. I started out with something really quite elaborate, I call it the combination distribution because I was taking combinations instead of permutations, and then I started to realize I could get rid of some of the machinery, and then I got rid of more of the machinery, and pretty soon there was no machinery. This seemed pretty dull, but I gave the talk and everyone loved it. Since then, I never thought that I was a good judge of what I was working on.
 
-**Efron**：bootstrap恰好说明了拥有好同事的作用。Rupert Miller写了一篇论文“值得信赖的刀切法”(A Trustworthy Jackknife)，尝试从理论上证明Jackknife的合理性。1972年，Rupert和我都在帝国理工学院休假，和David Cox在一起，Rupert做了一个关于Jackknife的演讲。David后来走到我跟前问我：“你真的认为这有什么意义吗？” 多年后，我意识到他给了我一个强烈的暗示，让我去做这个研究。1977年，我被要请去做Rietz讲座，我写下了一句话：Jackknife 近似于什么？当我写下那句话的时候，基本上就知道答案了。我从一个非常复杂的东西开始，我称之为组合分布，因为我用组合代替排列，然后我开始意识到我可以摆脱一些【机械思维，machinery】，然后我摆脱了更多【machinery】，很快就没有【machinery】了。这看起来很无聊，但我做了演讲并且大家都喜欢。打那以后，我从不认为我能很好地判断我在做什么。
+**Efron**：bootstrap恰好说明了拥有好同事的作用。Rupert Miller写了一篇论文“值得信赖的刀切法”(A Trustworthy Jackknife)，尝试从理论上证明Jackknife的合理性。1972年，Rupert和我都在帝国理工学院休假，和David Cox在一起，Rupert做了一个关于Jackknife的演讲。David后来走到我跟前问我：“你真的认为这有什么意义吗？” 多年后，我意识到他给了我一个强烈的暗示，让我去做这个研究。1977年，我被要请去做Rietz讲座，我写下了一句话：Jackknife 近似于什么？当我写下那句话的时候，基本上就知道答案了。我从一个非常复杂的东西开始，我称之为组合分布，因为我用组合代替排列，然后我开始意识到我可以摆脱一些【机械思维】，然后我摆脱了更多，很快就没有机械思维了。这看起来很无聊，但我做了演讲并且大家都喜欢。打那以后，我从不认为我能很好地判断我在做什么。
 
 Tibshirani: It was sent to the Annals. What kind of reception did it get?
 
@@ -263,7 +262,7 @@ Holmes: Isn't there a problem of coherence when doing empirical Bayes? What moti
 
 Efron: The coherence question is a Bayesian's answer to optimality. Optimality is what frequentists talk about. Bayesians counter with coherence and say that frequentist theory tends to be incoherent in that it doesn't combine information from different situations in a logical way. And that's a perfectly good criticism, especially if you have to combine some information. There are other attractive things about the Bayesian approach. It's far more aggressively optimistic about modeling than frequentism. Frequentism tends to be quite defensive, trying to avoid making a statement that has a high probability of being wrong. There's a lot I like about Bayesian statistics. What I don't like is slapping on a prior and saying you've got an answer. It's very dangerous, especially in high-dimensional problems.
 
-**Efron**：连贯性问题是贝叶斯对最优性的回应。频率主义者通常会谈论最优性。而贝叶斯主义者则反驳说频率主义理论往往是不连贯的，因为它没有以符合逻辑的方式结合来自不同情况的信息。这是一个非常好的批评，尤其是当你必须结合一些信息的时候。贝叶斯方法还有其他吸引人的地方。它在建模时比频率主义更积极乐观。频率主义倾向于保守，试图避免做出错误概率很高的陈述。贝叶斯统计有很多我喜欢的地方。【我不喜欢的是迅速地选择一个先验然后分析一下数据就说你有了答案。】这是非常危险的，尤其是在高维问题中。
+**Efron**：连贯性问题是贝叶斯对最优性的回应。频率主义者通常会谈论最优性。而贝叶斯主义者则反驳说频率主义理论往往是不连贯的，因为它没有以符合逻辑的方式结合来自不同情况的信息。这是一个非常好的批评，尤其是当你必须结合一些信息的时候。贝叶斯方法还有其他吸引人的地方。它在建模时比频率主义更积极乐观。频率主义倾向于保守，试图避免做出错误概率很高的陈述。贝叶斯统计有很多我喜欢的地方。我不喜欢的是迅速地选择一个先验然后分析一下数据就说你有了答案。这是非常危险的，尤其是在高维问题中。
 
 Bayesian theory is quite impressive when you have a pretty good idea that the prior is at least not harmful. You may have some complicated situation that frequentism gets lost in, like multiple comparisons, and the Bayesian approach then starts saying things that are interesting.
 
@@ -290,7 +289,7 @@ Morris: So, for instance, lots of different packages now have methods, for bette
 
 Efron: When you use a Bayes or empirical Bayes estimate, you don't have the safety net of each theta being estimated more or less unbiasedly by its own " $x, "$ as you do in the classical theory. With maximum likelihood estimation, each parameter is estimated in a way that's fairly unbiased. If you use an empirical Bayes estimate, everything gets pulled toward the central bulge. You have to grit your teeth and believe the fact that even though any one estimate may be off, overall you're getting a lot of improvement. That's what we have to get people, including ourselves, to believe.
 
-**Efron**：当你使用贝叶斯或经验贝叶斯估计时，你不会像经典理论中那样，【对每个θ的都有它或多或少无偏的估计方法】。在最大似然估计中，每个参数都是以一种相当无偏的方式估计的。如果你使用经验贝叶斯估计，【一切都会被拉向中央凸起】。你必须咬紧牙关，相信这样一个事实，即使任何一个估计都可能是错误的，但总的来说，你得到了很大的改善。这就是我们必须让人们，包括我们自己相信的。
+**Efron**：当你使用贝叶斯或经验贝叶斯估计时，你不会像经典理论中那样，对每个θ的都有它或多或少无偏的估计方法。在最大似然估计中，每个参数都是以一种相当无偏的方式估计的。如果你使用经验贝叶斯估计，一切都被拉向中心隆起的地方。你必须咬紧牙关，相信这样一个事实，即使任何一个估计都可能是错误的，但总的来说，你得到了很大的改善。这就是我们必须让人们，包括我们自己相信的。
 
 Morris: I actually believe they're all improved, not in a frequentist sense, but in the sense that on the basis of information available to you every single one of them is more likely than not to be improved. Of course, later if you tell me the true values, I'll find some are better than others.
 
@@ -331,7 +330,7 @@ Efron: Well, I think the serious point is that 20 thcentury statistics mainly ta
 
 Tibshirani: You also made a point before, that scientists ask us the kind of question that we teach them to ask. For example, they ask us for a t test because that's what they think we can do. Sometimes I think that's all they think we can do. As they learn more about statistical science, if we can treat parallel problems well with empirical Bayes, then we'll get asked that question more often.
 
-**Tibshirani**：你之前也说过，科学家问我们的问题是我们教他们去问的。例如，他们要求我们进行t检验，因为他们认为我们可以这样做。有时候我认为这就是他们认为我们能做的。随着他们学习更多关于统计科学的知识，如果我们能【在经验贝叶斯中很好地处理并行问题】，那么我们会更经常地被问到这个问题。
+**Tibshirani**：你之前也说过，科学家问我们的问题是我们教他们去问的。例如，他们要求我们进行t检验，因为他们认为我们可以这样做。有时候我认为这就是他们认为我们能做的。随着他们学习更多关于统计科学的知识，如果我们能在经验贝叶斯中很好地处理并行问题，那么我们会更经常地被问到这个问题。
 
 Morris: So, we might try teaching our beginning courses a different way. For example, if we teach people who will never be statisticians, we ought to teach them what statistics can do. What kinds of problems come up, and when they should hire a statistician. They might like our courses better, too, because they'll see they have something to do with what they need to know; not just some sort of torture semester.
 
@@ -384,7 +383,7 @@ Morris: That's an amazing statement. I haven't heard you say that we don't have 
 
 Efron: I'm not sure of that; I'm too close to the time to say that for sure. The Fisherian heritage comes mainly out of England. It's just a wonderful way of looking at statistics that really isn't either frequentist or Bayesian. It's got of spirit of compromise and "give" in it, and also a lot of algorithmic wiseness, and l don't see that wisdom as active these days even in its English homeland.
 
-**Efron**：我不确定；我离这个时间太近了，不能特别肯定。Fisher传统主要来自英格兰。这是一种很好的统计方法，它既不是频率学派，也不是贝叶斯学派。【它有妥协和“给予”(given)的精神，也有很多算法的智慧】，即使在它的英国本土，我也不认为这种智慧还在。
+**Efron**：我不确定；我离这个时间太近了，不能特别肯定。Fisher传统主要来自英格兰。这是一种很好的统计方法，它既不是频率学派，也不是贝叶斯学派。它有妥协和“给予”(given)的精神，也有很多算法的智慧，即使在它的英国本土，我也不认为这种智慧还在。
 
 
 Morris: Well, we've hired them all away to the U.S.
@@ -393,7 +392,7 @@ Morris: Well, we've hired them all away to the U.S.
 
 Efron: The U.S has not been a very friendly ground for Fisherian thinking. It's been a predominantly frequentist preserve, and what might be considered beyond-frequentist thinking, the kind of philosophically atheistic approval that goes under the machinelearning rubric. People forget that Tukey and Mosteller wrote a book together, the famous green book, where there's no probability, let alone, any theory of inference.
 
-**Efron**：对Fisher学派思维，美国并不是一个非常友好的地方。这是频率学派的保护区，在这之外，【还有一种哲学上无神论的认可——属于机器学习的范畴】。人们忘记了Tukey和Mosteller一起写了一本书，著名的绿皮书，书中没有概率，更不用说任何推断理论了。
+**Efron**：对Fisher学派思维，美国并不是一个非常友好的地方。这是频率学派的保护区，在这之外，还有一种哲学上无神论的认可——属于机器学习的范畴。人们忘记了Tukey和Mosteller一起写了一本书，著名的绿皮书，书中没有概率，更不用说任何推断理论了。
 
 Morris: It seems to me that the Fisher couldn't have been Fisher, even as brilliant as he was, without being involved in real problems. He was a great geneticist, but he also worked in agriculture and developed experimental design. I think there are people doing that now, but I' $m$ worried about the loss of the theoretical side.
 
@@ -424,7 +423,7 @@ Morris: Rob, I hear you defending models, but I think you're more nonparametric 
 
 Tibshirani: The models can be more adventurous, they don't have to be simple linear models. You should always have a model in mind so that you know what's the best you can do in a given setting. Because to know when a method fails, you have to know what is the ideal method. Then you can move further and say, "here's a case where it won't work." To understand operating characteristics, I believe you need models.
 
-**Tibshirani**：模型可以更具冒险性，它们不必是简单的线性模型。你应该时刻记住一个模型，这样你就知道在给定的环境下你能做的最好的事情是什么。因为要知道一种方法何时失败，你必须知道什么是理想的方法。然后你可以进一步说，“这是一个行不通的情况。” 为了理解【操作特性】，我相信你需要模型。
+**Tibshirani**：模型可以更具冒险性，它们不必是简单的线性模型。你应该时刻记住一个模型，这样你就知道在给定的环境下你能做的最好的事情是什么。因为要知道一种方法何时失败，你必须知道什么是理想的方法。然后你可以进一步说，“这是一个行不通的情况。” 为了理解原理和性质，我相信你需要模型。
 
 
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-09.jpg?height=624&width=899&top_left_y=148&top_left_x=187)
@@ -480,7 +479,7 @@ I want to make sure we save some time to talk about another topic that you have 
 
 Efron: I was Associate Dean for a while, which is described by one of my colleagues as a mouse training to become a rat. I was the Associate Dean for science. It was really quite an interesting experience. It's not easy doing these things, but statisticians have quite an advantage in the dean's office because we deal with lots of different fields, while most other academics deal only with their own field. Statisticians are very good at comparing things, which is what deans do a lot. Sometimes you can't say whether A or B is good, but you can say whether A is better than B. I spent a lot of time talking to other scientists. They're wonderful, but I wound up feeling that statistics was a very fortunate field. First of all, we're sort of small and not overhyped in the press; we're not under tremendous pressure to raise money. Biologists and chemists are under a lot of pressure to keep big labs going, because that's the only way you can do the science. You can buy a computer pretty cheaply these days, and you don't even have to buy one if you want to work in the classic tradition. Statisticians are nice to each other. Some fields are horribly competitive. Because statistics doesn't have huge prizes or a lot of publicity, people are pretty good to each other. We tend to argue a lot, but basically we like other statisticians, and we praise each other's work, in our hearts at least if not in the pages of our journals. I came happily back to statistics, hoping our little department would continue to do well. As we said before, stat departments are the only place in the world where inference is seriously studied. If statistics departments stop, people will be able to keep doing the stuff we have done, but there wouldn't be any new inferential ideas until another Fisher comes along. You said Fisher wasn't a statistician; it was almost impossible to be a statistician until Fisher.
 
-**Efron**：我做过一段时间的副院长，我的一个同事把这描述为一只老鼠训练成一只耗子【什么意思？？？】。我是理学院副院长。这真的是一段非常有趣的经历。做这些事情并不容易，但是统计学家在院长办公室有相当大的优势，因为我们处理许多不同领域的问题，而大多数其他学者只处理他们自己领域的。统计学家非常擅长比较事物，这是院长经常做的事情。有时候你不能说A或B是好的，但是你可以说A是否比B好。我花了很多时间和其他科学家交谈。它们很棒，但我最终觉得统计学是一个非常幸运的领域。首先，我们比较小，在媒体上没有过度炒作；我们没有筹集资金的巨大压力。生物学家和化学家承受着很大的压力来维持大实验室的运转，因为这是你做此类科学的唯一方法。对我们来说，你可以很便宜地买一台计算机，如果你想按照传统方式工作，你甚至不需要买。统计学家们彼此很友好。有些领域竞争非常激烈。因为统计学没有大奖或大量宣传，人们彼此友善。我们常常争论不休，但基本上我们喜欢其他统计学家，我们会表扬彼此的工作，即使不是在期刊上，至少也会在心里表扬。我很高兴地回到统计系，希望我们的小部门能继续做得很好。正如我们之前所说，统计系是世界上唯一严肃地研究推断的地方。如果统计系没了，人们将能够继续做我们已经做过的一些事情，但在另一个Fisher出现之前，不会有任何新的推断思想。你说过Fisher不是纯统计学家；但在Fisher之前，几乎没人能成为统计学家。
+**Efron**：我做过一段时间的副院长，我的一个同事把这描述为一只老鼠训练成一只耗子。我是理学院副院长。这真的是一段非常有趣的经历。做这些事情并不容易，但是统计学家在院长办公室有相当大的优势，因为我们处理许多不同领域的问题，而大多数其他学者只处理他们自己领域的。统计学家非常擅长比较事物，这是院长经常做的事情。有时候你不能说A或B是好的，但是你可以说A是否比B好。我花了很多时间和其他科学家交谈。它们很棒，但我最终觉得统计学是一个非常幸运的领域。首先，我们比较小，在媒体上没有过度炒作；我们没有筹集资金的巨大压力。生物学家和化学家承受着很大的压力来维持大实验室的运转，因为这是你做此类科学的唯一方法。对我们来说，你可以很便宜地买一台计算机，如果你想按照传统方式工作，你甚至不需要买。统计学家们彼此很友好。有些领域竞争非常激烈。因为统计学没有大奖或大量宣传，人们彼此友善。我们常常争论不休，但基本上我们喜欢其他统计学家，我们会表扬彼此的工作，即使不是在期刊上，至少也会在心里表扬。我很高兴地回到统计系，希望我们的小部门能继续做得很好。正如我们之前所说，统计系是世界上唯一严肃地研究推断的地方。如果统计系没了，人们将能够继续做我们已经做过的一些事情，但在另一个Fisher出现之前，不会有任何新的推断思想。你说过Fisher不是纯统计学家；但在Fisher之前，几乎没人能成为统计学家。
 
 Tibshirani: Are you optimistic about our field?
 
@@ -508,9 +507,8 @@ FIG. 7. Last day in my old Sequoia Hall office, 1998。
 
 Efron: One thing I've been thinking might happen, from experience around Stanford; we're used to having biostatistics departments as well as statistics departments. Maybe there'll be astrostatistics departments or geostatistics departments springing up. Those fields are starting to use statistics more. In physics they used to have $10^{26}$ particles for any experiment, and no one needed statistics. But when you get down to situations where you're looking at 10 or 100 new particles, suddenly inferential efficiency becomes important. In fact, next fall there'll be a Physics and Statistics conference at the Stanford Linear Accelerator Center.
 
-**Efron**：根据斯坦福大学的经验，我一直认为可能会发生一件事；**我们习惯于有生物统计系和统计系。也许会有天文统计系或地质统计系涌现出来。这些领域开始更多地使用统计学**。在物理学中，之前的任何实验都需要$10^{26}$的粒子，没有人需要统计学。但当你开始观察10或100个新粒子时，推断效率突然变得很重要。事实上，明年秋天将在斯坦福直线加速器中心举行物理和统计学会议。
+**Efron**：根据斯坦福大学的经验，我一直认为可能会发生一件事；**我们习惯于有生物统计系和统计系。也许会有天文统计系或地质统计系涌现出来。这些领域开始更多地使用统计学**。在物理学中，之前的任何实验都需要$10^{26}$个粒子，没有人需要统计学。但当你开始观察10或100种新粒子时，推断效率突然变得很重要。事实上，明年秋天将在斯坦福直线加速器中心举行物理和统计学会议。
 
-【没理解转折关系，为啥之前不需要？数量下来了？】
 
 Tibshirani: Another example is DNA microarrays. In a lot of genetic areas you don't need a statistician to tell you that there's a huge effect. But if you're looking for 6000 possible effects, you need statistical help to sort the signal from the noise.
 
@@ -539,7 +537,7 @@ Efron: The people at the ASA asked me that very question. It's a nice tradition 
 
 In my campaign blurb for the ASA, I spoke, only semi-jokingly, about "inreach." I was flattered and pleased when they asked me to run for president, maybe because West Coast academic statisticians haven't been a big part of the ASA, gravitating toward the IMS instead. I'm glad we have more than one statistics organization, but the ASA is our umbrella. I'd like people in the Berkeley and Stanford and Chicago and Seattle departments to feel that they're in the same field as statisticians at Merck, Pfizer, DOE, Prudential, etc.
 
-在我为美国统计学会所做的竞选宣传中，我半开玩笑地谈到了【“接触不到”(“inreach”)】。当他们要求我竞选主席时，我感到既高兴又受宠若惊，也许是因为西海岸的学术统计学家并不是美国统计学会的重要组成部分，而是被国际数理统计学会(IMS)吸引。我很高兴我们有不止一个统计机构，但美国统计学会是我们的呵护伞。我希望伯克利、斯坦福、芝加哥和西雅图等部门的人能感觉到他们与默克、辉瑞、能源部、保诚等公司的统计学家处于同一个领域。
+在我为美国统计学会所做的竞选宣传中，我半开玩笑地谈到了“另请高明”。当他们要求我竞选主席时，我感到既高兴又受宠若惊，也许是因为西海岸的学术统计学家并不是美国统计学会的重要组成部分，而是被国际数理统计学会(IMS)吸引。我很高兴我们有不止一个统计机构，但美国统计学会是我们的呵护伞。我希望伯克利、斯坦福、芝加哥和西雅图等部门的人能感觉到他们与默克、辉瑞、能源部、保诚等公司的统计学家处于同一个领域。
 
 
 I'm glad we have lots of different areas statisticians work on. It gives us an extended frontier with other scientists. Statistics has a great record of getting important ideas from people outside the field, maybe even Fisher being an example, Wilcoxon for certain. The trick is to maintain a strong center to the field while remaining open to problems and ideas from the outside. Getting back to the ASA, it has the advantage of bigness and tradition. On the wall of the ASA office are beautiful hand-written minutes from a meeting in 1839 . (They seemed worried about getting more members.) They also have JASA, a wonderful journal that attracts an enormous range of contributions, and the Joint Statistical Meetings, which attract an enormous number of participants.
@@ -626,7 +624,7 @@ Efron: Stanford is worried about that. I suspect a lot of the universities are. 
 
 But that isn't a terrible thing. In the 1960s we were still trying to wring more results out of the beautiful inferential theory built by Fisher, Neyman, Wald and the other giants. Most of the problems involved one or two or a few parameters. It really got too hard for the human mind after that. It's not that we've gotten better at statistics now, and as a matter of fact there has been very little progress on the basics of statistical inference. What's happened is that we've loosened up a lot on what constitutes a solution, and that lets us attack the much bigger problems that scientists want us to solve. Just before this hour I was looking at a genomics problem with 444 main effects, pretty small stuff by current standards. There's not much hope for an axiomatic decision-theoretic solution here, not in my hands at least, but with a good computer and some modern statistical tools like generalized linear models, cross-validation, the bootstrap, Splus, easy graphics, smoothers, and so on and so on, one can really make a dent on it. And as a matter of fact the analysis made me realize an inferential weakness in some previous microarray work I'd done. Maybe all this methodological work we've been doing is the buildup to a new round of progress in inferential theory. It's easy to believe that the 10 -million-fold increase in computational power we've seen will make statistics deeper as well as bigger.
 
-但这不是一件可怕的事情。在20世纪60年代，我们仍然试图从Fisher、Neyman、Wald和其他巨人建立的美丽的推断理论中获得更多的结果。大多数问题涉及一个、两个或几个参数。统计推断非常挑战人类的心智，非常困难。这并不是说我们现在在统计学方面有所进步，事实上，在统计推断上进展甚微。发生的事情是，我们在解决方案的构成上放松了很多，这让我们能够解决科学家希望我们解决的更大的问题。就在几个小时之前，我正在研究一个有444个主要影响的基因组学问题，按照目前的标准，这是一个相当小的问题。在这里，公理化决策理论解决方案的希望不大，至少不在我手中，但有了一台好的计算机和一些现代统计工具，如广义线性模型、交叉验证、bootstrap、Splus、统计图表、平滑法等等，我们真的可以在这方面有所作为。事实上，这个分析让我意识到我以前做的一些微阵列工作中的一个推论缺陷。也许我们所做的所有这些方法论工作都是为了推动推断理论的新一轮进展。我们很容易相信，我们所看到的计算能力增加了1000万倍，这将使统计学能更深入、更庞大。
+但这不是一件可怕的事情。在20世纪60年代，我们仍然试图从Fisher、Neyman、Wald和其他巨人建立的美丽的推断理论中获得更多的结果。大多数问题涉及一个、两个或几个参数。统计推断非常挑战人类的心智，非常困难。这并不是说我们有了更好的统计学，事实上，在统计推断上进展甚微。发生的事情是，我们在解决方案的构成上放松了很多，这让我们能够解决科学家希望我们解决的更大的问题。就在几个小时之前，我正在研究一个有444个主要影响的基因组学问题，按照目前的标准，这是一个相当小的问题。在这里，公理化决策理论解决方案的希望不大，至少不在我手中，但有了一台好的计算机和一些现代统计工具，如广义线性模型、交叉验证、bootstrap、Splus、统计图表、平滑法等等，我们真的可以在这方面有所作为。事实上，这个分析让我意识到我以前做的一些微阵列工作中的一个推论缺陷。也许我们所做的所有这些方法论工作都是为了推动推断理论的新一轮进展。我们很容易相信，我们所看到的计算能力增加了1000万倍，这将使统计学能更深入、更庞大。
 
 
 ## REFERENCES
