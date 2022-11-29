@@ -6,7 +6,7 @@
 Susan Holmes, Carl Morris and Rob Tibshirani
 
 
-> 译者注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖）。本文由统计之都访谈栏目组织翻译，主要由潘岚锋完成翻译和审校定稿，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了非常专业的建议，感谢所有志愿者的付出。
+> 统计之都访谈注：原文标题为*Bradley Efron: A Conversation with Good Friends*，作者Susan Holmes, Carl Morris and Rob Tibshirani。于2013年发表在*Statistical Science*杂志。Bradley Efron是统计学大师，bootstrap方法的提出者。Efron的统计思想对包括生物学、经济学、社会学、计算机科学等众多领域产生了深远的影响。2005年，Efron教授获得了美国国家科学奖章（美国自然科学最高奖）。本文由统计之都访谈栏目组翻译出品，主要由潘岚锋完成翻译和审校定稿，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了专业的建议和帮助，感谢所有志愿者的付出。
 
 
 **Abstract:**  Bradley Efron is Professor of Statistics and Biostatistics at Stanford University. He works on a combination of theoretical and applied topics, including empirical Bayes, survival analysis, exponential families, bootstrap and jackknife methods and confidence intervals. Most of his applied work has originated in biomedical consulting projects at the Stanford Medical School, mixed in with a few papers concerning astronomy and physics. Even his theoretical papers usually begin with specific applied problems. All three of the interviewers here have been close scientific collaborators.
@@ -185,7 +185,7 @@ Tibshirani: It was sent to the Annals. What kind of reception did it get?
 
 Efron: Rupert Miller was the editor of the Annals at the time. I submitted what was the Rietz lecture, and it got turned down. The associate editor, who will remain nameless, said it that didn't have any theorems in it. So, I put some theorems in at the end and put a lot of pressure on Rupert, and he finally published it. Earlier I had been editor of $J A S A$, and this reminded me of a rule I had. When a paper made people angry, you should look at it more closely. Anger-arousing papers divide into a bimodal class. There are the worst papers you ever saw, that was a big class, and a few good ones.
 
-**Efron**：Rupert Miller当时是Annals的主编。我提交了Rietz讲座，但被拒绝了。匿名副主编说，这里面没有任何数学定理。所以，我在最后加入了一些定理，给Rupert施加了很大的压力，他才最终发表了这篇文章。早些时候，我是JASA的主编，这让我想起了我的一条规则。当一篇文章让人生气时，你应该更仔细地看看它。让人愤怒的论文有两种。一种是最差的，但另一种是好的。
+**Efron**：Rupert Miller当时是Annals的主编。我提交了在Rietz讲座上的文章，但被拒绝了。匿名副主编说，这里面没有任何数学定理。所以，我在最后加入了一些定理，给Rupert施加了很大的压力，他才最终发表了这篇文章。早些时候，我是JASA的主编，这让我想起了我的一条规则。当一篇文章让人生气时，你应该更仔细地看看它。让人愤怒的论文有两种。一种是最差的，但另一种是好的。
 
 And since then I've written a lot of papers. If you think that every paper I submit gets accepted right away, you're wrong. I've had many papers turned down. I usually work really hard on revisions. I try hard to rewrite and take referees seriously, but I'm never discouraged by referees not liking something because sometimes it's because you may have a new idea.
 
@@ -202,6 +202,7 @@ Morris: What I remember was that it was very timely. We'd been paying $300 an ho
 **Morris**：我记得那是非常耗时的。我们花了300美元一小时来使用计算机，而之前的300美元现在可能是1000美元。计算机速度很慢，而进行这些计算可能需要几分钟到一个小时，所以这是一个真正的缺点。bootstrap恰好与个人计算时代相遇。我们现在都知道，计算并不是什么大不了的事，至少从成本上来说，它不是什么大不了的事，但从概念上来说，它仍然是一件大事。bootstrap是这样一个例子，你试着阅读文献，处理一些你知之甚少的事情，Jackknife，并想出一个与之相关的理论。这种方法，阅读别人的结果并把他们做得更好，可以非常成功。但总的来说，我认为这种方法比你刚说的过去20年来的做法要差：深入一个真正的问题，很快你就会看到一些从未解决过的问题。
 
 <div align="center"> 
+
 ![](https://cdn.mathpix.com/cropped/c4357fddd050678a597e6abf89644367-05.jpg?height=535&width=1053&top_left_y=148&top_left_x=111)
 
 </div>
@@ -479,7 +480,7 @@ Tibshirani: Speaking of getting incredibly old, a lot of statisticians, when the
 
 Efron: I usually don't think about such things, but when I was 60 , a morbid date, I started thinking, "My plan has been no plan so far; I just work on whatever is fun that comes along, whatever colleague seems interesting, whatever paper seems interesting. Maybe I really ought to concentrate on trying to do one big thing." But after I thought about it I found I couldn't possibly follow that advice. There's no way you can just sit down and do a "big thing," or at least I can't. So, I just went back to doing lots of little things, and hoping that some of them will turn out okay. Statistics is a wonderfully forgiving field, you don't have to be the brightest person in the world or work day and night; all you have to do is get an idea and keep at it. Like I said, most of the field is not densely filled. And so I keep working on little problems.
 
-**Efron**：我通常不会考虑这些事情，但当我真到了60花甲之时。我开始想，“一直以来，我的计划就是没有计划；我做任何有趣的事情，任何看起来有趣的同事，任何看起来有趣的论文 。也许我真的应该集中精力做一件大事。”但是我想了想，我发现我不可能听从这个建议。我们不可能坐下来做一件“大事”，至少我不能。所以，我又回去做了很多小事情，希望其中一些事情会好起来。统计学是一个非常宽容的领域，你不必是世界上最聪明的人，也不必日夜工作；你所要做的就是想出一个主意并坚持下去。就像我说的，这个领域的大部分都不那么卷。所以我一直在解决一些小问题。
+**Efron**：我通常不会考虑这些事情，但当我真到了六十花甲之年。我开始想，“一直以来，我的计划就是没有计划；我就做任何有趣的事情，任何看起来有趣的同事，任何看起来有趣的论文 。也许我真的应该集中精力做一件大事。”但是我想了想，我发现我不可能听从这个建议。我们不可能坐下来做一件“大事”，至少我不能。所以，我又回去做了很多小事情，希望其中一些事情会好起来。统计学是一个非常宽容的领域，你不必是世界上最聪明的人，也不必日夜工作；你所要做的就是想出一个主意并坚持下去。就像我说的，这个领域的大部分都不那么卷。所以我一直在解决一些小问题。
 
 
 ## STATISTICS AND SCIENCE
@@ -561,7 +562,7 @@ Efron: The people at the ASA asked me that very question. It's a nice tradition 
 
 In my campaign blurb for the ASA, I spoke, only semi-jokingly, about "inreach." I was flattered and pleased when they asked me to run for president, maybe because West Coast academic statisticians haven't been a big part of the ASA, gravitating toward the IMS instead. I'm glad we have more than one statistics organization, but the ASA is our umbrella. I'd like people in the Berkeley and Stanford and Chicago and Seattle departments to feel that they're in the same field as statisticians at Merck, Pfizer, DOE, Prudential, etc.
 
-在我为美国统计学会所做的竞选宣传中，我半开玩笑地谈到了“另请高明”。当他们要求我竞选主席时，我感到既高兴又受宠若惊，也许是因为西海岸的学术统计学家并不是美国统计学会的重要组成部分，而是被国际数理统计学会(IMS)吸引。我很高兴我们有不止一个统计机构，但美国统计学会是我们的呵护伞。我希望伯克利、斯坦福、芝加哥和西雅图等部门的人能感觉到他们与默克、辉瑞、能源部、保诚等公司的统计学家处于同一个领域。
+在我为美国统计学会所做的竞选宣传中，我半开玩笑地谈到了“另请高明”。当他们要求我竞选主席时，我感到受宠若惊，也许是因为西海岸的学术统计学家并不是美国统计学会的重要组成部分，而是被国际数理统计学会(IMS)吸引。我很高兴我们有不止一个统计机构，但美国统计学会是我们的呵护伞。我希望伯克利、斯坦福、芝加哥和西雅图等部门的人能感觉到他们与默克、辉瑞、能源部、保诚等公司的统计学家处于同一个领域。
 
 
 I'm glad we have lots of different areas statisticians work on. It gives us an extended frontier with other scientists. Statistics has a great record of getting important ideas from people outside the field, maybe even Fisher being an example, Wilcoxon for certain. The trick is to maintain a strong center to the field while remaining open to problems and ideas from the outside. Getting back to the ASA, it has the advantage of bigness and tradition. On the wall of the ASA office are beautiful hand-written minutes from a meeting in 1839 . (They seemed worried about getting more members.) They also have JASA, a wonderful journal that attracts an enormous range of contributions, and the Joint Statistical Meetings, which attract an enormous number of participants.
@@ -574,7 +575,7 @@ I'm glad we have lots of different areas statisticians work on. It gives us an e
 
 FIG. $8 .$ Academica Sinica, $1997 .$
 
-图 8：中国台湾科学院，1997年。
+图 8：中国台湾“中央研究院”(Academica Sinica)，1997年。
 </div>
 
 ## ADVICE AND CONCERNS
