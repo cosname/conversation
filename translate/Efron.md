@@ -163,7 +163,7 @@ FIG. 3. High school graduation photo, 1956.
 
 Efron: I think that many of my scientific colleagues are pretty good at probability; they naturally can do probability calculations involving elaborate models, but they're very bad at reasoning backwards from data to what the probability model might have been. I remember when going into statistics that first year I thought "this will be pretty easy, I've dealt with math and that's supposed to be hard." But statistics was much harder for me at the beginning than any other field. It took years before I felt really comfortable. It's hard to figure out why people do what we do, why use $p$-values, why stuff like that.
 
-**Efron**：我认为我的许多科学家同事都非常擅长概率论；他们可以轻松的进行涉及复杂模型的概率计算，但是他们非常不擅长从数据来逆向推断概率模型可能是什么。我记得第一年进入统计学专业时，我想“这很容易，我已经学过很难的数学了”。但是对我来说，一开始统计学就比任何领域都难。我花了几年时间才觉得舒服一些。很难弄清楚为什么要学我们做的这些事情，为什么使用$p$值，为什么是这样那样的。
+**Efron**：我认为我的许多科学家同事都非常擅长概率论；他们可以轻松的进行涉及复杂模型的概率计算，但是他们非常不擅长从数据来逆向推断概率模型可能是什么。我记得第一年进入统计学专业时，我想“这很容易，我已经学过很难的数学了”。但是对我来说，一开始统计学就比任何领域都难。我花了几年时间才觉得舒服一些。很难弄清楚为什么要学我们做的这些事情，为什么使用p值，为什么是这样那样的。
 
 
 You have to do some applications and get some feeling for it. Statistics is the only place where statistical inference is done. We really perform a service. It's backwards thinking. You think from the specific case, back to the general case rather than vice versa. According to the philosophers, that may even be impossible. But we do it everyday.
@@ -331,7 +331,7 @@ Morris: You have to decide a priori whether you're willing to combine estimates;
 
 Efron: But if you went to the hospital with the best score and told them you were shrinking their data down because you were pretty sure some of it was luck, they might not agree with you.
 
-**Efron**：但是如果你带着最好的分数去医院，告诉他们你正在缩小他们的数据，因为你非常确定其中只有一些数据是幸运儿，他们可能不会同意你。
+**Efron**：但是如果你带着最好的分数去医院，告诉他们你正在缩小他们的数据，因为你非常确定其中一些数据是幸运儿，他们可能不会同意你。
 
 Morris: They wouldn't like it. But I'd be right, more often than not. ... It's also very hard to teach these ideas in a first course, and many of the users out there haven't had more than a first course.
 
@@ -479,7 +479,7 @@ Tibshirani: Speaking of getting incredibly old, a lot of statisticians, when the
 
 Efron: I usually don't think about such things, but when I was 60 , a morbid date, I started thinking, "My plan has been no plan so far; I just work on whatever is fun that comes along, whatever colleague seems interesting, whatever paper seems interesting. Maybe I really ought to concentrate on trying to do one big thing." But after I thought about it I found I couldn't possibly follow that advice. There's no way you can just sit down and do a "big thing," or at least I can't. So, I just went back to doing lots of little things, and hoping that some of them will turn out okay. Statistics is a wonderfully forgiving field, you don't have to be the brightest person in the world or work day and night; all you have to do is get an idea and keep at it. Like I said, most of the field is not densely filled. And so I keep working on little problems.
 
-**Efron**：我通常不会考虑这些事情，但当我真到了60花甲之时。我开始想，“我的计划到目前为止，还是没有计划；我做任何有趣的事情，任何看起来有趣的同事，任何看起来有趣的论文 。也许我真的应该集中精力做一件大事。”但是我想了想，我发现我不可能听从这个建议。我们不可能坐下来做一件“大事”，至少我不能。所以，我又回去做了很多小事情，希望其中一些事情会好起来。统计学是一个非常宽容的领域，你不必是世界上最聪明的人，也不必日夜工作；你所要做的就是想出一个主意并坚持下去。就像我说的，这个领域的大部分都不那么卷。所以我一直在解决一些小问题。
+**Efron**：我通常不会考虑这些事情，但当我真到了60花甲之时。我开始想，“一直以来，我的计划就是没有计划；我做任何有趣的事情，任何看起来有趣的同事，任何看起来有趣的论文 。也许我真的应该集中精力做一件大事。”但是我想了想，我发现我不可能听从这个建议。我们不可能坐下来做一件“大事”，至少我不能。所以，我又回去做了很多小事情，希望其中一些事情会好起来。统计学是一个非常宽容的领域，你不必是世界上最聪明的人，也不必日夜工作；你所要做的就是想出一个主意并坚持下去。就像我说的，这个领域的大部分都不那么卷。所以我一直在解决一些小问题。
 
 
 ## STATISTICS AND SCIENCE
@@ -621,7 +621,7 @@ FIG. $9 .$ A Stanford party: Jun Liu, Charles Stein, Efron and Persi Diaconis.
 
 That brings up an interesting question: How much of the science should you know as a collaboratoring statistician? There are different answers to that. The answer that "the more you know the better" isn't necessarily true. Because if you know too much, you get close to it and you start thinking you're the scientist. Some people are really good at educating themselves quickly on the essence of a subject. But if you have to be a biologist to help biologists with statistics, then there is no stat, there are just biologists who are better at numbers. I strongly feel there's an essence to statistical reasoning that cuts across fields. And that's what we train in. But, of course, we also like people to be good at helping with specific fields, maybe very knowledgeable, which leads to a different model of the collaborating statistician. 
 
-这就引出了一个有趣的问题：作为一名与人合作的统计学家，你应该了解多少科学知识？对此有不同的答案。“你知道的越多越好”的答案不一定正确。因为如果你知道的太多，你就会接近它，你会开始认为你是科学家。有些人真的很擅长快速自学了解一门学科。但是，如果你必须成为一名生物学家来帮助生物学家进行统计，那么就没有统计学了，只有擅长数字的生物学家。我强烈地感觉到统计推断的本质是跨领域的。这就是我们训练的内容。但是，我们当然也赞赏统计学家们在特定领域问题上能提供帮助，或许还很有见地，这将会是统计学家去合作的不同模式。
+这就引出了一个有趣的问题：如果统计学家要和他人合作，应该了解多少科学知识？对此有不同的答案。“你知道的越多越好”的答案不一定正确。因为如果你知道的太多，你就会接近它，你会开始认为你是科学家。有些人真的很擅长快速自学了解一门学科。但是，如果你必须成为一名生物学家来帮助生物学家进行统计，那么就没有统计学了，只有擅长数字的生物学家。我强烈地感觉到统计推断的本质是跨领域的。这就是我们训练的内容。但是，我们当然也赞赏统计学家们在特定领域问题上能提供帮助，或许还很有见地，这将会是统计学家去合作的不同模式。
 
 
 Holmes: Often if you don't know the science's language you can't answer their questions.
