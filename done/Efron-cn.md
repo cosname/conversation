@@ -1,7 +1,7 @@
 # 统计之都访谈第45期：统计大师Bradley Efron
 
 
-> 编辑部按：统计之都访谈第45期为翻译作品。原文作者Susan Holmes, Carl Morris and Rob Tibshirani，标题为*Bradley Efron: A Conversation with Good Friends*，于2003年发表在*Statistical Science*。译文主要由潘岚锋完成翻译和审校定稿，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了很多细致、专业的建议和帮助。感谢原文作者、译者和审校人员的辛勤付出。
+> 编辑部按：统计之都访谈第45期为翻译作品。原文作者Susan Holmes, Carl Morris and Rob Tibshirani，标题为*Bradley Efron: A Conversation with Good Friends*，于2003年发表在*Statistical Science*。译文主要由潘岚锋、雷博文完成，冯裕祺翻译了部分内容。魏太云、丁鹏、李赛、邱怡轩、郭旭曾在翻译过程中给予了很多细致、专业的建议和帮助。感谢原文作者、译者和审校人员的辛勤付出。
 
 
 **摘要：** Bradley Efron是斯坦福大学统计学和生物统计学教授。他致力于理论和应用主题的结合，包括经验贝叶斯、生存分析、指数族、bootstrap、jackknife方法以及置信区间。他的大部分应用工作都来自斯坦福医学院（Stanford Medical School）的生物医学咨询项目，还有一些关于天文学和物理学的论文。甚至他的理论论文通常都是从具体的应用问题开始的。本文中的三位采访者都是他的紧密科研合作伙伴。
