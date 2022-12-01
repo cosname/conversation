@@ -1632,21 +1632,21 @@ The effort involved in conducting this study is breathtaking. The authors delved
 
 A crucial hidden component of variability in science is the analysis workflow. Different studies of the same intervention may follow different workflows, which may cause the studies to get different conclusions. Carp (2012) studied analysis workflows in 241 fMRI studies. He found nearly as many unique workflows as studies! In other words researchers are making up a new workflow for pretty much every fMRI study.
 
-科学中可变性的一个关键隐藏组件是分析工作流。同一干预的不同研究可能遵循不同的工作流，这可能导致研究得出不同的结论。Carp（2012）研究了241项fMRI研究的分析工作流程。他发现了几乎与研究一样多的独特工作流！换句话说，研究人员正在为几乎每项fMRI研究制定一个新的工作流。
+科学中可变性的一个关键隐藏部分是分析工作流。同一干预的不同研究可能遵循不同的工作流，这可能导致研究得出不同的结论。Carp（2012）研究了241项fMRI研究的分析工作流程。他发现了几乎与研究一样多的工作流模式！换句话说，研究人员正在为几乎每项fMRI研究制定一个新的工作流。
 
 
 David Madigan and collaborators (Ryan et al. 2012; Madigan et al. 2014) studied the effect of analysis flexibility on effect sizes in observational studies; their collaboration will be hereafter called OMOP. As motivation, the OMOP authors point out that in the clinical research literature there are studies of the same dataset, and the same intervention and outcome, but with different analysis workflow, and the published conclusions about the risk of the intervention are reversed. Madigan gives the explicit example of exposure to Pioglitazone and bladder cancer, where published articles in BJMP and BMJ reached opposite conclusions on the very same underlying database!
 
-David Madigan及其合作者（Ryan等人，2012；Madigan等人，2014）研究了观察研究中分析灵活性对效应大小的影响；他们的合作将在下文中称为OMOP。作为动机，OMOP作者指出，在临床研究文献中，有对相同数据集、相同干预和结果的研究，但分析工作流不同，关于干预风险的已发表结论是相反的。Madigan给出了暴露于吡格列酮和膀胱癌的明确例子，在BJMP和BMJ上发表的文章在相同的基础数据集上得出了相反的结论！
+David Madigan及其合作者（Ryan等人，2012；Madigan等人，2014）研究了观察研究中分析灵活性对效应大小的影响；他们的合作将在下文中称为OMOP。受此启发，OMOP作者指出，在临床研究文献中，有对相同数据集、相同干预和结果的研究，但由于分析工作流不同，关于干预风险的结论是完全呀吧相反的。Madigan给出了吡格列酮与膀胱癌关系的明确实例，这一问题在BJMP和BMJ上发表的文章在相同的基础数据集上得出了相反的结论！
 
 
 The OMOP authors obtained five large observational datasets, covering together a total of more than 200 Million Patient-years (see Table 2).
 
-OMOP作者获得了五个大型观测数据集，总共涵盖了超过2亿患者-年（参见表2）。
+OMOP作者汇总了五个大型观测数据集，总共涵盖了超过2亿患者-年（参见表2）。
 
 The OMOP group considered four different outcomes, coded "Acute Kidney Injury," "Acute Liver Injury," "Acute Myocardial Infarction," "GI Bleed." They considered a wide range of possible interventions for each outcome measure, for example, whether patients taking drug X later suffered outcome Y. Below, "Acute Liver Injury" stands for the association "Exposure to X and Acute Liver Injury."
 
-OMOP组考虑了四种不同的结果，编码为“急性肾损伤”、“急性肝损伤”、“急性心肌梗死”、“胃肠道出血”。他们考虑了每种结果测量的广泛可能干预措施，例如，服用药物X的患者后来是否会出现结果Y。下面，“急性肝损伤”代表“暴露于X和急性肝损伤”的关联。
+OMOP组考虑了四种不同的结果，编码为“急性肾损伤”、“急性肝损伤”、“急性心肌梗死”、“胃肠道出血”。他们考虑了每种结果的大量可能干预措施，例如，服用药物X的患者后来是否会出现结果Y。下面，“急性肝损伤”代表“暴露于X和急性肝损伤”的关联。
 
 For each target outcome, the researchers identified a collection of known positive and negative controls, interventions X for which the ground truth of statements like "Exposure to X is associated with Acute Liver Injury" is considered known. Using such controls, they could quantify an inference procedure's ability to correctly spot associations using the measure of area under the operating curve (AUC).
 
@@ -1664,12 +1664,12 @@ In their study, OMOP considered, for each database, for each possible outcome, e
 
 The OMOP report concludes that the three so-called selfcontrolled methods outperform the other methods overall, with SCCS being especially good overall. So their study reveals quite a bit about the effectiveness of various inference procedures, offering an idea what improved inference looks like and how accurate it might be.
 
-OMOP报告得出结论，三种所谓的自我控制方法总体上优于其他方法，SCCS总体上特别好。因此，他们的研究揭示了各种推理程序的有效性，提供了一个改进的推理看起来是什么样子以及它可能有多准确的想法。
+OMOP报告得出结论，三种所谓的自我控制方法总体上优于其他方法，SCCS整体表现最为优异。因此，他们的研究揭示了各种推断模式的有效性，提供了一个更好的推断模式图景以及它的潜在准确率的估计。
 
 
 This work represents a massive endeavor by OMOP: to curate data, program inference algorithms in a unified way, and apply them across a series of underlying situations. Dealing with big data was an essential part of the project; but the driving motivation was to understand that the scientific literature contains a source of variation-methodological variation-whose influence on future inference in this field might be understood, capped, or even reduced. The participants were statisticians and biostatisticians.
 
-这项工作展现了OMOP的巨大努力：以统一的方式管理数据、程序推理算法，并将其应用于一系列潜在情况。处理大数据是该项目的重要组成部分；但驱动动机是理解科学文献包含变异的来源，即方法学变异，其对该领域未来推断的影响可能被理解、限制甚至减少。参与者是统计学家和生物统计学家。
+这项工作呈现了OMOP做出的巨大努力：以统一的方式管理数据、程序推断算法，并将其应用于一系列潜在情况。处理大数据是该项目的重要组成部分；但驱动动机是理解科学文献差异的来源，即方法学差异，从此，该领域未来推断的差异从此可以被理解、限制甚至减少。这项工作的参与者都是统计学家和生物统计学家。
 
 
 ## 9.4. Summary
@@ -1679,7 +1679,7 @@ This work represents a massive endeavor by OMOP: to curate data, program inferen
 
 There seem to be significant flaws in the validity of the scientific literature (Ioannidis 2007; Sullivan 2007; Prinz, Schlange, and Asadullah 2011; Open Science Collaboration et al. 2015). The last century has seen the development of a large collection of statistical methodology, and a vast enterprise using that methodology to support scientific publication. There is a very large community of expert and not-so-expert users of methodology. We do not know very much about how that body of methodology is being used and we also do not know very much about the quality of results being achieved.
 
-科学文献的有效性似乎存在重大缺陷（Ioannidis 2007；Sullivan 2007；Prinz、Schlange和Asadollah 2011；Open Science Collaboration等人，2015）。在过去的一个世纪里，大量统计方法论得到了发展，很多行业利用这些方法论来发表科研成果。有一个非常庞大的专业群体用户，但他们不算是方法论专家。我们不太了解这套方法是如何被使用的，我们也不太了解所取得的成果的质量如何。
+科学文献的有效性似乎存在重大缺陷（Ioannidis 2007；Sullivan 2007；Prinz、Schlange和Asadollah 2011；Open Science Collaboration等人，2015）。在过去的一个世纪里，大量统计方法论得到了发展，很多行业利用这些方法论来发表科研成果。专业群体用户数量庞大，但他们不算是方法论专家。我们不太了解这套方法是如何被使用的，我们也不太了解所取得的成果的质量如何。
 
 Data scientists should not blindly churn out methodology without showing concern for results being achieved in practice. Studies we have classed as "GDS6: Science About Data Science" help us understand how data analysis as actually practiced is impacting "all of science."
 
@@ -1688,7 +1688,7 @@ Data scientists should not blindly churn out methodology without showing concern
 
 Information technology skills are certainly at a premium in the research we have just covered. However, scientific understanding and statistical insight are firmly in the driver's seat.
 
-在我们刚刚介绍的研究中，信息技术技能当然非常重要。然而，科学理解和统计洞察力是要牢牢把控在驾驶席上。
+在我们刚刚介绍的研究中，信息技术技能当然非常重要。然而，科学理解和统计洞察力更是应牢牢把控在驾驶席上。
 
 # 10. The Next 50 Years of Data Science
 
@@ -1697,7 +1697,7 @@ Information technology skills are certainly at a premium in the research we have
 
 Where will data science be in 2065 ? The evidence presented so far contains significant clues, which we now draw together.
 
-2065年数据科学将往何处去？到目前为止已有的证据包含重要线索，我们现在将这些线索汇总起来。
+2065年数据科学将往何处去？以上所有信息给我们提供了诸多线索，我们现在将这些线索汇总起来。
 
 
 ## 10.1. Open Science Takes Over
@@ -1706,16 +1706,16 @@ Where will data science be in 2065 ? The evidence presented so far contains sign
 
 In principle, the purpose of scientific publication is to enable reproducibility of research findings. For centuries, computational results and data analyses have been referred to in scientific publication, but typically only have given readers a hint of the full complexity of the data analysis being described. As computations have become more ambitious, the gap between what readers know about what authors did has become immense. Twenty years ago, Jon Buckheit and I summarized lessons we had learned from Stanford's Jon Claerbout as follows:
 
-原则上，科学出版物的目的是使研究结果具有可重复性。几个世纪以来，计算结果和数据分析一直在科学出版物中被涉及，但通常只会给读者暗示所描述的数据分析的复杂性。随着计算变得越来越庞大复杂，读者对作者所做工作的了解之间的差距变得巨大。20年前，Jon Buckheit和我总结了我们从斯坦福大学的Jon Claerbout那里学到的经验如下：
+原则上，科学出版物的目的是使研究结果具有可重复性。几个世纪以来，科学出版物中大量呈现计算结果和数据分析，但通常只会给读者大致描述其数据分析的复杂性。随着计算变得越来越庞大复杂，研究者的工作会愈发难以理解。20年前，Jon Buckheit和我总结了我们从斯坦福大学的Jon Claerbout那里学到的经验：
 
 > An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.
 
-> **科学出版物中关于计算科学的文章不是学术本身，它只是学术的广告。实际的学术是完整的软件开发环境和生成数字的完整代码**。
+> **科学出版物中关于计算科学的文章不是学术本身，它只是学术的广告。实际的学术是完整的软件开发环境和生成数值的完整代码**。
 
 
 To meet the original goal of scientific publication, one should share the underlying code and data. Moreover there are benefits to authors. Working from the beginning with a plan for sharing code and data leads to higher quality work, and ensures that authors can access their own former work, and those of their coauthors, students and postdocs (Donoho et al. 2009). Over the years, such practices have become better understood (Stodden 2012; Stodden, Guo, and Ma 2013) and have grown (Freire, Bonnet, and Shasha 2012; Stodden, Leisch, and Peng 2014), though they are still far from universal today. In absolute terms the amount of essentially nonreproducible research is far larger than ever before (Stodden, Guo, and Ma 2013).
 
-为了实现科学出版物的最初目标，人们应该共享基础代码和数据。此外，对作者也有好处。从一开始就制定共享代码和数据的计划，这将带来更高质量的工作，并确保作者能够访问自己以前的工作，以及他们的合著者、学生和博士后的工作（Donoho等人，2009）。多年来，这种做法已经得到了更好的理解（Stodden 2012；Stodden、Guo和Ma 2013），并有所发展（Freire、Bonnet和Shasha 2012；Storden、Leisch和Peng 2014），尽管它们在今天还远远没有普及。从绝对值来看，基本上不可重复的研究数量远远超过以往（Stodden、Guo和Ma 2013）。
+为了实现科学出版物的最初目标，人们应该共享基础代码和数据。此外，对作者也有好处。从一开始就制定共享代码和数据的计划，这将带来更高质量的工作，并确保作者能够随时追溯自己以前的工作，以及他们的合著者、学生和博士后的工作（Donoho等人，2009）。多年来，这种做法已经得到了更广泛的认同（Stodden 2012；Stodden、Guo和Ma 2013），并有所发展（Freire、Bonnet和Shasha 2012；Storden、Leisch和Peng 2014），尽管它们在今天还远远没有普及。从绝对值来看，基本上不可重复的研究数量远远超过以往（Stodden、Guo和Ma 2013）。
 
 
 Reproducible computation is finally being recognized today by many scientific leaders as a central requirement for valid scientific publication. The 2015 annual message from Ralph Cicerone, President of the U.S. National Academy of Sciences, stresses this theme; while funding agencies (Collins and Tabak 2014) and several key journals (Peng 2009; McNutt 2014; Heroux 2015), have developed a series of reproducibility initiatives.
@@ -1724,25 +1724,25 @@ Reproducible computation is finally being recognized today by many scientific le
 
 To work reproducibly in today's computational environment, one constructs automated workflows that generate all the computations and all the analyses in a project. As a corollary, one can then easily and naturally refine and improve earlier work continuously.
 
-为了在当今的计算环境中可重复工作，人们构建了自动化工作流，生成项目中的所有计算和所有分析。作为必然结果，人们可以轻松自然地不断完善和改进早期的工作。
+为了在当今的计算环境中实现可重复工作，人们构建了自动化工作流，生成项目中的所有计算和所有分析。相应地，人们可以轻松自然地不断完善和改进早期的工作。
 
 
 Computational results must be integrated into final publications. Traditional methods-running jobs interactively by hand, reformatting data by hand, looking up computational results, and copying and pasting into documents-are now understood to be irresponsible. Recently, several interesting frameworks combining embedded computational scripting with document authoring have been developed. By working within the discipline such systems impose, it becomes very easy to document the full computation leading to a specific result in a specific article. Yihui Xie's work with the knitr package-mentioned earlier-is one such example. $^{53}$
 
-计算结果必须整合到最终出版物中。传统的手工交互运行作业、手工重新格式化数据、查找计算结果以及复制和粘贴到文档中的方法现在被认为是不负责任的。最近，已经开发了几个有趣的框架，将嵌入式计算脚本与文档创作结合起来 $^{52}$。通过在这样的系统所施加的规则内工作，将导致特定文章中特定结果的完整计算记录下来变得非常容易。谢益辉之前提到的knitr就是一个很好的例子 $^{53}$。
+计算结果必须整合到最终出版物中。传统的手工交互运行作业、手工重新格式化数据、查找计算结果以及复制和粘贴到文档中的方法现在被认为是不负责任的。最近，已经开发了几个有趣的框架，将嵌入式计算脚本与文档创作结合起来 $^{52}$。通过在这样的系统所施加的规则内工作，可以使我们轻易地记录特定文章中特定结果的完整计算过程。谢益辉之前提到的knitr就是一个很好的例子 $^{53}$。
 
 Reproducibility of computational experiments is just as important to industrial data science as it is to scientific publication. It enables a disciplined approach to proposing and evaluating potential system improvements and an easy transition of validated improvements into production use. 
 
-计算实验的再现性对产业数据科学和科学出版物同样重要。它支持提出和评估潜在系统改进的严格方法，并将经过验证的改进轻松过渡到生产使用。
+计算实验的再现性对产业数据科学和科学出版物同样重要。它能够提出和评估潜在系统改进的严格方法，并将经过验证的改进轻松过渡到生产使用。
 
 Reproducible computation fits into our classification both at "GDS 4: Presentation of Data" and in "GDS 6: Science about Data Science." In particular, teaching students to work reproducibly enables easier and deeper evaluation of their work; having them reproduce parts of analyses by others allows them to learn skills like exploratory data analysis that are commonly practiced but not yet systematically taught; and training them to work reproducibly will make their post-graduation work more reliable.
 
-可重复计算符合前面提到的“GDS 4：数据展示”和“GDS 6：数据科学”。特别是，教学生可再重复工作可以更容易、更深入地评估他们的工作；让他们复制他人的部分分析，可以让他们学习探索性数据分析等技能，这些技能常常被实践，但却并未系统地教授；训练他们重复工作将使他们毕业后的工作更加可靠。
+可重复计算符合前面提到的“GDS 4：数据展示”和“GDS 6：数据科学”。特别是，教学生可再重复工作可以更容易、更深入地评估他们的工作；让他们复制他人的分析方法及代码，可以让他们学习探索性数据分析等技能，这些技能常常被直接实践，但却并未系统地教授；训练他们复现工作将使他们毕业后的工作更加可靠。
 
 
 Science funding agencies have for a long time included in their funding policies a notional requirement that investigators make code and data available to others. However, there never has been enforcement, and there was always the excuse that there was no standard way to share code and data. Today there are many ongoing development efforts to develop standard tools enabling reproducibility (Freire, Bonnet, and Shasha 2012; Stodden, Leisch, and Peng 2014; Stodden and Miguez 2014); some are part of high profile projects from the Moore and Simons foundations. We can confidently predict that in coming years reproducibility will become widely practiced.
 
-长期以来，科学资助机构在其资助政策中包含了一个名义上的要求，即研究人员向他人提供代码和数据。然而，从来没有强制执行过，而且总是有借口说没有标准的方法来共享代码和数据。如今，有许多正在进行的开发工作来开发能够实现可重复性的标准工具（Freire、Bonnet和Shasha 2012；Stodden、Leisch和Peng 2014；Stoddeen和Miguez 2014）；其中一些是摩尔和西蒙斯基金会知名项目的一部分。我们可以自信地预测，在未来几年，可重复性将得到广泛应用。
+一直以来，科学资助机构在其资助政策中包含了一个“形式主义”的要求，即研究人员应公开代码和数据。然而，这从来没有强制执行过，而且总能以没有标准的方法共享代码数据为借口。如今，有许多正在进行的开发工作在开发能够实现可重复性的标准工具（Freire、Bonnet和Shasha 2012；Stodden、Leisch和Peng 2014；Stoddeen和Miguez 2014）；其中一些是摩尔和西蒙斯基金会知名项目的一部分。我们可以自信地预测，在未来几年，可重复性将得到广泛应用。
 
 > [52] Such efforts trace back to Donald Knuth's Literate Programming project. While literate programming-mixing code and documentation-does not seem to have become very popular, a close relative-mixing executable code, data, documentation, and execution outputs in a single document-is just what the doctor ordered for reproducible research in computational science.
 
@@ -1750,7 +1750,7 @@ Science funding agencies have for a long time included in their funding policies
 
 > [53] Professor Martin Helm reminds me to mention other examples; he points to the SAS system's StatRep package, saying "SAS Institute twice a year produces tens of thousands pages of SAS documentation from LATEX-files with markups that run SAS and include programs as well as output as well as statistical advice (text). When we tested it, it was better and more stable than knitr. This could have changed in the meantime as knitr evolves but SAS is not so eager to open up and publish improvements." 
 
-> [53] Martin Helm 教授提醒我提及其他例子；他指向SAS系统的StatRep包，表示“SAS研究所每年两次从LATEX文件中生成数万页SAS文档，其中包含运行SAS的标记，包括程序、输出以及统计建议（文本）。当我们测试它时，它比knitr更好、更稳定。随着knitr的发展，这一点可能会发生变化，但SAS并不急于开放并发布改进。" 
+> [53] Martin Helm 教授提醒我还有其他不错的例子；他提到SAS系统的StatRep包，表示“SAS研究所每年两次从LATEX文件中生成数万页SAS文档，其中包含运行SAS的标记，包括程序、输出以及统计建议（文本）。当我们测试它时，它比knitr更好、更稳定。随着knitr的发展，这一点可能会发生变化，但SAS并不急于开放并发布改进。" 
 
 ## 10.2. Science as Data
 
@@ -1758,29 +1758,29 @@ Science funding agencies have for a long time included in their funding policies
 
 Conceptually attached to a scientific publication is a great deal of numerical information-for example, the $p$-values reported within it (Chavalarias et al. 2016). Such information ought to be studied as data. Today, obtaining that data is problematic; it might involve reading of individual articles and manual extraction and compilation, or web scraping and data cleaning. Both strategies are error prone and time consuming.
 
-科学出版物概念上附带了大量数字信息，例如，其中报告的p值（Chavalarias等人，2016）。此类信息应作为数据进行研究。今天，获取这些数据是有问题的；它可能涉及阅读单个文章、手动提取和编译，或者网络抓取和数据清理。这两种策略都容易出错且耗时。
+科学出版物包含大量数字信息，例如，其中报告的p值（Chavalarias等人，2016）。此类信息应作为数据进行研究。今天，获取这些数据并不容易；它需要阅读每篇文章、手动提取和编译，或者网络抓取和数据清理。这两种策略都容易出错且耗时。
 
 
 With the widespread adoption of open science over the next 50 years, a new horizon becomes visible. Individual computational results reported in an article, and the code and the data underlying those results, will be universally citable and programmatically retrievable. Matan Gavish and I wrote some articles (Gavish and Donoho 2011; Gavish 2012), which proposed a way to open that new world and which then explored the future of science in such a world.
 
-随着开放科学在未来50年中的广泛应用，一个新的视野变得清晰可见。在一篇文章中报告的单个计算结果，以及这些结果的代码和数据，将是通用可引用和可编程检索的。我和Matan Gavish写了一些文章（Gavish 和 Donoho，2011年；Gavish，2012年），提出了一种打开新世界的方法，然后探讨了这样一个世界中科学的未来。
+随着开放科学在未来50年中的广泛应用，一个新的模式变得清晰可见。一篇文章报告中的单个计算结果，以及这些结果的代码和数据，将是标准的，通用的，可引用和可编程检索的。我和Matan Gavish写了一些文章（Gavish 和 Donoho，2011年；Gavish，2012年），提出了一种打开新世界的方法，然后探讨了这样一个世界中科学的未来。
 
 Those articles defined the notion of verifiable computational result (VCR), a computational result, and metadata about the result, immutably associated with a URL, and hence permanently programmatically citable and retrievable. Combining cloud computing and cloud storage, Gavish developed server frameworks that implemented the VCR notion, recording each key result permanently on the server and returning the citing URL. He also provided client-side libraries (e.g., for Matlab) that allowed creation of VCRs and returned the associated link, and that provided programmatic access to the data referenced by the link. On the document creation side, he provided macro packages that embedded such links into published TEXdocuments. As a result, one could easily write documents in which every numerical result computed for an article was publicly citable and inspectable-not only the numerical value, but the underlying computation script was viewable and could be studied.
 
-这些文章定义了可验证计算结果（VCR）的概念，即计算结果，以及关于结果的元数据，这些元数据与URL不可更改地关联，因此可以通过编程永久引用和检索。结合云计算和云存储，Gavish开发了实现VCR概念的服务器框架，将每个关键结果永久记录在服务器上并返回引用URL。他还提供了客户端库（例如Matlab），允许创建VCR并返回相关链接，并提供对链接引用的数据的编程访问。在文档创建方面，他提供了宏包，将这些链接嵌入到已发布的TEX文档中。因此，人们可以很容易地编写文档，其中为一篇文章计算的每个数值结果都可以公开引用和检查，不仅是数值，而且基础计算脚本可以查看和研究。
+这些文章定义了可验证计算结果（VCR）的概念，即计算结果，以及关于结果的元数据，这些元数据与URL直接绑定，因此可以通过编程永久引用和检索。结合云计算和云存储，Gavish开发了实现VCR概念的服务器框架，将每个关键结果永久记录在服务器上并返回引用URL。他还提供了客户端库（例如Matlab），允许创建VCR并返回相关链接，并提供对链接引用的数据的编程访问。在文档创建方面，他提供了宏包，将这些链接嵌入到已发布的TEX文档中。因此，人们可以轻松编写文档，一篇文章中计算的每个数值结果都可以公开引用和检查，不仅是数值，所有基础计算脚本也可以开放浏览。
 
 
 In a world where each numerical result in a scientific publication is citable and retrievable, along with the underlying algorithm that produced it, current approaches to meta-analysis are much easier to carry out. One can easily extract all the $p$-values from a VCR-compliant article, or extract all the data points in a graph inside it, in a universal and rigorously verifiable way. In this future world, the practice of meta-analysis of the kind we spoke about in Section $9.1$ will of course expand. But many new scientific opportunities arise. We mention two examples:
 
-在一个科学出版物中的每一个数字结果都是可引用和可检索的，以及产生它的基本算法的世界中，当前的荟萃分析方法更容易执行。人们可以轻松地从VCR兼容的文章中提取所有p值，或者以通用且严格可验证的方式提取其中图表中的所有数据点。在这个未来的世界里，我们在9.1节中提到的那种荟萃分析的实践当然会扩展。但是许多新的科学机会出现了。我们提到两个例子：
+如果我们科学出版物中的每一个数字结果，每一个基本算法都是可引用和可检索的，当前的荟萃分析方法自然会更容易执行。人们可以轻松地从VCR兼容的文章中提取所有p值，或者以通用且严格可验证的方式提取其中图表中的所有数据点。在这样的世界中，我们在9.1节中提到的那种荟萃分析的实践会得到扩展，而且会出现许多新的科学机会。我们举两个例子：
 
 - Cross-Study Control Sharing. In this new world, one can extract control data from previous studies (Wandell et al. 2015). New opportunities include: (a) having massively larger control sets in future studies; (b) quantifying the impact of specific control groups and their differences on individual study conclusions; and (c) extensive "real world" calibration exercises where both groups are actually control groups.
 
-- <font color='red'>【**交叉研究控制共享**】</font>。在这个新的世界中，人们可以从以前的研究中提取控制数据（Wandell等人，2015）。新的机会包括：(a)在未来的研究中拥有更大的对照组；(b) 量化特定对照组及其差异对个体研究结论的影响；(c) 广泛的“真实世界”校准练习，其中两组实际上都是对照组。
+- <font color='red'>【**交叉研究控制共享**】</font>。在这样的世界中，人们可以从以前的研究中提取控制数据（Wandell等人，2015）。新的机会包括：(a)在未来的研究中拥有更大的对照组；(b) 量化特定对照组及其差异对个体研究结论的影响；(c) 广泛的“真实世界”校准练习，其中两组实际上都是对照组。
 
 - Cross-Study Comparisons. The cross-study comparisons of Sections $9.2$ and 9.3, required massive efforts to manually rebuild analyses in previous studies by other authors, and then manually curate their data. When studies are computationally reproducible and share code and data, it will be natural to apply the algorithm from paper A on the data from paper B, and thereby understand how different workflows and different datasets cause variations in conclusions. One expects that this will become the dominant trend in algorithmic research.
 
-- 交叉研究比较。第9.2节和第9.3节的交叉研究比较需要大量的努力来手动重建其他作者以前研究中的分析，然后手动整理他们的数据。当研究在计算上可重复并共享代码和数据时，将论文A的算法应用于论文B的数据将是很自然的，从而理解不同的工作流和不同的数据集是如何导致结论差异的。人们预计这将成为算法研究的主导趋势。
+- 交叉研究比较。第9.2节和第9.3节的交叉研究比较需要研究人员花费大量的精力来手动重建其他作者以前研究中的分析，然后手动整理他们的数据。当研究在计算上可重复并共享代码和数据时，将论文A的算法应用于论文B的数据将是很简单的，从而更高效地理解不同的工作流和不同的数据集是如何导致结论差异的。我们认为这将成为算法研究的主导趋势。
 
 
 Additional possibilities are discussed in Gavish (2012).
@@ -1795,14 +1795,14 @@ Gavish（2012）讨论了其他可能性。
 As science itself becomes increasingly mineable for data and algorithms, the approaches of cross-study data sharing and workflow sharing discussed above in Sections $9.2$ and $9.3$ will spread widely. In the next 50 years, ample data will be available to measure the performance of algorithms across a whole ensemble of situations. This is a game changer for statistical methodology. Instead of deriving optimal procedures under idealized assumptions within mathematical models, we will rigorously measure performance by empirical methods, based on the entire scientific literature or relevant subsets of it.
 
 
-随着科学本身对数据和算法的挖掘变得越来越容易，上文第9.2节和第9.3节讨论的交叉研究数据共享和工作流共享的方法将得到广泛传播。在未来50年，将有足够的数据来衡量算法在一整套情况下的性能。统计方法论的游戏规则改变了。我们将基于整个科学文献或其相关子集，通过实证方法严格衡量效果，而不是在数学模型中的理想化假设下推导出最佳程序。
+随着科学本身对数据和算法的挖掘变得越来越容易，上文第9.2节和第9.3节讨论的交叉研究数据共享和工作流共享的方法将得到广泛传播。在未来50年，将有足够的数据来衡量算法在所有情况下的性能。统计方法论的游戏规则改变了。我们将基于整个科学文献或其相关子集，通过实证方法严格衡量算法表现，而不是在数学模型中的理想化假设下推导出最佳算法。
 
 
 
 Many current judgments about which algorithms are good for which purposes will be overturned. We cite three references about the central topic of classification with a bit of detail.
 
 
-当前关于哪些算法适合哪些目的许多判断将被推翻。我们引用了三个关于分类主题的参考文献，并提供了一些细节。
+当前关于哪些算法适合哪些项目的许多判断将被推翻。我们引用了三个关于分类主题的参考文献，并提供了一些细节。
 
 
 ### 10.3.1. Hand et al. (2006)
@@ -1822,25 +1822,25 @@ In Hand et al. (2006), D. J. Hand summarized the state of classifier research in
 >
 > The essence of the argument [in this paper] is that the improvements attributed to the more advanced and recent developments are small, and that aspects of real practical problems often render such small differences irrelevant, or even unreal, so that the gains reported on theoretical grounds, or on empirical comparisons from simulated or even real data sets, do not translate into real advantages in practice. That is, progress is far less than it appears. $^{54}$
 
-> [在本文中]论点的本质是，最近的、更先进的发展带来的改进是很小的，而实际问题的各个方面往往使这种小差异变得无关紧要，甚至是不真实的。因此，基于理论基础所报告的收益，或者基于模拟或甚至真实数据集的经验比较，在实践中并不能转化为真正的优势。也就是说，进展远没有看起来的那么快 $^{54}$。
+> [在本文中]论点的本质是，最近的、更先进的发展带来的改进是很小的，而实际问题的各个方面往往使这种小差异变得无关紧要，甚至是不真实的。因此，基于理论基础所获得的结论，或者基于模拟或甚至基于真实数据集的获得的经验，在实践中并不能转化为真正的优势。也就是说，进展远没有看起来的那么快 $^{54}$。
 
 
 How did Hand support such a bold claim? On the empirical side, he used "a randomly selected sample of 10 datasets" from the literature and considered empirical classification rate. He showed that linear discriminant analysis, which goes back to Fisher (1936), achieved a substantial fraction (90\% or more) of the achievable improvement above a random guessing baseline. The better-performing methods were much more complicated and sophisticated-but the incremental performance above LDA was relatively small.
 
-Hand是如何支持如此大胆的主张的？在实证方面，他使用了文献中“随机选择的10个数据集样本”，并考虑了实证分类率。他表明，线性判别分析（LDA，可追溯到Fisher（1936））在随机猜测基线之上取得了很大改进（90%或更多）。性能更好的方法虽然更加复杂和复杂，但在LDA之上的增量提升相对较小。
+Hand是如何论证如此大胆的主张的？在实证方面，他使用了文献中“随机选择的10个数据集样本”，并考察了实证分类率。他表明，线性判别分析（LDA，可追溯到Fisher（1936））在随机猜测基线之上取得了很大改进（90%或更多）。性能更好的方法虽然更加复杂和复杂，但在LDA之上的增量提升相对较小。
 
 
 
 
 Hand's theoretical point was precisely isomorphic to a point made by Tukey in FoDA about theoretical optimality: optimization under a narrow theoretical model does not lead to performance improvements in practice.
 
-Hand的理论观点与Tukey在“数据分析之未来”(FoDA)中提出的关于理论最优性的观点完全相同：在狭窄的理论模型下进行优化并不能在实践中提升效果。
+Hand的理论观点与Tukey在“数据分析之未来”(FoDA)中提出的关于理论最优性的观点完全相同：在狭隘的理论模型下进行优化并不能在实践中提升效果。
 
 
 
 > [54] The point made by both Hand and Tukey was that optimality theory, with its great charisma, can fool us. J. R. Pierce made a related point in rejecting the "glamor" of theoretical machine translation.
 
-> [54] Hand和Tukey提出的观点是，最优性理论具有巨大的魅力，可以愚弄我们。J. R. Pierce在拒绝理论机器翻译的“魅力”时提出了一个相关的观点。
+> [54] Hand和Tukey提出的观点是，最优性理论具有巨大的魅力，同时却可能混淆我们。J. R. Pierce在拒绝理论机器翻译的“魅力”时提出了类似的观点。
 
 
 ### 10.3.2. Donoho and Jin (2008)
@@ -1860,16 +1860,16 @@ Suppose we have data $X_{i, j}$ consisting of $1 \leq i \leq n$ observations on 
 
 Consider a very unglamorous method: a linear classifier $C(x)=\sum_{j \in J_{+}} x(j)-\sum_{j \in J_{-}} x(j)$, which combines the selected features simply with weights $+1$ or $-1$. This method selects features where the absolute value of the univariate $t$-score exceeds a threshold and uses as the sign of the feature coefficient simply the sign of that feature's $t$-score. The threshold is set by higher criticism. In the published article it was called HC-clip; it is a dead-simple rule, much simpler even than classical Fisher linear discriminant analysis, as it makes no use of the covariance matrix, and does not even allow for coefficients of different sizes. The only subtlety is in the use of higher criticism for choosing the threshold. Otherwise, HC-clip is a throwback to a pre-1936 setting, that is, to before Fisher (1936) showed that one "must" use the covariance matrix in classification. $^{56}$
 
-考虑一个非常简单的方法：一个线性分类器 $C(x)=\sum_{j \in J_{+}} x(j)-\sum_{j \in J_{-}} x(j)$，它将选择的特征简单地与权重$+1$或$-1$组合。该方法选择单变量$t$值的绝对值超过阈值的特征，并仅使用该特征$t$值的正负符号作为特征系数的正负符号。阈值由更高的<font color='red'>【**批评(criticism)**】</font>设定。在发表的文章中，它被称为HC-剪辑；这是一个非常简单的规则，甚至比经典的Fisher线性判别分析要简单得多，因为它不使用协方差矩阵，甚至不考虑不同大小的系数。唯一的微妙之处是在选择阈值时使用了更高的【批评(criticism)】。否则，HC剪辑是回到1936年之前的设置，即在Fisher(1936)表明“必须”在分类中使用协方差矩阵 $^{56}$。
+考虑一个非常简单的方法：一个线性分类器 $C(x)=\sum_{j \in J_{+}} x(j)-\sum_{j \in J_{-}} x(j)$，它将选择的特征简单地与权重$+1$或$-1$组合。该方法选择单变量$t$值的绝对值超过阈值的特征，并仅使用该特征$t$值的正负符号作为特征系数的正负符号。阈值由更大的<font color='red'>【**惩罚项(criticism)**】</font>设定。在发表的文章中，它被称为HC-剪枝；这是一个非常简单的规则，甚至比经典的Fisher线性判别分析要简单得多，因为它不使用协方差矩阵，甚至不考虑不同大小的系数。唯一的微妙之处是在选择阈值时使用了更大的【惩罚项(criticism)】。否则，HC剪枝将与1936年之前的设置相同，即在Fisher(1936)表明“必须”在分类中使用协方差矩阵 $^{56}$。
 
 
 Dettling (2004) developed a framework for comparing classifiers that were common in Machine Learning based on a standard series of datasets (in the 2-class case, the datasets are called ALL, Leukemia, and Prostate, respectively). He applied these datasets to a range of standard classifier techniques which are popular in the statistical learning community (boosted decision trees, random forests, SVM, KNN, PAM, and DLDA). The machine learning methods that Dettling compared are mostly "glamorous," with high numbers of current citations and vocal adherents.
 
-Detling（2004）开发了一个框架，用于比较机器学习中常见的基于标准数据集系列的分类器（在2类情况下，数据集分别称为全数据、白血病和前列腺）。他将这些数据集应用于统计学习界流行的一系列标准分类器技术（增强决策树、随机森林、SVM、KNN、PAM和DLDA）。Dettling所比较的机器学习方法大多是“迷人的”，当前有大量的引用量和赞颂拥护者。
+Detling（2004）开发了一个框架，用于比较机器学习中常见的基于标准数据集系列的分类器（在2类情况下，数据集分别称为全数据、白血病和前列腺）。他将这些数据集应用于统计学习界流行的一系列标准分类器技术（增强决策树、随机森林、SVM、KNN、PAM和DLDA）。Dettling所比较的机器学习方法大多是“迷人的”，当前有大量的引用量和拥护者。
 
 As compared to Hand's work, our work used a preexisting collection of datasets that might seem to be less subject to selection bias, as they were already used in multi-classifier shootouts by machine learners.
 
-与Hand的工作相比，我们的工作使用了一组预先存在的数据集，这些数据集似乎不太受选择偏见的影响，因为机器学习者已经在多分类器射击中使用了这些数据集。
+与Hand的工作相比，我们的工作使用了一组预先存在的数据集，这些数据集似乎不太受选择偏好的影响，因为机器学习者已经在多分类器射击中使用了这些数据集。
 
 > [55] We did not know about Hand's article at the time, but stumbled to a similar conclusion.
 
@@ -1878,7 +1878,7 @@ As compared to Hand's work, our work used a preexisting collection of datasets t
 
 > [56] In the era of desk calculators, a rule that did not require multiplication but only addition and subtraction had some advantages. We extended Dettling's study, by adding our dead-simple clipping rule into the mix. We considered the regret (i.e., the ratio of a method's misclassification error on a given dataset to the best misclassification error among all the methods on that specific dataset). Our simple proposal did just as well on these datasets as any of the other methods; it even has the best worst-case regret. That is, every one of the more glamorous techniques suffers worse maximal regret. Boosting, random forests, and so on are dramatically more complex and have correspondingly higher charisma in the machine learning community. But against a series of preexisting benchmarks developed in the machine learning community, the charismatic methods do not outperform the homeliest of procedures-feature clipping with careful selection of features.
 
-> [56] 在台式计算器时代，不需要乘法，只需要加减运算的规则有一些优势。我们扩展了Dettling的研究，在混合中加入了简单的裁剪规则。我们考虑了后悔率（给定数据集上的方法错误分类错误与该特定数据集上所有方法中最佳错误分类错误的比率）。我们的简单方法在这些数据集上的效果与任何其他方法一样好；它甚至有最低的“最差后悔率”。也就是说，每一种更新潮的技术都会遭受更糟糕的“最差后悔率”。Boosting、随机森林等更加复杂，在机器学习社区中魅力更高。但是，与机器学习社区中开发的一系列预先存在的基准相比，这些富有魅力的方法并没有胜过最普通的程序——<font color='red'>【**仔细选择特征的特征裁剪**】</font>。
+> [56] 在台式计算器时代，不需要乘法，只需要加减运算的规则有一些优势。我们扩展了Dettling的研究，在混合中加入了简单的裁剪规则。我们考虑了后悔率（给定数据集上的方法错误分类错误与该特定数据集上所有方法中最佳错误分类错误的比率）。我们的简单方法在这些数据集上的效果与任何其他方法一样好；它甚至有最低的“最差后悔率”。也就是说，每一种更新潮的技术都伴随着更高的“最差后悔率”。Boosting、随机森林等更加复杂的算法，在机器学习社区中更受欢迎。但是，与机器学习社区中开发的一系列预先存在的基准算法相比，这些富有魅力的方法并没有胜过最原始的方法——<font color='red'>【**仔细选择特征的特征工程**】</font>。
 
 ### 10.3.3. Zhao et al. (2014)
 
@@ -1887,7 +1887,7 @@ As compared to Hand's work, our work used a preexisting collection of datasets t
 
 In a very interesting project (Zhao et al. 2014), Parmigiani and co-authors discussed what they called the Más-o-Menos classifier, a linear classifier where features may only have coefficients that $\pm 1$; this is very much like the just-discussed HC-clip method, and in fact one of their variants included only those features selected by HC-that is, the method of the previous section. We are again back to pre-Fisher-says-use-covariancematrix, pre-1936 setting.
 
-在一个非常有趣的项目中（Zhao等人，2014），Parmigiani和共同作者讨论了他们所称的Más-o-Menos分类器，这是一种线性分类器，其中特征的系数可能只有±1；这与刚才讨论的HC-剪辑方法非常相似，事实上，它们的变体之一仅包括HC选择的那些特征，即上一节的方法。我们再次回到Fisher使用协方差矩阵之前，即1936年之前的设置。
+在另一个非常有趣的项目中（Zhao等人，2014），Parmigiani等人讨论了他们所称的Más-o-Menos分类器，这是一种线性分类器，其中特征的系数可能只有±1；这与刚才讨论的HC-剪枝方法非常相似，事实上，它们的变体之一即包括HC选择的那些特征，也就是上一节的方法。我们再次回到Fisher使用协方差矩阵之前，即1936年之前的设置。
 
 In their study, Zhao et al. compared Más-o-Menos to "sophisticated" classifiers based on penalization (e.g., lasso, ridge).
 
@@ -1896,32 +1896,32 @@ In their study, Zhao et al. compared Más-o-Menos to "sophisticated" classifiers
 
 Crucially, the authors took the fundamental step of comparing performance on a universe of datasets used in published clinical medical research. Specifically, they curated a series of datasets from the literature on treatment of bladder, breast, and ovarian cancer, and evaluated prediction performance of each classification method over this universe.
 
-至关重要的是，作者们采取了比较已发表临床医学研究中使用的大量数据集性能的基本步骤。具体来说，他们从膀胱癌、乳腺癌和卵巢癌治疗的文献中整理了一系列数据集，并评估了每种分类方法在这一领域的预测性能。
+至关重要的是，作者们基于临床医学研究中已发表使用的大量数据集，比较了分类器性能。具体来说，他们从膀胱癌、乳腺癌和卵巢癌治疗的文献中整理了一系列数据集，并评估了每种分类方法在这一领域的预测性能。
 
 
 > We ... demonstrated in an extensive analysis of real cancer gene expression studies that [Más-o-Menos] can indeed achieve good discrimination performance in realistic settings, even compared to lasso and ridge regression. Our results provide some justification to support its widespread use in practice. We hope our work will help shift the emphasis of ongoing prediction modeling efforts in genomics from the development of complex models to the more important issues of study design, model interpretation, and independent validation.
 
-> 我们……在对真实癌症基因表达研究的广泛分析中证明，[Más-o-Menos]确实可以在现实环境中实现良好的判别性能，即使与Lasso和岭回归相比也是如此。我们的结果为支持其在实践中的广泛应用提供了一些理由。我们希望我们的工作将有助于将基因组学中正在进行的预测建模工作的重点从复杂模型的开发转移到更重要的研究设计、模型解释和独立验证问题。
+> 我们……在对真实癌症基因表达研究的广泛分析中证明，[Más-o-Menos]确实可以在现实环境中实现较高的判别准确率，即使与Lasso和岭回归相比也是如此。我们的结果为支持其广泛应用于实践提供了一些理论基础。我们希望我们的工作，将有助于将基因组学中正在进行的预测建模工作的重点，从复杂模型的开发转移到更重要的研究设计、模型解释和独立验证问题。
 
 
 The implicit point is again that effort devoted to fancy-seeming methods is misplaced compared to other, more important issues. They continue
 
 
-隐含的观点是，与其他更重要的问题相比，致力于看似花哨的方法的努力是错误的。他们继续提到
+隐含的观点是，与其他更重要的问题相比，过度投入于开发看似花哨的方法是错误的。他们继续提到
 
 > One reason why Más-o-Menos is comparable to more sophisticated methods such as penalized regression may be that we often use a prediction model trained on one set of patients to discriminate between subgroups in an independent sample, usually collected from a slightly different population and processed in a different laboratory. This crossstudy variation is not captured by standard theoretical analyses, so theoretically optimal methods may not perform well in real applications. $^{57}$
 
-> Más-o-Menos与惩罚回归等更复杂的方法相比的一个原因可能是，我们经常使用在一组患者身上训练的预测模型来区分独立样本中的亚组，这些样本通常是从稍微不同的人群中收集的，并在不同的实验室中处理。这种交叉研究变异没有被标准理论分析捕获，因此理论上的最佳方法在实际应用中可能表现不佳 $^{57}$。
+> Más-o-Menos与惩罚回归等更复杂的方法更优异的一个原因可能是，我们经常使用在一组患者身上训练的预测模型来判别独立样本分类，但这些样本通常是从有异质性的人群中收集的，并在不同的实验室中处理。这种交叉研究变异没有被标准理论分析捕获，因此理论上的最佳方法在实际应用中可能表现不佳 $^{57}$。
 
 
 In comparison to the articles (Hand et al. 2006; Donoho and Jin 2008) discussed in previous subsections, this work, by mining the scientific literature, speaks directly to practitioners of classification in a specific field-giving evidence-based guidance about what would have been true for studies to date in that field, had people all known to use the recommended technique.
 
-与前几小节中讨论的文章（Hand等人，2006；Donoho和Jin，2008）相比，这项工作通过挖掘科学文献，直接与特定领域的分类从业者进行了交流，为该领域迄今为止的研究提供了基于证据的指导，<font color='red'>【所有人都知道使用推荐的技术】</font>。
+与前几小节中讨论的文章（Hand等人，2006；Donoho和Jin，2008）相比，这项工作通过挖掘科学文献，直接与特定领域的从业者进行了交流，为该领域迄今为止的研究提供了基于数据分析的指导，<font color='red'>【所有人都知道使用推荐的技术】</font>。
 
 
 > [57] Again this vindicates Tukey's point from 1962 that optimization of performance under narrow assumptions is likely a waste of effort, because in practice, the narrow assumptions do not apply to new situations and so the supposed benefits of optimality never appear. 
 
-> [57] 这再次证明了Tukey在1962年提出的观点，即在狭窄的假设条件下优化性能很可能是浪费精力，因为在实践中，狭窄的假设不适用于新的情况，因此最佳化的假设好处从未出现。
+> [57] 这再次证明了Tukey在1962年提出的观点，即在狭隘的假设条件下优化性能很可能是浪费精力，因为在实践中，狭隘的假设不适用于新的情况，因此最佳化的假设从未带来什么好处。
 
 ## 10.4. Data Science in 2065
 
@@ -1929,7 +1929,7 @@ In comparison to the articles (Hand et al. 2006; Donoho and Jin 2008) discussed 
 
 In the future, scientific methodology will be validated empirically. Code sharing and data sharing will allow large numbers of datasets and analysis workflows to be derived from studies science-wide. These will be curated into corpora of data and of workflows. Performance of statistical and machine learning methods will thus ultimately rely on the cross-study and crossworkflow approaches we discussed in Sections $9.2$ and $9.3$ Those approaches to quantifying performance will become standards, again because of code and data sharing. Many new common task frameworks will appear; however, the new ones would not always have prediction accuracy for their performance metric. Performance might also involve validity of the conclusions reached, or empirical Type I and II error. Research will move to a meta level, where the question becomes: "if we use such-andsuch a method across all of science, how much will the global science-wide result improve?" measured using an accepted corpus representing science itself.
 
-未来，科学方法论将得到实证验证。代码共享和数据共享将使大量数据集和分析工作流能够从全科学研究中得到。这些内容将被整理成数据和工作流的语料库。因此，统计和机器学习方法的性能最终将取决于我们在第9.2和9.3节中讨论的交叉研究和交叉工作流方法。由于代码和数据共享，这些量化性能的方法将成为标准。将出现许多新的共同任务框架；然而，<font color='red'>【**新的任务框架对于其性能度量并不总是具有预测准确性**】</font>。效果评估还可能涉及所得出结论的有效性，或经验型一类和二类错误。研究将进入元层次，问题变成：“如果我们在所有科学领域使用这样的方法，全球科学研究的结果将提高多少？”，使用代表科学本身的公认语料库进行测量。
+未来，科学方法论将得到实证验证。代码和数据共享将使所有学科开放大量数据集和分析工作流。这些内容将被整理成数据和工作流的语料库。因此，统计和机器学习方法的性能最终将取决于我们在第9.2和9.3节中讨论的交叉研究和交叉工作流方法。由于代码和数据共享，这些量化性能的方法将成为标准。将出现许多新的共同任务框架；然而，<font color='red'>【**新的任务框架带来的建模算法并不总是能够提高预测准确性**】</font>。效果评估还可能涉及所得出结论的有效性，或经验型一类和二类错误。研究将进入元层次，问题变成：“如果我们在所有科学领域使用这样的方法，全球科学研究的产出将提高多少？”，并使用代表科学本身的公认语料库进行量化。
 
 
 
@@ -1941,7 +1941,7 @@ In 2065 , mathematical derivation and proof will not trump conclusions derived f
 
 > [58] I am not arguing for a demotion of mathematics. I personally believe that mathematics offers the best way to create true breakthroughs in quantitative work. The empirical method is simply a method to avoid self-deception and appeals to glamor.
 
-> [58] 我并不主张贬低降级。我个人认为，数学是在量化工作中创造真正突破的最佳途径。经验方法只是一种避免自欺欺人和诉诸魅力的方法。
+> [58] 我并不主张贬低数学。我个人认为，数学是在量化工作中创造真正突破的最佳途径。经验方法只是一种避免自欺欺人和诉诸魅力的方法。
 
 # 11. Conclusion
 
@@ -1949,17 +1949,17 @@ In 2065 , mathematical derivation and proof will not trump conclusions derived f
 
 Each proposed notion of data science involves some enlargement of academic statistics and machine learning. The "GDS" variant specifically discussed in this article derives from insights about data analysis and modeling stretching back decades. In this variant, the core motivation for the expansion to data science is intellectual. In the future, there may be great industrial demand for the skills inculcated by GDS; however, the core questions which drive the field are scientific, not industrial.
 
-每一个提出的数据科学概念都涉及到学术统计和机器学习的一些扩展。本文中特别讨论的广义数据科学(GDS)变体源自几十年前关于数据分析和建模的见解。在这个变体中，扩展到数据科学的核心动机是才智。未来，行业对GDS灌输的技能可能会有很大的需求；然而，推动这一领域的核心问题是科学问题，而不是工业问题。
+本文提到的每一个数据科学概念都涉及到学术统计和机器学习的一些扩展。本文中特别讨论的广义数据科学(GDS)变体源自几十年前关于数据分析和建模的见解。在这个变体中，扩展到数据科学的核心动机是才智。未来，行业对GDS灌输的技能可能会有很大的需求；然而，推动这一领域的核心问题是科学问题，而不是工业问题。
 
 GDS proposes that data science is the science of learning from data; it studies the methods involved in the analysis and processing of data and proposes technology to improve methods in an evidence-based manner. The scope and impact of this science will expand enormously in coming decades as scientific data and data about science itself become ubiquitously available.
 
-广义数据科学(GDS)提出数据科学是从数据中学习的科学；它研究数据分析和处理的方法，并提出以循证方式改进方法的技术。随着科学数据和关于科学本身的数据变得无处不在，这门科学的范围和影响将在未来几十年中极大地扩大。
+广义数据科学(GDS)提出数据科学是从数据中学习的科学；它研究数据分析和处理的方法，并提出以循证方式改进方法的技术模式。随着科学数据和关于科学本身的数据变得无处不在，这门科学的范围和影响将在未来几十年中继续深化。
 
 
 
 Society already spends tens of billions of dollars yearly on scientific research, and much of that research takes place at universities. GDS inherently works to understand and improve the validity of the conclusions produced by university research, and can play a key role in all campuses where data analysis and modeling are major activities.
 
-社会每年已经在科学研究上花费数百亿美元，其中大部分研究发生在大学。广义数据科学(GDS)本质上致力于理解和提高大学研究得出的结论的有效性，并且可以在数据分析和建模是主要活动的所有校园中发挥关键作用。
+社会每年已经在科学研究上花费数百亿美元，其中大部分研究由各个高校负责。广义数据科学(GDS)本质上致力于理解和提高大学研究得出结论的有效性，并且可以在所有以数据分析建模为主的领域中发挥关键作用。
 
 
 
@@ -1970,7 +1970,7 @@ Society already spends tens of billions of dollars yearly on scientific research
 
 The "1.00 version" of this article was dated September 18, 2015. Since its release I received dozens of e-mails from readers with comments. Four sets of comments were particularly valuable, and I'll review them here, together with my response.
 
-本文的“1.00版本”日期为2015年9月18日。自它发布以来，我收到了数十封读者的电子邮件，并发表了评论。四组评论特别有价值，我将在这里回顾它们，并给出我的回应。
+本文的“1.00版本”发布日期为2015年9月18日。自它发布以来，我收到了数十封读者的电子邮件评论。其中四组评论尤其有价值，我将在这里引用它们，并给出我的回应。
 
 
 ### Data Science as Branding
@@ -1984,12 +1984,12 @@ C. F. Jeff Wu, Professor of Industrial and Systems Engineering at Georgia Tech, 
 
 We mentioned earlier that the Royal Statistical Society hosted a "debate" in May $2015^{59}$-a video is posted online-asking whether in fact data science is merely such a rebranding, or something larger. Wu's data science proposal was ahead of its time. $^{60}$
 
-我们之前提到，2015年5月，英国皇家统计学会（Royal Statistical Society）举办了一场“辩论”，视频发布在网上，询问数据科学实际上只是一种换名，还是更大的改变。吴建福的数据科学建议是超前的 $^{60}$。
+我们之前提到，2015年5月，英国皇家统计学会（Royal Statistical Society）举办了一场“辩论”，讨论数据科学实际上只是一种换名，还是革新式的改变，相关视频已公开发布。因此，吴建福的数据科学理念是超前的 $^{60}$。
 
 
 I have argued here that data science is not a mere rebranding or retitling of statistics. Today's consensus data science includes statistics as a subset.  $^{61}$ I think data science ought to be even larger, for example, to include GDS6: Science about Data Science.
 
-我认为，数据科学不仅仅是统计学的品牌重塑或重新命名。今天的共识数据科学包括统计学作为一个子集。 $^{61}$。我认为数据科学应该更大，例如，包括GDS6：关于数据科学的科学。
+我认为，数据科学不仅仅是统计学的品牌重塑或重新命名。今天的共识是，统计学是数据科学的一个子集。 $^{61}$。我认为数据科学应该更大，例如，包括GDS6：关于数据科学的科学。
 
 > [59] Data Science and Statistics: Different Worlds? Participants: Zoubin Ghahramani (Professor of Machine Learning, University of Cambridge), Chris Wiggins (Chief Data Scientist, New York Times), David Hand (Emeritus Professor of Mathematics, Imperial College), Francine Bennett (Founder, Mastodon-C), Patrick Wolfe (Professor of Statistics, UCL / Executive Director, UCL Big Data Institute). Chair: Martin Goodson (Vice-President Data Science, Skimlinks). Discussant: John Pullinger (UK National Statistician).
 
@@ -2022,36 +2022,36 @@ For example, Peter Lenk told me good-naturedly that I "bashed his University," w
 
 AL Hero, the director of the MIDAS initiative, wrote to me making several points, some of which are reflected in footnotes to Section 2.1. Hero's points include: (1) that statisticians were involved in the planning effort for MIDAS; (2) that the speakers at the introductory colloquium all used statistical methods in fundamental ways, even though they may not have all been from the Statistics Department; and (3) that the 135 MIDAS affiliated faculty include 30+ statisticians in the Statistics Department and elsewhere. These are all very appropriate points to make.
 
-密歇根数据科学机构(MIDAS)倡议的负责人AL Hero写信给我，提出了几点，其中一些内容反映在第2.1节的脚注中。Hero的观点包括：（1）统计学家参与了MIDAS的规划工作；（2） 介绍性座谈会上的发言者都以基本方式使用了统计方法，尽管他们可能并非都来自统计系；（3）135名MIDAS教员包括统计系和其他系的30多名统计学家。这些都是非常恰当的观点。
+密歇根数据科学机构(MIDAS)计划的负责人AL Hero写信给我，提出了几点，其中一些内容反映在第2.1节的脚注中。Hero的观点包括：（1）统计学家参与了MIDAS的规划工作；（2） 介绍座谈会上的发言者都以统计方法为基础，尽管他们可能并非都来自统计系；（3）135名MIDAS教员包括统计系和其他系的30多名统计学家。这些观点都十分恰当。
 
 
 I have nothing to criticize about the MIDAS program; nowhere do I point to some other DSI as doing a better job. I have never organized such a program and doubt that I could. The initiative seems well designed and well run.
 
-我对MIDAS没有什么可批评的；我没有指出其他数据科学计划(DSI)可以做得更好。我从来没有组织过这样的项目，我怀疑我能否做到。这项计划似乎设计良好，运行良好。
+我对MIDAS没有什么可批评的；我没有指出其他数据科学计划(DSI)可以做得更好。我从来没有组织过这样的项目，我也同时怀疑我能否做到。这项计划似乎设计良好，运行良好。
 
 
 Hero and others were concerned that readers of my article might form the incorrect opinion that statisticians were specifically excluded from the MIDAS data science initiative; Hero explained they were involved all along. I never thought otherwise.
 
-Hero和其他人担心我的文章的读者可能会产生错误的观点，即统计学家被明确排除在MIDAS数据科学计划之外；Hero解释说他们一直都参与其中。我从来没有如此想过。
+Hero和其他人担心我的文章的读者可能会产生错误的印象，即认为统计学家被明确排除在MIDAS数据科学计划之外；Hero解释说他们一直都参与其中。我其实从来没有这么想过。
 
 I am writing here about what the program and its announcement would look like to many statisticians upon inception. Moreover, my specific points about the public face of the initiative were uncontested.
 
-我在这里写的是，该计划及其宣言一开始对许多统计学家来说是什么样子的。此外，我关于该倡议的公众形象的具体观点是无可争议的。
+我在这里想要描述的是，该计划及其公告一开始带给统计学家的印象。此外，我关于该计划宣传的具体观点应该是无可争议的。
 
 
 To clarify my position: I think that many statisticians would today, on the basis of appearances, conclude that data sciencewhile overlapping heavily with statistics-offers a public face intentionally obscuring this overlap.  $^{62}$ In making a DSI look new and attractive for the media and potential students, DSI administrators downplay continuity with the traditional statistics discipline-suggesting that such discontinuity is a feature and not a bug.
 
-为了澄清我的立场：我认为今天许多统计学家会根据表象得出结论，数据科学虽然与统计学有很大的重叠，但却提供了一个有意掩盖这种重叠的公众形象 $^{62}$。为了使数据科学计划(DSI)看起来对媒体和潜在的学生来说是新的和有吸引力的，DSI的管理层淡化了传统统计学科的连续性，这表明这种不连续性是一种特性，而不是一种缺陷。
+为了澄清我的立场，我应该说明的是：我认为今天许多统计学家会根据表象得出结论，即认为数据科学虽然与统计学有很大的重合，但却同时有意掩饰这种重合 $^{62}$。为了使数据科学计划(DSI)能够显得足够新颖，以吸引媒体和更多有意报考的学生，DSI的管理层淡化了项目与传统统计学科的密切联系，但这种淡化其实是一种策略，而不是一种缺陷。
 
 
 Moreover, I think it is healthy for statisticians to have this perception. Let them ponder the idea that statistics may become marginalized. The train may well be leaving the station. Statisticians may well get left behind.
 
-此外，我认为统计学家有这种看法是有益的。让他们思考统计学可能被边缘化的想法。火车很可能要离开车站了。统计学家很可能被甩在后面。
+此外，我认为统计学家有这种看法并无不妥。这会敦促他们思考统计学是否可能会被边缘化。火车就快要离开车站了，统计学家再无作为，可能便会被甩在后面。
 
 
 > [62] In fact, Hero's remarks support this interpretation; Hero says in so many words that, if statisticians really knew all the facts behind the scenes, they would agree that statistics is substantially involved in the MIDAS DSI. Fine-but this means my comment that "statistics is the subject that dare not speak its name" (Aside: Is this the inflammatory language that Professor Little worries about?) is roughly on target.
 
-> [62] 事实上，Hero的言论支持这种解释；Hero说了这么多话，如果统计学家真的知道幕后的所有事实，他们会同意统计在很大程度上参与MIDAS的数据科学计划。很好，但这意味着我的评论是“统计学是一门不敢说出名字的学科”（旁白：这是Little教授担心的煽动性语言吗？）大致符合目标。
+> [62] 事实上，Hero的评论也支持这种解释；Hero说了这么多话来解释：如果统计学家了解了计划幕后完整的运作流程，他们也会认同统计是MIDAS数据科学计划中不可或缺的一部分。没错，但这意味着我的评论“统计学是一门不敢说出名字的学科”（旁白：这是Little教授担心的煽动性语言吗？）倒也并无不妥。
 
 
 ### Chris Wiggins, Columbia University
@@ -2060,34 +2060,34 @@ Moreover, I think it is healthy for statisticians to have this perception. Let t
 
 Chris Wiggins is the Chief Data Scientist of the New York Times, and a Professor at Columbia affiliated with several programs, including its Data Science Initiative and its Statistics Department.
 
-Chris Wiggins 是《纽约时报》的首席数据科学家，同时也是哥伦比亚大学的教授，参与了多个项目，包括其数据科学计划和统计系。
+Chris Wiggins 是《纽约时报》的首席数据科学家，也是哥伦比亚大学的教授，曾参与多个项目，包括其数据科学计划和统计系建设。
 
 
 Wiggins and I first interacted after my talk at Princeton in September 2015 when he pointed out to me that he had earlier made a presentation about data science, for example, at ICERM, in which John Tukey's FoDA played a large part. In fact the parallelism in places of the two presentations is striking. $^{63}$
 
-Wiggins和我第一次互动是在2015年9月我在普林斯顿的演讲后。当时他向我指出，他早些时候在ICERM做了一个关于数据科学的演讲，John Tukey的“数据科学之未来”(FoDA)在其中发挥了很大作用。事实上，这两个演讲在地方上的相似之处是惊人的 $^{63}$。
+Wiggins和我第一次互动是2015年9月我在普林斯顿的演讲后。当时他提出，他早些时候在ICERM做了一个关于数据科学的演讲，John Tukey的“数据科学之未来”(FoDA)在其中发挥了很大作用。事实上，这两个演讲有诸多惊人的的相似之处 $^{63}$。
 
 Wiggins made numerous points in conversation and in email, the most striking of which I will now attempt to evoke. I stress that Wiggins did not always use these specific words. I hope that he will publish an essay making his points.
 
-Wiggins在谈话和电子邮件中提出了许多观点，其中最引人注目的一点我现在将试图唤起。我强调Wiggins并不总是使用这些特定的词。我希望他能发表一篇文章阐述他的观点。
+Wiggins在谈话和电子邮件中提出了许多观点，我想转述其中最精彩的一部分。请注意Wiggins可能并未使用这些特定的词汇，我希望他也能发表一篇文章阐述他的观点。
 
 
 - Academic statistics is permanently deformed by the postwar association with mathematics that Tukey first called attention to.
 
-- 战后，Tukey第一次让人们注意到——学术统计和数学的联系变得畸形。
+- 战后，Tukey第一次让人们注意到——学术统计和数学的关系变得畸形。
 
 - That deformation will prevent it from having relevance in the new data science field and the new big data world that is rapidly forming.
 
-- 这种畸形将阻止它在新的数据科学领域和正在迅速形成的新的大数据世界中发挥作用。
+- 这种畸形将使得它无法在新的数据科学领域和正在迅速形成的新的大数据世界中发挥作用。
 
 - "Data science is not a science, even though Donoho might like it. It is a form of engineering, and the doers in this field will define it, not the would-be scientists." (C. Wiggins, private communication, October 2015.)
 
-- “数据科学不是一门科学，尽管 Donoho 可能喜欢它。它是一种工程形式，该领域的实干家将定义它，而不是未来的科学家。”（C.Wiggins，私下沟通，2015年10月）
+- “数据科学不是一门科学，尽管 Donoho 可能喜欢它。它是一种工程形式，该领域的实干家才能定义它，而不是未来的科学家。”（C.Wiggins，私下沟通，2015年10月）
 
 
 These statements have weight. I obviously cannot object to the first one. The second and third ones are predictions and time will obviously tell.
 
-这些说法很有分量。我显然不能反对第一个。第二个和第三个是预测，时间显然会告诉你。
+这些说法很有分量。我显然不能反对第一个。第二个和第三个则是预测，时间会告诉我们答案。
 
 
 I agree with Wiggins that whether statisticians will respond energetically to the data science challenge is very much an open question.
@@ -2096,7 +2096,7 @@ I agree with Wiggins that whether statisticians will respond energetically to th
 
 > [63] James Guzca, Chief Data Scientist at Deloitte, later wrote to me about a data science course that he gave in which Tukey's statements also play a similar role. 
 
-> [63] 德勤（Deloitte）首席数据科学家 James Guzca 后来写信给我，讲述了他开设的一门数据科学课程，Tukey的陈述也起到了类似的作用。
+> [63] 德勤（Deloitte）首席数据科学家 James Guzca 后来写信给我，描述了他开设的数据科学课程，Tukey的观点也起到了类似的作用。
 
 ### Sean Owen's "What '50 Years of Data Science' Leaves Out"
 
@@ -2118,15 +2118,15 @@ Near the beginning, we read:
 
 > ...reading it given my engineering-based take on data science, it looks like an attack on a partial straw-man. Along the way to arguing that data science can't be much more than statistics, it fails to contemplate data engineering, which I'd argue is most of what data science is and statistics is not.
 
-> ……考虑到我对数据科学基于工程学的看法，阅读它看起来像是对部分稻草人的攻击。在争论数据科学不能比统计学多得多的过程中，它没有考虑到数据工程，我认为数据工程是数据科学的大部分，而统计学不是。
+> ……考虑到我对数据科学基于工程学的看法，您的观点在我看来就像是在攻击一个稻草人。在争论统计学是不是数据科学子集的过程中，它没有考虑到数据工程，我认为数据工程才是数据科学的大部分，而统计学不是。
 
 I like Owen's essay and offer a few mild responses.
 
-我喜欢Owen的文章，并给出了一些温和的回答。
+我喜欢Owen的文章，并给出了一些温和的回应。
 
 - Nowhere did I say that data science cannot be much more than statistics. I quote approvingly others who say the opposite. John Chambers was saying quite literally that there is a larger field than traditional statistics, and Bill Cleveland was saying quite literally that what some academic statistics departments are doing is a small part of data science. I did literally say that even data science as it is currently being instituted is too limited; there is a field I called "greater data science" extending beyond the limits of today's "consensus data science."
 
-- 我没有说过数据科学只能是统计学。我赞许地引用了其他人的相反观点。John Chambers非常明确地说，有一个比传统统计学更大的领域，Bill Cleveland非常明确地说，一些学术统计系正在做的只是数据科学的一小部分。我确实说过，即使是目前正在建立的数据科学也太有限了；有一个领域我称之为“广义数据科学”，它超越了今天“共识数据科学”的边界。
+- 我没有说过数据科学只能是统计学，并引用了其他人的相反观点。John Chambers曾直言，有一个比传统统计学更大的领域，Bill Cleveland也曾表示，一些学术统计系正在做的只是数据科学的一小部分。我确实提到过，即使是现在，正在发展的数据科学也太有限了；有一个领域我称之为“广义数据科学”，它超越了今天“共识数据科学”的边界。
 
 
 - Owen's essay focuses on the important term "data engineering," which I under-played in the main text. Data engineers exploit currently available cloud/cluster computing resources to allow the storage of large databases and to implement complex processing pipelines.  $^{65}$
@@ -2136,32 +2136,32 @@ I like Owen's essay and offer a few mild responses.
 
 - Owen writes that "data engineering ...is most of what data science is and statistics is not." Owen's claim goes beyond my current understanding of the boundaries of both statistics and data science. A block diagram I used in my talk at Princeton showed blocks labeled "Statistics," "Data Science," and "Data Engineering;" there are important differences between these blocks at the present time.
 
-- Owen写道：“数据工程……是数据科学的主要内容，而统计学不是。” Owen的说法是在我目前对统计学和数据科学界限之外。我在普林斯顿大学演讲时使用的框图显示了标有“统计学”、“数据科学”和“数据工程”的方框；目前，这些区块之间存在重要差异。
+- Owen写道：“数据工程……是数据科学的主要内容，而统计学不是。” Owen的说法超出了我目前对统计学和数据科学界限的理解。我在普林斯顿大学演讲时使用的框图显示了标有“统计学”、“数据科学”和“数据工程”的方框；目前，我认为这些分类之间存在重要差异。
 
 
 Owen complained that my Version $1.00$ manuscript was "writing data engineering out of the story of data science." I certainly intended no such thing. For the academic statistics audience that I was addressing at the Tukey Centennial, many of whom had not previously heard talks about the data science moment, I judged that I had zero chance of engaging the audience unless I could connect to our (their and my) common academic and historical background.
 
-Owen抱怨说，我的版本1.00的手稿是“从数据科学的故事中写数据工程”。”我当然没有这样的打算。对于我在Tukey百年纪念大会上演讲的学术统计听众，他们中的许多人以前都没有听过关于数据科学时刻的演讲。我判断，除非我能联系到我们（他们和我）共同的学术和历史背景，否则我没有机会吸引听众。
+Owen抱怨说，我的1.00版本手稿是“在数据科学的故事中写数据工程”。”我当然不是有意为之。我在Tukey百年纪念大会上演讲时，台下学术统计听众中的大部分以前从未听到过有关数据科学时刻的消息。我认为，我必须联系到我们（他们和我）共同的学术和历史背景，才能够吸引听众。
 
 
 Sean Owen is completely correct to say that the full story of the emergence of data science, and the role of industry in shaping and defining it, remains to be written.
 
-Sean Owen 完全正确地说，数据科学出现的完整故事，以及工业在塑造和定义数据科学方面的作用，还有待撰写。
+Sean Owen 提出，本文还应囊括数据科学出现的完整故事，以及工业在塑造和定义数据科学方面的作用，我十分赞同。
 
 
 I return to a point I made earlier: many of the struggles associated with scaling up algorithms are transitory. In time, better tools will come along that make the data engineering part of the data science equation much easier in many applications.
 
-我回到我之前说过的一点：许多大规模化算法相关的困难都是暂时的。随着时间的推移，更好的工具将会出现，使数据科学方程式中的数据工程部分，在许多应用程序中变得更加容易。
+回到我之前说过的一点：许多大数据算法带来的困难都是暂时的。随着时间的推移，更优异的工具将会涌现，并使得数据科学分类中的数据工程部分，在许多应用程序中变得更加容易。
 
 
 Owen's essay supports this point. Owen describes how the example I gave above in Section 2.2, involving Hadoop, is no longer current; the data engineering community has moved away from Hadoop toward Apache Spark, where the example I gave would be much easier to implement. The rapid obsolescence of specific tools in the data engineering stack suggests that today, the academic community can best focus on teaching broad principles-"science" rather than "engineering."
 
-Owen的文章支持了这一点。Owen描述了我在第2.2节中给出的涉及Hadoop的示例是如何不再流行的；数据工程界已经从Hadoop转向Apache Spark，在那里我给出的例子更容易实现。数据工程堆栈中特定工具的迅速过时表明，今天，学术界最好专注于教授广泛的原则——“科学”而不是“工程”。
+Owen的文章支持了这一观点。Owen讲述了我在第2.2节中给出的涉及Hadoop的示例是如何不再流行；数据工程界已经从Hadoop转向Apache Spark，在那里我给出的例子更容易实现。数据工程堆栈中特定工具的迅速过时表明，今天，学术界最好专注于教授广泛的原则——“科学”而不是“工程”。
 
 
 > [65] Insight Data trains conventionally trained PhD's to become data scientists and data engineers. From their website: Our definition of data engineering includes what some companies might call Data Infrastructure or Data Architecture. The data engineer gathers and collects the data, stores it, does batch processing or real-time processing on it, and serves it via an API to a data scientist who can easily query it. https://blog.insightdatascience.com/about-insight-b535888ecb3a 
 
-> [65] Insight Data培养经过常规培训的博士成为数据科学家和数据工程师。从他们的网站上看：我们对数据工程的定义包括一些公司可能称之为数据基础设施或数据架构。数据工程师收集和收集数据，存储数据，对其进行批处理或实时处理，并通过API将其提供给可以轻松查询的数据科学家。https://blog.insightdatascience.com/about-insight-b535888ecb3a
+> [65] Insight Data致力于培养通过传统培训的博士成为数据科学家和数据工程师。从他们的网站上看：我们对数据工程的定义包括一些公司可能称之为数据基础设施或数据架构。数据工程师收集和收集数据，存储数据，对其进行批处理或实时处理，并通过API将其提供数据科学家。https://blog.insightdatascience.com/about-insight-b535888ecb3a
 
 
 
@@ -2171,12 +2171,12 @@ Owen的文章支持了这一点。Owen描述了我在第2.2节中给出的涉及
 
 Thanks to John Storey, Amit Singer, Esther Kim, and all the other organizers of the Tukey Centennial at Princeton, September 18, 2015. This provided an occasion for me to organize my thoughts on this topic, for which I am grateful.
 
-感谢John Storey、Amit Singer、Esther Kim，以及2015年9月18日在普林斯顿举行的Tukey百年纪念的所有其他组织者。这给我提供了一个机会，来组织我对这个主题的思考，我对此表示感谢。
+感谢John Storey、Amit Singer、Esther Kim，以及2015年9月18日在普林斯顿举行的Tukey百年纪念的所有其他组织者。这给了我机会组织我对这个主题的思考，我对此表示感谢。
 
 
 Special thanks to Edgar Dobriban (U. Penn.), Bradley Efron (Stanford), and Victoria Stodden (Univ Illinois) for comments on data science and on pre 1.00 drafts of this article. Thanks to the many readers of the 1.00 draft who wrote to me with valuable suggestions about how it could be improved. In particular, Chris Wiggins (Columbia) corresponded extensively with me on matters large and small concerning many aspects of Version 1.00 and in so doing clarified my thinking notably. This version contains an Epilogue mentioning some important points raised by Wiggins, and also by Jeff Wu (Georgia Tech), Al Hero (University of Michigan), and Sean Owen (Cloudera).
 
-特别感谢Edgar Dobriban（宾夕法尼亚大学），Bradley Efron（斯坦福大学）和Victoria Stodden（伊利诺伊大学）就数据科学和本文1.00前的草稿发表评论。感谢许多1.00草稿的读者，他们给我写信，就如何改进草稿提出了宝贵的建议。特别是，Chris Wiggins（哥伦比亚）就1.00版的许多方面的大小问题与我进行了广泛的沟通，从而明确了我的想法。该版本包含一篇尾声，其中提到了Wiggins、Jeff Wu（佐治亚理工学院）、AL Hero（密歇根大学）和Sean Owen（Cloudera）提出的一些重要观点。
+特别感谢Edgar Dobriban（宾夕法尼亚大学），Bradley Efron（斯坦福大学）和Victoria Stodden（伊利诺伊大学）就数据科学和本文1.00前的草稿发表的评论。感谢许多1.00草稿的读者，他们给我写信，就如何改进草稿提出了宝贵的建议。特别是，Chris Wiggins（哥伦比亚）就1.00版诸多方面的各种问题与我进行了广泛沟通，从而明确了我的想法。该版本包含一篇尾声，其中提到了Wiggins、Jeff Wu（佐治亚理工学院）、AL Hero（密歇根大学）和Sean Owen（Cloudera）提出的一些重要观点。
 
 
 Thanks are also due to Deepak Agarwal (Linked In), Rudy Beran (UC Davis), Peter Brown (Renaissance Technologies), Jiashun Jin (Carnegie Mellon), Rob Kass (Carnegie Mellon), Martin Helm (Deutsche Bank), Ron Kennett (KPA Associates), Peter Lenk (Univ. Michigan), Mark Liberman (Univ. Pennsylvania), R.J. Little (Univ. Michigan), Xiao-Li Meng (Harvard) and Adrian Raftery (University of Washington), and Hadley Wickham (RStudio and Rice) for encouragement and corrections.
