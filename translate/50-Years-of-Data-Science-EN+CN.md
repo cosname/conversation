@@ -1176,7 +1176,7 @@ Some say that 80% of the effort devoted to data science is expended by diving in
 
 **GDS2: Data Representation and Transformation.** 
 
-**GDS2：数据表示和转换。**
+**GDS2：数据展示和转换。**
 
 A data scientist works with many different data sources during a career. These assume a very wide range of formats, often idiosyncratic ones, and the data scientist has to easily adapt to them all. Current hardware and software constraints are part of the variety because access and processing may require careful deployment of distributed resources.
 
@@ -1231,7 +1231,7 @@ Finally, data scientists develop packages that abstract commonly used pieces of 
 
 Data visualization at one extreme overlaps with the very simple plots of EDA-histograms, scatterplots, time series plotsbut in modern practice it can be taken to much more elaborate extremes. Data scientists often spend a great deal of time decorating simple plots with additional color or symbols to bring in an important new factor, and they often crystallize their understanding of a dataset by developing a new plot which codifies it. Data scientists also create dashboards for monitoring data processing pipelines that access streaming or widely distributed data. Finally, they develop visualizations to present conclusions from a modeling exercise or CTF challenge.
 
-数据可视化与EDA中的直方图、散点图、时间序列图的非常简单的图内容重叠，但在现代实践中，它可以达到更复杂的极端。数据科学家经常花费大量时间用额外的颜色或符号来装饰简单的图，以引入一个重要的新因素，他们经常通过开发一个新的图来明确他们对数据集的理解。数据科学家还创建了仪表板，用于监控访问流或广泛分布数据的数据处理管道。最后，他们开发可视化，以展示建模结果或共同任务框架(CTF)挑战的结论。
+数据可视化可以通过EDA中的直方图、散点图、时间序列图等简单方式呈现，但在实践中，它远不止这些。数据科学家经常花费大量时间用更多的颜色或符号来修饰图像，以引入一个重要的新变量，他们还经常通过开发一个新的图片类型以加深他们对数据集的理解。数据科学家还创建了仪表板，用于监控访问流或广泛分布数据的数据处理管道。最后，他们开发了可视化工具，以展示建模结果或共同任务框架(CTF)挑战的结论。
 
 
 **GDS5: Data Modeling**. 
@@ -1255,12 +1255,12 @@ Each data scientist in practice uses tools and viewpoints from both of Leo Breim
 
 > [41] It is striking how, when I review a presentation on today's data science, in which statistics is superficially given pretty short shrift, I cannot avoid noticing that the underlying tools, examples, and ideas which are being taught as data science were all literally invented by someone trained in Ph.D. statistics, and in many cases the actual software being used was developed by someone with an MA or Ph.D. in statistics. The accumulated efforts of statisticians over centuries are just too overwhelming to be papered over completely, and cannot be hidden in the teaching, research, and exercise of Data Science.)
 
-> [41] 令人惊讶的是，当我回顾一篇关于当今数据科学的演讲时，我不可避免地注意到，作为数据科学教授的基本工具、示例和思想都是由受过统计学博士训练的人发明的，在许多情况下，实际使用的软件是由拥有统计学硕士或博士学位的人开发的。几个世纪以来，统计学家们积累的努力实在是太多了，无法完全掩盖，也无法隐藏在数据科学的教学、研究和实践中。
+> [41] 令人惊讶的是，当回顾一篇关于当今数据科学的演讲时，我很自然地注意到，数据科学教授的基本工具、示例和思想都是由受过统计学博士训练的人发明的。大多情况下，实际使用的软件也是由拥有统计学硕士或博士学位的人开发的。几个世纪以来，统计学家们积累的贡献不胜枚举，无法掩盖，也无法隐藏在数据科学的教学、研究和实践中。
 
 
 > [42] Leo Breiman (2001) was correct in pointing out that academic statistics departments (at that time, and even since) have under-weighted the importance of the predictive culture in courses and hiring. It clearly needs additional emphasis.
 
-> [42] Leo Breiman (2001) 正确地指出，学术统计系（当时，甚至从那时起）低估了预测文化在课程和招聘中的重要性。这显然需要进一步强调。
+> [42] Leo Breiman (2001) 正确地指出，学术统计系（当时，甚至从那时起）低估了预测文化在课程和招聘中的重要性，这显然有待改进。
 
 
 **GDS6: Science about Data Science**. 
@@ -1270,13 +1270,13 @@ Each data scientist in practice uses tools and viewpoints from both of Leo Breim
 
 Tukey proposed that a "science of data analysis" exists and should be recognized as among the most complicated of all sciences. He advocated the study of what data analysts "in the wild" are actually doing, and reminded us that the true effectiveness of a tool is related to the probability of deployment times the probability of effective results once deployed.  $^{43}$
 
-Tukey提出，“数据分析科学”是存在的，应该被认为是所有科学中最复杂的科学之一。他提倡研究数据分析师“在野外”实际在做什么，并提醒我们，工具的真正有效性与部署概率乘以部署后有效结果的概率有关 $^{43}$。
+Tukey提出，“数据分析科学”是存在的，而且应该被认为是所有科学中最复杂的科学之一。他提倡研究数据分析师“在野外”实际在做什么，并提醒我们，工具的真正有效性需要同时考虑部署概率以及部署后的有效结果概率 $^{43}$。
 
 
 
 Data scientists are doing science about data science when they identify commonly occurring analysis/processing workflows, for example, using data about their frequency of occurrence in some scholarly or business domain; when they measure the effectiveness of standard workflows in terms of the human time, the computing resource, the analysis validity, or other performance metric, and when they uncover emergent phenomena in data analysis, for example, new patterns arising in data analysis workflows, or disturbing artifacts in published analysis results.
 
-当数据科学家识别常见的分析/处理工作流时，他们正在进行数据科学方面的科学研究，例如，使用关于其在某些学术或商业领域中出现频率的数据；当他们在人力时间、计算资源、分析有效性或其他性能度量方面衡量标准工作流的有效性时，当他们发现数据分析中出现的现象时，例如，数据分析工作流中出现的新模式，或发布的分析结果中令人不安的【伪影】。
+当数据科学家识别常见的分析/处理工作流时，他们就是在进行数据科学方面的科学研究，例如分析在学术或商业领域中特定词汇出现频率的数据；例如衡量标准工作流（如人力时间、计算资源、分析有效性或其他性能度量方面）的有效性，又例如发掘数据下潜藏的问题，如数据分析工作流中出现的新模式或公开分析报告中令人不安的【不适感】。
 
 <font color='red'>【**上面这一段原文说的非常绕**】</font>
 
@@ -1299,21 +1299,21 @@ As data analysis and predictive modeling becomes an ever more widely distributed
 
 These six categories of activity, when fully scoped, cover a field of endeavor much larger than what current academic efforts teach or study.  $^{44,45}$ Indeed, a single category-"GDS5: Data Modeling"-dominates the representation of data science in today's academic departments, either in statistics and mathematics departments through traditional statistics teaching and research, or in computer science departments through machine learning.
 
-这六类活动，如果范围充分，涵盖的领域远远大于当前学术努力所教授或研究的领域 $^{44,45}$。事实上，“GDS5：数据建模”这一单个类别主导了当今学术部门中数据科学的表现，无论是通过传统统计教学和研究在统计和数学部门，还是通过机器学习在计算机科学部门。
+这六类活动，如果范围充分，涵盖的领域远远大于当前学术统计努力教授或研究的领域 $^{44,45}$。事实上，“GDS5：数据建模”这一单个类别主导了当今学术部门中数据科学的表现，无论是通过统计和数学部门下的传统统计教学和研究，还是通过计算机科学部门下的机器学习。
 
 This parsing-out reflects various points we have been trying to make earlier:
 
-这一分析反映了我们之前一直试图提出的各种观点：
+这一分析反映了我们之前一直试图证明的各种观点：
 
 
 - The wedge issue that computer scientists use to separate "data science" from "statistics" is acknowledged here, by the addition of both "GDS3: Computing with Data" and "GDS2: Data Representation" as major divisions alongside "GDS5: Data Modeling."  $^{47,48}$ 
 
-- 计算机科学家用来将“数据科学”与“统计学”区分开来的楔形问题在这里得到了承认，“GDS3：用数据计算”和“GDS2：数据表示”作为“GDS5：数据建模”的主要部分 $^{47,48}$。
+- 计算机科学家用来将“数据科学”与“统计学”区分开来的关键问题在这里得到明确，“GDS3：用数据计算”和“GDS2：数据表示”作为“GDS5：数据建模”的主要部分 $^{47,48}$。
 
 
 - The tension between machine learning and academic statistics is suppressed in the above classification; much of it is irrelevant to what data scientists do on a daily basis. As I say above, data scientists should use both generative and predictive modeling.
 
-- 机器学习和学术统计之间的紧张关系在上述分类中被遮盖；其中大部分与数据科学家每天的工作无关。正如我上面所说，数据科学家应该同时使用生成和预测建模。
+- 上述分类遮盖了机器学习和学术统计之间的紧张关系；其中大部分与数据科学家每天的工作无关。正如我上面所说，数据科学家应该同时使用生成和预测建模。
 
  
 - The hoopla about distributed databases, Map/Reduce, and Hadoop is not evident in the above classification. Such tools are relevant for "GDS2: Data Representation" and "GDS3: Computing with Data" but although they are heavily cited right now, they are simply today's enablers of certain larger activities. Such activities will be around permanently, while the role for enablers like Hadoop will inevitably be streamlined away.
