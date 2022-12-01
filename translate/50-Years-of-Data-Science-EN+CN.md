@@ -1093,7 +1093,7 @@ This definition is grounded in fact. Data science masters' curricula are comprom
 
 # 8. The Full Scope of Data Science
 
-# 8. 数据科学的全部范围
+# 8. 数据科学的范围
 
 
 John Chambers and Bill Cleveland each envisioned a wouldbe field that is considerably larger than the consensus data science master's we have been discussing but at the same time more intellectually productive and lasting.
@@ -1102,12 +1102,12 @@ John Chambers和Bill Cleveland各自设想了一个比我们一直在讨论的�
 
 The larger vision posits a professional on a quest to extract information from data-exactly as in the definitions of data science we saw earlier. The larger field cares about each and every step that the professional must take, from getting acquainted with the data all the way to delivering results based upon it, and extending even to that professional's continual review of the evidence about best practices of the whole field itself.
 
-更大的视野让专业人士寻求从数据中提取信息——就像我们之前看到的数据科学的定义一样。更大的领域关心专业人士必须采取的每一步，从熟悉数据到基于数据交付结果，甚至延伸到专业人士对整个领域本身最佳实践证据的持续审查。
+更大的视野让专业人士寻求从数据中提取信息——就像我们之前看到的数据科学的定义一样。更大的领域关心专业人士必须采取的每一步，从熟悉数据到基于数据交付结果，甚至延伸到专业人士对整个领域本身最佳实践证据的持续审视。
 
 
 Following Chambers, let us call the collection of activities mentioned until now "lesser data science" (LDS) and the larger would-be field greater data science (GDS). Chambers and Cleveland each parsed out their enlarged subject into specific divisions/topics/subfields of activity. I find it helpful to merge, relabel, and generalize the two parsings they proposed. This section presents and then discusses this classification of GDS.
 
-继Chambers之后，让我们将迄今为止提到的活动集合称为“小数据科学”（LDS, lesser data science），将更大的潜在领域称为“广义数据科学”（GDS, greater data science）。Chambers和Cleveland各自将他们的主题分解为特定的部门、主题、活动子领域。我发现合并、重新标记和概括他们提出的两个部分很有帮助。本节介绍并讨论GDS的这一分类。
+继Chambers之后，让我们将迄今为止提到的活动集合称为“狭义数据科学”（LDS, lesser data science），将更大的潜在领域称为“广义数据科学”（GDS, greater data science）。Chambers和Cleveland各自将他们的主题分解为特定的部门、主题、活动子领域。我发现合并、重新标记和概括他们提出的两个部分很有帮助。本节介绍并讨论GDS的这一分类。
 
 /主题/活动子领域。我发现合并、重新标记和概括他们提出的两个解析很有帮助。本节介绍并讨论了GDS的这种分类。
 
@@ -1150,15 +1150,15 @@ Let's go into some detail about each division.
 
 Some say that 80% of the effort devoted to data science is expended by diving into or becoming one with one's messy data to learn the basics of what's in them, so that data can be made ready for further exploitation. We identify three subactivities:
 
-有人说，80%的数据科学投入都是通过深入或融入杂乱的数据来学习其中的基本知识，从而为进一步开发数据做好准备。我们确定了三个子活动：
+有人说，80%的数据科学精力投入都是通过深入或融入杂乱的数据来学习其中的基本知识，从而为进一步开发数据做好准备。我们确定了三个子活动：
 
 - Gathering. This includes traditional experimental design as practiced by statisticians for well over a century, but also a variety of modern data gathering techniques and data resources. Thus, Google nGrams viewer can quantify the entire corpus of literature 1500-2008, Google Trends can quantify recent web search interests of the whole population and even of localities, humans are taking 1 trillion photos a year, many of which are posted in social media; (https://arxiv.org/abs/1706.01869) billions of utterances are posted on social media.((https://arxiv.org/abs/1704.05579)) We have new data-making technologies like next generation sequencing in computational biology, GPS location fixes, supermarket scanner data. Next gen skills can include web scraping, Pubmed scraping,(http://jamanetwork.com/journals/jama/fullarticle/2503172) image processing, and Twitter, Facebook, and Reddit munging.
 
-- **数据收集**。这包括统计学家在一个多世纪以来实践的传统实验设计，也包括各种现代数据收集技术和数据资源。因此，Google nGrams查看器可以量化1500-2008年的整个文献集，Google Trends可以量化整个人口甚至地方的最近网络搜索兴趣，人类每年拍摄1万亿张照片，其中许多照片发布在社交媒体上；(https://arxiv.org/abs/1706.01869)数十亿的话语被发布在社交媒体上。(https://arxiv.org/abs/1704.05579) 我们拥有新的数据制作技术，如计算生物学中的下一代测序、GPS定位、超市扫描仪数据。下一代技能可以包括网页抓取、Pubmed抓取、图像处理，以及Twitter、Facebook和Reddit munging。(http://jamanetwork.com/journals/jama/fullarticle/2503172)
+- **数据收集**。这包括统计学家在一个多世纪以来实践的传统实验设计，也包括各种现代数据收集技术和数据资源。举例来说，Google nGrams查看器可以量化1500-2008年的整个文献集，Google Trends可以量化整个人口甚至地方的最近网络搜索兴趣，人类每年拍摄1万亿张照片，其中许多照片发布在社交媒体上；(https://arxiv.org/abs/1706.01869)数十亿的文字内容被发布在社交媒体上。(https://arxiv.org/abs/1704.05579) 我们拥有新的数据提取技术，如计算生物学中的下一代测序、GPS定位、超市扫描仪数据。下一代技能可以包括网页抓取、Pubmed抓取、图像处理，以及Twitter、Facebook和Reddit munging。(http://jamanetwork.com/journals/jama/fullarticle/2503172)
 
 - Preparation. Many datasets contain anomalies and artifacts. $^{39}$ Any data-driven project requires mindfully identifying and addressing such issues. Responses range from reformatting and recoding the values themselves, to more ambitious preprocessing, such as grouping, smoothing, and subsetting. Often today, one speaks colorfully of data cleaning and data wrangling.
 
-- **数据准备**。许多数据集包含异常和错误 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子集。今天，人们经常谈论数据清理和数据争论。
+- **数据准备**。许多数据集包含异常和错误 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子集。今天，人们经常谈论数据清理和数据合并。
 
 - Exploration. Since John Tukey's coining of the term "exploratory data analysis" (EDA), we all agree that every data scientist devotes serious time and effort to exploring data to sanity-check its most basic properties, and to expose unexpected features. Such detective work adds crucial insights to every data-driven endeavor.  $^{40}$ 
 
@@ -1180,7 +1180,7 @@ Some say that 80% of the effort devoted to data science is expended by diving in
 
 A data scientist works with many different data sources during a career. These assume a very wide range of formats, often idiosyncratic ones, and the data scientist has to easily adapt to them all. Current hardware and software constraints are part of the variety because access and processing may require careful deployment of distributed resources.
 
-数据科学家在职业生涯中处理许多不同的数据源。这些数据源采用非常广泛的格式，通常是特殊的格式，数据科学家必须很容易地适应所有这些格式。当前的硬件和软件限制是多样性的一部分，因为访问和处理可能需要仔细部署分布式资源。
+数据科学家在职业生涯中处理许多不同的数据源。这些数据源采用的格式千奇百怪，通常各有不同，数据科学家必须很容易地适应所有这些格式。当前的硬件和软件限制是多样性的一部分，因为访问和处理可能需要仔细部署分布资源。
 
 
 Data scientists very often find that a central step in their work is to implement an appropriate transformation restructuring the originally given data into a new and more revealing form.
@@ -1209,12 +1209,12 @@ Data scientists develop skills in two specific areas:
 Every data scientist should know and use several languages for data analysis and data processing. These can include popular languages like R and Python, but also specific languages for transforming and manipulating text, and for managing complex computational pipelines. It is not surprising to be involved in ambitious projects using a half dozen languages in concert.
 
 
-每个数据科学家都应该知道并使用多种语言进行数据分析和数据处理。这些语言可以包括R和Python等流行语言，也可以包括用于转换、操作文本以及管理复杂计算管道的特定语言。同时使用六种语言参与雄心勃勃的项目并不奇怪。
+每个数据科学家都应该知道并使用多种编程语言进行数据分析和数据处理。这些编程语言可以包括R和Python等流行语言，也可以包括用于转换、操作文本以及管理复杂计算管道的特定语言。一个大项目同时涉及六种不同语言并不奇怪。
 
 Beyond basic knowledge of languages, data scientists need to keep current on new idioms for efficiently using those languages and need to understand the deeper issues associated with computational efficiency. Cluster and cloud computing and the ability to run massive numbers of jobs on such clusters has become an overwhelmingly powerful ingredient of the modern computational landscape. To exploit this opportunity, data scientists develop workflows which organize work to be split up across many jobs to be run sequentially or else across many machines.
 
 
-除了语言的基本知识之外，数据科学家还需要了解有效使用这些语言的新习惯用法，并需要了解与计算效率相关的更深层次的问题。集群和云计算以及在这些集群上运行大量作业的能力已经成为现代计算环境中一个极其强大的组成部分。为了利用这一机会，数据科学家需要开发工作流(workflows)，这些工作流将工作分为多个作业，依次运行或跨多台机器运行。
+除了编程语言的基本知识之外，数据科学家还需要了解有效使用这些语言的新习惯用法，并需要了解与计算效率相关的更深层次的问题。集群和云计算以及在这些集群上运行大量任务的能力已经成为现代计算环境中一个极其强大的组成部分。为了利用这一机会，数据科学家需要开发工作流(workflows)，这些工作流将工作分为多个作业，依次运行或跨多台机器运行。
 
 Data scientists also develop workflows that document the steps of an individual data analysis or research project.
 
