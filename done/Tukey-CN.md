@@ -1,4 +1,4 @@
-# 统计之都访谈第46期：数据科学先驱John W. Tukey访谈
+# 统计之都访谈第46期：数据科学先驱John W. Tukey
 
 > 编辑部按：原文作者：Luisa T. Fernholz and Stephan Morgenthaler，标题为*A Conversation with John W. Tukey and Elizabeth Tukey*，发表在Statistical Science 2000。翻译工作由统计之都组织（第46期），译者：陈星宇（华中科技大学数学与统计学院19级数学与应用数学专业在读学生）、徐泓、蔡再利，审校定稿：陈星宇、魏太云。感谢原文作者、译者和审校人员的辛勤付出。
 
@@ -24,23 +24,35 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：谈谈你对统计的看法，似乎与你年轻时的主流看法相反。我的印象是，主流观点实际上是Fisher学派的观点（译者注：Ronald Fisher（1890～1962），英国统计和遗传学家，20世纪最重要的统计学家之一），你有一个概率模型，其中包含待估计和检验的参数。而你提倡更仔细地观察数据，并让数据指导你的工作。
 
+<div align="center"> 
+
 ![图1.John·Tukey，日期和地点不详](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-02.jpg?height=587&width=404&top_left_y=460&top_left_x=694)
 
 图1：John·Tukey，日期和地点不详。
+  
+</div>   
 
 **John**：我不确定早期发生了什么。我的第一篇准统计论文是概率论相关的。它是关于随机变量的分数部分的文章（译者注：1938,[On the distribution of the fractional part of a statistical variable](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=5767&option_lang=rus)）。在统计方面，我阅读量很大，我读了布朗大学数学图书馆里很多书。我只是阅读但并不研究它们。让我拿一份参考书目[从书架上拿了一份参考书目]。我的第一篇统计学论文是Scheffé and Tukey（译者注：1944,[A Formula for Sample Sizes for Population Tolerance Limits](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-15/issue-2/A-Formula-for-Sample-Sizes-for-Population-Tolerance-Limits/10.1214/aoms/1177731287.full?tab=ArticleLink)）。这是一篇关于总体容忍限（population tolerance limits）的简短说明。那时侯，我的教育是在研究战争问题中得到的，其中大部分时间是和Charlie Winsor共事（译者注：Charlie Winsor，1895-1951，美国著名统计学家，一个广为人知的工作是发明了统计学中的葡萄酒分类方法，现在以他的名字命名）。因此，我们很自然地将统计学视为某种基于数据来寻找用途的东西。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道Charlie Winsor是怎么想的，这很容易发现。我对Sam Wilks的想法也有一些了解，那是完全不同的。Charlie有着非常简短的工程背景，以及更长的与Raymond Pearl合作的背景。他们合作的领域现在可以称之为生物统计（biometrics/biostatistics），但没有那么正式。因此，对于Charlie来说，处理数据是很自然的事情。
 
+<div align="center"> 
+  
 ![图2.John和Elizabeth Tukey在他们结婚的那天。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=583&width=509&top_left_y=85&top_left_x=96)
 
 图2：John和Elizabeth Tukey在他们结婚的那天。
+  
+</div>
 
 **Q**：完全不考虑样本总体的参数？
 
 **John**：不。不，不，不！我正试着回想过去。不，因为从某种意义上说，反例是Hastings, Mosteller, Tukey和Winsor在1947年发表的论文《小样本的低阶矩：顺序统计量的比较研究》（译者注：1947,[Low moments for small samples: a comparative study of order statistics](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-18/issue-3/Low-Moments-for-Small-Samples--A-Comparative-Study-of/10.1214/aoms/1177730388.full)）。这是一个用于计算推断目标的顺序统计量的低阶矩的工作，但不限于高斯分布，我们也有均匀分布和一个有合理尾部的分布。如果你讨厌样本总体参数，你就不会参与其中。Charlie Winsor也参与了这项工作，他不只是挂名。
 
+<div align="center"> 
+
 ![图3. John·W·Tukey于1973年获得尼克松总统颁发的美国国家科学奖章。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=531&width=508&top_left_y=85&top_left_x=642)
 
 图3：John·W·Tukey于1973年获得尼克松总统颁发的美国国家科学奖章。
+  
+</div>
 
 **Q**：你会说你阅读了大部分发表的文献吗？它出来的时候，你会读吗？
 
@@ -52,9 +64,13 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **John**：不，不一定。例如，John Wishart完全是数学型的，而不是以数据为导向的。我想我从来没有像一些人认为的那样担心，“这些人到底在干什么”。
 
+<div align="center"> 
+
 ![图4.John·Tukey，日期和地点不详。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=805&width=507&top_left_y=85&top_left_x=96)
 
 图4：John·Tukey，日期和地点不详。
+  
+</div>
 
 **Q**：谈到这些更加面向数据的方法，让我感到惊讶的是，为什么非参数方法（我认为也是在那个时候出现的）没有产生更大的影响。人们没有说：“这是我们必须做的事情。”
 
@@ -62,9 +78,13 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 有一篇Fisher的论文，我临时引用可能不会很准确（Fisher,1929,[Statistics and Biological Research](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到以后这不一定是对的。我想说在特定的应用中，非参数技术有助于保护其侧翼（译者注：比喻），不受来自其他方向人的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是说数据并不真正满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数并不太适合对事物进行精细的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好性质是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样清楚该往哪里走。我并不是说经典回归就很理想很棒，但它通常提供了一种可以进一步探索的自然的方法。我认为这是阻碍非参数方法的一个因素。另一个是，你会疲于试图证明所有可能的输入。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰人们，这种方法必须进入到你对事物的感知中。
 
+<div align="center"> 
+  
 ![图5.John·W·图基，普林斯顿大学（早年）。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=466&width=508&top_left_y=85&top_left_x=642)
 
 图5：John·W·Tukey，普林斯顿大学（早年）。
+  
+</div>
 
 **Q**：你可以通过构建一个框架来做得更好。
 
@@ -360,9 +380,13 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Elizabeth**：是的，我抓到了一条大猎鱼（wahoo，一种大型游钓鱼），但它逃走了。那些就是我们钓到的鱼。我们俩，在一天里钓的。这里这条大的，这滑溜溜的家伙把我的地窖塞满了。这两条大的，前面的那条，让John在那年的迈阿密钓鱼大赛中获得了一张奖状。我们在当地报纸上看到了我们的照片。我对一个在成长过程中经常带我去钓鱼的娘家叔叔说，“看看你的学生都干了什么。”他把那张照片发给了我的堂兄弟姐妹，并附上了一个说明：“你们为什么不这么做呢？”
 
+<div align="center"> 
+
 ![图6：John和Elizabeth Tukey以及他们在基韦斯特捕到的鱼。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-12.jpg?height=520&width=456&top_left_y=85&top_left_x=668)
 
 图6：John和Elizabeth Tukey以及他们在基韦斯特捕到的鱼。
+  
+</div>  
 
 **Q**：园艺是另一件你喜欢的事。对吗？
 
