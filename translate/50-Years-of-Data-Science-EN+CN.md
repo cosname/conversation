@@ -14,7 +14,7 @@ David Donoho  加利福尼亚州 斯坦福大学统计系
 
 More than 50 years ago, John Tukey called for a reformation of academic statistics. In "The Future of Data Analysis," he pointed to the existence of an as-yet unrecognized science, whose subject of interest was learning from data, or "data analysis." Ten to 20 years ago, John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again urged academic statistics to expand its boundaries beyond the classical domain of theoretical statistics; Chambers called for more emphasis on data preparation and presentation rather than statistical modeling; and Breiman called for emphasis on prediction rather than inference. Cleveland and Wu even suggested the catchy name "data science" for this envisioned field. A recent and growing phenomenon has been the emergence of "data science" programs at major universities, including UC Berkeley, NYU, MIT, and most prominently, the University of Michigan, which in September 2015 announced a $100M "Data Science Initiative" that aims to hire 35 new faculty. Teaching in these new programs has significant overlap in curricular subject matter with traditional statistics courses; yet many academic statisticians perceive the new programs as "cultural appropriation." This article reviews some ingredients of the current "data science moment," including recent commentary about data science in the popular media, and about how/whether data science is really different from statistics. The now-contemplated field of data science amounts to a superset of the fields of statistics and machine learning, which adds some technology for "scaling up" to "big data." This chosen superset is motivated by commercial rather than intellectual developments. Choosing in this way is likely to miss out on the really important intellectual event of the next 50 years. Because all of science itself will soon become data that can be mined, the imminent revolution in data science is not about mere "scaling up," but instead the emergence of scientific studies of data analysis science-wide. In the future, we will be able to predict how a proposal to change data analysis workflows would impact the validity of data analysis across all of science, even predicting the impacts fieldby-field. Drawing on work by Tukey, Cleveland, Chambers, and Breiman, I present a vision of data science based on the activities of people who are "learning from data," and I describe an academic field dedicated to improving that activity in an evidence-based manner. This new field is a better academic enlargement of statistics and machine learning than today's data science initiatives, while being able to accommodate the same short-term goals. Based on a presentation at the Tukey Centennial Workshop, Princeton, NJ, September 18 , 2015.
 
-50多年前，John Tukey曾呼吁对学术统计学(academic statistics)进行改革。在“数据分析之未来”(The Future of Data Analysis)文章中，他指出：存在一门尚未被认识到的科学，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 不约而同地再次敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的诸多大学都开设了“数据科学”项目，其中最知名的是密歇根大学（University of Michigan）于2015年9月宣布的“数据科学计划”，该计划预计耗资1亿美元，招聘35名新教师。这些新项目的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为“新瓶子装旧酒”。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近媒体上广泛传播的关于数据科学的讨论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个超集是由商业而非才智发展驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是会激发全学科范围下的数据分析科学研究。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。在借鉴了Tukey、Cleveland、Chambers和Breiman的工作后，我设想了未来“从数据中学习”的工作者们的数据科学活动愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够实现同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
+50多年前，John Tukey曾呼吁对学术统计学(academic statistics)进行改革。在“数据分析之未来”(The Future of Data Analysis)文章中，他指出：存在一门尚未被认识到的科学，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 不约而同地再次敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的诸多大学都开设了“数据科学”项目，其中最知名的是密歇根大学（University of Michigan）于2015年9月宣布的“数据科学计划”，该计划预计耗资1亿美元，招聘35名新教师。这些新项目的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为“新瓶装旧酒”。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近媒体上广泛传播的关于数据科学的讨论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个超集是由商业而非才智发展驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是会激发全学科范围下的数据分析科学研究。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。在借鉴了Tukey、Cleveland、Chambers和Breiman的工作后，我设想了未来“从数据中学习”的工作者们的数据科学活动愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够实现同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
 
 
 # 1. Today's Data Science Moment
@@ -159,7 +159,7 @@ One does not need to look far to find blogs capitalizing on the befuddlement abo
 
 On the other hand, we can find provocateurs declaiming the (near-) irrelevance of statistics:
 
-另一方面，我们可以发现挑衅者宣称统计学（几乎）无关紧要：
+另一方面，我们可以发现另外一种声音，宣称统计学无关紧要：
 
 - Data Science without statistics is possible, even desirable. Vincent Granville, at the Data Science Central Blog (http://www.datasciencecentral.com/profiles/blogs/data-science-without-statisticsis-possible-even-desirable)
 - Statistics is the least important part of data science. Andrew Gelman, Columbia University (http://andrewgelman.com/2013/11/14/statistics-least-important-part-data-science/)
@@ -1711,7 +1711,7 @@ Science funding agencies have for a long time included in their funding policies
 
 > [53] Professor Martin Helm reminds me to mention other examples; he points to the SAS system's StatRep package, saying "SAS Institute twice a year produces tens of thousands pages of SAS documentation from LATEX-files with markups that run SAS and include programs as well as output as well as statistical advice (text). When we tested it, it was better and more stable than knitr. This could have changed in the meantime as knitr evolves but SAS is not so eager to open up and publish improvements." 
 
-> [53] Martin Helm 教授提醒我还有其他不错的例子；比如AS系统的StatRep包，他表示“SAS研究所每年两次从LATEX文件中生成数万页SAS文档，其中包含运行SAS的标记，包括程序、输出以及统计建议（文本）。当我们测试它时，它比knitr更好、更稳定。随着knitr的发展，这一点可能会发生变化，但SAS并不急于开放并发布改进。" 
+> [53] Martin Helm 教授提醒我还有其他不错的例子；比如SAS系统的StatRep包，他表示“SAS研究所每年两次从LATEX文件中生成数万页SAS文档，其中包含运行SAS的标记，包括程序、输出以及统计建议（文本）。当我们测试它时，它比knitr更好、更稳定。随着knitr的发展，这一点可能会发生变化，但SAS并不急于开放并发布改进。" 
 
 ## 10.2. Science as Data
 
@@ -2140,7 +2140,7 @@ Special thanks to Edgar Dobriban (U. Penn.), Bradley Efron (Stanford), and Victo
 
 Thanks are also due to Deepak Agarwal (Linked In), Rudy Beran (UC Davis), Peter Brown (Renaissance Technologies), Jiashun Jin (Carnegie Mellon), Rob Kass (Carnegie Mellon), Martin Helm (Deutsche Bank), Ron Kennett (KPA Associates), Peter Lenk (Univ. Michigan), Mark Liberman (Univ. Pennsylvania), R.J. Little (Univ. Michigan), Xiao-Li Meng (Harvard) and Adrian Raftery (University of Washington), and Hadley Wickham (RStudio and Rice) for encouragement and corrections.
 
-感谢Deepak Agarwal（LinkedIn）、Rudy Beran（UC Davis）、Peter Brown（Renaissance Technologies）、金家顺（卡内基梅隆大学）、Rob Kass（卡内基梅隆大学）、Martin Helm（德意志银行）、Ron Kennett（KPA Associates）、Peter Lenk（密歇根大学）、Mark Liberman（宾夕法尼亚大学）、孟小犁（哈佛大学）、 Adrian Raftery（华盛顿大学）和Hadley Wickham（RStudio和Rice）鼓励和纠正。
+感谢Deepak Agarwal（LinkedIn）、Rudy Beran（UC Davis）、Peter Brown（Renaissance Technologies）、金家顺（卡内基梅隆大学）、Rob Kass（卡内基梅隆大学）、Martin Helm（德意志银行）、Ron Kennett（KPA Associates）、Peter Lenk（密歇根大学）、Mark Liberman（宾夕法尼亚大学）、孟晓犁（哈佛大学）、 Adrian Raftery（华盛顿大学）和Hadley Wickham（RStudio和Rice）鼓励和纠正。
 
 
 Belated thanks to my undergraduate statistics teachers: Peter Bloomfield, Henry Braun, Tom Hettmansperger, Larry Mayer, Don McNeil, Geoff Watson, and John Tukey.
@@ -2180,9 +2180,9 @@ Chavalarias, D., Wallach, J., Li, A., and Ioannidis, J. A. (2016), "Evolution of
 
 Cleveland, W. S. (1985), The Elements of Graphing Data, Monterey, CA: Wadsworth Advanced Books and Software. [758]
 
-—— (1993), Visualizing Data, Summit, NJ: Hobart Press.
+__(1993), Visualizing Data, Summit, NJ: Hobart Press.
 
-—— (2001), "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics," International Statistical Review, 69, 2126. [750] Coale, A. J., and Stephan, F. F. (1962), "The Case of the Indians and the Teen-Age Widows," Journal of the American Statistical Association, 57, 338-347. [755]
+__(2001), "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics," International Statistical Review, 69, 2126. [750] Coale, A. J., and Stephan, F. F. (1962), "The Case of the Indians and the Teen-Age Widows," Journal of the American Statistical Association, 57, 338-347. [755]
 
 Collins, F., and Tabak, L. A. (2014), "Policy: NIH Plans to Enhance Reproducibility," Nature, 505, 612-613. [760]
 
@@ -2214,9 +2214,9 @@ Hotelling, H. (1940), "The Teaching of Statistics," The Annals of Mathematical S
 
 Ioannidis, J. P. A. (2005), "Contradicted and Initially Stronger Effects in Highly Cited Clinical Research," Journal of the American Medical Association, 294, 218-228. [759]
 
-———(2007), "Non-Replication and Inconsistency in the Genome-Wide Association Setting," Human Heredity, 64, 203-213. [760]
+__(2007), "Non-Replication and Inconsistency in the Genome-Wide Association Setting," Human Heredity, 64, 203-213. [760]
 
-—— (2008), "Why Most Discovered True Associations are Inflated," Epidemiology, 19, 640-648. [759]
+__(2008), "Why Most Discovered True Associations are Inflated," Epidemiology, 19, 640-648. [759]
 
 Iverson, K. E. (1991), "A Personal View of APL," IBM Systems Journal, 30 , 582-593. [758]
 
@@ -2256,15 +2256,15 @@ Tukey, J. W. (1962), "The Future of Data Analysis," The Annals of Mathematical S
 
 [758] (1977), Exploratory Data Analysis, Reading, MA: Addison-Wesley. [758]
 
-—— (1994), The Collected Works of John W. Tukey: Multiple Comparisons (Vol. 1), eds. H. I. Braun, Pacific Grove, CA: Wadsworth \& Brooks/Cole. [758]
+__(1994), The Collected Works of John W. Tukey: Multiple Comparisons (Vol. 1), eds. H. I. Braun, Pacific Grove, CA: Wadsworth \& Brooks/Cole. [758]
 
 Wandell, B. A., Rokem, A., Perry, L. M., Schaefer, G., and Dougherty, R. F. (2015), "Quantitative Biology - Quantitative Methods," Bibliographic Code: 2015arXiv150206900W. [761]
 
 Wickham, H. (2007), "Reshaping Data With the Reshape Package," Journal of Statistical Software, 21, 1-20. [757]
 
-—— (2011), "ggplot2," Wiley Interdisciplinary Reviews: Computational Statistics, 3, 180-185. [757]
+__(2011), "ggplot2," Wiley Interdisciplinary Reviews: Computational Statistics, 3, 180-185. [757]
 
-—— (2011), "The Split-Apply-Combine Strategy for Data Analysis," Journal of Statistical Software, 40, 1-29. [757]
+__(2011), "The Split-Apply-Combine Strategy for Data Analysis," Journal of Statistical Software, 40, 1-29. [757]
 
 Wilkinson, L. (2006), The Grammar of Graphics, New York: Springer Science \& Business Media. [758]
 
