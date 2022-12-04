@@ -4,17 +4,17 @@ David R. Brillinger
 
 > David R. Brillinger is professor of statistics at the University of California, Berkeley. He obtained his Ph.D. under John Tukey's supervision in 1961, and he edited the Time Series volumes of The Collected Works of John W. Tukey. His e-mail address is bri17@astat.berke7ey.edu.
 
-> David R. Brillinger是加州大学伯克利分校的统计学教授。他获得了博士学位 在约翰·图基（John Tukey）于1961年的监督下，他编辑了约翰·托基（John W. Tukey）收集的作品的时间序列。他的电子邮件地址是bri17@astat.berke7ey.edu。
+> David R. Brillinger是加州大学伯克利分校的统计学教授。他于1961年在John Tukey指导下获得了博士学位，他编辑了John W. Tukey作品集中时间序列的部分。他的电子邮件地址是bri17@astat.berke7ey.edu。
 
 ---
 
-> I believe that the whole country-scientifically, industrially, financially-is better off because of him and bears evidence of his influence.
+> I believe that the whole country，scientifically, industrially, financially，is better off because of him and bears evidence of his influence.
 
 > -John A. Wheeler, Princeton emeritus professor of physics
 
-> 我相信，整个国家 /地区在工业上，财务上都是更好的选择，因为他有他的影响力。
+> 我相信，整个国家在科学、工业和财政上都因他而变得更好，这证明了他的影响力。
 
-> -John A. Wheeler，普林斯顿名誉物理学教授
+> -John A. Wheeler，普林斯顿荣休物理学教授
 
 ---
 
@@ -22,74 +22,73 @@ David R. Brillinger
 
 > -William O. Baker, retired chairman of the board, Bell Labs
 
-> 我们已经观看了至少四位美国总统听他的声音，并听取了他的律师。
+> 我们看到至少有四位美国总统听取了他的意见和建议。
 
-> -William O. Baker，董事会退休主席，贝尔实验室
+> -William O. Baker，贝尔实验室董事会退休主席
 
 John Wilder Tukey (JWT): chemist, topologist, advisor, information scientist, researcher, statistician, educator, data analyst, executive, died of a heart attack on July 26,2000 , in New Brunswick, New Jersey. The death followed a short illness. He was eighty-five years old.
 
-约翰·怀尔德·图基（John Wilder Tukey）（JWT）：化学家，托管学家，顾问，信息科学家，研究人员，统计学家，教育家，数据分析师，执行官，执行人员于7月26日在新泽西州新不伦瑞克省发生心脏病发作。死亡发生了短暂的病。他八十五岁。
+John Wilder Tukey（JWT）：化学家、拓扑学家、顾问、信息科学家、研究员、统计学家、教育家、数据分析师、执行官，于2000年7月26日在新泽西州新不伦瑞克因心脏病发作去世。他是在一场短暂的疾病之后去世的。他85岁了。
 
 John Tukey's whole life was one of public service, and as the preceding quotes make clear, he had profound influence. He was a member of the President's Scientific Advisory Committee for each of Presidents Eisenhower, Kennedy, and Johnson. He was special in many ways. He merged the scientific, governmental, technological, and industrial worlds more seamlessly than, perhaps, anyone else in the 1900s. His scientific knowledge, creativity, experience, calculating skills, and energy were prodigious. He was renowned for creating statistical concepts and words.
 
-约翰·图基（John Tukey）的一生是公共服务之一，正如上述名言清楚的那样，他具有深远的影响力。他是艾森豪威尔总统肯尼迪和约翰逊总统科学咨询委员会的成员。他在许多方面都很特别。他比1900年代其他任何人都更加无缝地融合了科学，政府，技术和工业世界。他的科学知识，创造力，经验，计算技能和精力是巨大的。他以创建统计概念和文字而闻名。
+ John Tukey的一生是为公共服务的，正如前面的引语所表明的，他有深远的影响。他是艾森豪威尔、肯尼迪和约翰逊总统的总统科学咨询委员会成员。他在许多方面都很特别。他比20世纪的任何人都更无缝地融合了科学、政府、技术和工业世界。他的科学知识、创造力、经验、计算技巧和精力惊人。他以创造统计概念和单词而闻名。
 
 JWT's graduate work was in mathematics, but driven by World War II, he left that field to go on to revolutionize the world of the analysis of data. At the end of the war he began a joint industrial-academic career at Bell Telephone Laboratories and at Princeton University. Science and the analysis of data were ubiquitous. This split career continued until he retired in 1985. Even after retirement his technical and scientific work continued at a very high level.
- 
-JWT的研究生工作是数学工作，但在第二次世界大战的驱动下，他离开了该领域，继续彻底改变了数据分析的世界。战争结束时，他在贝尔电话实验室和普林斯顿大学开始了联合工业学术职业。科学和数据分析无处不在。这种分裂职业一直持续到他于1985年退休。即使退休后，他的技术和科学工作仍在很高的水平上。
+
+JWT研究生时做的是数学，但受第二次世界大战的推动，他离开了这个领域，继续改革数据分析的世界。战争结束时，他在贝尔实验室和普林斯顿大学开始了工业和学术的联合职业生涯。科学和数据分析无处不在。这种分裂的职业生涯一直持续到他1985年退休。即使退休后，他的技术和科学工作仍保持在非常高的水平。
 
 In memorializing John Tukey's life, one has to review his contributions to both science and society. It is further interesting to follow his evolution from mathematician to statistician. The sections of this article are: Narrative of the Professional Life, The Scientific Legacy, Concluding Remarks, and Epilogue. Sidebars list his Ph.D. students and his books.
 
-为了纪念约翰·图基（John Tukey）的生活，必须回顾他对科学和社会的贡献。遵循他从数学家到统计学家的进化更加有趣。本文的部分是：职业生活的叙述，科学遗产，结论性的言论和结语。侧边栏列出了他的博士学位 学生和他的书。
+在纪念约翰·图基的一生时，我们必须回顾他对科学和社会的贡献。跟踪他从数学家到统计学家的演变更有趣。这篇文章的章节分别是：职业生涯、科学遗产和结束语。侧边栏列出了他的博士生和他的书。**【疑问：侧边栏】**
 
 # Narrative of the Professional Life
 
-# 职业生涯的叙述
+# 职业生涯
 
 ## Chronology
 
-## 时间顺序
+## 年表
 
 John Tukey was born in New Bedford, Massachusetts on June 16,1915 . After being schooled precollege at home, he earned bachelor's and master's degrees in chemistry. For a Ph.D. he went to Princeton, where he quickly switched to mathematics.
 
-约翰·图基（John Tukey）于1915年6月16日出生在马萨诸塞州的新贝德福德。在家里接受教育后，他获得了化学学士学位和硕士学位。博士学位 他去了普林斯顿，在那里他迅速转向数学。
+约翰·图基于1915年6月16日出生于马萨诸塞州的新贝德福德。在家里接受大学预科教育后，他获得了化学学士和硕士学位。为了获得博士学位，他去了普林斯顿，在那里他很快转向了数学
 
 **Graduate School.** He arrived at Princeton in September 1937. One has the strong impression that John and his friends had a wonderful time during their graduate studies. The Graduate College and Fine Hall, where the mathematics department was located, were very special places. Meals in the Graduate College were taken in academic gowns, and eating groups formed. In the first year JWT was drafted into the "Fuhrocracy" whose members included L. Spitzer, F. Smithies, R. P. Boas, G. W. King, M. Kanner, H. Wallman, and A. Stone. In later years his group included G. W. Brown, Richard Feynman, and O. Morgenstern. His other friends included N. Steenrod, B. MacMillan, and Bill Baker.
 
-**研究生院。** 数学部门所在的研究生学院和细大厅是非常特殊的地方。研究生院的餐点是在学术礼服上服用的，并成立了饮食组。在第一年，JWT被选为“ Fuhrocracy”，其成员包括L. Spitzer，F。Smithies，R。P。Boas，G。W。King，M。Kanner，H。Wallman和A. Stone。在后来的几年中，他的小组包括G. W. Brown，Richard Feynman和O. Morgenstern。他的其他朋友包括N. Steenrod，B。Macmillan和Bill Baker。
+**研究生院。** 他于1937年9月到达普林斯顿。人们对John和他的朋友们在研究生学习期间度过的一段美好时光有着深刻的印象。研究生院和数学系所在的费恩厅（Fine Hall）是非常特别的地方。研究生院的饭菜都穿着学位服,**（疑问，应该是比喻研究生院学术氛围浓厚）**吃饭小组也成立了。第一年，JWT被征召到“ Fuhrocracy”，其成员包括L. Spitzer，F.Smithies，R.P.Boas，G.W.King，M.Kanner，H. Wallman和A. Stone。在后来的几年中，他的小组包括G. W. Brown，Richard Feynman和O. Morgenstern。他的其他朋友包括N. Steenrod，B. Macmillan和Bill Baker。
 
 Fine Hall, besides housing the mathematics faculty, was renowned for its library and for tea time in the lounge. The Princeton mathematics faculty at that time included: C. Eisenhart, S. Lefschetz, S. S. Wilks, and A. W. Tucker. The members of the Institute for Advanced Studies (IAS), such as John von Neumann, were also housed in Fine Hall then.
 
-精美的大厅除了容纳数学学院外，还以其图书馆和休息室的茶时间而闻名。当时的普林斯顿数学学院包括：C。Eisenhart，S。Lefschetz，S。S。Wilks和A. W. Tucker。当时，高级研究所（IAS）的成员（IAS）也被安置在Fine Hall中。
+费恩厅除了有数学系外，还以图书馆和休息室的茶点时间而闻名。当时普林斯顿的数学系的教员有：C. Eisenhart, S. Lefschetz, S. S. Wilks, and A. W. Tucker。当时高等研究院（IAS，Institute for Advanced Studies）的成员，如John von Neumann（冯·诺依曼），也住在费恩厅。
 
 JWT attended many (all?) mathematics lectures. Of those by Marston Morse on symbolic dynamics, he said that Steenrod and he did their best to keep "Morse honest". Keeping people honest remained a key part of his scientific life. Of a course A. W. Tucker gave in 1938, Tucker once said that every time he gave a definition of a combinatorial manifold, JWT would come up with a counterexample. Tucker further remarked, "It ended in a draw."
 
-JWT参加了许多（全部？）数学讲座。在马斯顿·莫尔斯（Marston Morse）关于象征性动态的人中，他说斯坦罗德（Steenrod）和他尽力保持“莫尔斯（Morse）诚实”。让人们保持诚实仍然是他科学生活的关键部分。塔克（A. W. Tucker）在1938年的一门课程中，塔克（Tucker）曾经说过，每当他对组合歧管的定义定义时，JWT都会提出反例。塔克进一步说：“它以平局告终。”
+JWT参加了许多（全部？）数学讲座。在Marston Morse关于符号动力学（symbolic dynamics）的讲座中，他说Steenrod和他尽了最大努力让Morse“诚实”。让人们诚实仍然是他科学生活的关键部分。JWT参加了A. W. Tucker 1938年的一个课，Tucker说，他每给出一个组合流形（combinatorial manifold）的定义，JWT都会想出一个反例。Tucker进一步评论道，“它以平局告终。”
 
 At the party celebrating the completion of their graduate studies, JWT and Robert Eddy became famous for serving milk rather than the traditional beer. In a story whose authenticity was not denied by JWT, John von Neumann is reputed to have remarked, "There is this very bright graduate student, and the remarkable thing is that he does it all on milk."
 
-在庆祝他们的研究生学习的聚会上，JWT和Robert Eddy以牛奶而不是传统啤酒而闻名。在JWT并未否认真实性的故事中，约翰·冯·诺伊曼（John von Neumann）据称说：“有这位非常聪明的研究生，而了不起的事情是他在牛奶上做了一切。”
-
+在庆祝研究生毕业的派对上，Tukey和Robert Eddy因供应牛奶而不是传统啤酒而出名。在一个Tukey没有否认真实性的故事中，John von Neumann据说说过，“有一个非常聪明的研究生，了不起的是他全靠牛奶做到了。”**【疑问：不太理解全靠牛奶啥意思，不喝酒也能做出成就的玩笑？】**
 
 While living in the Graduate College, John came to know the physicist Richard Feynman, and he appears in various of the books by and about Feynman. One special story relates to keeping time. Feynman knew that he could keep track of time while reading, but not while speaking. He presented this as a challenge. Rising to it, JWT showed that he could speak and keep track of time simultaneously. Of this Feynman remarks: "Tukey and I discovered that what goes on in different people's heads when they think they're doing the same thing-something as simple as counting-is different for different people." This may also be the source of JWT's remark, "People are different."
 
-约翰在研究生学院生活时，认识了物理学家理查德·费曼（Richard Feynman），他出现在Feynman和Feynman的各种书中。一个特殊的故事与保持时间有关。Feynman知道他可以在阅读时跟踪时间，但不会在讲话时跟踪。他提出了这一挑战。JWT兴起，他表明他可以同时说话并跟踪时间。在这个菲曼的评论中：“我和Tukey发现，当他们认为自己在做同样简单的事情时，他们的脑海中发生了什么，这对不同的人来说是不同的。” 这也可能是JWT言论“人们不同的”来源。
+在研究生院生活时，Tukey认识了物理学家理查德·费曼（Richard Feynman），他出现在Feynman的各种著作中。一个特别的故事与计时有关。Feynman知道他可以在阅读时记录时间，但不能在说话时记录时间。他把这作为一个挑战。Tukey意识到这一点，证明他可以同时说话和记录时间。关于Feynman的评论：“Tukey和我发现，当不同的人认为他们在做同样的事情——像计数这样简单的事情——时，他们的头脑中发生的事情是不同的。”这也可能是Tukey的评论“人是不同的”的来源。
 
 In 1939 Feynman and Tukey, together with Bryant Tuckerman and Arthur Stone, were members of the Flexagon Committee. This group formed directly following the discovery of certain origamilike objects by Stone. Flexagons are folded from strips of paper and reveal different faces as they are flexed. A theory of flexagons was worked out by Tukey and Feynman, the theory being a hybrid of topology and network theory. Feynman created a diagram that showed all the possible paths through a hexaflexagon. The Feynman-Tukey theory was never published, but parts were later rediscovered.
 
-1939年，Feynman和Tukey与Bryant Tuckerman和Arthur Stone一起是Flexagon委员会的成员。该小组直接在通过石头发现某些野生物体的物体之后形成。从纸条中折叠挠性，并在弯曲时露出不同的面孔。Tukey和Feynman阐述了一种灵活的理论，该理论是拓扑和网络理论的混合体。Feynman创建了一个图表，该图显示了通过六边形的所有可能的路径。Feynman-Tukey理论从未出版过，但后来重新发现了部分。
+1939年，Feynman和Tukey与Bryant Tuckerman和Arthur Stone组成了Flexagon（[一种用纸折出的多边形](https://en.wikipedia.org/wiki/Flexagon)）小组。这个小组是由Stone有了某些折纸上的发现后直接成立的。Flexagons是从纸条上折叠起来的，当它们弯曲时，会显示出不同的面孔。Tukey和Feynman提出了一个flexagons理论，该理论是拓扑和网络理论的混合体。Feynman创造了一个图表，显示了通过六边形的所有可能路径。Feynman-Tukey理论从未发表过，但后来部分被重新发现。
 
 **World War II.** In 1941 Tukey was appointed assistant professor of mathematics at Princeton. That year he listed his interests in American Men of Science as point set topology and analysis. With America's entry into World War II, things changed dramatically. John joined the Fire Control Research Office at 20 Nassau Street, Princeton. This organization was concerned with armored vehicle fire control, ballistic behavior of rocket powder, gunfire control, and the accuracy of anti-aircraft stereoscopic height and bomber range finders.
 
-**第二次世界大战。** 1941年，图基被任命为普林斯顿的数学助理教授。那一年，他将自己对美国科学男子的兴趣列为点套拓扑和分析。随着美国参加第二次世界大战，情况发生了巨大变化。约翰加入了普林斯顿拿骚街20号的消防研究办公室。该组织与装甲车的火力控制，火箭粉的弹道行为，枪击控制以及防空立体高度和轰炸机射击器的准确性。
+**第二次世界大战。** 1941年，Tukey被任命为普林斯顿大学的数学助理教授。这一年，他在《美国科学人(American Men of Science)》中列出他的兴趣是点集拓扑学和分析。随着美国加入第二次世界大战，事情发生了巨大的变化。Tukey加入了位于普林斯顿纳索(Nassau）街20号的火控研究室（Fire Control Research Office）。这个组织关注的是装甲车的火力控制、火箭火药的弹道行为、火力控制以及防空立体高度和轰炸机测距仪的准确性。
 
-While working there, JWT had countless interactions with Charles P. Winsor (1895-1951), a Harvard engineer with a Ph.D. in physiology. He was referred to as an "engineer-turned-physiologist-turneds tatistician." To quote John: "It was Charlie and the experience of working on the analysis of real data that converted me to statistics." JWT encountered many others at 20 Nassau Street who went on to renowned careers in statistics. It is hard to know just what the research consisted of, but one finds the following "example" in the Mosteller and Tukey regression book:
+While working there, JWT had countless interactions with Charles P. Winsor (1895-1951), a Harvard engineer with a Ph.D. in physiology. He was referred to as an "engineer-turned-physiologist-turned statistician." To quote John: "It was Charlie and the experience of working on the analysis of real data that converted me to statistics." JWT encountered many others at 20 Nassau Street who went on to renowned careers in statistics. It is hard to know just what the research consisted of, but one finds the following "example" in the Mosteller and Tukey regression book:
 
-在那里工作时，JWT与拥有博士学位的哈佛工程师Charles P. Winsor（1895-1951）进行了无数互动。生理学。他被称为“工程师转变的生理学家转变为Tatisticians”。引用约翰的话：“是查理和对真实数据进行分析的经验，将我转换为统计数据。” JWT在拿骚街20号遇到了许多其他人，他们继续从事统计学的著名职业。很难知道该研究的组成，但是人们在Mosteller和Tukey回归书中找到了以下“示例”：
+在那里工作期间，Tukey与哈佛大学的工程师、生理学博士Charles P. Winsor（1895-1951）有过无数次交流。他被称为“工程师转为生理学家，又转为统计学家”。引用Tukey的话：“是Charles和对真实数据进行分析的经历让我转向了统计学。”Tukey在纳索街20号遇到了许多其他人，他们后来在统计学领域获得了著名的职业生涯。很难确切知道这项研究包括什么，但你可以在Mosteller和Tukey所写的回归方面的书中找到以下“例子”：
 
 > During World War II, in investigating aiming errors made during bomber flights over Europe, one of the research organizations developed a regression equation with several carriers (explanatories). Among its nine or so carriers were altitude, type of aircraft, speed of the bombing group, size of group, and the amount of fighter opposition. On physical grounds, one might expect higher altitudes and higher speeds to produce larger aiming errors. It would not be surprising if different aircraft differed in performance. What the effect of size of group might be can be argued either way. But few people will believe that additional fighter opposition would help a pilot and bombardier do a better job. Nevertheless, amount of fighter opposition appeared as a strong term in the regression equation-the more opposition, the smaller the aiming error. The effect is generally regarded as a proxy phenomenon, arising because the equation had no variable for amount of cloud cover. If clouds obscured the target, the fighters usually did not come up and the aiming errors were ordinarily very large.
 
-> 在第二次世界大战期间，在调查在欧洲轰炸机飞行期间犯的瞄准错误时，其中一位研究组织开发了一个带有多个载体（解释者）的回归方程。在其九个左右的载体中，有高度，飞机的类型，轰炸组的速度，组的大小以及战斗机对手的数量。就物理上讲，人们可能期望更高的高度和更高的速度会产生更大的瞄准错误。如果不同的飞机在性能上有所不同，就不足为奇了。无论哪种方式，都可以争论组大小的影响。但是很少有人会相信其他战斗机反对派将有助于飞行员和庞巴迪做得更好。然而，在回归方程式中，数量的战斗机反对派似乎是一个强大的术语 - 反对派越小，瞄准误差越小。该效果通常被视为一种代理现象，因为方程没有变化的云覆盖量。如果云使目标掩盖，那么战斗机通常不会出现，而瞄准错误通常非常大。
+>第二次世界大战期间，在调查轰炸机在欧洲上空飞行时的瞄准误差时，一个研究机构用几个变量（解释性）开发了一个回归方程。在它的九个左右的变量中，有高度、飞机类型、轰炸群的速度、机群的规模和战斗机的对抗数。从物理角度来看，人们可能会期望更高的高度和更高的速度会产生更大的瞄准误差。不同的飞机在性能上有所不同，也不足为奇。机群规模的影响可能是什么也可以争论。但是很少有人会相信额外的战斗机对抗会帮助飞行员和投弹手做得更好。然而，在回归方程中，战斗机的对抗数作为一个强项出现——对抗越多，瞄准误差越小。这种效应通常被认为是一种代理现象，因为方程中没有关于云层的变量。如果云层遮蔽了目标，战斗机通常不会上来，瞄准误差通常非常大。
 
 **Bell Telephone Laboratories and Princeton.** In early 1945 "Mr. Tukey" began his long association with Bell Labs, Murray Hill, perhaps the foremost industrial research organization the world has known. He never left. He was full time at the Labs for a very brief period, taking leave from Princeton, but quickly switched to half time at Princeton and half time at the Labs. At the Labs he was in succession member of technical staff, subdepartment head of statistics research, associate executive director communication principles research, and associate executive director information sciences.
 
@@ -98,7 +97,6 @@ While working there, JWT had countless interactions with Charles P. Winsor (1895
 In his parallel career at Princeton, John rose through the ranks to become full professor of mathematics, a position he held 1950-1966. He was first chair of the new statistics department 1966-1970, and professor of statistics from 1966 until his retirement in 1985.
 
 在普林斯顿的平行生涯中，约翰·罗斯（John Rose）晋升为数学教授，他担任了1950-1966年的职位。他担任1966-1970年新统计局的第一任主席，并从1966年到1985年退休。
-
 
 At the Labs JWT was involved in a myriad of projects. One such project was the Nike missile system, in whose research and development the Bell System played a very substantial role. B. D. Holdbrook and JWT did the aerodynamics, the trajectory, and the warhead design. A collaboration with Ralph Blackman led to two highly influential papers that introduced the engineering and scientific worlds to the computational practice of spectrum analysis. The Labs supported much of his more academic research, as he has acknowledged.
 
@@ -124,7 +122,7 @@ At Princeton JWT became Emeritus Donner Professor of Science and Senior Research
 
 在普林斯顿，JWT成为名誉唐纳科学教授和高级研究统计学家。他进一步在包括：Xerox Parc，Bellcore，Merck，健康效果研究所和教育测试服务（ETS）的地方担任顾问。
 
-## Contributions to Society 
+## Contributions to Society
 
 ## 对社会的贡献
 
@@ -133,8 +131,6 @@ Through the Bell Labs, Princeton, and Washington connections Tukey's skills beca
 通过贝尔实验室，普林斯顿和华盛顿的连接图基的技能已成为许多人所熟知的，他的时间有无数的电话。多年来，他担任了无数国家小组的主持人或成员，尤其是与保护环境有关的小组成员。在这里，我提到了他最著名的活动。
 
 ![](https://cdn.mathpix.com/cropped/2022_11_23_70c3b367411c07f5e408g-3.jpg?height=892&width=834&top_left_y=128&top_left_x=941)
-
-
 
 **The Kinsey Report.** In 1950, following a request, the American Statistical Association assembled a committee to review the statistical problems in Alfred C. Kinsey's work on sex research, work described in his controversial 1948 book, Sexual Behavior in the Human Male. The members of the committee were W. G. Cochran, F. Mosteller, and JWT. They were concerned particularly with the sampling methods and the absence of controlled randomness.
 
@@ -149,8 +145,6 @@ Things did not go well in the committee's interaction with Kinsey. For example, 
 **U-2飞机。** “冷战”在1950年代中期全面飞行。一个担心的是存在“轰炸机差距”，它可能使苏联能够发动出人意料的攻击。艾森豪威尔（Eisenhower）在此类问题的刺激下，于1954年成立了基利安委员会。其项目3涉及技术情报收集。它由宝丽来相机名望的E. H. Land主持，包括天文学家J. G. Baker，化学家J. W. Kennedy，工程师A. Latham Jr.，诺贝尔奖获得者E. M. Purcell和JWT。项目3建议采用“一项旨在广泛使用科学技术知识的剧烈使用计划”。最终提议是建立一架高空飞行的间谍飞机，U-2的发展很快就遵循。由苏联的越过获得的照片驳斥了轰炸机差距的主张，但与此同时，他们给出了制造远程导弹的努力的证据。我听说它说是JWT建议在此类飞机的尸体建造中使用钛。
 
 $\begin{array}{ll}\text { Ph.D. Students of John W. Tukey } \\ \text { Fredrick Mosteller (1946) } & \text { Charles Lewis (1970) } \\ \text { John Walsh (1947) } & \text { Stanislaus D'Souza (1971) } \\ \text { Donald Fraser (1948) } & \text { Jon Knudsen (1971) } \\ \text { Melvin Peisakoff (1950) } & \text { James Schlesselmen (1971) } \\ \text { Leo Goodman (1950) } & \text { David Hoaglin (1971) } \\ \text { Bernard Sherman (1950) } & \text { Alan Gross (1973) } \\ \text { Ray Murphy (1951) } & \text { Anita Nowlin (1973) } \\ \text { Paul Meier (1951) } & \text { Edward Binkowski (1974) } \\ \text { Alan James (1953) } & \text { Steven Finch (1974) } \\ \text { David Wallace (1953) } & \text { Lincoln Polissar (1974) } \\ \text { Marvin Minsky (1954) } & \text { Paul Velleman (1976) } \\ \text { Richard Link (1954) } & \text { Tony Quon (1976) } \\ \text { Ralph Wormleighton (1955) } & \text { Susan Arthur (1979) } \\ \text { Arthur Dempster (1956) } & \text { Michael Schwarzchild (1979) } \\ \text { Thomas E. Kurtz (1956) } & \text { Karen Kafadar (1979) } \\ \text { N. Roy Goodman (1957) } & \text { Roberta Guarino (1981) } \\ \text { Bradley Bucher (1957) } & \text { Katherine Krystinik (1981) } \\ \text { James Templeton (1957) } & \text { Paul Horn (1981) } \\ \text { Harvey Arnold (1958) } & \text { Stephan Morgenthaler (1983) } \\ \text { David Brillinger (1961) } & \text { Fanny O'Brien (1984) } \\ \text { Donald Burdick (1961) } & \text { Dhammika Amaratunga (1984) } \\ \text { John Hartigan (1962) } & \text { Clifford Hurvich (1985) } \\ \text { Peter Nemenyi (1963) } & \text { George Easton (1985) } \\ \text { Thomas Wonnacott (1963) } & \text { Ha Nguyen (1986) } \\ \text { James Thompson (1965) } & \text { David Brown (1987) } \\ \text { Morton Brown (1965) } & \text { Katherine Hansen (1988) } \\ \text { W. Morven Gentleman (1966) Eugene Johnson (1988) } \\ \text { James Filliben (1969) } & \end{array}$
-
-
 
 In 1957 Eisenhower formed the President's Scientific Advisory Panel partly in response to the effective way that the scientists had dealt with the bomber gap.
 
@@ -232,7 +226,6 @@ His thesis, "On denumerability in topology", was submitted in 1939, nominally un
 
 他的论文“关于拓扑的剥夺性”，于1939年在Lefschetz的监督下提交了他的论文。它的一部分后来出现在1942年的《数学研究年鉴》系列中，标题是拓扑结合的标题和统一性。第3章从未出版，因为与M. M. Day的工作重叠。
 
-
 The principal part of the thesis was a formulation of uniformity in topology. JWT was seeking to extend convergence techniques to general spaces. The structures have three distinct, but equivalent, definitions via: Weil's pseudometrics, Bourbaki's entourages, and Tukey's families of covers. Appearing in the thesis is the so-called TeichmüllerTukey Lemma: "Every nonempty collection of finite character has a maximal set with respect to inclusion." This lemma is equivalent to the Axiom of Choice. Also in his book JWT christens Zorn's Lemma.
 
 论文的主要部分是拓扑中均匀性的表述。JWT试图将收敛技术扩展到一般空间。这些结构具有三个不同但同等的定义，可以通过：Weil的伪测量学，Bourbaki的随行人员和Tukey的封面家庭。出现在论文中的是所谓的TeichmüllerTukey窃听：“每个有限特征的收藏都在包容方面都有最大的设定。” 这种引理等同于选择的公理。同样在他的书JWT Christens Zorn的引理中。
@@ -263,7 +256,7 @@ There are papers with R. P. Boas and with A. Stone as well as solo-authored arti
 
 > Statistics is a science, not a branch of mathematics, but uses mathematical models as an essential tool.
 
-> JWT 
+> JWT
 
 > 统计学是一门科学，而不是数学的分支，而是使用数学模型作为必不可少的工具。
 
@@ -274,7 +267,6 @@ The Mosteller-Tukey bombing example mentioned above gives an indication of the d
 上面提到的大多数人抗议炸弹示例表明了统计学家在实验和数据世界中定期处理结果的解释困难。JWT的统计贡献反映了他在那个杂乱无章的世界中的斗争。有一些亮点。
 
 **Robustness.** Robustness refers to the property of a procedure remaining effective even in the absence of usual assumptions such as normality and no incorrect data values. In simplest terms the idea is to improve upon the use of the simple arithmetic average in estimating the center of a distribution. As a simple case one can ask: Is it ever better to use the sample median than the sample mean, and if so, when?
-
 
 **鲁棒性。** 鲁棒性是指程序的属性，即使没有通常的假设，例如正态性和不正确的数据值，也是有效的。用最简单的话来说，想法是改善使用简单算术平均值来估计分布中心的使用。作为一个简单的情况，人们可以提出：使用样品中位数比样品平均值更好，如果是，什么时候？
 
@@ -370,14 +362,14 @@ The Tukey technique is often seen under the rubric of the "honestly significantl
 
 Tukey技术通常是在“诚实差异”（HSD）测试的标题下看到的，这是JWT的另一个术语。在后来的几年中，当比较许多事情时，JWT继续使用本杰米尼和霍奇斯特的错误发现率（FDR）。
 
-------------------------
+---
 
 * **J. W. Tukey's Collected Works**
-  - Volumes I-II, Time Series, 1984-1985, edited by D. R. Brillinger 
+  - Volumes I-II, Time Series, 1984-1985, edited by D. R. Brillinger
   - Volumes III-IV, Philosophy and Principles of Data Analysis, 1984-1986, edited by L. V. Jones
   - Volume V, Graphics, 1988, edited by W. S. Cleveland
-  - Volume VI, More Mathematical, 1990, edited by C. M. Mallows 
-  - Volume VII, Factorial and ANOVA, 1992, edited by D. R. Cox 
+  - Volume VI, More Mathematical, 1990, edited by C. M. Mallows
+  - Volume VII, Factorial and ANOVA, 1992, edited by D. R. Cox
   - Volume VIII, Multiple Comparisons, 1994, edited by H. I. Braun
 * **J. W. Tukey's Index to Statistics and Probability**
   - Volume 1, The Citation Index, 1973
@@ -386,7 +378,7 @@ Tukey技术通常是在“诚实差异”（HSD）测试的标题下看到的，
   - These indexes appeared as Volumes 2-5 of the Information Access Series; Volume 1 of that series is Statistics CumIndex, 1973, with J. L. Dolby.
 * **Other Books of J. W. Tukey**
   - Convergence and Uniformity in Topology, 1940
-  - Data Analysis and Regression, 1977, with F. Mosteller 
+  - Data Analysis and Regression, 1977, with F. Mosteller
   - Exploratory Data Analysis, 1977
   - Graphical Analysis of Multiresponse Data, 1998, with K. E. Basford
   - The Management of Weather Resources, Volume 2, The Role of Statistics, 1978, with D. R. Brillinger and L. V. Jones
@@ -399,21 +391,19 @@ Tukey技术通常是在“诚实差异”（HSD）测试的标题下看到的，
   - Fundamentals of Exploratory Analysis of Variance, 1991, with David C. Hoaglin and Frederick Mosteller
   - Understanding Robust and Exploratory Data Analysis, 1983, with David C. Hoaglin and Frederick Mosteller
 
-
 **The Jackknife.**  This is a tool that Tukey proposed and used for CDA over many years. In naive terms it provides an indication of the uncertainty of an estimate by judiciously combining estimates based on subsets of the full data set.
 
 **刀切法。** 这是Tukey多年来建议和用于CDA的工具。从天真的角度来看，它通过根据完整数据集的子集明智地组合估计来表明估计值的不确定性。
 
 He called the procedure the jackknife because
 
-他称该程序为刀切法，因为 
+他称该程序为刀切法，因为
 
 > The procedure ... shares two characteristics with a Boy Scout Jackknife: (1) wide applicability to very many different problems, and (2) inferiority to special tools for those problems for which special tools have been designed and built.
 
-
 > 该过程...与童子军折刀共享两个特征：（1）针对许多不同的问题的广泛适用性，以及（2）针对设计和构建特殊工具的特殊工具的自卑。
 
-It provides uncertainty analyses when exact estimates are unavailable. 
+It provides uncertainty analyses when exact estimates are unavailable.
 
 当不可用的确切估计值时，它提供了不确定性分析。
 
@@ -494,7 +484,6 @@ His own name led to some amusing confusions. In 1980 NASA sponsored a symposium 
 ## 收集的作品
 
 Many of the Tukey papers, as well as a number of previously unpublished works, may be found in The Collected Works of John W. Tukey published by Wadsworth, Belmont. These volumes were Bill Cleveland's wonderful prescient idea. There are JWT's and editors' forewords discussing various of the individual papers.
-
 
 许多Tukey论文以及许多以前未发表的作品都可以在Belmont Wadsworth发表的John W. Tukey收集的作品中找到。这些卷是比尔·克利夫兰（Bill Cleveland）的出色见识。有JWT和编辑的前言讨论各种个人论文。
 

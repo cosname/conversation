@@ -2,9 +2,10 @@
 
 > 编辑部按：统计之都访谈第46期为翻译作品。原文作者是Luisa T. Fernholz and Stephan Morgenthaler，标题为*A Conversation with John W. Tukey and Elizabeth Tukey*，于2000年发表在Statistical Science。译者：陈星宇（华中科技大学数学与统计学院19级数学与应用数学专业在读学生）、徐泓、蔡再利，审校定稿：陈星宇、魏太云、黄俊文。感谢原文作者、译者和审校人员的辛勤付出。
 
+> 导读（陈星宇）：John W. Tukey，1915-2000，美国数学家和统计学家，数据科学先驱，快速傅里叶变换和箱线图发明人，单词“比特（bit）”的创造人，美国国家科学奖章获得者，美国国家科学院院士，IEEE荣誉奖章获得者。这些标签或许可以概括Tukey，但是阅读本文后你会觉得如此概括未免失之浅薄。Tukey的研究涉猎甚广，导弹模型的设计，大气数据的分析，选举预测的技术......似乎包罗万象。他对统计学的看法，他对探索性数据分析的大力推动，他非凡的教育和成长经历，他与香农、费曼、图灵等学界大咖的交往趣事，他广泛的社会活动和研究在本文中均可见一斑。
 > 导读（陈星宇）：John W. Tukey，1915-2000，美国数学家和统计学家，数据科学先驱，快速傅里叶变换和箱线图发明人，单词“比特（bit）”的创造人，美国国家科学奖章获得者，美国国家科学院院士，IEEE荣誉奖章。这些标签或许可以概括Tukey，但是阅读本文后你会觉得如此概括未免失之浅薄。Tukey的研究涉猎甚广，导弹模型的设计，大气数据的分析，选举预测的技术......似乎包罗万象。他对统计学的看法，他对探索性数据分析的大力推动，他非凡的教育和成长经历，他与香农、费曼、图灵等学界大咖的交往趣事，他广泛的社会活动和研究，均在本文中可见一斑。
 
-<div align="center"> 
+<div align="center">
 
 ![图1.John·Tukey，日期和地点不详](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-02.jpg?height=587&width=404&top_left_y=460&top_left_x=694)
 
@@ -24,6 +25,10 @@ John W. Tukey于1950年与Elizabeth Louise Rapp结婚。婚前，Elizabeth是新
 
 Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻补充了他的陈述，增添了一些个人色彩。她已读过并同意发表这次谈话。不幸的是，Elizabeth于1998年1月6日去世。这篇文章也是对她的纪念。
 
+在接下来的对话中，Luisa Fernholz和Stephan Morgenthaler提出的问题以“Q：”表示。John W. Tukey的回答用“John：”表示，Elizabeth Tukey的回答用“Elizabeth：”表示。
+
+<div align="center">
+
 在接下来的对话中，Luisa Fernholz和Stephan Morgenthaler提出的问题以“**Q**：”表示。John W. Tukey的回答用“**John**：”表示，Elizabeth Tukey的回答用“**Elizabeth**：”表示。
 
 <div align="center"> 
@@ -36,6 +41,13 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 ## 统计学
 
+**Q**：谈谈你对统计的看法，似乎与你年轻时的主流看法相反。我的印象是，主流观点实际上是Fisher学派的观点（译者注：Ronald Fisher（1890～1962），英国统计和遗传学家，20世纪最重要的统计学家之一），你有一个概率模型，其中包含待估计和检验的参数。而你提倡更仔细地观察数据，并让数据指导你的工作。
+
+**John**：我不确定早期发生了什么。我的第一篇准统计论文是概率论相关的。它是关于随机变量的分数部分的文章（译者注：1938,[On the distribution of the fractional part of a statistical variable](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=5767&option_lang=rus)）。在统计方面，我阅读量很大，我读了布朗大学数学图书馆里很多书。我只是阅读但并不研究它们。让我拿一份参考书目[从书架上拿了一份参考书目]。我的第一篇统计学论文是Scheffé and Tukey（译者注：1944,[A Formula for Sample Sizes for Population Tolerance Limits](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-15/issue-2/A-Formula-for-Sample-Sizes-for-Population-Tolerance-Limits/10.1214/aoms/1177731287.full?tab=ArticleLink)）。这是一篇关于总体容忍限（population tolerance limits）的简短说明。那时侯，我的教育是在研究战争问题中得到的，其中大部分时间是和Charlie Winsor共事（译者注：Charlie Winsor，1895-1951，美国著名统计学家，一个广为人知的工作是发明了统计学中的葡萄酒分类方法，现在以他的名字命名）。因此，我们很自然地将统计学视为某种基于数据来寻找用途的东西。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道Charlie Winsor是怎么想的，这很容易发现。我对Sam Wilks的想法也有一些了解，那是完全不同的。Charlie有着非常简短的工程背景，以及更长的与Raymond Pearl合作的背景。他们合作的领域现在可以称之为生物统计（biometrics/biostatistics），但没有那么正式。因此，对于Charlie来说，处理数据是很自然的事情。
+
+**Q**：完全不考虑样本总体的参数？
+
+**John**：不。不，不，不！我正试着回想过去。不，因为从某种意义上说，反例是Hastings, Mosteller, Tukey和Winsor在1947年发表的论文《小样本的低阶矩：顺序统计量的比较研究》（译者注：1947,[Low moments for small samples: a comparative study of order statistics](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-18/issue-3/Low-Moments-for-Small-Samples--A-Comparative-Study-of/10.1214/aoms/1177730388.full)）。这是一个用于计算推断目标的顺序统计量的低阶矩的工作，但不限于高斯分布，我们也有均匀分布和一个有合理尾部的分布。如果你讨厌样本总体参数，你就不会参与其中。Charlie Winsor也参与了这项工作，他不只是挂名。
 **Q**：谈谈你对统计的看法，你的看法似乎与你年轻时候（学界）的主流看法相反。我的印象是，主流观点实际上是Fisher学派的（译者注：Ronald Fisher（1890～1962），英国统计和遗传学家，20世纪最重要的统计学家之一），你有一个概率模型，其中包含待估计和检验的参数。而你提倡更仔细地观察数据，并让数据指导你的工作。
 
 **John**：我不确定早期发生了什么。我的第一篇准统计论文是概率论相关的。它是关于随机变量的分数部分的文章（译者注：1938,[*On the distribution of the fractional part of a statistical variable*](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=5767&option_lang=rus)）。在统计方面，我阅读量很大，我读了布朗大学数学图书馆里很多书。我只是阅读但并不研究它们。让我拿一份参考书目（从书架上拿了一份参考书目）。我的第一篇统计学论文是Scheffé and Tukey（译者注：1944,[*A Formula for Sample Sizes for Population Tolerance Limits*](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-15/issue-2/A-Formula-for-Sample-Sizes-for-Population-Tolerance-Limits/10.1214/aoms/1177731287.full?tab=ArticleLink)）。这是一篇关于总体容忍限（population tolerance limits）的简短说明。那时侯，我的教育是在研究战争问题中得到的，其中大部分时间是和Charlie Winsor共事（译者注：Charlie Winsor，1895-1951，美国著名统计学家，一个广为人知的工作是发明了统计学中的葡萄酒分类方法，现在以他的名字命名）。因此，我们很自然地将统计学视为某种基于数据来寻找用途的东西———也许不是直接地，不过最多只隔一步。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道Charlie Winsor是怎么想的，这很容易发现。（我对Sam Wilks的想法也有一些了解，他的想法是完全不同的。）Charlie有着非常简短的工程背景，以及更长的与Raymond Pearl合作的背景。他们合作的领域现在可以称之为生物统计（biometrics/biostatistics），但没有那么正式。因此，对于Charlie来说，处理数据是很自然的事情。
@@ -54,6 +66,11 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **John**：不，不一定。例如，John Wishart完全是数学型的，而不是以数据为导向的。我想我从来没有像一些人认为的那样担心，“这些人到底在干什么”。
 
+**Q**：谈到这些更加面向数据的方法，让我感到惊讶的是，为什么非参数方法（我认为也是在那个时候出现的）没有产生更大的影响。人们没有说：“这是我们必须做的事情。”
+
+**John**：嗯，就是如此。具体历史我记得不是很清楚，但其中一些事情可能要追溯到第一次世界大战前，主要是社会科学领域的零星事件。而对于一个即将成为活跃领域的事物有两个重要的要求，这些要求在不同的时间和地点有不同的强度。一是它必须看起来足够数学化，以避免来自数学同事们的批评。二是必须有足够的论文问题来维持活跃度。就我而言，我想再加上第三点，**它应当适时地对数据分析产生有用的影响**。我想前两种观点有个推论：如果它看起来是一个连贯的思想体系，有共同的原则等等，那么会是个有力的加分项。
+
+有一篇Fisher的论文，我临时引用可能不会很准确（Fisher,1929,[Statistics and Biological Research](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到以后这不一定是对的。我想说在特定的应用中，非参数技术有助于保护其侧翼（译者注：比喻），不受来自其他方向人的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是说数据并不真正满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数并不太适合对事物进行精细的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好性质是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样清楚该往哪里走。我并不是说经典回归就很理想很棒，但它通常提供了一种可以进一步探索的自然的方法。我认为这是阻碍非参数方法的一个因素。另一个是，你会疲于试图证明所有可能的输入。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰人们，这种方法必须进入到你对事物的感知中。
 **Q**：谈到这些更加面向数据的方法，让我感到惊讶的是，为什么非参数方法（我认为也是在那个时候出现的）没有产生更大的影响。人们没有说：“这是我们必须要做的事情。”
 
 **John**：嗯，就是如此。具体历史我记得不是很清楚，但其中一些事情可能要追溯到第一次世界大战前，主要是社会科学领域的零星事件。而对于一个即将成为活跃领域的事物有两个重要的要求，这些要求在不同的时间和地点有不同的强度。一是它必须看起来足够数学化，以避免来自数学同事们的批评。二是必须有足够的论文问题来维持活跃度。就我而言，我想再加上第三点，**它应当适时地对数据分析产生有用的影响**。我想前两种观点有个推论：如果它看起来是一个连贯的思想体系，有共同的原则等等，那么会是个有力的加分项。Fisher有一篇论文，我临时引用的可能不会很准确（Fisher,1929,[*Statistics and Biological Research*](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应于每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到从今以后这不一定是对的。我想说在特定的应用中，非参数技术有助于保护其侧翼（译者注：比喻），免受来自其他方向的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是，数据并不真正地满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数并不太适合对事物进行精细的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好性质是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样，清楚地知道该往哪里走。我并不是说经典回归就很理想很好，但它通常是一种可以进一步探索的自然的方法。我认为这是阻碍非参数方法的一个因素。另一个是，你会疲于试图证明所有可能的输入。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰着人们，但这种方法必须嵌入到你对事物的感知中。
@@ -118,12 +135,12 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **John**：是的。虽然关于“正确”是什么这个问题，并不像人们想的那么简单。Herman Weyl评论说，他唯一清楚确信的是直觉数学，但由于他想做数学，他没有限制自己做什么。挺聪明的一个人。
 
-<div align="center"> 
+<div align="center">
 
 ![图3. John·W·Tukey于1973年获得尼克松总统颁发的美国国家科学奖章。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-03.jpg?height=531&width=508&top_left_y=85&top_left_x=642)
 
 图3：John·W·Tukey于1973年获得尼克松总统颁发的美国国家科学奖章。
-  
+
 </div>
 
 ## 贝尔实验室
@@ -214,12 +231,12 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 > （译者注：倒频谱，cepstrum，就是将频谱（spectrum）的英文前四个字母反过来写。见Bogert, Healy和Tukey, 1963, [*The quefrency analysis of time series for echoes : cepstrum, pseudo-autocovariance, cross-cepstrum and saphe cracking.*](https://www.semanticscholar.org/paper/The-quefrency-analysis-of-time-series-for-echoes-%3A-Bogert/15bb1365026071ae3423d64ed2d18c554cafd6f6)）
 
-<div align="center"> 
+<div align="center">
 
 ![图4.John·Tukey，日期和地点不详。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=805&width=507&top_left_y=85&top_left_x=96)
 
 图4：John·Tukey，日期和地点不详。
-  
+
 </div>
 
 ## 个人相关
@@ -368,13 +385,13 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Elizabeth**：是的，我抓到了一条大猎鱼（wahoo，一种大型游钓鱼），但他的逃走了。那些就是我们钓到的鱼。我们俩，在一天里钓的。这里这条大的，这滑溜溜的家伙把我的地窖塞满了。这两条大的，前面的那条，让John在那年的迈阿密钓鱼大赛中获得了一张奖状。我们在当地报纸上看到了我们的照片。我对一个在成长过程中经常带我去钓鱼的娘家叔叔说，“看看你的学生都干了什么。”他把那张照片发给了我的堂兄弟姐妹，并附上了一个说明：“你们为什么不这么做呢？”
 
-<div align="center"> 
+<div align="center">
 
 ![图5：John和Elizabeth Tukey以及他们在基韦斯特捕到的鱼。](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-12.jpg?height=520&width=456&top_left_y=85&top_left_x=668)
 
 图5：John和Elizabeth Tukey以及他们在基韦斯特捕到的鱼。
-  
-</div>  
+
+</div>
 
 **Q**：园艺是另一件你喜欢的事。对吗？
 
@@ -400,6 +417,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：理查德·费曼（Richard Feynman）是那个团体的一员吗？（译者注：费曼是传奇物理学家）
 
+**John**：嗯，其中一件事是，来自英国的Arthur Stone（我不认为是Frank Smithies）不得不为他的活页笔记本买一些纸。因为他有英国尺寸的笔记本和美国尺寸的纸，他有很多纸条。所以他开始折叠正多边形，当他折一个六边形时，他意识到他得到了一些不寻常的东西。在六边形中，你看到的是六个三角形，通过向内和向外折叠，一个不同的面出现了。因此，Bryant Tuckerman、Dick Feynman和我都参与了挠性体的研究（[flexagon](https://en.wikipedia.org/wiki/Flexagon)）。所以这是一个偶然的活动。另一个偶然的活动是，Aurel Wintner在该研究所呆了一年，当时该研究所的数学部分在费恩厅（Fine Hall），所以他在研讨会和课程之间做了一些事情。在课程结束时，C.C.McDuffie是我们三人之外唯一剩下的参与者，他带着所有人坐他的车去北泽西岛（North Jersey）庆祝。因此，根据国会图书馆的记录，该课程的笔记由Ralph Boas, Frank Smithies, John W. Tukey在Cyrus C. McDuffie的同情鼓励下完成。第一年我应该是一名化学家，是二年级分析实验室的助理，这让我有点不安，因为我在布朗大学的一个物理化学实验室做过一年半的助理。但在普林斯顿当物理助理你必须有博士学位。我学过一些化学，但更多的是数学。我在第一年年底参加了数学预科考试。
 **John**：嗯，其中一件事是，来自英国的Arthur Stone（我不认为是Frank Smithies）不得不为他的活页笔记本买一些纸。因为他有英国尺寸的笔记本和美国尺寸的纸，他有很多纸条。所以他开始折叠正多边形，当他折一个六边形时，他意识到他得到了一些不寻常的东西。在六边形中，你看到的是六个三角形，通过向内和向外折叠，一个不同的面出现了。因此，Bryant Tuckerman、Dick Feynman和我都参与了挠性体（flexagon）的研究。所以这是一个偶然的活动。另一个偶然的活动是，Aurel Wintner在该研究所呆了一年，当时该研究所的数学部分在费恩厅（Fine Hall），所以他在研讨会和课程之间做了一些事情。在课程结束时，C.C.McDuffie是我们三人之外唯一剩下的参与者，他带着所有人坐他的车去北泽西岛（North Jersey）庆祝。因此，根据国会图书馆的记录，该课程的笔记由Ralph Boas, Frank Smithies, John W. Tukey在Cyrus C. McDuffie的同情鼓励下完成。第一年我应该是一名化学家，是二年级分析实验室的助理，这让我有点不开心，因为我在布朗大学的一个物理化学实验室做过一年半的助理。但在普林斯顿当物理助理你必须有博士学位。我学过一些化学，但更多的是数学。我在第一年年底参加了数学预科考试。
 
 **Q**：我认为普林斯顿数学系一直有一个名声，那就是你得自学。
@@ -414,12 +432,12 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **John**：是的，图灵车。我想就是那样。我知道Ralph Boas就是其中之一，因为在某处有一张照片，Ralph拿着雨伞指着教堂山（Chapel Hill）上的一个路标，上面写着“西北12又3/4街”。我不能保证这足够准确。
 
-<div align="center"> 
-  
+<div align="center">
+
 ![图6：John·W·Tukey，普林斯顿大学（早年）](https://cdn.mathpix.com/cropped/278bb84d9631cf35dade846197c1edd9-04.jpg?height=466&width=508&top_left_y=85&top_left_x=642)
 
 图6：John·W·Tukey，普林斯顿大学（早年）。
-  
+
 </div>
 
 ## 环境政策
@@ -521,7 +539,6 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 **Elizabeth**：没有，John可能有过一次。唯一有趣的事情发生在我身上。John给我安装了一个电脑屏幕，这样他问我一些问题，我可以马上回答。所以我一直坐在他旁边。一天晚上，大约两点半的时候，由于设备的原因，他们把工作室里弄得冷到你简直快要冻僵了。他们拿摄像机在房间里拍摄。大概一到两分钟，什么事都没有做。所以我穿着外套坐在那里看着屏幕，突然，我在屏幕上看到了什么，就是我了。幸好，在我做出反应之前，我已经离开了画面。那真的很有趣，因而我在NBC的存档里面。
 
 **Q**：Elizabeth和John，感谢你们的盛情款待和这次非常愉快的谈话。
-
 
 ## 关于统计之都访谈
 
