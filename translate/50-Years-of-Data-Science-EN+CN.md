@@ -1671,7 +1671,7 @@ In principle, the purpose of scientific publication is to enable reproducibility
 
 > An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.
 
-> **科学出版物中，关于计算科学的文章并不是学术成果本身，它只是学术的广告而已。真正的学术成果，是那些能够得到图表等分析结果的——完整的软件开发环境和操作指南**。
+> **科学出版物中，关于计算科学的文章并不是学术成果本身，它们只是学术的广告而已。真正的学术成果，是孕育和诞生数值结果的——完整的软件开发环境、代码和操作指南**。
 
 
 To meet the original goal of scientific publication, one should share the underlying code and data. Moreover there are benefits to authors. Working from the beginning with a plan for sharing code and data leads to higher quality work, and ensures that authors can access their own former work, and those of their coauthors, students and postdocs (Donoho et al. 2009). Over the years, such practices have become better understood (Stodden 2012; Stodden, Guo, and Ma 2013) and have grown (Freire, Bonnet, and Shasha 2012; Stodden, Leisch, and Peng 2014), though they are still far from universal today. In absolute terms the amount of essentially nonreproducible research is far larger than ever before (Stodden, Guo, and Ma 2013).
