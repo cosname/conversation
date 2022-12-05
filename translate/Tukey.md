@@ -74,7 +74,7 @@ Q：Would you say that you read most of the literature that was published? As it
 
 Q：你会说你阅读了大部分发表的文献吗？它出来的时候，你会读吗？
 
-John：I don't know. What was maybe more important was that I read Series B, then called the Supplement to the Journal of the Royal Statistical Society - read, again, rather than studied-from volume 1 on. And I read through Biometrika, so that I had a reasonably good feel for what people were doing or had been doing-for 40 years in the case of Biometrika.
+John：I don't know. What was maybe more important was that I read Series B, then called the Supplement to the Journal of the Royal Statistical Society - read, again, rather than studied from volume 1 on. And I read through Biometrika, so that I had a reasonably good feel for what people were doing or had been doing-for 40 years in the case of Biometrika.
 
 John：我不知道。也许更重要的是，我读了JRSS-B系列，那时被称为*Journal of the Royal Statistical Society*的补充。我读了，反复地读，而不是从第一卷开始学习。我通读了*Biometrika*，所以我对40年来人们在做什么或已经做了什么有了一个相当好的感觉。
 
