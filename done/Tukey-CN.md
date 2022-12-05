@@ -24,9 +24,6 @@ John W. Tukey于1950年与Elizabeth Louise Rapp结婚。婚前，Elizabeth是新
 
 Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻补充了他的陈述，增添了一些个人色彩。她已读过并同意发表这次谈话。不幸的是，Elizabeth于1998年1月6日去世。这篇文章也是对她的纪念。
 
-在接下来的对话中，Luisa Fernholz和Stephan Morgenthaler提出的问题以“Q：”表示。John W. Tukey的回答用“John：”表示，Elizabeth Tukey的回答用“Elizabeth：”表示。
-
-
 在接下来的对话中，Luisa Fernholz和Stephan Morgenthaler提出的问题以“**Q**：”表示。John W. Tukey的回答用“**John**：”表示，Elizabeth Tukey的回答用“**Elizabeth**：”表示。
 
 <div align="center"> 
@@ -39,7 +36,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 ## 统计学
 
-**Q**：谈谈你对统计的看法，你的看法似乎与你年轻时候（学界）的主流看法相反。我的印象是，主流观点实际上是Fisher学派的（译者注：Ronald Fisher（1890～1962），英国统计和遗传学家，20世纪最重要的统计学家之一），你有一个概率模型，其中包含待估计和检验的参数。而你提倡更仔细地观察数据，并让数据指导你的工作。
+**Q**：谈谈你对统计的看法，你的看法似乎与你年轻时候（学界）的主流看法相反。我的印象是，主流观点实际上是Fisher学派的（译者注：Ronald Fisher，1890～1962，英国统计学家、遗传学家，现代统计科学的奠基人之一。），你有一个概率模型，其中包含待估计和检验的参数。而你提倡更仔细地观察数据，并让数据指导你的工作。
 
 **John**：我不确定早期发生了什么。我的第一篇准统计论文是概率论相关的。它是关于随机变量的分数部分的文章（译者注：1938, [*On the distribution of the fractional part of a statistical variable*](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=5767&option_lang=rus)）。在统计方面，我阅读量很大，我读了布朗大学数学图书馆里很多书。我只是阅读但并不研究它们。让我拿一份参考书目（从书架上拿了一份参考书目）。我的第一篇统计学论文是Scheffé and Tukey（译者注：1944, [*A Formula for Sample Sizes for Population Tolerance Limits*](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-15/issue-2/A-Formula-for-Sample-Sizes-for-Population-Tolerance-Limits/10.1214/aoms/1177731287.full?tab=ArticleLink)）。这是一篇关于总体容忍限（population tolerance limits）的简短说明。那时侯，我的教育是在研究战争问题中得到的，其中大部分时间是和Charlie Winsor共事（译者注：Charlie Winsor，1895-1951，美国著名统计学家，一个广为人知的工作是发明了统计学中的葡萄酒分类方法，现在以他的名字命名）。因此，我们很自然地将统计学视为某种基于数据来寻找用途的东西———也许不是直接地，不过最多只隔一步。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道Charlie Winsor是怎么想的，这很容易发现。（我对Sam Wilks的想法也有一些了解，他的想法是完全不同的。）Charlie有着非常简短的工程背景，以及更长的与Raymond Pearl合作的背景。他们合作的领域现在可以称之为生物统计(biometrics / biostatistics)，但没有那么正式。因此，对于Charlie来说，处理数据是很自然的事情。
 
@@ -511,7 +508,7 @@ Fisher有一篇论文，我临时引用的可能不会很准确（Fisher, 1929, 
 
 **John**：是的，那次选举芝加哥的河区（river wards）是关键选区。有一个问题是，两边旗鼓相当，难分胜负。没有人愿意让自己的支持率数字下降，以致让对手获利。我们后来稍微转变了一下思路，把伊利诺伊全州的数据加了进来。我觉得选举预测是最接近实时统计的东西。因为你必须要很快，且不能犯任何错误。
 
-> 译者注：美国总统大选的结果基本由选举日（11月首个周一的翌日）全民普选的结果决定，全民普选决定本州的选举人票投给谁，共有538个选举人选票，总统候选人获得270张选举人选票后就可以宣告胜利，大部分州的计票结果在选举日的次日可以确定，但部分州的计票时间较晚。选举预测是新闻广播公司和博彩行业的重头戏，有几种类型的数据可用：历史数据（在各个级别，例如县(country)），选举前和选举中的民意调查结果，政治学家的预测，晚上流入的部分计票结果，以及选定选区的完整结果。John Tukey使用层次贝叶斯做出了重要而准确的预测模型，进一步了解选举预测可以参考[Stephen E. Fienberg ,2007, Memories of Election Night Predictions Past: Psephologists and Statisticians at Work](https://www.tandfonline.com/doi/pdf/10.1080/09332480.2007.10722868)。
+> 译者注：美国总统大选大部分州的计票结果在选举日的次日可以确定，但部分州的计票时间较晚。选举预测是新闻广播公司和博彩行业的重头戏，有几种类型的数据可用：历史数据（在各个级别，例如县(country)），选举前和选举中的民意调查结果，政治学家的预测，晚上流入的部分计票结果，以及选定选区的完整结果。John Tukey使用层次贝叶斯做出了重要而准确的预测模型，进一步了解选举预测可以参考[Stephen E. Fienberg ,2007, Memories of Election Night Predictions Past: Psephologists and Statisticians at Work](https://www.tandfonline.com/doi/pdf/10.1080/09332480.2007.10722868)。
 
 **Elizabeth**：你没有。你们都没有。你们从来没有失败过。
 
