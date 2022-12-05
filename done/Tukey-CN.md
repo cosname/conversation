@@ -26,7 +26,6 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 在接下来的对话中，Luisa Fernholz和Stephan Morgenthaler提出的问题以“Q：”表示。John W. Tukey的回答用“John：”表示，Elizabeth Tukey的回答用“Elizabeth：”表示。
 
-<div align="center">
 
 在接下来的对话中，Luisa Fernholz和Stephan Morgenthaler提出的问题以“**Q**：”表示。John W. Tukey的回答用“**John**：”表示，Elizabeth Tukey的回答用“**Elizabeth**：”表示。
 
