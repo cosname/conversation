@@ -1,8 +1,8 @@
 # 统计之都访谈第46期：数据科学先驱John Tukey
 
-> 编辑部按：统计之都访谈第46期为翻译作品。原文作者是Luisa T. Fernholz and Stephan Morgenthaler，标题为*A Conversation with John W. Tukey and Elizabeth Tukey*，于2000年发表在*Statistical Science*。译者：陈星宇（华中科技大学数学与统计学院19级数学与应用数学专业在读学生）、徐泓、蔡再利，审校定稿：陈星宇、魏太云、黄俊文。感谢原文作者、译者和审校人员的辛勤付出。Tukey一生纵横驰骋，以其预言家式的前瞻眼光、深邃广博的思想和独具匠心的创造力，预言并引领了数据科学的发展。他在1962年发表的著名文章*The Future of Data Analysis*被认为是“数据科学”诞生的标志；而2022的今年，恰好是数据科学第60个年头——故译本文以纪念。
+> 编辑部按：统计之都访谈第46期为翻译作品。原文作者是Luisa T. Fernholz 和 Stephan Morgenthaler，标题为*A Conversation with John W. Tukey and Elizabeth Tukey*，于2000年发表在*Statistical Science*。译者：陈星宇（华中科技大学数学与统计学院19级数学与应用数学专业在读学生）、徐泓、蔡再利，审校定稿：陈星宇、魏太云、黄俊文。感谢原文作者、译者和审校人员的辛勤付出。Tukey一生纵横驰骋，以其预言家式的前瞻眼光、深邃广博的思想和独具匠心的创造力，预言并引领了数据科学的发展。他在1962年发表的著名文章 *The Future of Data Analysis* 被认为是“数据科学”诞生的标志；而2022的今年，恰好是数据科学第60个年头——故译本访谈以纪念之。
 
-> 导读（陈星宇）：John W. Tukey，1915-2000，数据科学先驱，20世纪最著名的统计学家之一，快速傅里叶变换(FFT)和箱线图发明人，单词“比特(bit)、软件(software)”的创造人，美国国家科学奖章获得者，美国国家科学院院士，IEEE荣誉奖章获得者。这些标签或许可以概括Tukey，但是阅读本文后你会觉得如此概括未免失之浅薄。Tukey的研究涉猎甚广，导弹模型的设计，大气数据的分析，选举预测的技术......似乎包罗万象。他对统计学的看法，他对探索性数据分析的大力推动，他非凡的教育和成长经历，他与香农、费曼、图灵等学界大咖的交往趣事，他广泛的社会活动和研究，在本文中均可见一斑。
+> 导读（陈星宇）：John W. Tukey，1915-2000，数据科学先驱，20世纪最著名的统计学家之一，快速傅里叶变换(FFT)和箱线图发明人，单词“比特(bit)、软件(software)”的创造人，美国国家科学奖章获得者，美国国家科学院院士，IEEE荣誉奖章获得者。这些标签或许可以概括Tukey，但是阅读本文后你会觉得如此概括未免失之浅薄。Tukey的研究涉猎甚广，导弹模型的设计，大气数据的分析，选举预测的技术......似乎包罗万象。他对统计学发展方向的看法，他对探索性数据分析的大力推动，他非凡的教育和成长经历，他与香农、费曼、图灵等学界大咖的交往趣事，他广泛的社会活动和研究，在本文中均可见一斑。
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：谈谈你对统计的看法，你的看法似乎与你年轻时候（学界）的主流看法相反。我的印象是，主流观点实际上是Fisher学派的（译者注：Ronald Fisher（1890～1962），英国统计和遗传学家，20世纪最重要的统计学家之一），你有一个概率模型，其中包含待估计和检验的参数。而你提倡更仔细地观察数据，并让数据指导你的工作。
 
-**John**：我不确定早期发生了什么。我的第一篇准统计论文是概率论相关的。它是关于随机变量的分数部分的文章（译者注：1938,[*On the distribution of the fractional part of a statistical variable*](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=5767&option_lang=rus)）。在统计方面，我阅读量很大，我读了布朗大学数学图书馆里很多书。我只是阅读但并不研究它们。让我拿一份参考书目（从书架上拿了一份参考书目）。我的第一篇统计学论文是Scheffé and Tukey（译者注：1944,[*A Formula for Sample Sizes for Population Tolerance Limits*](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-15/issue-2/A-Formula-for-Sample-Sizes-for-Population-Tolerance-Limits/10.1214/aoms/1177731287.full?tab=ArticleLink)）。这是一篇关于总体容忍限（population tolerance limits）的简短说明。那时侯，我的教育是在研究战争问题中得到的，其中大部分时间是和Charlie Winsor共事（译者注：Charlie Winsor，1895-1951，美国著名统计学家，一个广为人知的工作是发明了统计学中的葡萄酒分类方法，现在以他的名字命名）。因此，我们很自然地将统计学视为某种基于数据来寻找用途的东西———也许不是直接地，不过最多只隔一步。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道Charlie Winsor是怎么想的，这很容易发现。（我对Sam Wilks的想法也有一些了解，他的想法是完全不同的。）Charlie有着非常简短的工程背景，以及更长的与Raymond Pearl合作的背景。他们合作的领域现在可以称之为生物统计(biometrics / biostatistics)，但没有那么正式。因此，对于Charlie来说，处理数据是很自然的事情。
+**John**：我不确定早期发生了什么。我的第一篇准统计论文是概率论相关的。它是关于随机变量的分数部分的文章（译者注：1938, [*On the distribution of the fractional part of a statistical variable*](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=5767&option_lang=rus)）。在统计方面，我阅读量很大，我读了布朗大学数学图书馆里很多书。我只是阅读但并不研究它们。让我拿一份参考书目（从书架上拿了一份参考书目）。我的第一篇统计学论文是Scheffé and Tukey（译者注：1944, [*A Formula for Sample Sizes for Population Tolerance Limits*](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-15/issue-2/A-Formula-for-Sample-Sizes-for-Population-Tolerance-Limits/10.1214/aoms/1177731287.full?tab=ArticleLink)）。这是一篇关于总体容忍限（population tolerance limits）的简短说明。那时侯，我的教育是在研究战争问题中得到的，其中大部分时间是和Charlie Winsor共事（译者注：Charlie Winsor，1895-1951，美国著名统计学家，一个广为人知的工作是发明了统计学中的葡萄酒分类方法，现在以他的名字命名）。因此，我们很自然地将统计学视为某种基于数据来寻找用途的东西———也许不是直接地，不过最多只隔一步。现在，虽然我不相信其他有实际经验的人不是这种观点，但我想说，他们肯定没有成功地宣传这种观点。我想应该把二十世纪40年代后期作为开始时期，确切的说是从1944年开始。我不知道人们一般是怎么想的，但我知道Charlie Winsor是怎么想的，这很容易发现。（我对Sam Wilks的想法也有一些了解，他的想法是完全不同的。）Charlie有着非常简短的工程背景，以及更长的与Raymond Pearl合作的背景。他们合作的领域现在可以称之为生物统计(biometrics / biostatistics)，但没有那么正式。因此，对于Charlie来说，处理数据是很自然的事情。
 
 **Q**：完全不考虑样本总体的参数？
 
@@ -60,7 +60,9 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：谈到这些更加面向数据的方法，让我感到惊讶的是，为什么非参数方法（我认为也是在那个时候出现的）没有产生更大的影响。人们没有说：“这是我们必须要做的事情。”
 
-**John**：嗯，就是如此。具体历史我记得不是很清楚，但其中一些事情可能要追溯到第一次世界大战前，主要是社会科学领域的零星事件。而对于一个即将成为活跃领域的事物有两个重要的要求，这些要求在不同的时间和地点有不同的强度。一是它必须看起来足够数学化，以避免来自数学同事们的批评。二是必须有足够的论文问题来维持活跃度。就我而言，我想再加上第三点，**它应当适时地对数据分析产生有用的影响**。我想前两种观点有个推论：如果它看起来是一个连贯的思想体系，有共同的原则等等，那么会是个有力的加分项。Fisher有一篇论文，我临时引用的可能不会很准确（Fisher, 1929, [*Statistics and Biological Research*](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应于每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到从今以后这不一定是对的。我想说在特定的应用中，非参数技术有助于保护其侧翼（译者注：比喻），免受来自其他方向的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是，数据并不真正地满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数并不太适合对事物进行精细的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好性质是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样，清楚地知道该往哪里走。我并不是说经典回归就很理想很好，但它通常是一种可以进一步探索的自然的方法。我认为这是阻碍非参数方法的一个因素。另一个是，你会疲于试图证明所有可能的输入。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰着人们，但这种方法必须嵌入到你对事物的感知中。
+**John**：嗯，就是如此。具体历史我记得不是很清楚，但其中一些事情可能要追溯到第一次世界大战前，主要是社会科学领域的零星事件。而对于一个即将成为活跃领域的事物有两个重要的要求，这些要求在不同的时间和地点有不同的强度。一是它必须看起来足够数学化，以避免来自数学同事们的批评。二是必须有足够的论文问题来维持活跃度。就我而言，我想再加上第三点，**它应当适时地对数据分析产生有用的影响**。我想前两种观点有个推论：如果它看起来是一个连贯的思想体系，有共同的原则等等，那么会是个有力的加分项。
+
+Fisher有一篇论文，我临时引用的可能不会很准确（Fisher, 1929, [*Statistics and Biological Research*](https://www.nature.com/articles/124615a0)），他在论文中的基本意思是，“显然不可能有一套统计推断技术，可以用于不同的假设，即分别对应于每种不同的样本总体”。在50年后的现在，这话可能仍然是正确的。但我想我们现在认识到从今以后这不一定是对的。我想说在特定的应用中，非参数技术有助于保护其侧翼，免受来自其他方向的攻击。如果你有一个传统的最小二乘高斯正态理论之类的东西，那么一个显而易见的攻击就是，数据并不真正地满足高斯分布。如果有人展示出非参数方法的结果也是显著的，那就大大削弱了这种攻击。非参数并不太适合对事物进行精细的分析。如果你有一个仅用中位数就能很好说明问题的情况，那么拥有基于中位数的良好性质是很好的。但是如果你需要进行复杂一点的分析，那么你可能不会像做一些经典的回归之类的事情那样，清楚地知道该往哪里走。我并不是说经典回归就很理想很好，但它通常是一种可以进一步探索的自然的方法。我认为这是阻碍非参数方法的一个因素。另一个是，你会疲于试图证明所有可能的输入。但是，你对这个世界了解够多的话，你就知道你并不真正需要穷尽所有可能的输入。现在，我认为这并没有明确地困扰着人们，但这种方法必须嵌入到你对事物的感知中。
 
 **Q**：你可以通过构建一个框架来做得更好。
 
@@ -68,7 +70,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：如果人们查看您的传记，就会发现其他原因。作为一个统计学家，您并非科班出身。
 
-**John**：是的，那时候大多数人都是这样。我想Frank Yates，他原先（在非洲！）是一名调查员。Charlie没有接受过传统的教育。Cochran接受过准传统的教育。我试着回想那些和数据联系紧密而且位置显赫的人。我不知道我所受的广泛的化学和普通物理的教育有多不标准。我参加了一年大学新生的英语课程，我上的其他课程遍布校园各个角落，从地质学到数学、从物理到化学。如果都是化学，可能就不会那么好了。你读过关于科学通才教育的论文吗（Bode、Mosteller、Tukey和Winsor,1949，[*The Education of a Scientific Generalist*](https://link.springer.com/chapter/10.1007/978-0-387-44956-2_7)）？这在当时似乎是有道理的，但通才教育并没有发生。**Dick Link有句格言，统计学家必须是精神分裂症患者，因为他必须处理数学，这是所有事情中最严谨的；而且他还要处理数据，这是最不严谨的**。现在，我愿意用数学来创造一些可能不切实际的东西，但我也对那些无论是否有严格证明，人们都能感觉到他们做得很好的技术感兴趣。有一个科幻故事是由一位名叫Katherine Maclean的女士写的，名叫 *Incommunicado*（译者注：[Katherine Maclean（1925-2019）](https://en.wikipedia.org/wiki/Katherine_MacLean#Profile)，美国科幻作家，Incommunicado或可理解为“与世隔绝” ），故事发生在木星或土星的一颗卫星上。那里一个工作组的一位高级职员所面临的困难是，他是真实世界型（译者注：原词为[analog](https://en.wiktionary.org/wiki/analog)）的，而其他人都是数字型的。**我想就数据分析而言，也许我是那个有点孤独的真实世界型。我希望“感受”一些东西是否真有用，而不希望通过数学证明来发现这一点。**
+**John**：是的，那时候大多数人都是这样。我想Frank Yates，他原先（在非洲！）是一名调查员。Charlie没有接受过传统的教育。Cochran接受过准传统的教育。我试着回想那些和数据联系紧密而且位置显赫的人。我不知道我所受的广泛的化学和普通物理的教育有多不标准。我参加了一年大学新生的英语课程，我上的其他课程遍布校园各个角落，从地质学到数学、从物理到化学。如果都是化学，可能就不会那么好了。你读过关于科学通才教育的论文吗（Bode、Mosteller、Tukey和Winsor,1949, [*The Education of a Scientific Generalist*](https://link.springer.com/chapter/10.1007/978-0-387-44956-2_7)）？这在当时似乎是有道理的，但通才教育并没有发生。**Dick Link有句格言，统计学家必须是精神分裂症患者，因为他必须处理数学，这是所有事情中最严谨的；而且他还要处理数据，这是最不严谨的**。现在，我愿意用数学来创造一些可能不切实际的东西，但我也对那些无论是否有严格证明，人们都能感觉到他们做得很好的技术感兴趣。有一个科幻故事是由一位名叫Katherine Maclean的女士写的，名叫 *Incommunicado*（译者注：[Katherine Maclean（1925-2019）](https://en.wikipedia.org/wiki/Katherine_MacLean#Profile)，美国科幻作家，Incommunicado或可理解为“与世隔绝” ），故事发生在木星或土星的一颗卫星上。那里一个工作组的一位高级职员所面临的困难是，他是真实世界型（译者注：原词为[analog](https://en.wiktionary.org/wiki/analog)）的，而其他人都是数字型的。**我想就数据分析而言，也许我是那个有点孤独的真实世界型。我希望“感受”一些东西是否真有用，而不希望通过数学证明来发现这一点。**
 
 **Q**：但你可以理解那些说“靠感觉是不够的”的人。
 
@@ -120,7 +122,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：不，我是说数学。所有可能发生的事情就是增加新的东西。在数学里，旧的东西，如果它们曾经是正确的，那它们就是正确的。
 
-**John**：是的。虽然关于“正确”是什么这个问题，并不像人们想的那么简单。Herman Weyl评论说，他唯一清楚确信的是直觉数学，但由于他想做数学，他没有限制自己做什么。挺聪明的一个人。
+**John**：是的。虽然关于“正确”是什么这个问题，并不像人们想的那么简单。Herman Weyl评论说，他唯一清楚确信的是直觉数学，但由于他想做数学，他没有限制自己做什么。挺聪明的一个家伙。
 
 <div align="center">
 
@@ -178,7 +180,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：他更像是一个数学家？
 
-**John**：是的。他绝对是。但是是一个对实际问题感兴趣的数学家。他写了一篇论文，题目让一些实验室的人感到不安；好像是叫“如何用蹩脚的继电器可靠地做事”。（译者注：Moore和Shannon,1956，[*Reliable circuits using less reliable relays*](https://www.sciencedirect.com/science/article/abs/pii/0016003256905592)）。
+**John**：是的。他绝对是。但是是一个对实际问题感兴趣的数学家。他写了一篇论文，题目让一些实验室的人感到不安；好像是叫“如何用蹩脚的继电器可靠地做事”。（译者注：Moore和Shannon, 1956, [*Reliable circuits using less reliable relays*](https://www.sciencedirect.com/science/article/abs/pii/0016003256905592)）。
 
 **Q**：就这标题？
 
@@ -198,11 +200,11 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **Q**：之后你分析了雷达数据？
 
-**John**：你记录下控制装置在做什么，记录下加速度等等，然后试着理解它。在这种情况下，它一开始不起作用，因为人们一直在试图读取记录上每秒钟的平均值。当我们让他们读标记处准确的记录时，分析就开始变得有意义了。但这涉及到相当复杂的多元时间序列，其中一些回归系数是你从风洞行为中知道的，也许有些你不知道。所以，这就是为什么我在参考书目中找到的第一篇时间序列论文是1956年Press和Tukey的《功率谱分析方法及其在飞机动力学问题中的应用》（译者注：Press和Tukey,1956,[*Power spectrum methods of analysis and their applications to problems in airplane dynamics*](https://www.sciencedirect.com/science/article/pii/B9781483197289500369)）。Blackman和Tukey的论文《从通信工程的角度测量功率谱》（译者注：Blackman和Tukey,1958,[*The Measurement of Power Spectra from the Point of View of Communications Engineering, I, II*](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1958.tb03874.x)）发表于1958年。普林斯顿大学一直有和来自宾夕法尼亚州立大学的Hans Panofsky一起进行的各种活动，他一直在用Johnny的新电脑测试低空大气湍流的测量结果。
+**John**：你记录下控制装置在做什么，记录下加速度等等，然后试着理解它。在这种情况下，它一开始不起作用，因为人们一直在试图读取记录上每秒钟的平均值。当我们让他们读标记处准确的记录时，分析就开始变得有意义了。但这涉及到相当复杂的多元时间序列，其中一些回归系数是你从风洞行为中知道的，也许有些你不知道。所以，这就是为什么我在参考书目中找到的第一篇时间序列论文是1956年Press和Tukey的《功率谱分析方法及其在飞机动力学问题中的应用》（译者注：Press和Tukey, 1956, [*Power spectrum methods of analysis and their applications to problems in airplane dynamics*](https://www.sciencedirect.com/science/article/pii/B9781483197289500369)）。Blackman和Tukey的论文《从通信工程的角度测量功率谱》（译者注：Blackman和Tukey, 1958, [*The Measurement of Power Spectra from the Point of View of Communications Engineering, I, II*](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1958.tb03874.x)）发表于1958年。普林斯顿大学一直有和来自宾夕法尼亚州立大学的Hans Panofsky一起进行的各种活动，他一直在用Johnny的新电脑测试低空大气湍流的测量结果。
 
 **Q**：这是天气数据？
 
-**John**：是大气数据，但不是天气数据。特别是布鲁克海文塔（Brookhaven tower）对各个方向的风的分量速度进行了测量。所以这件事就牵涉进来了。那可能比另一个早。它没有产生任何与我发表的文章直接相关的东西。另一个研讨会的问题是H.T.Budenbom以某种形式获得的关于新雷达性能的数据，他希望将其转换为另一种形式，以便他将其带到海岸的一个保密会议上讨论。Dick Hamming和我以某种方式发现，如果你用1/4、1/2、1/4来平滑数据序列，情况会明显变好。因此，Dick和我花了相当长的时间试图理解为什么会这样，这产生了测量噪声颜色记忆（译者注：Blackman和Tukey,1958,[*The measurement of power spectra from the point of view of communications engineering, I, II*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=he+measurement+of+power+spectra+from+the+point+of+view+of+communications+engineering%2C+I%2C+II&btnG=)）。Blackman和Tukey的那篇论文展示了我们一起完成的工作。Blackman一直在教工程师们。他对当时正发生的事情了解很多。我们俩设法把那些东西整合在一起。
+**John**：是大气数据，但不是天气数据。特别是布鲁克海文塔（Brookhaven tower）对各个方向的风的分量速度进行了测量。所以这件事就牵涉进来了。那可能比另一个早。它没有产生任何与我发表的文章直接相关的东西。另一个研讨会的问题是H.T.Budenbom以某种形式获得的关于新雷达性能的数据，他希望将其转换为另一种形式，以便他将其带到海岸的一个保密会议上讨论。Dick Hamming和我以某种方式发现，如果你用1/4、1/2、1/4来平滑数据序列，情况会明显变好。因此，Dick和我花了相当长的时间试图理解为什么会这样，这产生了测量噪声颜色记忆（译者注：Blackman和Tukey, 1958, [*The measurement of power spectra from the point of view of communications engineering, I, II*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=he+measurement+of+power+spectra+from+the+point+of+view+of+communications+engineering%2C+I%2C+II&btnG=)）。Blackman和Tukey的那篇论文展示了我们一起完成的工作。Blackman一直在教工程师们。他对当时正发生的事情了解很多。我们俩设法把那些东西整合在一起。
 
 **Q**：目标受众是工程师吗？
 
@@ -216,7 +218,7 @@ Elizabeth Tukey一直是John生活中的驱动力，她提供的评论和趣闻�
 
 **John**：不是，我们只是碰巧提到了大气数据。我并不知道那都是用来干什么的。但举个例子，在Mike Healy、Bruce Bogert和我参与了倒频谱研究之后，那里的一个人或多或少用了倒频谱相关的东西，制作了第一台能真正可靠地描述你声音音调的机器。而且，雷达跟踪误差并不是实验室不感兴趣的领域。最近，有人从事水下地球物理学，其中光谱分析至关重要。诸如此类。Budenbom的数据让我们产生了“1/4、1/2、1/4”的认识，并最终让我们认识到一位名叫von Hann的维也纳气象学家喜欢这样做。这不是大气数据，是雷达性能（数据）。
 
-> （译者注：倒频谱，cepstrum，就是将频谱（spectrum）的英文前四个字母反过来写。见Bogert, Healy和Tukey, 1963, [*The quefrency analysis of time series for echoes : cepstrum, pseudo-autocovariance, cross-cepstrum and saphe cracking.*](https://www.semanticscholar.org/paper/The-quefrency-analysis-of-time-series-for-echoes-%3A-Bogert/15bb1365026071ae3423d64ed2d18c554cafd6f6)）
+> 译者注：倒频谱，cepstrum，就是将频谱（spectrum）的英文前四个字母反过来写。见Bogert, Healy和Tukey, 1963, [*The quefrency analysis of time series for echoes : cepstrum, pseudo-autocovariance, cross-cepstrum and saphe cracking.*](https://www.semanticscholar.org/paper/The-quefrency-analysis-of-time-series-for-echoes-%3A-Bogert/15bb1365026071ae3423d64ed2d18c554cafd6f6)
 
 <div align="center">
 
