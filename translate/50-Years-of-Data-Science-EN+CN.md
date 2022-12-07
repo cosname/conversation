@@ -12,9 +12,9 @@ David Donoho  加利福尼亚州 斯坦福大学统计系
 
 # 摘要
 
-More than 50 years ago, John Tukey called for a reformation of academic statistics. In "The Future of Data Analysis," he pointed to the existence of an as-yet unrecognized science, whose subject of interest was learning from data, or "data analysis." Ten to 20 years ago, John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again urged academic statistics to expand its boundaries beyond the classical domain of theoretical statistics; Chambers called for more emphasis on data preparation and presentation rather than statistical modeling; and Breiman called for emphasis on prediction rather than inference. Cleveland and Wu even suggested the catchy name "data science" for this envisioned field. A recent and growing phenomenon has been the emergence of "data science" programs at major universities, including UC Berkeley, NYU, MIT, and most prominently, the University of Michigan, which in September 2015 announced a $100M "Data Science Initiative" that aims to hire 35 new faculty. Teaching in these new programs has significant overlap in curricular subject matter with traditional statistics courses; yet many academic statisticians perceive the new programs as "cultural appropriation." This article reviews some ingredients of the current "data science moment," including recent commentary about data science in the popular media, and about how/whether data science is really different from statistics. The now-contemplated field of data science amounts to a superset of the fields of statistics and machine learning, which adds some technology for "scaling up" to "big data." This chosen superset is motivated by commercial rather than intellectual developments. Choosing in this way is likely to miss out on the really important intellectual event of the next 50 years. Because all of science itself will soon become data that can be mined, the imminent revolution in data science is not about mere "scaling up," but instead the emergence of scientific studies of data analysis science-wide. In the future, we will be able to predict how a proposal to change data analysis workflows would impact the validity of data analysis across all of science, even predicting the impacts fieldby-field. Drawing on work by Tukey, Cleveland, Chambers, and Breiman, I present a vision of data science based on the activities of people who are "learning from data," and I describe an academic field dedicated to improving that activity in an evidence-based manner. This new field is a better academic enlargement of statistics and machine learning than today's data science initiatives, while being able to accommodate the same short-term goals. Based on a presentation at the Tukey Centennial Workshop, Princeton, NJ, September 18 , 2015.
+More than 50 years ago, John Tukey called for a reformation of academic statistics. In "The Future of Data Analysis," he pointed to the existence of an as-yet unrecognized science, whose subject of interest was learning from data, or "data analysis." Ten to 20 years ago, John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again urged academic statistics to expand its boundaries beyond the classical domain of theoretical statistics; Chambers called for more emphasis on data preparation and presentation rather than statistical modeling; and Breiman called for emphasis on prediction rather than inference. Cleveland and Wu even suggested the catchy name "data science" for this envisioned field. A recent and growing phenomenon has been the emergence of "data science" programs at major universities, including UC Berkeley, NYU, MIT, and most prominently, the University of Michigan, which in September 2015 announced a $100M "Data Science Initiative" that aims to hire 35 new faculty. Teaching in these new programs has significant overlap in curricular subject matter with traditional statistics courses; yet many academic statisticians perceive the new programs as "cultural appropriation." This article reviews some ingredients of the current "data science moment," including recent commentary about data science in the popular media, and about how/whether data science is really different from statistics. The now-contemplated field of data science amounts to a superset of the fields of statistics and machine learning, which adds some technology for "scaling up" to "big data." This chosen superset is motivated by commercial rather than intellectual developments. Choosing in this way is likely to miss out on the really important intellectual event of the next 50 years. Because all of science itself will soon become data that can be mined, the imminent revolution in data science is not about mere "scaling up," but instead the emergence of scientific studies of data analysis science-wide. In the future, we will be able to predict how a proposal to change data analysis workflows would impact the validity of data analysis across all of science, even predicting the impacts field by field. Drawing on work by Tukey, Cleveland, Chambers, and Breiman, I present a vision of data science based on the activities of people who are "learning from data," and I describe an academic field dedicated to improving that activity in an evidence-based manner. This new field is a better academic enlargement of statistics and machine learning than today's data science initiatives, while being able to accommodate the same short-term goals. Based on a presentation at the Tukey Centennial Workshop, Princeton, NJ, September 18 , 2015.
 
-50多年前，John Tukey曾呼吁对学术统计学(academic statistics)进行改革。在“数据分析之未来”(The Future of Data Analysis)文章中，他指出：存在一门尚未被认识到的科学，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福(Jeff Wu)、Bill Cleveland 和 Leo Breiman 不约而同地再次敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的诸多大学都开设了“数据科学”项目，其中最知名的是密歇根大学（University of Michigan）于2015年9月宣布的“数据科学计划”，该计划预计耗资1亿美元，招聘35名新教师。这些新项目的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为“新瓶装旧酒”。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近媒体上广泛传播的关于数据科学的讨论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个超集是由商业而非才智发展驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是会激发全学科范围下的数据分析科学研究。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。在借鉴了Tukey、Cleveland、Chambers和Breiman的工作后，我设想了未来“从数据中学习”的工作者们的数据科学活动愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够实现同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
+50多年前，John Tukey曾呼吁对学术统计学（academic statistics）进行改革。在“数据分析之未来”（The Future of Data Analysis）文章中，他指出：存在一门尚未被认识到的科学，其研究主题是从数据中学习，或者说“数据分析”。10至20年前，John Chambers、吴建福（Jeff Wu）、Bill Cleveland 和 Leo Breiman 不约而同地再次敦促学术统计学将其边界扩展到理论统计学的经典领域之外；Chambers呼吁更加重视数据准备和数据展示，而不只是统计建模；Breiman呼吁强调预测而不是推断。Cleveland和吴建福甚至为这个设想中的领域提出了一个朗朗上口的名字“数据科学”。最近一个日益增长的现象是，包括加州大学伯克利分校（UC Berkeley）、纽约大学（NYU）、麻省理工学院（MIT）在内的诸多大学都开设了“数据科学”项目，其中最知名的是密歇根大学（University of Michigan）于2015年9月宣布的“数据科学计划”，该计划预计耗资1亿美元，招聘35名新教师。这些新项目的教学在课程主题上与传统统计课程有很大的重叠；然而，许多学术统计学家将新项目视为“新瓶装旧酒”。本文回顾了当前“数据科学时刻”的一些组成部分，包括最近媒体上广泛传播的关于数据科学的讨论，以及数据科学与统计学的区别。现在设想的数据科学领域相当于统计学和机器学习领域的超集，它增加了一些“扩展”到“大数据”的技术。这个超集是由商业而非才智发展驱动的。这样的选择，很可能会错过未来50年真正重要的才智活动。因为所有的科学本身都将很快成为可以挖掘的数据，所以数据科学即将发生的革命不仅仅是“扩大规模”，而是会激发全学科范围下的数据分析科学研究。在未来，我们将能够预测，改变数据分析工作流程的提议将会如何影响所有科学领域数据分析的有效性，甚至逐个领域预测影响。在借鉴了Tukey、Cleveland、Chambers和Breiman的工作后，我设想了未来“从数据中学习”的工作者们的数据科学活动愿景，并描述了一个致力于以循证方式改进这一活动的学术领域。这一新领域比今天的数据科学计划更好地扩大了统计学和机器学习的学术范围，同时能够实现同样的短期目标。本文基于2015年9月18日在新泽西州普林斯顿Tukey百年研讨会上的演讲。
 
 
 # 1. Today's Data Science Moment
@@ -24,7 +24,7 @@ More than 50 years ago, John Tukey called for a reformation of academic statisti
 In September 2015, as I was preparing these remarks, the University of Michigan announced a \$100 million "Data Science Initiative" (DSI) $^{1}$, ultimately hiring 35 new faculty.
 
 
-2015年9月，在我准备这些演讲时，密歇根大学发布了一项耗资1亿美元的“数据科学计划”（DSI） $^{1}$，并最终聘请35名新教师。
+2015年9月，在我准备这些演讲时，密歇根大学发布了一项耗资1亿美元的“数据科学计划”（DSI） $^{1}$，其将最终聘请35名新教师。
 
 
 The university's press release contains bold pronouncements:
@@ -43,7 +43,7 @@ DSI的网站给出了数据科学的定义：
 "This coupling of scientific discovery and practice involves the collection, management, processing, analysis, visualization, and interpretation of vast amounts of heterogeneous data associated with a diverse array of scientific, translational, and inter-disciplinary applications."
 
 
-“数据科学是科学发现和实践的结合，它涉及：收集、管理、处理、分析、可视化和解释与各种科学、转化和跨学科应用相关的大量异构数据。”
+“数据科学是科学发现和实践的结合，它涉及：收集、管理、处理、分析、可视化和解释与各种科学、转化和跨学科应用相关的大量异质数据。”
 
 This announcement is not taking place in a vacuum. A number of DSI-like initiatives started recently, including
 
@@ -51,7 +51,7 @@ This announcement is not taking place in a vacuum. A number of DSI-like initiati
 
 (A) Campus-wide initiatives at NYU, Columbia, MIT, ...
 
-(B) New master's degree programs in data science, for exam- ple, at Berkeley, NYU, Stanford, Carnegie Mellon, Uni- versity of Illinois, ...
+(B) New master's degree programs in data science, for exam- ple, at Berkeley, NYU, Stanford, Carnegie Mellon, University of Illinois, ...
 
 (A) 学校层面的计划，比如在纽约大学、哥伦比亚大学、麻省理工学院……
 
@@ -81,7 +81,7 @@ Many of my audience at the Tukey Centennial-where these remarks were originally 
 
 To statisticians, the DSI phenomenon can seem puzzling. Statisticians see administrators touting, as new, activities that statisticians have already been pursuing daily, for their entire careers; and which were considered standard already when those statisticians were back in graduate school.
 
-对统计学家来说，数据科学计划(DSI)似乎令人费解。统计学家们认为，他们在整个职业生涯中每天都在从事的工作，被管理人员吹捧为成了鲜事；当这些统计学家回到学院时，这些工作已经被认为是普遍的。
+对统计学家来说，数据科学计划（DSI）似乎令人费解。统计学家们认为，他们在整个职业生涯中每天都在从事的工作，被管理人员吹捧为成了鲜事；当这些统计学家回到学院时，这些工作已经被认为是普遍的。
 
 
 The following points about the U of M DSI will be very telling to such statisticians:
@@ -89,12 +89,12 @@ The following points about the U of M DSI will be very telling to such statistic
 关于密歇根大学“数据科学计划”的以下几点说明对这类统计学家来说非常重要：
 
 - U of M's DSI is taking place at a campus with a large and highly respected Statistics Department
-- The identified leaders of this initiative are faculty from the Electrical Engineering and Computer Science department AL Hero) and the School of Medicine (Brian Athey).
+- The identified leaders of this initiative are faculty from the Electrical Engineering and Computer Science department (Al Hero) and the School of Medicine (Brian Athey).
 - The inaugural symposium has one speaker from the Statistics department (Susan Murphy), out of more than 20 speakers.
 
 
-- “数据科学计划”的发起者，密歇根大学，已经设立了一个庞大且备受尊敬的统计系。
-- 该计划的确定领导者是电气工程和计算机科学系（AL Hero）和医学院（Brian Athey）的教师。
+- “数据科学计划”的发起者，密歇根大学，已经拥有一个庞大且备受尊敬的统计系。
+- 该计划的领导者是电气工程与计算机科学系（Al Hero）和医学院（Brian Athey）的教师。
 - 首届研讨会有20多名发言者，其中只有一名来自统计系，Susan Murphy。
 
 Inevitably, many academic statisticians will perceive that statistics is being marginalized here; $^{3}$ the implicit message in these observations is that statistics is a part of what goes on in data science but not a very big part. At the same time, many of the concrete descriptions of what the DSI will actually do will seem to statisticians to be bread-and-butter statistics. Statistics is apparently the word that dare not speak its name in connection with such an initiative! $^{4,5}$
@@ -113,7 +113,7 @@ Searching the web for more information about the emerging term "data science," w
 
 To a statistician, this sounds an awful lot like what applied statisticians do: use methodology to make inferences from data. Continuing:
 
-对统计学家来说，这听起来不就是应用统计学家的工作嘛：使用方法论从数据中做出推断。继续：
+对统计学家来说，这听起来不就是应用统计学家的工作嘛：使用统计方法从数据中做出推断。还有：
 
 
 > "Statistics" means the practice or science of collecting and analyzing numerical data in large quantities.
@@ -137,24 +137,24 @@ Column of ASA President Marie Davidian in AmStat News, July 2013 (http://magazin
 - **Let us own Data Science.** IMS Presidential address of Bin Yu, reprinted in IMS bulletin October 2014 (http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datascience/)
 
 - **我们不是数据科学吗？** 
-2013年7月，美国国家统计局（AmStat）新闻中美国统计学会（ASA）主席Marie Davidian的专栏(http://magazine.amstat.org/blog/2013/07/01/datascience/)
+2013年7月，美国国家统计局（AmStat）新闻中美国统计学会（ASA）主席Marie Davidian的专栏（http://magazine.amstat.org/blog/2013/07/01/datascience/）
 
 - **一场盛大的辩论：数据科学只是统计学的“换壳”吗？** Martin Goodson，2015年5月19日英国皇家统计学会（Royal Statistical Society）统计与数据科学关系会议的联合组织者，他在互联网上发布了宣传该活动的帖子。
 
-- **让我们拥有数据科学。** 国际数理统计学会(IMS)主席郁彬的发言，转载于2014年10月的IMS bulletin (http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datascience/)
+- **让我们拥有数据科学。** 国际数理统计学会（IMS）主席郁彬的发言，转载于2014年10月的IMS bulletin（http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-datascience/）
 
 
 
 
 One does not need to look far to find blogs capitalizing on the befuddlement about this new state of affairs:
 
-你会轻易发现，不少博主也对这种新形势表达了困惑：
+你将很容易发现，不少博主也对这种新形势表达了困惑：
 
 - **Why Do We Need Data Science When We've Had Statistics for Centuries?** Irving Wladawsky-Berger, Wall Street Journal, CIO report, May 2, 2014
 - **Data Science is statistics.** When physicists do mathematics, they don't say they're doing number science. They're doing math. If you're analyzing data, you're doing statistics. You can call it data science or informatics or analytics or whatever, but it's still statistics. ...You may not like what some statisticians do. You may feel they don't share your values. They may embarrass you. But that shouldn't lead us to abandon the term "statistics." Karl Broman, Univ. Wisconsin (https://kbroman.wordpress.com/2013/04/05/data-science-is-statistics/ )
 
-- **我们已经发展了几个世纪的统计学，为什么还需要数据科学？** Irving Wladawsky-Berger,华尔街日报，首席信息官报告, May 2, 2014
-- **数据科学就是统计学。** 当物理学家做数学的时候，他们不会说他们在做数字科学。他们就是在做数学。如果你在分析数据，你就是在做统计。你可以称之为数据科学、信息学、分析学或其他什么，但它仍然是统计。…你可能不喜欢一些统计学家做的事情。你可能觉得他们不认同你的价值观。他们可能会让你难堪。但这不应该导致我们放弃“统计”一词，Karl Broman，威斯康星大学(https://kbroman.wordpress.com/2013/04/05/data-science-is-statistics/)
+- **我们已经发展了几个世纪的统计学，为什么还需要数据科学？** Irving Wladawsky-Berger，华尔街日报，首席信息官报告，2014年5月2日
+- **数据科学就是统计学。** 当物理学家做数学的时候，他们不会说他们在做数字科学。他们就是在做数学。如果你在分析数据，你就是在做统计。你可以称之为数据科学、信息学、分析学或其他什么，但它仍然是统计……你可能不喜欢一些统计学家做的事情；你可能觉得他们不认同你的价值观；他们可能会让你难堪。但这不应该导致我们放弃“统计”一词，Karl Broman，威斯康星大学（https://kbroman.wordpress.com/2013/04/05/data-science-is-statistics/）
 
 
 On the other hand, we can find provocateurs declaiming the (near-) irrelevance of statistics:
@@ -164,14 +164,14 @@ On the other hand, we can find provocateurs declaiming the (near-) irrelevance o
 - Data Science without statistics is possible, even desirable. Vincent Granville, at the Data Science Central Blog (http://www.datasciencecentral.com/profiles/blogs/data-science-without-statisticsis-possible-even-desirable)
 - Statistics is the least important part of data science. Andrew Gelman, Columbia University (http://andrewgelman.com/2013/11/14/statistics-least-important-part-data-science/)
 
-- **没有统计学的数据科学是可能的，甚至是理想的**。 Vincent Granville，Data Science Central Blog (http://www.datasciencecentral.com/profiles/blogs/data-science-without-statisticsis-possible-even-desirable)
-- **统计学是数据科学中最不重要的部分**。 Andrew Gelman, 哥伦比亚大学(http://andrewgelman.com/2013/11/14/statistics-least-important-part-data-science/)
+- **没有统计学的数据科学是可能的，甚至是理想的**。 Vincent Granville，Data Science Central Blog（http://www.datasciencecentral.com/profiles/blogs/data-science-without-statisticsis-possible-even-desirable）
+- **统计学是数据科学中最不重要的部分**。 Andrew Gelman, 哥伦比亚大学（http://andrewgelman.com/2013/11/14/statistics-least-important-part-data-science/）
 
 Clearly, there are many visions of data science and its relation to statistics. In my discussions with others, I have come across certain recurring "memes." I now deal with the main ones in turn.
 
-显然，有许多关于数据科学及其与统计的关系的不同观点。在我与其他人的讨论中，我遇到了某些反复出现的“模因”(memes)。我现在依次回应其中主要的几点。
+显然，有许多关于数据科学及其与统计的关系的不同观点。在我与其他人的讨论中，我遇到了某些反复出现的“模因”（memes）。我现在依次回应其中主要的几点。
 
-> 译者注：根据《牛津英语词典》，模因(memes)被定义为：“文化的基本单位，通过非遗传的方式，特别是模仿而得到传递”，源自英国著名科学家理查德·道金斯（Richard Dawkins）所著的《自私的基因》（The Selfish Gene）一书，其含义是指“在诸如语言、观念、信仰、行为方式等的传递过程中与基因在生物进化过程中所起的作用相类似的那个东西。”
+> 译者注：根据《牛津英语词典》，模因（memes）被定义为：“文化的基本单位，通过非遗传的方式，特别是模仿而得到传递”，源自英国著名科学家理查德·道金斯（Richard Dawkins）所著的《自私的基因》（The Selfish Gene）一书，其含义是指“在诸如语言、观念、信仰、行为方式等的传递过程中与基因在生物进化过程中所起的作用相类似的那个东西。”
 
 
 
@@ -182,11 +182,11 @@ Clearly, there are many visions of data science and its relation to statistics. 
 
 > [4] At the same time, the two largest groups of faculty participating in this initiative are from EECS and statistics. Many of the EECS faculty publish avidly in academic statistics journals-I can mention AL Hero himself, Raj Rao Nadakaduti and others. The underlying design of the initiative is very sound and relies on researchers with strong statistics skills. But that is all hidden under the hood.
 
-> [4] 同时，参与这项倡议的两个最大的教师群体来自EECS(电气工程与计算机科学)和统计学。EECS的许多教员都热衷于在学术统计期刊上发表文章——我可以提到AL Hero本人、Raj Rao Nadakaduti等人。该计划的基础设计非常完善，依赖于具有强大统计技能的研究人员。但这一切都隐藏在引擎盖之下。
+> [4] 同时，参与这项倡议的两个最大的教师群体来自EECS（电气工程与计算机科学）和统计学。EECS的许多教员都热衷于在学术统计期刊上发表文章——我可以提到AL Hero本人、Raj Rao Nadakaduti等人。该计划的基础设计非常完善，依赖于具有强大统计技能的研究人员。但这一切都隐藏在引擎盖之下。
 
 > [5] Several faculty at University of Michigan wrote to tell me more about their MIDAS initiative and pointed out that statistics was more important to MIDAS than it might seem. They pointed out that statistics faculty including Vijay Nair were heavily involved in the planning of MIDAS-although not in its current public face-and that the nonstatistics department academics at the inaugural symposium used statistics heavily. This is actually the same point I am making. 
 
-> [5] 密歇根大学的几位教授写信向我详细介绍了他们的密西根数据科学(MIDAS)计划，并指出统计学对MIDAS来说比看起来更重要。他们指出，包括Vijay Nair在内的统计系教师大量参与了MIDAS的规划，尽管目前尚未公开，而且首届研讨会上的非统计系学者大量使用统计学。这实际上与我所说的相同。
+> [5] 密歇根大学的几位教授写信向我详细介绍了他们的密西根数据科学（MIDAS）计划，并指出统计学对MIDAS来说比看起来更重要。他们指出，包括Vijay Nair在内的统计系教师大量参与了MIDAS的规划，尽管目前尚未公开，而且首届研讨会上的非统计系学者大量使用统计学。这实际上与我所说的相同。
 
 ## 2.1 The "Big Data" Meme
 
