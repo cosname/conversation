@@ -105,7 +105,7 @@ At the Labs JWT was involved in a myriad of projects. One such project was the N
 
 In 1956, Tukey set up the Statistical Techniques Research Group (STRG) at Princeton. The first computer on the Princeton campus was very possibly the IBM 650 at STRG's Gauss House on Nassau Street. Calculation and computers were ever present in JWT's life. The Fire Control Office had one of the first IBM multiplying punches and used it creatively. The classic work by Burks, Goldstine, and von Neumann (1946) states in the preface: "The authors also wish to express their thanks to Dr. John Tukey, of Princeton, for many valuable discussions and suggestions." Of just what JWT did Arthur Burks writes:
 
-1956年，Tukey在普林斯顿组建了统计技术研究组（STRG）。普林斯顿校园的第一台计算机很可能是STRG位于纳索街高斯大厦的IBM650。计算和计算机一直存在于Tukey的生活中。火控办公室拥有首批IBM倍增冲头之一，并创造性地使用了它。Burks, Goldstine, and von Neumann（1946，*[Preliminary discussion of the logical design of an electronic computer instrument](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/3972/bab6286.0001.001.pdf?sequence=5*）的经典著作在序言中写道：“作者还希望感谢普林斯顿的John Tukey博士，感谢他提出了许多有价值的讨论和建议。”Arthur Burks描述了Tukey的帮助：
+1956年，Tukey在普林斯顿组建了统计技术研究组（STRG）。普林斯顿校园的第一台计算机很可能是STRG位于纳索街高斯大厦的IBM650。计算和计算机一直存在于Tukey的生活中。火控研究室拥有首批IBM倍增冲头之一，并创造性地使用了它。Burks, Goldstine, and von Neumann（1946，*[Preliminary discussion of the logical design of an electronic computer instrument](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/3972/bab6286.0001.001.pdf?sequence=5*）的经典著作在序言中写道：“作者还希望感谢普林斯顿的John Tukey博士，感谢他提出了许多有价值的讨论和建议。”Arthur Burks描述了Tukey的帮助：
 
 > John Tukey designed the electronic adding circuit we actually used in the IAS Computer. In this circuit, each binary adder fed its carry output directly into the next stage without delay. ... And this was the circuit actually used because it was reliable and much simpler than the alternative.
 
@@ -155,15 +155,15 @@ In 1957 Eisenhower formed the President's Scientific Advisory Panel partly in re
 **Nuclear Disarmament.** In 1959 JWT spent a month in Geneva, Switzerland, as a U.S. delegate to Technical Working Group 2 of the Conference on the Discontinuance of Nuclear Weapon Tests. His expertise, in part, concerned the time series problem of distinguishing earthquakes from nuclear explosions. John's wife, Elizabeth, said once that JWT was the one who suggested that tests might be able to be masked to a degree. This possibility very much startled the Russians.
 
 **核裁军。** 1959年，JWT作为美国代表在瑞士日内瓦呆了一个月，参加了停止核武器试验会议第二技术工作组。他的专业知识部分涉及区分地震和核爆炸的时间序列问题。JWT的妻子 Elizabeth曾经说过，是JWT提出试验可能能够在一定程度上被掩盖的。这种可能性让俄罗斯人非常吃惊。
->（译者注，技术工作组的会议主要目的在于研究一旦东西方签订停止核爆炸试验的协定后要用什么方法来侦察可能的违约行为的问题。因此对地下核试验的监测问题十分重要，JWT的工作意在从地震波中鉴别出核试验信号，但当时并不能做到这一点，同时计算上的困难导致了快速傅里叶变换（FFT，fast Fourier transform）的发明。）
+>（译者注，技术工作组的会议主要目的在于研究一旦各方签订停止核爆炸试验的协定后要用什么方法来侦察可能的违约行为的问题。因此对地下核试验的监测问题十分重要，JWT的工作意在从地震波中鉴别出核试验信号，但当时并不能做到这一点，同时计算上的困难导致了快速傅里叶变换（FFT，fast Fourier transform）的发明。）
 
 JWT has spoken about the difficulties of that period, describing it as a "time of stress ... like a utilities rate case." In 1967 he wrote:
 
-JWT谈到了那个时期的困难，称之为“压力时期”…就像公用事业费率的案例一样。”1967年，他写道：
+JWT谈到了那个时期的困难，称之为“压力时期”...就像公用事业费率的案例一样。”1967年，他写道：
 
 > ... resembles my experiences with Geneva ... where the political conference set up technical working groups in the hope that the scientists would settle some of the questions that the politicians could not. ... The politicians' attempt to evade responsibility failed, as was inevitable.
 
-> …类似于我在日内瓦的经历…在日内瓦，政治会议设立了技术工作组，希望科学家能解决政治家们无法解决的一些问题…政治家逃避责任的企图失败了，这是不可避免的。
+> ...类似于我在日内瓦的经历…在日内瓦，政治会议设立了技术工作组，希望科学家能解决政治家们无法解决的一些问题…政治家逃避责任的企图失败了，这是不可避免的。
 
 **Psephology-Election Forecasting.** In 1960 RCA/NBC hired a statistical consulting firm to develop a procedure for projecting election results on the basis of partial counts. They involved John Mauchly and JWT amongst others. John Tukey became renowned that year for preventing an early call of victory for Richard Nixon.
 
@@ -191,7 +191,7 @@ After retirement JWT consulted at Xerox PARC. His name, with a variety of co-inv
 
 **Census Adjustment.** JWT advised the Census Bureau for many years. In 1980 the Census Bureau's step of adjusting the raw values to obtain "improved" estimates became a political issue. Probably to the great surprise of the Bureau, it found itself tangled up in the adversarial setup of the U.S. legal and political systems. This happened because congressional apportionment and the allocation of funds are both based on census counts. The Constitution states, regarding the House of Representatives, "The actual Enumeration shall be made ... in such Manner as they shall by Law direct." This leaves lots of room for argument.
 
-**人口普查调整。** JWT多年来一直为人口普查局提供咨询。1980年，人口普查局调整原始值以获得“改进”估计的步骤成为一个政治问题。可能令人口普查局非常惊讶的是，它发现自己陷入了美国法律和政治制度的对抗性设置中。这是因为国会的分配和资金分配都是基于人口普查。宪法规定，关于众议院，“应以法律规定的方式进行实际计数…”这留下了很多争论的空间。
+**人口普查调整。** JWT多年来一直为人口普查局提供咨询。1980年，人口普查局调整原始值以获得“改进”估计的步骤成为一个政治问题。可能令人口普查局非常惊讶的是，它发现自己陷入了美国法律和政治制度的对抗性设置中。这是因为国会的分配和资金分配都是基于人口普查。宪法规定，关于众议院，“应以法律规定的方式进行实际计数...”这留下了很多争论的空间。
 
 JWT felt that adjustment should be made because errors would be smaller and their direction unpredictable. Regarding the idea that the errors would be smaller, he was perhaps spurred by the success of the borrowing strength procedure in election forecasting.
 
@@ -203,15 +203,15 @@ JWT认为应该作出调整，因为误差会较小，而且方向不可预测�
 
 The courses he presented at Princeton were state of the art, indeed introducing the art in many cases. The topics included: Monte Carlo, fractional replication, time series,.... Major investigators, such as Cuthbert Daniel, came along to class.
 
-他在普林斯顿教授的课程是最先进的（state of the art，即SOTA），在许多情况下确实是引入了艺术。主题包括：蒙特卡洛、分数复制、时间序列……主要的研究人员，如Cuthbert Daniel，都来上课了。
+他在普林斯顿教授的课程是最先进的（state of the art，即SOTA），在许多情况下确实是引入了艺术。主题包括：蒙特卡洛、分数复制、时间序列...主要的研究人员，如Cuthbert Daniel，都来上课了。
 
 John's interactions with students often took place at the house on Arreton Road, particularly on Saturdays. In particular he believed that gardening was a social activity.
 
-约翰与学生的互动经常发生在阿雷顿（Arreton）路的房子里，尤其是在星期六。特别是他认为园艺是一项社交活动。
+John与学生的互动经常发生在阿雷顿（Arreton）路的房子里，尤其是在星期六。特别是他认为园艺是一项社交活动。
 
 John was always very busy. In one period of his life, to deal with obligations in Washington and elsewhere, he scheduled four classes each week. Then he picked the three times that were the most convenient for the week at hand. Another method was to schedule classes for, say, 2:00-4:00 p.m. Tuesday/Thursday instead of the usual 2:00-3:15 p.m., and to skip a class sometimes and at other times to run it for two hours.
 
-约翰总是很忙。在他一生中的一段时间里，为了处理在华盛顿和其他地方的义务，他每周安排四节课。然后他选择了手头一周最方便的三个时间。另一种方法是安排周二/周四下午2:00-4:00的课程，而不是通常的下午2:00-3:15，有时跳过一节课，有时则上两个小时的课。
+John总是很忙。在他一生中的一段时间里，为了处理在华盛顿和其他地方的义务，他每周安排四节课。然后他选择了手头一周最方便的三个时间。另一种方法是安排周二/周四下午2:00-4:00的课程，而不是通常的下午2:00-3:15，有时跳过一节课，有时则上两个小时的课。
 
 # The Scientific Legacy
 
@@ -223,23 +223,23 @@ John was always very busy. In one period of his life, to deal with obligations i
 
 JWT's contributions to mathematics proper were pre-World War II. They evidenced the mathematical ability that stood him in such good stead in his statistical and scientific work.
 
-JWT对数学适当的贡献是第二次世界大战。他们证明了在他的统计和科学工作中使他如此稳定的数学能力。
+JWT对数学的贡献是在第二次世界大战前。它们证明了他的数学能力，这使他在统计和科学工作中受益匪浅。
 
 His thesis, "On denumerability in topology", was submitted in 1939, nominally under the supervision of Lefschetz. Part of it later appeared in 1942 in the Annals of Mathematics Studies series under the title Convergence and Uniformity in Topology. Chapter 3 was never published because of overlap with work of M. M. Day.
 
-他的论文“关于拓扑的剥夺性”，于1939年在Lefschetz的监督下提交了他的论文。它的一部分后来出现在1942年的《数学研究年鉴》系列中，标题是拓扑结合的标题和统一性。第3章从未出版，因为与M. M. Day的工作重叠。
+他的论文 "论拓扑学中的可数性（*On denumerability in topology*） "于1939年提交，名义上是由Lefschetz指导的。其部分内容后来于1942年出现在《数学研究年鉴》（*Annals of Mathematics Studies series*）系列中，标题为《拓扑学中的收敛性和均匀性》（译者注：John W. Tukey，1942，[*Convergence and Uniformity in Topology*](https://press.princeton.edu/books/paperback/9780691095684/convergence-and-uniformity-in-topology-am-2-volume-2)）。第三章因为与M.M.Day的工作重叠而没有发表。
 
 The principal part of the thesis was a formulation of uniformity in topology. JWT was seeking to extend convergence techniques to general spaces. The structures have three distinct, but equivalent, definitions via: Weil's pseudometrics, Bourbaki's entourages, and Tukey's families of covers. Appearing in the thesis is the so-called TeichmüllerTukey Lemma: "Every nonempty collection of finite character has a maximal set with respect to inclusion." This lemma is equivalent to the Axiom of Choice. Also in his book JWT christens Zorn's Lemma.
 
-论文的主要部分是拓扑中均匀性的表述。JWT试图将收敛技术扩展到一般空间。这些结构具有三个不同但同等的定义，可以通过：Weil的伪测量学，Bourbaki的随行人员和Tukey的封面家庭。出现在论文中的是所谓的TeichmüllerTukey窃听：“每个有限特征的收藏都在包容方面都有最大的设定。” 这种引理等同于选择的公理。同样在他的书JWT Christens Zorn的引理中。
+论文的主要部分是对拓扑学中一致性（uniformity）的表述。JWT试图将收敛技术扩展到一般空间(译者注：即[一致空间（uniform space）](https://baike.baidu.com/item/%E4%B8%80%E8%87%B4%E7%A9%BA%E9%97%B4/4632747)）。这些结构有三个不同但等价的定义:Weil的伪度量(pseudometrics），Bourbaki的随从（entourages），以及Tukey的覆盖族。论文中出现了所谓的[Teichmüller-Tukey定理](https://en.wikipedia.org/wiki/Teichm%C3%BCller%E2%80%93Tukey_lemma)："每个非空的finite character在集合包含关系的这个偏序下都有一个极大元"。这个定理等同于选择公理。在他的书中，JWT还对Zorn的Lemma进行了命名。
 
 Tukey's approach was used extensively by J. R. Isbell and N. R. Howse in their books. Howse recently wrote me:
 
-Tukey的方法在他们的书中被J. R. Isbell和N. R. Howse广泛使用。Howse最近写信给我：
+Tukey的方法被J. R. Isbell和N. R. Howse在他们的书中广泛使用。Howse最近写信给我。
 
-> ... But Tukey's contribution in this area went beyond showing us how we should think about uniform spaces. His insight was almost prophetic. He sensed that the most interesting uniform spaces were the ones that were fully normal.... Tukey predicted that the fully normal uniform spaces would play a major role in mathematics, and indeed they have.
+> ... But Tukey's contribution in this area went beyond showing us how we should think about uniform spaces. His insight was almost prophetic. He sensed that the most interesting uniform spaces were the ones that were fully normal... Tukey predicted that the fully normal uniform spaces would play a major role in mathematics, and indeed they have.
 
-> ...但是Tukey在这一领域的贡献不仅仅是向我们展示了我们应该如何考虑统一空间。他的见识几乎是预言。他感觉到，最有趣的统一空间是完全正常的空间。...Tukey预测，完全正常的均匀空间将在数学中起主要作用，而且实际上它们具有。
+> ...但是Tukey在这一领域的贡献不仅仅是向我们展示了我们应该如何考虑一致空间。他的见识几乎是预言。他感觉到，最有趣的一致空间是完全正常（fully normal）的空间。...Tukey预测，完全正常的一致空间将在数学中起主要作用，而且实际上它们具有。
 
 D. H. Fremlin wrote:
 
@@ -247,11 +247,11 @@ D. H. Fremlin写道：
 
 > Of course Tukey's ideas on partial orders did have great influence on me. This was really through J. R. Isbell. Steve Todorovic took the same ideas much further ... I still believe that Tukey's notion of cofinal equivalence gives fundamental insight into some important questions in set-theoretic analysis.
 
-> 当然，Tukey对部分订单的想法确实对我有很大的影响。这确实是通过J. R. Isbell。史蒂夫·托德罗维奇（Steve Todorovic）进一步采取了相同的想法……我仍然相信，图基的Cofinal等价概念使人们对固定理论分析的一些重要问题提供了基本的见解。
+> 当然，Tukey关于偏序的观点确实对我影响很大。这真的是通过 J. R. Isbell完成的。Steve Todorovic对相同的想法进行了更深入的研究...我仍然相信Tukey的共尾等价（cofinal equivalence）概念为集合论分析中的一些重要问题提供了基本的见解。
 
 There are papers with R. P. Boas and with A. Stone as well as solo-authored articles. The one with Stone, titled "Generalized sandwich theorems", showed that the volumes of any $n$ solids in $\mathbf{R}^{n}$ can be simultaneously bisected by an $(n-1)$ sphere, with a plane able to be regarded as a sphere of infinite radius. The Ham Sandwich Theorem is the case of $n=3$.
 
-有R. P. Boas和A. Stone以及独奏作品的文章的论文。一块石头，标题为“广义三明治定理”，表明$\mathbf{R}^{n}$中的任何$n$ solids的数量可以与$（n-1）$ sphere同时分配 一个能够被视为无限半径的球体。火腿三明治定理是$ n = 3 $的情况。
+Tukey有与R. P. Boas和A. Stone合作的论文，也有单人写作的文章。TukeyStone的一篇题为“广义三明治定理”（译者注：A. H. Stone, J. W. Tukey，1942，*[Generalized sandwich theorems]*（https://projecteuclid.org/journals/duke-mathematical-journal/volume-9/issue-2/Generalized-sandwich-theorems/10.1215/S0012-7094-42-00925-6.short））的文章表明，$\mathbf{R}^{n}$中任何$n$个可测集的测度可以同时被一个$（n-1）$维超平面二分，平面可以被视为无限半径的超平面。火腿三明治定理定理（[Ham sandwich theorem](https://en.wikipedia.org/wiki/Ham_sandwich_theorem#n-dimensional_variant:_proof_using_the_Borsuk%E2%80%93Ulam_theorem)）是$n=3$的情况。
 
 ## Statistics
 
@@ -259,67 +259,67 @@ There are papers with R. P. Boas and with A. Stone as well as solo-authored arti
 
 > Statistics is a science, not a branch of mathematics, but uses mathematical models as an essential tool.
 
-> JWT
+> -JWT
 
-> 统计学是一门科学，而不是数学的分支，而是使用数学模型作为必不可少的工具。
+> 统计学是一门科学，不是数学的一个分支，但使用数学模型作为基本工具。
 
-> JWT
+> -JWT
 
 The Mosteller-Tukey bombing example mentioned above gives an indication of the difficulties of interpretation of results that statisticians deal with regularly in the world of experiments and data. JWT's statistical contributions reflect his struggles with that often messy world. Some highlights follow.
 
-上面提到的大多数人抗议炸弹示例表明了统计学家在实验和数据世界中定期处理结果的解释困难。JWT的统计贡献反映了他在那个杂乱无章的世界中的斗争。有一些亮点。
+上面提到的Mosteller-Tukey关于调查轰炸机瞄准误差的例子表明了统计学家在实验和数据世界中经常处理的结果解释的困难。JWT的统计贡献反映了他与这个经常混乱的世界的斗争。下面是一些亮点。
 
 **Robustness.** Robustness refers to the property of a procedure remaining effective even in the absence of usual assumptions such as normality and no incorrect data values. In simplest terms the idea is to improve upon the use of the simple arithmetic average in estimating the center of a distribution. As a simple case one can ask: Is it ever better to use the sample median than the sample mean, and if so, when?
 
-**鲁棒性。** 鲁棒性是指程序的属性，即使没有通常的假设，例如正态性和不正确的数据值，也是有效的。用最简单的话来说，想法是改善使用简单算术平均值来估计分布中心的使用。作为一个简单的情况，人们可以提出：使用样品中位数比样品平均值更好，如果是，什么时候？
+**稳健性（Robustness)。** 鲁棒性是指即使在没有通常假设（如正态性和没有不正确的数据值）的情况下，程序仍保持有效的性质。简单地说，这个想法是在使用简单的算术平均值来估计分布中心的基础上改进。作为一个简单的例子，我们可以问：使用样本中位数比使用样本均值更好吗？如果是的话，是什么时候？
 
 Tukey had gotten interested in the problem of robustness in the last stages of his work at 20 Nassau Street. He remarked that C. P. Winsor taught him to beware of extreme deviates. The two learned, for example, that if you add $0.1$ percent of a Gaussian three times as spread out as a basic Gaussian, then the mean deviation does better than the classic standard deviation as a way of measuring scale.
 
-Tukey对在拿骚街20号工作的最后阶段的鲁棒性问题感兴趣。他指出，C。P。Winsor教他提防极端偏差。例如，两人了解到，如果您将高斯的0.1美元的$ 0.1 $占基本高斯的分布，那么平均偏差的确比经典的标准偏差更好地作为测量量表的方式。
+Tukey在纳索街20号工作的最后阶段对稳健性问题产生了兴趣。他说，C.P. Winsor教他要小心极端偏差。例如，两人了解到，如果你把高斯的$0.1%$加上基本高斯的三倍，那么平均偏差比经典的标准偏差作为衡量尺度的方式更好。
 
 An important part of JWT's contribution was developing particular forms of problem distributions, those displaying the difficulties that occurred in practice. The ones employed included the mixture of Gaussians, the slash, and the $g-h$.
 
-JWT贡献的一个重要部分是开发特定的问题分布形式，那些表现出在实践中发生的困难的人。所使用的人包括高斯人，斜线和$ G-H $的混合物。
+JWT贡献的一个重要部分是开发了特定形式的问题分布，那些显示了在实践中发生的困难。所采用的包括高斯混合模型、斜线（slash）和$g-h$。
 
 For the smoothing case he recommended running medians. This tool has proved exceedingly useful in image processing.
 
-对于平滑案例，他建议跑步中位数。事实证明，该工具在图像处理中非常有用。
+对于平滑的情况，他建议使用中位数。该工具已被证明在图像处理中非常有用。
 
 **Time Series.** During World War II, JWT had become acquainted with Norbert Wiener's seminal work, later published in book form.
 
-**时间序列。** 在第二次世界大战期间，JWT熟悉了诺伯特·维纳（Norbert Wiener）的开创性作品，后来以书籍形式出版。
+**时间序列。** 在第二次世界大战期间，JWT已经熟悉了Norbert Wiener的开创性工作，后来以书的形式出版。
 
 JWT has told the story of how he got interested in the spectral analysis of time series. Just after the war, a Bell Laboratories engineer working on tracking radars was heading to a conference and wished to show a slide of an estimated power spectrum. He met with Tukey and Richard Hamming. Those two knew the Fourier relation between the autocovariance function and the spectrum and took the Fourier transform of the sample autocovariance function. The estimate was seen to ripple. This led Hamming to make the suggestion that the engineer's estimate would look better were it smoothed, for example via the weights $0.25,0.50,0.25$. The result was a striking success and led to JWT's major involvement in the field of time series analysis.
 
-JWT讲述了他如何对时间序列的光谱分析感兴趣的故事。战争结束后，一名贝尔实验室工程师致力于跟踪雷达，并希望展示估计的功率谱的幻灯片。他遇到了Tukey和Richard Hamming。这两个知道自相关函数和光谱之间的傅立叶关系，并采用了样品自动助力函数的傅立叶变换。估计被认为是涟漪。这导致锤子提出了一个建议，即工程师的估计值会更好，例如，通过权重$ 0.25,0.50.50,0.25 $。结果是取得了惊人的成功，并导致了JWT参与时间序列分析领域的主要参与。
+JWT讲述了他是如何对时间序列的频谱分析产生兴趣的。战后不久，贝尔实验室一位研究跟踪雷达的工程师正前往一个会议，希望展示一张估计功率频谱的幻灯片。他会见了Tukey和Richard Hamming。这两个人知道自协方差函数和频谱之间的傅里叶关系，并对样本自协方差函数进行傅里叶变换。估计被认为是波动的。这促使Hamming提出建议，如果平滑，工程师的估计会看起来更好，例如通过权重$0.25,0.50,0.25$。结果是惊人的成功，并导致了JWT在时间序列分析领域的重大参与。
 
 Tukey often argued the advantages in favor of the power spectrum over the autocorrelation. Such an argument is needed because the two are mathematically equivalent. He claimed that the analyst could learn more from a spectral analysis, particularly in discovering unexpected phenomena.
 
-图基经常争辩说优于自相关的优势。之所以需要这样的论点，是因为两者在数学上是等效的。他声称分析师可以从光谱分析中学到更多，尤其是在发现意外现象时。
+Tukey经常论证功率谱而不是自相关函数的优势。这样的论证是需要的，因为两者在数学上是等价的。但他声称，分析者可以从频谱分析中学到更多东西，特别是在发现意外现象方面。
 
 Bogert, Healey, and Tukey introduced cepstral analysis as a way to address the problem of distinguishing an earthquake from an explosion [1]. This was based on the observation that a signal laid on top of itself with a delay leads to a rippling spectrum. The delay may be estimated as the frequency of the ripple and from that the depth of the seismic event. A lot of colorful language, like "saphe cracking", "quefrency", and "alanysis" was also introduced in that paper. Of the language Dick Hamming remarked to John that "from now on you will be known as J. W. Cutie." The cepstrum was quite unlike any time series quantity that had been proposed previously.
 
-Bogert，Healey和Tukey引入了Cepstral分析，以解决将地震与爆炸区分开的问题[1]。这是基于这样的观察结果，即信号自身延迟会导致波纹频谱。延迟可以估计为纹波的频率和地震事件的深度。该论文还引入了许多色彩斑点的语言，例如“ Saphe Cracking”，“ Quefrency”和“ Alanysis”。迪克·哈明（Dick Hamming）在语言中对约翰说：“从现在开始，您将被称为J. W. Cutie”。Cepstrum与以前提出的任何时间序列数量完全不同。
+Bogert、Healey和Tukey引入倒频谱分析作为解决区分地震和爆炸问题的一种方法（译者注：Bogert, Healy和Tukey, 1963, [*The quefrency analysis of time series for echoes : cepstrum, pseudo-autocovariance, cross-cepstrum and saphe cracking.*](https://www.semanticscholar.org/paper/The-quefrency-analysis-of-time-series-for-echoes-%3A-Bogert/15bb1365026071ae3423d64ed2d18c554cafd6f6)）。这是基于这样一个观察，即一个信号叠加在其自身之上并具有延迟，会导致频谱波动。可以将延迟估计为波纹的频率，并根据该频率估计地震事件的深度。该论文还介绍了许多丰富多彩的语言，如“saphe cracking”、“quefrency”和“alanysis”。关于这种语言，Dick Hamming对John说：“从现在开始，你将被称为J. W. Cutie。”倒频谱与之前提出的任何时间序列量都完全不同。
 
 Nearly all of the time series papers may be found in Volumes I and II of the Collected Works.
 
-几乎所有时间序列的论文都可以在收集作品的第I和II卷中找到。
+几乎所有时间序列的论文都可以在Tukey作品集（*J. W. Tukey's Collected Works*）的第I和II卷中找到。
 
 **Data Analysis.** JWT had a philosophy for studying experimental results from early on. He called it data analysis. One of his descriptions was the following:
 
-**数据分析。** JWT具有研究早期实验结果的理念。他称其为数据分析。他的描述之一是以下内容：
+**数据分析。** JWT很早就有一个研究实验结果的哲学。他称之为数据分析。他的一个描述是这样的
 
 > ... data analysis which I take to include, among other things: procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data.
 
-> ...我要包括的数据分析，除其他外：分析数据的过程，解释此类过程结果的技术，计划收集数据的方法，以使其分析更容易，更精确或更准确，并且 （数学）统计的所有机械和结果，适用于分析数据。
+> ...**数据分析，我认为其中包括：分析数据的程序，解释这些程序结果的技术，计划收集数据以使其分析更容易、更精确或更准确的方法，以及适用于分析数据的（数学）统计的所有机制和结果。**
 
 His 1962 paper on the subject changed the paradigm and language of statistics. His 1977 book made the techniques available to a very broad audience. JWT recognized two types of data analysis: exploratory data analysis (EDA) and confirmatory data analysis (CDA). In the former the data are sacred while in the latter the model is sacred. In EDA the principal aim is to see what the data are "saying". It is used to look for unexpected patterns in data. In CDA one is trying to disconfirm a previously identified indication, hopefully doing this on fresh data. It is used to decide whether data confirm hypotheses the study was designed to test.
 
-他的1962年有关该主题的论文改变了统计的范式和语言。他1977年的书使这些技术可用于非常广泛的观众。JWT识别两种类型的数据分析：探索性数据分析（EDA）和验证性数据分析（CDA）。在前者中，数据是神圣的，而在后者中，模型是神圣的。在EDA中，主要目的是查看数据是什么“说”。它用于寻找数据中的意外模式。在CDA中，One试图否认先前确定的迹象，希望在新的数据上这样做。它用于确定数据是否确认假设该研究旨在测试。
+他1962年关于这一主题的论文改变了统计学的范式和语言。他1977年的书使这些技术面向非常广泛的受众。JWT认识到两种类型的数据分析：探索性数据分析（EDA,exploratory data analysis）和验证性数据分析（CDA，confirmatory data analysis）。在前者中，数据是神圣的，而在后者中，模型是神圣的。在EDA中，主要目的是看看数据在“说”什么。它被用来寻找数据中意想不到的模式。在CDA中，人们试图推翻以前确定的迹象，希望在新数据上这样做。它被用来决定数据是否证实了这项研究旨在测试的假设。
 
 Some parts of EDA are ugly, but the real world is ugly, particularly when errors and other aberrant material enters a data set.
 
-EDA的某些部分很丑陋，但是现实世界很丑陋，尤其是当错误和其他异常材料进入数据集时。
+EDA的某些部分是丑陋的，但现实世界也是丑陋的，尤其是当错误和其他异常材料进入数据集时。
 
 **Statistical Graphics.**
 
