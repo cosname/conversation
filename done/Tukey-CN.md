@@ -1,4 +1,21 @@
-# 统计之都访谈第46期：数据科学先驱John Tukey
+---
+title: "统计之都访谈第46期：数据科学先驱John Tukey"
+date: "2022-12-05"
+categories:
+  - COS访谈
+tags:
+  - cos访谈
+  - 统计学
+  - 统计模型
+  - 数据分析
+  - 导弹
+  - 大气数据
+  - 环境
+  - 选举
+slug: interview-of-john-turkey
+meta_extra: "作者：Luisa T. Fernholz、Stephan Morgenthaler；译者：陈星宇、徐泓、蔡再利；审校定稿：陈星宇、魏太云、黄俊文、陈鑫斌"
+forum_id: 423783
+---
 
 > 编辑部按：统计之都访谈第46期为翻译作品。原文作者是Luisa T. Fernholz 和 Stephan Morgenthaler，标题为 *[A Conversation with John W. Tukey and Elizabeth Tukey](https://projecteuclid.org/journals/statistical-science/volume-15/issue-1/A-conversation-with-John-W-Tukey-and-Elizabeth-Tukey/10.1214/ss/1009212675.full)*，于2000年发表在*Statistical Science*。译者：陈星宇（华中科技大学数学与统计学院19级数学与应用数学专业在读学生）、徐泓、蔡再利，审校定稿：陈星宇、魏太云、黄俊文。感谢原文作者、译者和审校人员的辛勤付出。Tukey一生纵横驰骋，以其预言家式的前瞻眼光、深邃广博的思想和独具匠心的创造力，预言并引领了数据科学的发展。他在1962年发表的著名文章 *[The Future of Data Analysis](https://link.springer.com/chapter/10.1007/978-1-4612-4380-9_31)* 被认为是“数据科学”诞生的标志；而2022的今年，恰好是数据科学第60个年头——故译本访谈以纪念之。
 
