@@ -1479,50 +1479,50 @@ A broad collection of technical activities is not a science; it could simply be 
 
 ## 9.1. Science-Wide Meta-Analysis
 
-## 9.1. 科学范围的荟萃分析(Science-Wide Meta-Analysis)
+## 9.1. 科学范围的荟萃分析（Science-Wide Meta-Analysis）
 
 
 In FoDA, $^{50}$ Tukey proposed that statisticians should study how people analyze data today.
 
-在“数据科学之未来”(FoDA)中 $^{50}$，Tukey建议统计学家应该研究当今人们如何分析数据。
+在“数据科学之未来”（FoDA）中 $^{50}$，Tukey 建议统计学家应该研究当今人们如何分析数据。
 
 
 By formalizing the notion of multiple comparisons (Tukey 1994), Tukey put in play the idea that a whole body of analysis conclusions can be evaluated statistically.
 
-通过将多重比较的概念正规化（Tukey 1994），Tukey提出了一个观点，即可以对整个分析结论进行统计评估。
+通过将多重比较的概念正规化（Tukey 1994），Tukey 提出了一个观点，即可以对整个分析结论进行统计评估。
 
 
 Combining such ideas leads soon enough to meta-analysis, where we study all the data analyses being published on a given topic. $^{51}$ In 1953, the introduction to Tukey's article (Tukey 1994) considered a very small scale example with six different comparisons under study. Today, more than one million scientific articles are published annually, just in clinical medical research, and there are many repeat studies of the same intervention. There's plenty of data analysis out there to meta-study!
 
-结合这些想法很快就会导致荟萃分析，我们研究在给定主题上发布的所有数据分析 $^{51}$。1953年，Tukey的文章（Tukey 1994）的导言认为是一个非常小的例子，有六个不同的比较正在研究中。如今，仅在临床医学研究中，每年就有超过100万篇科学文章发表，并且有许多相同干预的重复研究。有大量数据分析可用于荟萃研究！
+结合这些想法很快就可以创造出荟萃分析，即我们研究在给定主题上发布的所有数据分析 $^{51}$。1953年，Tukey 文章（Tukey 1994）的导言考虑了一个很小的例子，其中有六个不同的比较正在研究中。如今，仅在临床医学研究中，每年就有超过100万篇科学文章发表，并且有许多基于相同干预因素的重复研究。有大量数据分析可用于荟萃研究！
 
 
 In the last 10 years, the scope of such meta-analysis has advanced spectacularly; we now perceive entire scientific literature as a body of text to be harvested, processed, and "scraped" clean of its embedded numerical data. Those data are analyzed for clues about meta-problems in the way all of science is analyzing data. I can cite a few articles by John Ioannidis and coauthors (Ioannidis 2005, 2008; Pan et al. 2005; Button et al. 2013) and for statisticians the article "An estimate of the science-wise false discovery rate ..." Jager and Leek (2014) together with all its ensuing discussion
 
-在过去10年中，这种荟萃分析的范围取得了惊人的发展；现在，我们将整个科学文献视为一个文本体，需要对其进行收集、处理，并“抽取”嵌入其中的数字数据。这些数据被分析以寻找有关元问题(meta-problems)的线索，就像所有科学都在分析数据一样。我可以引用John Ioannidis及其合著者的几篇文章（Ioannidis, 2005, 2008；Pan等人, 2005; Button等人, 2013），以及统计学家的文章“科学上错误发现率的估计”(An estimate of the science-wise false discovery rate ...)，Jager和Leek（2014）及其所有后续讨论。
+在过去10年中，这种荟萃分析的范围取得了惊人的发展；现在，我们将整个科学文献视为一个文本体，需要对其进行收集、处理，并“抽取”嵌入其中的数字数据。这些数据被分析以寻找有关元问题（meta-problems）的线索，就像所有科学都在分析数据一样。我可以引用 John Ioannidis 及其合著者的几篇文章（Ioannidis, 2005, 2008；Pan等人, 2005; Button等人, 2013），以及统计学家的文章“科学上错误发现率的估计”（An estimate of the science-wise false discovery rate ...），Jager 和 Leek（2014）及其所有后续讨论。
 
 In particular, meta-analysts have learned that a dismaying fraction of the conclusions in the scientific literature are simply incorrect (i.e., far more than 5%) and that most published effects sizes are overstated, that many results are not reproducible, and so on.
 
-特别是，荟萃分析师已经了解到，科学文献中的一部分结论根本不正确，大多数已发表的效果被夸大，许多结果不可重复，诸如此类。
+特别地，荟萃分析师已经了解到，科学文献中的一部分结论根本不正确，大多数已发表的效果被夸大，许多结果不可重复，诸如此类。
 
 
 Our government spends tens of billions of dollars every year to produce more than one million scientific articles. It approaches cosmic importance, to learn whether science as actually practiced is succeeding or even how science as a whole can improve.
 
-我们的政府每年花费数百亿美元生产了100多万篇科学文章。了解实际实践的科学是否成功，甚至整个科学如何改进——这是一个接近宇宙级重要的问题。
+我们的政府每年花费数百亿美元生产了100多万篇科学文章。了解实际实践的科学是否成功，甚至整个科学如何改进——这是一个极其重要的问题。
 
 
 Much of this research occurred in the broader applied statistics community, for example, taking place in schools of education, medicine, public health, and so on. Much of the so far already staggering achievement depends on "text processing," namely, scraping data from abstracts posted in online databases, or stripping it out of PDF files and so on. In the process we build up "big data," for example, Ioannidis and collaborators recently harvested all the $p$-values embedded in all Pubmed abstracts (Chavalarias et al. 2016). Participants in this field are doing data science, and their goal is to answer fundamental questions about the scientific method as practiced today.
 
-这些研究大多发生在更广泛的应用统计界，例如，在教育、医学、公共卫生等学院。到目前为止，已经取得的惊人成就很大程度上取决于“文本处理”，即从发布在在线数据库中的摘要中提取数据，或从PDF文件中提取数据等等。在这个过程中，我们建立了“大数据”，例如，Ioannidis和合作者最近收获了所有Pubmed摘要中嵌入的所有$p$-值（Chavalarias等人，2016）。这一领域的参与者正在从事数据科学，他们的目标是回答有关当今实践的科学方法的基本问题。
+这些研究大多发生在更广泛的应用统计界，例如，在教育、医学、公共卫生等学院。到目前为止，已经取得的惊人成就很大程度上取决于“文本处理”，即从发布在在线数据库中的摘要中提取数据，或从PDF文件中提取数据等等。在这个过程中，我们建立了“大数据”，例如，Ioannidis 和合作者最近收获了所有 Pubmed 摘要中包含的所有 $p$-值（Chavalarias 等，2016）。这一领域的参与者正在从事数据科学，他们的目标是回答有关当今实践的科学方法的基本问题。
 
 
 > [50] "I once suggested, in discussion at a statistical meeting, that it might be well if statisticians looked to see how data was actually analyzed by many sorts of people. A very eminent and senior statistician rose at once to say that this was a novel idea, that it might have merit, but that young statisticians should be careful not to indulge in it too much since it might distort their ideas," Tukey, FoDA
 
-> [50] “在一次统计会议上的讨论中，我曾建议，如果统计学家们看看各行各业的人是如何分析数据的，那可能会很好。一位非常著名的资深统计学家立刻站起来说，这是一个新颖的想法，它可能有价值，但年轻的统计学家应该小心不要沉迷其中。因为这可能会扭曲他们的想法。” Tukey，“数据科学之未来”(FoDA)。
+> [50] “在一次统计会议上的讨论中，我曾建议，如果统计学家们看看各行各业的人是如何分析数据的，那可能会很好。一位非常著名的资深统计学家立刻站起来说，这是一个新颖的想法，它可能有价值，但年轻的统计学家应该小心不要沉迷其中。因为这可能会扭曲他们的想法。” Tukey，“数据科学之未来”（FoDA）。
 
 > [51] The practice of meta-analysis goes back at least to Karl Pearson. I am not trying to suggest that Tukey originated meta-analysis; only reminding the reader of John's work for the centennial occasion. 
 
-> [51] 荟萃分析的实践至少可以追溯到Karl Pearson。我并不是想暗示Tukey是荟萃分析的起源；只是在百年纪念中向提醒John的工作。
+> [51] 荟萃分析的实践至少可以追溯到 Karl Pearson。我并不是想暗示 Tukey 是荟萃分析的起源；只是在百年纪念中想指出 John 的工作。
 
 ## 9.2. Cross-Study Analysis
 
@@ -1530,17 +1530,17 @@ Much of this research occurred in the broader applied statistics community, for 
 
 Because medical research is so extensive, and the stakes are so high, there often are multiple studies of the same basic clinical intervention, each analyzed by some specific team in that specific team's manner. Different teams produce different predictions of patient outcome and different claims of performance of their predictors. Which if any of the predictors actually work?
 
-因为医学研究如此广泛，风险如此之高，通常有多项相同基础临床干预的研究，每项研究都由某个特定团队以其特定的方式进行分析。不同的团队对患者结果产生不同的预测，对其预测者的表现也有不同的说法。如果有什么预测真的起作用？
+因为医学研究如此广泛，风险如此之高，通常有多项基于相同临床干预的研究，每项研究都由某个特定团队以其特定的方式进行分析。不同的团队对患者结果产生不同的预测，对其预测者的表现也有不同的说法。究竟有哪些预测能真的起作用？
 
 
 Giovanni Parmigiani at Harvard School of Public Health explained to me a cross-study validation exercise (Bernau et al. 2014), in which he and co-authors considered an ensemble of studies that develop methods for predicting survival of ovarian cancer from gene expression measurements. From 23 studies of ovarian cancer with publicly available data, they created a combined curated dataset included gene expression data and survival data, involving 10 datasets with 1251 patients in all. From 101 candidate papers in the literature they identified 14 different prognostic models for predicting patient outcome. These were formulas for predicting survival from observed gene expression; the formulas had been fit to individual study datasets by their original analysts, and in some cases validated against fresh datasets collected by other studies.
 
-哈佛大学公共卫生学院的Giovanni Parmigiani向我解释了一项交叉研究验证练习（Bernau等人，2014年）。他和共同作者考虑了一系列研究，这些研究开发了通过基因表达测量预测卵巢癌生存率的方法。根据23项卵巢癌研究和公开数据，他们创建了一个包含基因表达数据和生存数据的组合数据集，涉及10个数据集，共有1251名患者。从文献中的101篇候选论文中，他们确定了14种不同的预测患者预后的预测模型。这套模型用于根据观察到的基因表达预测存活率；而且已经被他们的原始分析人员应用于各个研究数据集，并且在某些情况下与其他研究收集的新数据集进行了验证。
+哈佛大学公共卫生学院的 Giovanni Parmigiani 向我解释了一项交叉研究验证练习（Bernau 等，2014年）。他和共同作者考虑了一系列研究，这些研究开发了通过基因表达测量预测卵巢癌生存率的方法。根据23项卵巢癌研究和公开数据，他们创建了一个包含基因表达数据和生存数据的组合数据集，涉及10个数据集，共有1251名患者。从文献中的101篇候选论文中，他们确定了14种不同的预测患者预后的预测模型。这套模型用于根据观察到的基因表达预测存活率；而且已经被他们的原始分析人员应用于各个研究数据集，并且在某些情况下与其他研究收集的新数据集进行了验证。
 
 
 Parmigiani and colleagues considered the following crossstudy validation procedure: fit each of the 14 models to one of the 10 datasets, and then validate it on every one of the remaining datasets, measure the concordance of predicted risk with actual death order, producing a 14 by 10 matrix allowing to study the individual models across datasets, and also allowing to study individual datasets across models.
 
-Parmigiani及其同事考虑了以下交叉研究验证程序：将14个模型中的每一个拟合到10个数据集中的一个，然后在剩余的数据集中对其进行验证，测量预测风险与实际死亡顺序的一致性，生成一个14乘10的矩阵，以便跨数据集研究各个模型，并且还允许跨模型研究单个数据集。
+Parmigiani 及其同事考虑了以下交叉研究验证程序：将14个模型中的每一个拟合到10个数据集中的一个，然后在剩余的数据集中对其进行验证，测量预测风险与实际死亡顺序的一致性，生成一个14乘以10的矩阵，以便跨数据集研究各个模型，并且还允许跨模型研究单个数据集。
 
 
 Surprising cross-study conclusions were reached. First off, one team's model was clearly determined to be better than all the others, even though in the initial publication it reported the middlemost validation performance. Second, one dataset was clearly "harder" to predict well than were the others, in the sense of initially reported misclassification rate, but it is precisely this dataset which yielded the overall best model.
@@ -1550,7 +1550,7 @@ Surprising cross-study conclusions were reached. First off, one team's model was
 
 Table 2. OMOP datasets. Numerical figures give the number of persons or objects. Thus, 46.5M in the upper left means 46.5 million persons; while 110M in the lower right means 110 million procedures.
 
-表2. OMOP数据集。数字表示人或物的数量。因此，左上角的4650万人意味着4650万人；而右下方的110M表示1.1亿个程序(procedures)。
+表2. OMOP 数据集。数字表示人或物的数量。因此，左上角的4650万人意味着4650万人；而右下方的110M表示1.1亿个程序（procedures）。
 
 
 \begin{tabular}{lcccccc}
@@ -1571,7 +1571,7 @@ This meta study demonstrates that by both accessing all previous data from a gro
 
 The effort involved in conducting this study is breathtaking. The authors delved deeply into the details of over 100 scientific papers and understood fully how the data cleaning and data fitting was done in each case. All the underlying data were accessed and reprocessed into a new common curated format, and all the steps of the data fitting were reconstructed algorithmically, so they could be applied to other datasets. Again information technology plays a key role; much of the programming for this project was carried out in R. Parmigiani and collaborators are biostatisticians heavily involved in the development of R packages.
 
-进行这项研究所付出的努力是惊人的。作者深入研究了100多篇科学论文的细节，并充分了解了在每种情况下如何进行数据清理和数据拟合。所有基础数据都被访问并重新处理为新的通用规划格式，数据拟合的所有步骤都经过算法重建，因此可以应用于其他数据集。信息技术再次发挥了关键作用；该项目的大部分编程都是在R中完成的。Parmigiani和合作者是生物统计学家，大量参与R软件包的开发。
+进行这项研究所付出的努力是惊人的。作者深入研究了100多篇科学论文的细节，并充分了解了在每种情况下如何进行数据清理和数据拟合。所有基础数据都被访问并重新处理为新的通用规划格式，数据拟合的所有步骤都经过算法重建，因此可以应用于其他数据集。信息技术再次发挥了关键作用；该项目的大部分编程都是在 R 中完成的。Parmigiani 和合作者是生物统计学家，大量参与 R 软件包的开发。
 
 
 ## 9.3. Cross-Workflow Analysis
@@ -1581,44 +1581,43 @@ The effort involved in conducting this study is breathtaking. The authors delved
 
 A crucial hidden component of variability in science is the analysis workflow. Different studies of the same intervention may follow different workflows, which may cause the studies to get different conclusions. Carp (2012) studied analysis workflows in 241 fMRI studies. He found nearly as many unique workflows as studies! In other words researchers are making up a new workflow for pretty much every fMRI study.
 
-科学中可变性的一个关键隐藏部分是分析工作流。同一干预的不同研究可能遵循不同的工作流，这可能导致研究得出不同的结论。Carp（2012）研究了241项fMRI研究的分析工作流程。他发现了几乎与研究一样多的工作流模式！换句话说，研究人员正在为几乎每项fMRI研究制定一个新的工作流。
+科学中可变性的一个关键隐藏部分是分析工作流。同一干预的不同研究可能遵循不同的工作流，这可能导致研究得出不同的结论。Carp（2012）研究了241项 fMRI 研究的分析工作流程。他发现了几乎与研究一样多的工作流模式！换句话说，研究人员正在为几乎每项 fMRI 研究制定一个新的工作流。
 
 
 David Madigan and collaborators (Ryan et al. 2012; Madigan et al. 2014) studied the effect of analysis flexibility on effect sizes in observational studies; their collaboration will be hereafter called OMOP. As motivation, the OMOP authors point out that in the clinical research literature there are studies of the same dataset, and the same intervention and outcome, but with different analysis workflow, and the published conclusions about the risk of the intervention are reversed. Madigan gives the explicit example of exposure to Pioglitazone and bladder cancer, where published articles in BJMP and BMJ reached opposite conclusions on the very same underlying database!
 
-David Madigan及其合作者（Ryan等人，2012；Madigan等人，2014）研究了观察研究中分析灵活性对效应大小的影响；他们的合作将在下文中称为OMOP。受此启发，OMOP作者指出，在临床研究文献中，有对相同数据集、相同干预和结果的研究，但由于分析工作流不同，关于干预风险的结论是完全相反的。Madigan以吡格列酮与膀胱癌关系为例，这一问题在BJMP和BMJ上发表的文章在相同的基础数据集上得出了相反的结论！
+David Madigan及其合作者（Ryan 等，2012；Madigan 等，2014）研究了观察研究中分析灵活性对效应大小的影响；他们的合作将在下文中称为 OMOP。受此启发，OMOP 作者指出，在临床研究文献中，有对相同数据集、相同干预和结果的研究，但由于分析工作流不同，关于干预风险的结论是完全相反的。Madigan 以吡格列酮与膀胱癌关系为例，这一问题在 BJMP 和 BMJ 上发表的文章在相同的基础数据集上得出了相反的结论！
 
 
 The OMOP authors obtained five large observational datasets, covering together a total of more than 200 Million Patient-years (see Table 2).
 
-OMOP作者汇总了五个大型观测数据集，总共涵盖了超过2亿患者-年（参见表2）。
+OMOP 作者汇总了五个大型观测数据集，总共涵盖了超过2亿患者-年（参见表2）。
 
 The OMOP group considered four different outcomes, coded "Acute Kidney Injury," "Acute Liver Injury," "Acute Myocardial Infarction," "GI Bleed." They considered a wide range of possible interventions for each outcome measure, for example, whether patients taking drug X later suffered outcome Y. Below, "Acute Liver Injury" stands for the association "Exposure to X and Acute Liver Injury."
 
-OMOP组考虑了四种不同的结果，编码为“急性肾损伤”、“急性肝损伤”、“急性心肌梗死”、“胃肠道出血”。他们考虑了每种结果的大量可能干预措施，例如，服用药物X的患者后来是否会出现结果Y。下面，“急性肝损伤”代表“暴露于X和急性肝损伤”的关联。
+OMOP 组考虑了四种不同的结果，编码为“急性肾损伤”、“急性肝损伤”、“急性心肌梗死”和“胃肠道出血”。他们考虑了每种结果的大量可能干预措施，例如，服用药物 X 的患者后来是否会出现结果 Y。下面，“急性肝损伤”代表“暴露于 X 和急性肝损伤”的关联。
 
 For each target outcome, the researchers identified a collection of known positive and negative controls, interventions X for which the ground truth of statements like "Exposure to X is associated with Acute Liver Injury" is considered known. Using such controls, they could quantify an inference procedure's ability to correctly spot associations using the measure of area under the operating curve (AUC).
 
-对于每个目标结果，研究人员确定了一组已知的阳性和阴性对照、干预措施X，其中“暴露于X与急性肝损伤相关”等陈述的基本事实被认为是已知的。使用这样的对照，他们可以量化推断程序使用AUC(area under the operating curve)测量正确发现关联的能力。
-
+对于每个目标结果，研究人员确定了一组已知的阳性和阴性对照、干预措施 X，其中“暴露于 X 与急性肝损伤相关”等陈述的基本事实被认为是已知的。使用这样的对照，他们可以使用 AUC（area under the operating curve）来量化一个推断程序正确发现关联关系的能力。
 
 OMOP considered seven different procedures for inference from observational studies, labeled "CC," "CM," "DP," "ICTPD," "LGPS," "OS," and "SCCS." For example, "CC" stands for casecontrol studies, while SCCS stands for self-controlled case series. In each case, the inference procedure can be fully automated.
 
-OMOP考虑了七种不同的观察性研究推断程序，分别为“CC”、“CM”、“DP”、“ICTPD”、“LGPS”、“OS”和“SCCS”例如，“CC”代表病例对照研究，而SCCS代表自我控制病例系列。在每种情况下，推理过程都可以完全自动化。
+OMOP 考虑了七种不同的观察性研究推断程序，分别为“CC”、“CM”、“DP”、“ICTPD”、“LGPS”、“OS” 和 “SCCS”。例如，“CC”代表病例对照研究，而“SCCS”代表自我控制病例系列。在每种情况下，推理过程都可以完全自动化。
 
 In their study, OMOP considered, for each database, for each possible outcome, every one of the seven types of observational study method (CC, .., SCCS).
 
-在他们的研究中，OMOP针对每个数据集、每个可能的结果，考虑了七种观察性研究方法（CC、…、SCCS）中的每一种。
+在他们的研究中，OMOP 针对每个数据集、每个可能的结果，考虑了七种观察性研究方法（CC，…，SCCS）中的每一种。
 
 
 The OMOP report concludes that the three so-called selfcontrolled methods outperform the other methods overall, with SCCS being especially good overall. So their study reveals quite a bit about the effectiveness of various inference procedures, offering an idea what improved inference looks like and how accurate it might be.
 
-OMOP报告得出结论，三种所谓的自我控制方法总体上优于其他方法，SCCS整体表现最为优异。因此，他们的研究揭示了各种推断模式的有效性，提供了一个更好的推断模式图景以及它的潜在准确率的估计。
+OMOP 报告得出结论，三种所谓的自我控制方法总体上优于其他方法，SCCS 整体表现最为优异。因此，他们的研究揭示了各种推断模式的有效性，提供了一个更好的推断模式图景以及它的潜在准确率的估计。
 
 
 This work represents a massive endeavor by OMOP: to curate data, program inference algorithms in a unified way, and apply them across a series of underlying situations. Dealing with big data was an essential part of the project; but the driving motivation was to understand that the scientific literature contains a source of variation-methodological variation-whose influence on future inference in this field might be understood, capped, or even reduced. The participants were statisticians and biostatisticians.
 
-这项工作呈现了OMOP做出的巨大努力：以统一的方式管理数据、程序推断算法，并将其应用于一系列潜在情况。处理大数据是该项目的重要组成部分；但驱动动机是理解科学文献差异的来源，即方法学差异，从此，该领域未来推断的差异从此可以被理解、限制甚至减少。这项工作的参与者都是统计学家和生物统计学家。
+这项工作呈现了 OMOP 做出的巨大努力：以统一的方式管理数据、程序推断算法，并将其应用于一系列潜在情况。处理大数据是该项目的重要组成部分；但驱动动机是理解科学文献差异的来源，即方法学差异，从此，该领域未来推断的差异可以被理解、限制甚至减少。这项工作的参与者都是统计学家和生物统计学家。
 
 
 ## 9.4. Summary
@@ -1628,7 +1627,7 @@ This work represents a massive endeavor by OMOP: to curate data, program inferen
 
 There seem to be significant flaws in the validity of the scientific literature (Ioannidis 2007; Sullivan 2007; Prinz, Schlange, and Asadullah 2011; Open Science Collaboration et al. 2015). The last century has seen the development of a large collection of statistical methodology, and a vast enterprise using that methodology to support scientific publication. There is a very large community of expert and not-so-expert users of methodology. We do not know very much about how that body of methodology is being used and we also do not know very much about the quality of results being achieved.
 
-科学文献的有效性似乎存在重大缺陷（Ioannidis 2007；Sullivan 2007；Prinz、Schlange和Asadollah 2011；Open Science Collaboration等人，2015）。在过去的一个世纪里，大量统计方法论得到了发展，很多行业利用这些方法论来发表科研成果。专业群体用户数量庞大，但他们不算是方法论专家。我们不太了解这套方法是如何被使用的，我们也不太了解所取得的成果的质量如何。
+科学文献的有效性似乎存在重大缺陷（Ioannidis 2007；Sullivan 2007；Prinz、Schlange 和 Asadollah 2011；Open Science Collaboration 等，2015）。在过去的一个世纪里，大量统计方法论得到了发展，很多行业利用这些方法论来发表科研成果。专业群体用户数量庞大，但他们不算是方法论专家。我们不太了解这套方法是如何被使用的，我们也不太了解所取得的成果的质量如何。
 
 Data scientists should not blindly churn out methodology without showing concern for results being achieved in practice. Studies we have classed as "GDS6: Science About Data Science" help us understand how data analysis as actually practiced is impacting "all of science."
 
