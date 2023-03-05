@@ -864,12 +864,12 @@ CTF的应用真正腾飞的同时，开源软件运动开始了，随之而来�
 It may be revealing to look at what is taught in today's data science programs at some of the universities that have recently established them. Let us consider the attractive and informative web site for the UC Berkeley Data Science Masters' degree at datascience.berkeley.edu.
 
 
-看看最近建立数据科学项目的一些大学在今天的数据科学项目中教授的内容，可能会有所启发。让我们看看一下加州大学伯克利分校数据科学硕士学位的网站，它提供了大量颇有吸引力的信息：datascience.berkeley.edu.
+看看最近建立数据科学项目的一些大学在今天的数据科学项目中教授的内容，可能会有所启发。让我们看看一下加州大学伯克利分校数据科学硕士学位的网站，它提供了大量颇有吸引力的信息：[datascience.berkeley.edu](datascience.berkeley.edu).
 
-Reviewing the curriculum at https://datascience.berkeley.edu /academics/curriculum/ we find five foundation courses
+Reviewing the curriculum at https://datascience.berkeley.edu/academics/curriculum/ we find five foundation courses
 
 
-复习课程  https://datascience.berkeley.edu/academics/curriculum/ 我们找到了五门基础课程
+查看网页 https://datascience.berkeley.edu/academics/curriculum/ 我们找到了五门基础课程
 
 
 > Research Design and Application for Data and Analysis
@@ -891,17 +891,17 @@ Reviewing the curriculum at https://datascience.berkeley.edu /academics/curricul
 > 
 > 应用机器学习
 > 
-> 数据可视化和沟通
+> 数据可视化和交流
 
 Only "Storing and Retrieving Data" seems manifestly not taught by traditional statistics departments; and careful study of the words reveals that the least traditional topic among the others, "Applied Machine Learning," seems to a statistician thinking about the actual topics covered, very much like what a statistics department might or should offer-however, the use of "machine learning" in the course title is a tip off that the approach may be heavily weighted toward predictive modeling rather than inference.
 
-只有“存储和检索数据”似乎显然不是传统统计系教的。仔细研究这些词发现，在其他主题中，最不传统的主题“应用机器学习”在统计学家看来似乎是关于实际涵盖的主题，非常像统计系可能或应该提供的内容。然而，在课程标题中使用“机器学习”是一个提示，表明该方法可能会严重偏重于预测型建模而不是推断。
+只有“存储和检索数据”似乎显然不是传统统计系教的。仔细研究这些词可以发现，在所有主题中显得最不传统的“应用机器学习”在统计学家看来似乎是应该实际涵盖的主题，非常像统计系可能或应该提供的内容。然而，在课程标题中使用“机器学习”是一个提示，表明该方法可能会严重偏重于预测型建模而不是推断。
 
 
 > Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning. The emphasis will be on intuition and practical examples rather than theoretical results, though some experience with probability, statistics, and linear algebra will be important.
 
 
-> 机器学习是计算机科学和统计学交叉领域的一个快速发展的领域，涉及在数据中寻找模式。它促成了技术的巨大进步，从个性化的产品推荐，到手机中的语音识别。本课程广泛介绍了机器学习的关键思想。重点将放在理解和实例，而不是理论结果上，尽管一些概率、统计和线性代数方面的知识将十分重要。
+> 机器学习是计算机科学和统计学交叉的一个快速发展的领域，涉及在数据中寻找模式。它促成了技术的巨大进步，从个性化的产品推荐，到手机中的语音识别。本课程广泛介绍了机器学习的关键思想。重点将放在理解和实例，而不是理论结果上，尽管一些概率、统计和线性代数方面的知识将十分重要。
 
 The choice of topics might only give a partial idea of what takes place in the course. Under "Tools," we find an array of core information technology.
 
@@ -910,12 +910,12 @@ The choice of topics might only give a partial idea of what takes place in the c
 
 > Python libraries for linear algebra, plotting, machine learning: numpy, matplotlib, sk-learn / Github for submitting project code
 
-> 用于线性代数、绘图、机器学习的Python库：numpy、matplotlib、sk learn，Github，用于提交项目代码
+> 用于线性代数、绘图、机器学习的Python库：numpy、matplotlib、sk learn，以及用于提交项目代码的 Github。
 
 
 In short, course participants are producing and submitting code. Code development is not yet considered utterly de rigueur for statistics teaching, and in many statistics courses would be accomplished using code in R or other quantitative programming environments, which is much "easier" for students to use for data analysis because practically the whole of modern data analysis is already programmed in. However, $R$ has the reputation of being less scalable than Python to large problem sizes. In that sense, a person who does their work in Python might be considered to have worked harder and shown more persistence and focus than one who does the same work in R.
 
-简而言之，课程参与者正在编写和提交代码。代码开发尚未被视为统计教学的绝对必要工具。在许多统计课程中，将使用代码在R或其他定量编程环境中完成，这对于学生用于数据分析要容易得多，因为实际上整个现代数据分析都已经涉及编程。然而，对于大的问题，R的可扩展性不如Python。从这个意义上讲，使用Python进行工作的人可能会被认为比使用R进行同样工作的人更加刻苦、更加坚毅、更加专注。（译者注：完全不同意哈）
+简而言之，课程参与者正在编写和提交代码。代码开发尚未被视为统计教学的绝对必要的工具。在许多统计课程中，代码将使用 R 或其他数理编程环境完成。对于数据分析来说，这些语言比较“容易”让学生上手，因为实际上整个现代数据分析的方法都已经通过这些环境实现了。然而，对于大规模的问题，R 的可扩展性有时被认为不如 Python。从这个意义上讲，使用 Python 进行工作的人可能会被认为比使用 R 进行同样工作的人更加刻苦、更加坚毅、更加专注。（译者注：实际上这是一些刻板印象，交叉使用多种语言是数据分析的常态，且解决问题的方法往往是独立于语言的。）
 
 
 > Such thoughts continue when we consider the advanced courses.
@@ -932,31 +932,28 @@ In short, course participants are producing and submitting code. Code developmen
 
 > 当我们浏览高级课程时，这种印象会继续加深。
 > 
-> 实验和因果推断(Experiments and Causal Inference)
+> 实验和因果推断（Experiments and Causal Inference）
 > 
-> 应用回归和时间序列分析(Applied regression and Time Series Analysis)
+> 应用回归和时间序列分析（Applied regression and Time Series Analysis）
 > 
-> 数据科学家的法律，政策和道德考量(Legal, Policy, and Ethical Considerations for Data Scientists)
+> 数据科学家的法律、政策和伦理考量（Legal, Policy, and Ethical Considerations for Data Scientists）
 > 
-> 大规模机器学习(Machine Learning at Scale)
+> 大规模机器学习（Machine Learning at Scale）
 > 
-> 扩大！真正的大数据(Scaling up! Really big data)
+> 扩大！超大规模的数据（Scaling up! Really big data）
 
 The first two courses seem like mainstream statistics courses that could be taught by stat departments at any research university. The third is less familiar but overlaps with "Legal, Policy, and Ethical Considerations for Data Scientists" courses that have existed at research universities for quite a while.
 
-前两门课程看起来像是主流的统计课程，任何研究型大学的统计系都可以教授。第三门不太常见，但同样与研究型大学已经存在了很长一段时间的科研伦理程重叠。(译者注：此处原文有误，已修正)
+前两门课程看起来像是主流的统计课程，似乎任何研究型大学的统计系都可以教授。第三门不太常见，但同样与研究型大学已经存在了很长一段时间的科研伦理程重叠。（译者注：此处原文有误，已修正。）
 
 
 The last two courses address the challenge of scaling up processes and procedures to really large data. These are courses that ordinarily would not be offered in a traditional statistics department. Who are the faculty in the UC Berkeley data science program? Apparently not traditionally pedigreed academic statisticians. In the division of the website "About MIDS faculty" on Friday September 11, 2015, I could find mostly short bios for faculty associated with the largely nonstatistical courses (such as "Scaling Up! really Big Data" or "Machine Learning at Scale"). For the approximately 50% of courses covering traditional statistical topics, fewer bios were available, and those seemed to indicate different career paths than traditional statistics Ph.D.'s-sociology Ph.D's or information science Ph.D's. The program itself is run by the information school. $^{35}$
 
-最后两门课程解决了将统计过程程序扩展到真正大数据的挑战。这些课程通常不会在传统的统计系开设。加州大学伯克利分校数据科学项目的教师是谁？显然不是传统的学术统计学家。在2015年9月11日星期五“关于MIDS教师”网站的部门，我可以找到大部分与非统计课程相关的教师的简短简历（例如“扩大！真正的大数据”或“大规模机器学习”）。对于涵盖传统统计主题的大约50%的课程，可用的简历较少，这些似乎表明它们指向了与传统统计博士社会学博士或信息科学博士不同的职业道路。该项目本身由信息学院管理。 $^{35}$
-
-最后两门课程解决了将流程和过程扩展到真正大数据的挑战。这些课程通常不会在传统的统计系开设。加州大学伯克利分校数据科学项目的教员是谁？显然不是传统上的血统学术统计学家。在2015年9月11日（星期五）的“关于MIDS教师”网站的部分，我可以找到大部分与非统计课程相关的教师的简短简历（如“Scaling Up！really Big Data”或“Machine Learning at Scale”）。在涵盖传统统计主题的课程中，约有50%的课程提供了较少的生物信息，这些生物信息似乎表明了与传统统计学博士、社会学博士或信息科学博士不同的职业道路 $^{35}$。
-
+最后两门课程解决了将统计方法扩展到真正大数据的挑战。这些课程通常不会在传统的统计系开设。加州大学伯克利分校数据科学项目的教师是谁？显然不是传统的学术统计学家。在2015年9月11日星期五“关于MIDS教师”网站的子页面，我可以找到大部分与非统计课程相关的教师的简短简历（例如“扩大！超大规模的数据”或“大规模机器学习”）。对于涵盖传统统计主题的大约50%的课程，能找到的简历较少，这些似乎表明它们指向了与传统统计学、社会学或信息科学的博士不同的职业道路。该项目本身由信息学院管理。 $^{35}$
 
 In FoDA, Tukey argued that the teaching of statistics as a branch of mathematics was holding back data analysis. He saw apprenticeship with real data analysts and hence real data as the solution:
 
-在“数据分析之未来”(FoDA)中，Tukey认为统计学作为数学分支的教学阻碍了数据分析。他认为与数据分析的实际工作者建立学徒制是解决方案，因此真实数据才是解决方案：
+在“数据分析之未来（FoDA）”中，Tukey 认为统计学作为数学分支的教学阻碍了数据分析。他认为与数据分析的实际工作者建立学徒制是解决方案，因此真实数据才是解决方案：
 
 
 > All sciences have much of art in their makeup. As well as teaching facts and well-established structures, all sciences must teach their apprentices how to think about things in the manner of that particular science, and what are its current beliefs and practices. Data analysis must do the same. Inevitably its task will be harder than that of most sciences. Physicists have usually undergone a long and concentrated exposure to those who are already masters of the field. Data analysts even if professional statisticians, will have had far less exposure to professional data analysts during their training. Three reasons for this hold today, and can at best be altered slowly:
@@ -974,38 +971,38 @@ In FoDA, Tukey argued that the teaching of statistics as a branch of mathematics
 >
 > - (c1) 统计学往往被作为数学的一部分。
 > 
-> - (c2) 在学习统计本身中，对数据分析的关注有限。
+> - (c2) 在学习统计学本身的过程中，数据分析受到的关注也非常有限。
 > 
 > - (c3) 统计学博士与专业人士亲密和积极接触的年数远远少于物理学或数学博士。
 >
->  因此，数据分析和依附的统计，面临着一个异常困难的问题，即如何传达其某些要点，而这个问题在多数领域不可能通过间接讨论和工作得到解决。
+>  因此，数据分析以及基于它的统计学，面临着一个异常困难的问题，即如何传达它的一些核心要点。这个问题不可能通过间接讨论或工作得到解决，即使在其他的很多领域中是可能的。
 
 The Berkeley data science masters program features a capstone course, which involves a data analysis project with a large dataset. The course listing states in part that in the capstone class
 
-伯克利数据科学硕士项目的特色是毕业设计，它涉及大型数据集的数据分析项目。课程列表部分说明了课程中的内容
+伯克利数据科学硕士项目的特色是一个结业课程，它涉及大型数据集的数据分析项目。课程列表部分说明了课程中的内容。
 
 
 > The final project ... provides experience in formulating and carrying out a sustained, coherent, and significant course of work resulting in a tangible data science analysis project with real-world data ....The capstone is completed as a group/team project (3-4 students), and each project will focus on open, pre-existing secondary data.
 
->  最后的项目……提供制定和实施持续、连贯和重要的工作过程的经验，从而产生了一个带有真实世界数据的有形数据科学分析项目……。顶点是作为一个小组/团队项目（3-4名学生）完成的，每个项目都将关注开放的、准备好的数据。
+> 期末项目将提供制定和实施持续、连贯和重要的工作过程的经验，从而产生带有真实世界数据的有形数据科学分析项目……结业课程将以小组/团队的形式完成（3-4名学生），每个项目都将关注开放的、准备好的数据。
 
 
 This project seems to offer some of the "apprenticeship" opportunities that John Tukey knew from his college chemistry degree work, and considered important for data analysis.
 
-这个项目似乎提供了一些“学徒”机会，John Tukey从他的大学化学学位工作中了解到了这些机会，并认为这些机会对数据分析很重要。
+这个项目似乎提供了一些“学徒”机会，John Tukey 从他的大学化学学位工作中了解到了这些机会，并认为这些机会对数据分析很重要。
 
 Tukey insisted that mathematical rigor was of very limited value in teaching data analysis. This view was already evident in the quotation from FoDA immediately above. Elsewhere in FoDA Tukey said:
 
-Tukey坚持认为，数学严谨性在数据分析教学中的价值非常有限。这一观点在上面引述的“数据分析之未来”(FoDA)中已经很明显了。在FoDA的其他地方，Tukey说：
+Tukey 坚持认为，数学严谨性在数据分析教学中的价值非常有限。这一观点在上面引述的“数据分析之未来（FoDA）”中已经很明显了。在 FoDA 的其他地方，Tukey 说：
 
 
 > Teaching data analysis is not easy, and the time allowed is always far from sufficient. But these difficulties have been enhanced by the view that "avoidance of cookbookery and growth of understanding come only by mathematical treatment, with emphasis upon proofs." The problem of cookbookery is not peculiar to data analysis. But the solution of concentrating upon mathematics and proof is.
 
-> 教授数据分析并不容易，所投入的时间也总是远远不够。但是，有观点认为“避免教条主义，加深实际理解”只能通过数学学学习，尤其是数学证明”，这样的观点实际上加深了数据分析学习的困难。“教条主义”的问题并不是数据分析所特有的。但是，专注于数学和证明的解决方案是。
+> 教授数据分析并不容易，所投入的时间也总是远远不够。但是，有观点认为“避免教条主义，加深实际理解只能通过数学学习，尤其是数学证明”，因此这样的观点实际上加深了数据分析学习的困难。“教条主义”的问题并不是数据分析所特有的；专注于数学和证明的解决方案才是。
 
 Tukey saw data analysis as like other sciences and not like mathematics, in that there existed knowledge which needed to be related rather than theorems which needed proof. Drawing again on his chemistry background, he remarked that
 
-Tukey认为数据分析就像其他科学，而不是数学，因为存在需要关联的知识，而不是需要证明的定理。他再次根据自己的化学背景，指出
+Tukey 认为数据分析就像其他科学，而不是数学，因为存在需要关联的知识，而不是需要证明的定理。他再次根据自己的化学背景，指出
 
 > The field of biochemistry today contains much more detailed knowledge than does the field of data analysis. The overall teaching problem is more difficult. Yet the textbooks strive to tell the facts in as much detail as they can find room for.
 
@@ -1014,7 +1011,7 @@ Tukey认为数据分析就像其他科学，而不是数学，因为存在需要
 
 He also suggested that experimental labs offered a way for students to learn statistics
 
-他还建议实验室为学生提供学习统计学的试验方法
+他还建议实验室为学生提供学习统计学的试验方法：
 
 > These facts are a little complex, and may not prove infinitely easy to teach, but any class can check almost any one of them by doing its own experimental sampling.
 
@@ -1022,32 +1019,32 @@ He also suggested that experimental labs offered a way for students to learn sta
 
 One speculates that John Tukey might have viewed the migration of students away from statistics courses and into equivalent data science courses as possibly not a bad thing.
 
-有人因而认为，John Tukey可能认为学生从统计学课程转换到同类的数据科学课程并不是坏事。
+有人因而认为，John Tukey 可能认为学生从统计学课程转换到同类的数据科学课程并不是坏事。
 
 In his article "Statistical Modeling: The Two Cultures," Leo Breiman argued that teaching stochastic model building and inference to the exclusion of predictive modeling was damaging the ability of statistics to attack the most interesting problems he saw on the horizon. The problems he mentioned at the time are among today's hot applications of data science. So Breiman might have welcomed teaching programs which reverse the balance between inference and prediction, that is, programs such as the UC Berkeley data science masters.
 
-在《统计建模：两种文化》一文中，Leo Breiman认为，教授随机模型构建和推断而拒绝预测型建模，会使得统计学无法处理它所涉及的最有趣的问题。他当时提到的问题是当今数据科学的热门应用之一。因此，Breiman可能会欢迎打破推断和预测之间平衡的教学项目，也就是说，像加州大学伯克利分校数据科学硕士这样的项目。
+在《统计建模：两种文化》一文中，Leo Breiman 认为，教授随机模型构建和推断而拒绝预测型建模，会使得统计学无法处理它所涉及的最有趣的问题。他当时提到的问题是当今数据科学的热门应用之一。因此，Breiman 可能会欢迎打破推断和预测之间平衡的教学项目，也就是说，像加州大学伯克利分校数据科学硕士这样的项目。
 
 
 
 Although my heroes Tukey, Chambers, Cleveland, and Breiman would recognize positive features in these programs, it is difficult to say whether they would approve of their long-term direction-or if there is even a long-term direction to comment about. Consider this snarky definition:
 
 
-尽管我的英雄Tukey、Chambers、Cleveland和Breiman会认识到这些项目积极的一面，但很难说他们是否会认可它们的长期方向，或者是否有一个长期方向可以评论。考虑一下这个蹩脚的定义：
+尽管我心目中的英雄 Tukey、Chambers、Cleveland 和 Breiman 会认识到这些项目积极的一面，但很难说他们是否会认可它们的长期方向，或者是否有一个长期方向可以评论。考虑一下这个蹩脚的定义：
 
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.
 
-> 数据科学家：比任何软件工程师更擅长统计，比任何统计学家更擅长软件工程的人。
+> 数据科学家（名词）：比任何软件工程师更擅长统计，比任何统计学家更擅长软件工程的人。
 
 
 This definition is grounded in fact. Data science masters' curricula are compromises: taking some material out of a statistics master's program to make room for large database training; or, equally, as taking some material out of a database masters in CS and inserting some statistics and machine learning. Such a compromise helps administrators to quickly get a degree program going, without providing any guidance about the longterm direction of the program and about the research which its faculty will pursue. What long-term guidance could my heroes have offered?
 
-这个定义实际上是有根据的。数据科学硕士课程是妥协的产物：从统计硕士课程中拿出一些材料，为大型数据库培训腾出空间；或者，同样地，从CS中的数据库主数据中摘取一些课件，并插入一些统计学和机器学习。这样的妥协有助于管理人员快速设置学位课程，而无需对课程的长期方向及其教师将进行的研究提供任何指导。我的英雄们能提供什么长期指导？
+这个定义实际上是有根据的。数据科学硕士课程是妥协的产物：从统计硕士课程中拿走一些材料，为大型数据库培训腾出空间；或者，同样地，从计算机数据库硕士课程中删掉一些内容，并加入一些统计学和机器学习。这样的妥协有助于管理人员快速设置学位课程，而无需对课程的长期方向以及教师的研究方向提供任何指导。我心中的英雄们会提供什么样的指导呢？
 
 
 > [35] I do not wish to imply in the above that there is anything concerning to me about the composition of the faculty. I do wish to demonstrate that this is an opportunity being seized by nonstatisticians. An important event in the history of academic statistics was Hotelling's article "The Teaching of Statistics" (1940) (Hotelling 1940) which decried the teaching of statistics by nonmathematicians, and motivated the formation of academic statistics departments. The new developments may be undoing the many years of postwar professionalization of statistics instruction.
 
-> [35] 我不想暗示学院教师的组成与我有任何关系。我只是想证明，这是一个被非政府组织抓住的机会。学术统计史上的一个重要事件是Hotelling的文章《统计教学》(Hotelling, 1940)，该文谴责了非数学家的统计学教学，并推动了学术统计系的成立。但这些新的发展可能正在摧毁战后多年的统计教学专业化。
+> [35] 我不想暗示学院教师的组成与我有任何关系。我只是想证明，这是一个被非政府组织抓住的机会。学术统计史上的一个重要事件是 Hotelling 的文章《统计教学》（Hotelling, 1940），该文谴责了由非数学家教授统计学的行为，并推动了学术统计系的成立。但这些新的发展可能正在摧毁战后多年的统计教学专业化。
 
 
 # 8. The Full Scope of Data Science
