@@ -1049,12 +1049,12 @@ This definition is grounded in fact. Data science masters' curricula are comprom
 
 # 8. The Full Scope of Data Science
 
-# 8. 数据科学的范围
+# 8. 数据科学的范畴
 
 
 John Chambers and Bill Cleveland each envisioned a wouldbe field that is considerably larger than the consensus data science master's we have been discussing but at the same time more intellectually productive and lasting.
 
-John Chambers和Bill Cleveland各自设想了一个比我们一直在讨论的共识数据科学硕士大得多的领域，但同时在才智上更有成效、更持久。
+John Chambers 和 Bill Cleveland 各自设想了一个比我们一直在讨论的共识数据科学硕士大得多的领域，但同时在才智上更有成效、更持久。
 
 The larger vision posits a professional on a quest to extract information from data-exactly as in the definitions of data science we saw earlier. The larger field cares about each and every step that the professional must take, from getting acquainted with the data all the way to delivering results based upon it, and extending even to that professional's continual review of the evidence about best practices of the whole field itself.
 
@@ -1063,17 +1063,15 @@ The larger vision posits a professional on a quest to extract information from d
 
 Following Chambers, let us call the collection of activities mentioned until now "lesser data science" (LDS) and the larger would-be field greater data science (GDS). Chambers and Cleveland each parsed out their enlarged subject into specific divisions/topics/subfields of activity. I find it helpful to merge, relabel, and generalize the two parsings they proposed. This section presents and then discusses this classification of GDS.
 
-继Chambers之后，让我们将迄今为止提到的活动集合称为“狭义数据科学”（LDS, lesser data science），将更大的潜在领域称为“广义数据科学”（GDS, greater data science）。Chambers和Cleveland各自将他们的主题分解为特定的部门、主题、活动子领域。我发现合并、重新标记和概括他们提出的两个部分很有帮助。本节介绍并讨论GDS的这一分类。
-
-/主题/活动子领域。我发现合并、重新标记和概括他们提出的两个解析很有帮助。本节介绍并讨论了GDS的这种分类。
+继 Chambers 之后，让我们将迄今为止提到的活动集合称为“狭义数据科学”（LDS, lesser data science），将更大的潜在领域称为“广义数据科学”（GDS, greater data science）。Chambers 和 Cleveland 各自将他们的主题分解为特定的部门、主题和活动子领域。我发现合并、重新标记和概括他们提出的两个部分很有帮助。本节介绍并讨论 GDS 的这一分类。
 
 ## 8.1.  The Six Divisions
 
-## 8.1. 六个部门
+## 8.1. 六个部分
 
 The activities of GDS are classified into six divisions:
 
-广义数据科学(GDS)的活动分为六个部分：
+广义数据科学（GDS）的活动分为六个部分：
 
 1. Data Gathering, Preparation, and Exploration
 
@@ -1090,7 +1088,7 @@ The activities of GDS are classified into six divisions:
  
 1. 数据收集、准备和探索
 2. 数据表示和转换
-3. 数据计算
+3. 基于数据的计算
 4. 数据建模
 5. 数据可视化和展示
 6. 关于数据科学的科学
@@ -1110,24 +1108,24 @@ Some say that 80% of the effort devoted to data science is expended by diving in
 
 - Gathering. This includes traditional experimental design as practiced by statisticians for well over a century, but also a variety of modern data gathering techniques and data resources. Thus, Google nGrams viewer can quantify the entire corpus of literature 1500-2008, Google Trends can quantify recent web search interests of the whole population and even of localities, humans are taking 1 trillion photos a year, many of which are posted in social media; (https://arxiv.org/abs/1706.01869) billions of utterances are posted on social media.((https://arxiv.org/abs/1704.05579)) We have new data-making technologies like next generation sequencing in computational biology, GPS location fixes, supermarket scanner data. Next gen skills can include web scraping, Pubmed scraping,(http://jamanetwork.com/journals/jama/fullarticle/2503172) image processing, and Twitter, Facebook, and Reddit munging.
 
-- **数据收集**。这包括统计学家在一个多世纪以来实践的传统实验设计，也包括各种现代数据收集技术和数据资源。举例来说，Google nGrams查看器可以量化1500-2008年的整个文献集，Google Trends可以量化整个人口甚至地方的最近网络搜索兴趣，人类每年拍摄1万亿张照片，其中许多照片发布在社交媒体上；(https://arxiv.org/abs/1706.01869)数十亿的文字内容被发布在社交媒体上。(https://arxiv.org/abs/1704.05579) 我们拥有新的数据提取技术，如计算生物学中的下一代测序、GPS定位、超市扫描仪数据。下一代技能可以包括网页抓取、Pubmed抓取、图像处理，以及Twitter、Facebook和Reddit munging。(http://jamanetwork.com/journals/jama/fullarticle/2503172)
+- **数据收集**。这包括统计学家在一个多世纪以来实践的传统实验设计，也包括各种现代数据收集技术和数据资源。举例来说，Google nGrams 查看器可以量化1500-2008年的整个文献集，Google Trends 可以量化全部人口甚至细化到地方的网络搜索兴趣，人类每年拍摄1万亿张照片，其中许多照片发布在社交媒体上；(https://arxiv.org/abs/1706.01869) 数十亿的文字内容被发布在社交媒体上。(https://arxiv.org/abs/1704.05579) 我们拥有新的数据提取技术，如计算生物学中的下一代测序、GPS 定位和超市扫描仪数据。下一代技术可以包括网页抓取、Pubmed 抓取、图像处理，以及 Twitter、Facebook 和 Reddit munging。(http://jamanetwork.com/journals/jama/fullarticle/2503172)
 
 - Preparation. Many datasets contain anomalies and artifacts. $^{39}$ Any data-driven project requires mindfully identifying and addressing such issues. Responses range from reformatting and recoding the values themselves, to more ambitious preprocessing, such as grouping, smoothing, and subsetting. Often today, one speaks colorfully of data cleaning and data wrangling.
 
-- **数据准备**。许多数据集包含异常和错误 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和子集。今天，人们经常谈论数据清理和数据合并。
+- **数据准备**。许多数据集包含异常和错误 $^{39}$。任何数据驱动的项目都需要仔细识别和解决这些问题。响应范围从重新格式化和重新编码值本身，到更宏大的预处理，如分组、平滑和取子集。今天，人们经常谈论数据清理和数据合并。
 
 - Exploration. Since John Tukey's coining of the term "exploratory data analysis" (EDA), we all agree that every data scientist devotes serious time and effort to exploring data to sanity-check its most basic properties, and to expose unexpected features. Such detective work adds crucial insights to every data-driven endeavor.  $^{40}$ 
 
-- **数据探索**。自从John Tukey发明了“探索性数据分析”（EDA）一词以来，我们都同意，每个数据科学家都花了大量的时间和精力来探索数据，以检查其最基本的属性，并揭示意外的特征。这样的探索工作为每一项数据驱动的努力增添了至关重要的洞察力 $^{40}$。 
+- **数据探索**。自从 John Tukey 发明了“探索性数据分析”（EDA）一词以来，我们都同意，每个数据科学家都花了大量的时间和精力来探索数据，以检查其最基本的属性，并揭示意外的特征。这样的探索工作为每一项数据驱动的努力增添了至关重要的洞察力 $^{40}$。 
 
 
 > [39] Peter Huber (2010) recalled the classic Coale and Stephan article on teenage widows (Coale and Stephan 1962). In this example, a frequent coding error in a census database resulted in excessively large counts of teenage widows_until the error was rooted out. This example is quaint by modern standards. If we process natural language in the wild, such blogs and tweets, anomalies are the order of the day.
 
-> [39] Peter Huber (2010) 回忆了Coale和Stephan关于青少年寡妇的经典文章（Coale和Stephen, 1962）。在本例中，人口普查数据库中频繁的编码错误导致青少年丧偶人数过多，直到错误被消除。以现代标准来看，这个例子很奇怪。如果我们在处理博客和推文等自然语言，那异常现象就是常态。
+> [39] Peter Huber (2010) 回忆了 Coale 和 Stephan 关于青少年寡妇的经典文章（Coale和Stephen, 1962）。在本例中，人口普查数据库中频繁的编码错误导致青少年丧偶人数过多，直到错误被消除。以现代标准来看，这个例子很奇怪。我们在处理博客和推文等自然语言时，异常现象就是常态。
 
 > [40] At the Tukey Centennial, Rafael Irizarry gave a convincing example of exploratory data analysis of GWAS data, studying how the data row mean varied with the date on which each row was collected, convince the field of gene expression analysis to face up to some data problems that were crippling their studies. 
 
-> [40] 在Tukey 百年纪念上，Rafael Irizarry给出一个令人信服的例子，对GWAS数据进行探索性数据分析。研究了数据行的平均值如何随每一行的收集日期而变化，并说服基因表达分析领域正视一些影响其研究的数据问题。
+> [40] 在Tukey 百年纪念上，Rafael Irizarry 给出一个令人信服的例子，对 GWAS 数据进行探索性数据分析。研究了数据行的平均值如何随每一行的收集日期而变化，并说服基因表达分析领域正视一些影响其研究的数据问题。
 
 
 **GDS2: Data Representation and Transformation.** 
@@ -1150,27 +1148,27 @@ Data scientists develop skills in two specific areas:
 
 - Modern Databases. The scope of today's data representation includes everything from homely text files and spreadsheets to SQL and noSQL databases, distributed databases, and live data streams. Data scientists need to know the structures, transformations, and algorithms involved in using all these different representations.
 
-- **现代数据库**。今天的数据表示范围包括所有内容，从简单的文本文件和电子表格到SQL和noSQL数据库、分布式数据库和实时数据流。数据科学家需要知道使用所有这些不同表示所涉及的结构、转换和算法。
+- **现代数据库**。今天的数据表示范围非常广，从简单的文本文件和电子表格到 SQL 和 noSQL 数据库、分布式数据库和实时数据流。数据科学家需要知道使用所有这些不同表示所涉及的结构、转换和算法。
 
 - Mathematical Representations. These are interesting and useful mathematical structures for representing data of special types, including acoustic, image, sensor, and network data. For example, to get features with acoustic data, one often transforms to the cepstrum or the Fourier transform; for image and sensor data the wavelet transform or some other multi scale transform (e.g., pyramids in deep learning). Data scientists develop facility with such tools and mature judgment about deploying them.
 
-- **数学表示**。这些是有趣且有用的数学结构，用于表示特殊类型的数据，包括声学、图像、传感器和网络数据。例如，为了获得声学数据的特征，人们经常转换到倒谱或傅里叶变换；对于图像和传感器数据，小波变换或其他一些多尺度变换（例如，<font color='red'>【**深度学习中的金字塔**】</font>）。数据科学家需要利用这些工具开发设施，并对其部署做出成熟判断。
+- **数学表示**。这些是有趣且有用的数学结构，用于表示特殊类型的数据，包括声学、图像、传感器和网络数据。例如，为了获得声学数据的特征，人们经常转换到倒谱或傅里叶变换；对于图像和传感器数据，小波变换或其他一些多尺度变换（例如深度学习中的金字塔型特征提取）。数据科学家需要利用这些工具进行开发，并对其部署做出成熟判断。
 
 
 **GDS3: Computing with Data**. 
 
-**GDS3：数据计算**。
+**GDS3：基于数据的计算**。
 
 
 Every data scientist should know and use several languages for data analysis and data processing. These can include popular languages like R and Python, but also specific languages for transforming and manipulating text, and for managing complex computational pipelines. It is not surprising to be involved in ambitious projects using a half dozen languages in concert.
 
 
-每个数据科学家都应该知道并使用多种编程语言进行数据分析和数据处理。这些编程语言可以包括R和Python等流行语言，也可以包括用于转换、操作文本以及管理复杂计算管道的特定语言。一个大项目同时涉及六种不同语言也并不奇怪。
+每个数据科学家都应该知道并使用多种编程语言进行数据分析和数据处理。这些编程语言可以包括 R 和 Python 等流行语言，也可以包括用于转换、操作文本以及管理复杂计算管道的特定语言。一个大项目同时涉及六种不同语言也并不奇怪。
 
 Beyond basic knowledge of languages, data scientists need to keep current on new idioms for efficiently using those languages and need to understand the deeper issues associated with computational efficiency. Cluster and cloud computing and the ability to run massive numbers of jobs on such clusters has become an overwhelmingly powerful ingredient of the modern computational landscape. To exploit this opportunity, data scientists develop workflows which organize work to be split up across many jobs to be run sequentially or else across many machines.
 
 
-除了编程语言的基本知识之外，数据科学家还需要了解有效使用这些语言的新习惯用法，并需要了解与计算效率相关的更深层次的问题。集群和云计算以及在这些集群上运行大量任务的能力已经成为现代计算环境中一个极其强大的组成部分。为了利用这一机会，数据科学家需要开发工作流(workflows)，这些工作流将工作分为多个作业，依次运行或跨多台机器运行。
+除了编程语言的基本知识之外，数据科学家还需要了解有效使用这些语言的新习惯用法，并需要了解与计算效率相关的更深层次的问题。集群和云计算以及在这些集群上运行大量任务的能力已经成为现代计算环境中一个极其强大的组成部分。为了利用这一机会，数据科学家需要开发工作流（workflows），这些工作流将工作分为多个任务，依次运行或跨多台机器运行。
 
 Data scientists also develop workflows that document the steps of an individual data analysis or research project.
 
@@ -1187,7 +1185,7 @@ Finally, data scientists develop packages that abstract commonly used pieces of 
 
 Data visualization at one extreme overlaps with the very simple plots of EDA-histograms, scatterplots, time series plotsbut in modern practice it can be taken to much more elaborate extremes. Data scientists often spend a great deal of time decorating simple plots with additional color or symbols to bring in an important new factor, and they often crystallize their understanding of a dataset by developing a new plot which codifies it. Data scientists also create dashboards for monitoring data processing pipelines that access streaming or widely distributed data. Finally, they develop visualizations to present conclusions from a modeling exercise or CTF challenge.
 
-数据可视化可以通过EDA中的直方图、散点图、时间序列图等简单方式呈现，但在实践中，它远不止这些。数据科学家经常花费大量时间用更多的颜色或符号来修饰图像，以引入一个重要的新变量，他们还经常通过开发一个新的图片类型以加深他们对数据集的理解。数据科学家还创建了仪表板，用于监控访问流或广泛分布数据的数据处理管道。最后，他们开发了可视化工具，以展示建模结果或共同任务框架(CTF)挑战的结论。
+数据可视化可以通过 EDA 中的直方图、散点图、时间序列图等简单方式呈现，但在实践中，它远不止这些。数据科学家经常花费大量时间用更多的颜色或符号来修饰图像，以引入一个重要的新变量。他们还经常通过开发一个新的图形类型以加深他们对数据集的理解。数据科学家还创建了仪表板，用于监控访问流或广泛分布数据的数据处理管道。最后，他们开发了可视化工具，以展示建模结果或共同任务框架（CTF）挑战的结论。
 
 
 **GDS5: Data Modeling**. 
@@ -1197,7 +1195,7 @@ Data visualization at one extreme overlaps with the very simple plots of EDA-his
 
 Each data scientist in practice uses tools and viewpoints from both of Leo Breiman's modeling cultures:
 
-在实践中，每位数据科学家都使用来自Leo Breiman两种建模文化的工具和观点：
+在实践中，每位数据科学家都使用来自 Leo Breiman 两种建模文化的工具和观点：
 
 
 - Generative modeling, in which one proposes a stochastic model that could have generated the data, and derives methods to infer properties of the underlying generative mechanism. This roughly speaking coincides with traditional academic statistics and its offshoots. $^{41}$
@@ -1226,7 +1224,7 @@ Each data scientist in practice uses tools and viewpoints from both of Leo Breim
 
 Tukey proposed that a "science of data analysis" exists and should be recognized as among the most complicated of all sciences. He advocated the study of what data analysts "in the wild" are actually doing, and reminded us that the true effectiveness of a tool is related to the probability of deployment times the probability of effective results once deployed.  $^{43}$
 
-Tukey提出，“数据分析科学”是存在的，而且应该被认为是所有科学中最复杂的科学之一。他提倡研究数据分析师“在野外”实际在做什么，并提醒我们，工具的真正有效性需要同时考虑部署概率以及部署后的有效结果概率 $^{43}$。
+Tukey 提出，“数据分析科学”是存在的，而且应该被认为是所有科学中最复杂的科学之一。他提倡研究数据分析师“在野外”实际在做什么，并提醒我们，工具的真正有效性需要同时考虑部署概率以及部署后的有效结果概率 $^{43}$。
 
 
 
@@ -1237,7 +1235,7 @@ Data scientists are doing science about data science when they identify commonly
 
 The scope here also includes foundational work to make future such science possible-such as encoding documentation of individual analyses and conclusions in a standard digital format for future harvesting and meta-analysis.
 
-这里的范围还包括使未来此类科学成为可能的基础工作——例如以标准数字格式对单个分析和结论进行编码留档，以备将来收获和荟萃分析(meta-analysis)。
+这里的范畴还包括使未来此类科学成为可能的基础工作——例如以标准数字格式对单个分析和结论进行编码留档，以备将来收获和荟萃分析（meta-analysis）。
 
 As data analysis and predictive modeling becomes an ever more widely distributed global enterprise, "science about data science" will grow dramatically in significance.
 
@@ -1245,7 +1243,7 @@ As data analysis and predictive modeling becomes an ever more widely distributed
 
 > [43] Data analysis per se is probably too narrow a term, because it misses all the automated data processing that goes on under the label of data science about which we can also make scientific studies of behavior "in the wild."
 
-> [43] 数据分析本身可能是一个过于狭隘的术语，因为它忽略了数据科学标签下的所有自动化数据处理，我们也可以对“野外”行为进行科学研究
+> [43] 数据分析本身可能是一个过于狭隘的术语，因为它忽略了数据科学标签下的所有自动化数据处理，我们也可以对“野外”行为进行科学研究。
 
 ## 8.2 Discussion
 
@@ -1253,7 +1251,7 @@ As data analysis and predictive modeling becomes an ever more widely distributed
 
 These six categories of activity, when fully scoped, cover a field of endeavor much larger than what current academic efforts teach or study.  $^{44,45}$ Indeed, a single category-"GDS5: Data Modeling"-dominates the representation of data science in today's academic departments, either in statistics and mathematics departments through traditional statistics teaching and research, or in computer science departments through machine learning.
 
-这六类活动，如果范围充分，涵盖的领域远远大于当前学术统计努力教授或研究的领域 $^{44,45}$。事实上，“GDS5：数据建模”这一单个类别主导了当今学术部门中数据科学的表现，无论是通过统计和数学部门下的传统统计教学和研究，还是通过计算机科学部门下的机器学习。
+这六类活动，如果进行充分概括，涵盖的领域远远大于当前学术统计努力教授或研究的领域 $^{44,45}$。事实上，“GDS5：数据建模”这一单个类别主导了当今学术部门中数据科学的表现，无论是通过统计和数学部门下的传统统计教学和研究，还是通过计算机科学部门下的机器学习。
 
 This parsing-out reflects various points we have been trying to make earlier:
 
@@ -1262,7 +1260,7 @@ This parsing-out reflects various points we have been trying to make earlier:
 
 - The wedge issue that computer scientists use to separate "data science" from "statistics" is acknowledged here, by the addition of both "GDS3: Computing with Data" and "GDS2: Data Representation" as major divisions alongside "GDS5: Data Modeling."  $^{47,48}$ 
 
-- 计算机科学家用来将“数据科学”与“统计学”区分开来的关键问题在这里得到明确，“GDS3：用数据计算”和“GDS2：数据表示”作为“GDS5：数据建模”的主要部分 $^{47,48}$。
+- 计算机科学家用来将“数据科学”与“统计学”区分开来的关键问题在这里得到明确，“GDS3：基于数据的计算”和“GDS2：数据表示”作为“GDS5：数据建模”的主要部分 $^{47,48}$。
 
 
 - The tension between machine learning and academic statistics is suppressed in the above classification; much of it is irrelevant to what data scientists do on a daily basis. As I say above, data scientists should use both generative and predictive modeling.
@@ -1272,11 +1270,11 @@ This parsing-out reflects various points we have been trying to make earlier:
  
 - The hoopla about distributed databases, Map/Reduce, and Hadoop is not evident in the above classification. Such tools are relevant for "GDS2: Data Representation" and "GDS3: Computing with Data" but although they are heavily cited right now, they are simply today's enablers of certain larger activities. Such activities will be around permanently, while the role for enablers like Hadoop will inevitably be streamlined away.
 
-- 关于分布式数据库、Map/Reduce和Hadoop的喧嚣在上述分类中并不明显。这些工具与“GDS2：数据表示”和“GDS3：数据计算”相关，但尽管它们现在被大量引用，但它们只是当今某些更大活动的推动者。这样的活动将永久存在，而Hadoop等推动者的角色将不可避免地被精简。
+- 关于分布式数据库、Map/Reduce 和 Hadoop 的喧嚣在上述分类中并不明显。这些工具与“GDS2：数据表示”和“GDS3：基于数据的计算”相关，但尽管它们现在被大量引用，但它们只是当今某些更大活动的推动者。这样的活动将永久存在，而 Hadoop 等推动者的角色将不可避免地被精简。
 
 - Current masters programs in data science cover only a fraction of the territory mapped out here. Graduates of such programs would not have had sufficient exposure to exploring data, data cleaning, data wrangling, data transformation, science about data science, and other topics in GDS.
 
-- 当前的数据科学硕士课程仅涵盖此处所示领域的一小部分。这类课程的毕业生不会有足够的机会探索数据、数据清理、数据整理、数据转换、关于数据科学的科学以及GDS中的其他主题。
+- 当前的数据科学硕士课程仅涵盖此处所示领域的一小部分。这类课程的毕业生无法充分接触探索数据、数据清理、数据整理、数据转换、关于数据科学的科学以及 GDS 中的其他主题。
 
 
 
@@ -1286,7 +1284,7 @@ Other features of this inventory will emerge below.
 
 > [44]: John Chambers' 1993 vision of "greater statistics" proposed three divisions: data preparation, data modeling, and data presentation. We accommodated them here in "GDS1: Data Exploration and Preparation;" "GDS5: Data Modeling," and "GDS4: Data Visualization and Presentation," respectively.
 
-> [44] John Chambers 1993年提出的“大统计”愿景提出了三个部分：数据准备、数据建模和数据展示。我们在“GDS1：数据探索和准备；”分别为“GDS5：数据建模”和“GDS4：数据可视化和展示”。
+> [44] John Chambers 1993年提出的“大统计”愿景提出了三个部分：数据准备、数据建模和数据展示。我们在此编排为“GDS1：数据探索和准备”分别为“GDS5：数据建模”和“GDS4：数据可视化和展示”。
 
 
 > [45]: Cleveland's 2001 program for data science included several categories which can be mapped onto (subsets) of those proposed here, for example:
@@ -1295,20 +1293,20 @@ Other features of this inventory will emerge below.
 > - His category "Computing with Data" maps onto a subset of GDS' category of the same name; the GDS category has expanded to cover developments such as Hadoop and AWS that were not yet visible in 2001.
 > - Cleveland's category "Tool Evaluation" can be mapped onto a subset of "GDS6: Science about Data Science"
 
-> [45] Cleveland 2001年的数据科学计划包括几个类别，可以映射到这里提出的类别（子集），例如：
-> - 他的类别“数据计算”映射到GDS同名类别的子集；GDS类别已经扩展到包括Hadoop和AWS等2001年尚未出现的开发。
-> - Cleveland的类别“工具评估”可以映射到“GDS6：关于数据科学的科学”的子集上
-> - Cleveland的类别“工具评估”可以映射到“GDS6：关于数据科学的科学”的子集上
+> [45] Cleveland 2001年的数据科学计划包括几个类别，可以映射到这里提出的类别（或其子集），例如：
+> - Cleveland 的分类“理论”和“随机模型与统计方法”可以映射到“GDS5：数据建模”中的“生成式模型”子集，或映射到“GDS5：数据建模”本身。
+> - 他的类别“基于数据的计算”映射到 GDS 同名类别的子集；GDS 类别已经扩展到包括 Hadoop 和 AWS 等在内的 2001 年尚未出现的技术。
+> - Cleveland 的类别“工具评估”可以映射到“GDS6：关于数据科学的科学”的子集上。
 
 
 > [46]: Cleveland also allocated resources to multidisciplinary investigations and pedagogy. It seems to me that these can be mapped onto subsets of our categories. For example, pedagogy ought to be part of the science about data science-we can hope for evidence-based teaching. 
 
-> [46] Cleveland还为多学科调查和教学分配了资源。在我看来，这些可以映射到我们类别的子集上。例如，教学方法应该是数据科学的一部分，我们可以期待循证教学。
+> [46] Cleveland 还为多学科调查和教学分配了资源。在我看来，这些可以映射到我们类别的子集上。例如，教学方法应该是数据科学的一部分，我们可以期待循证教学。
 
 
 > [47] In our opinion, the scaling problems though real are actually transient (because technology will trivialize them over time). The more important activity encompassed under these divisions are the many ambitious and even audacious efforts to reconceptualize the standard software stack of today's data science.
 
-> [47] 在我们看来，缩放问题虽然是真实的，但实际上是暂时的（因为随着时间的推移，技术会使它们变得微不足道）。这些部门所包含的更重要的活动是许多雄心勃勃甚至大胆的努力，以重新定义当今数据科学的标准软件栈。
+> [47] 在我们看来，数据规模问题虽然是真实的，但实际上是暂时的（因为随着时间的推移，技术会使它们变得微不足道）。这些部门所包含的更重要的活动是许多雄心勃勃甚至大胆的努力，以重新定义当今数据科学的标准软件栈。
 
 > [48] Practically speaking, every statistician has to master database technology in the course of applied projects. 
 
@@ -1317,15 +1315,15 @@ Other features of this inventory will emerge below.
 
 ## 8.3. Teaching of GDS
 
-## 8.3. 广义数据科学(GDS)教学
+## 8.3. 广义数据科学（GDS）教学
 
 Full recognition of the scope of GDS would require covering each of its six branches. This demands major shifts in teaching.
 
-全面承认广义数据科学(GDS)的范围需要涵盖其六个分支中的每一个。这需要教学的重大转变。
+全面承认广义数据科学（GDS）的范畴需要涵盖其六个分支中的每一个。这需要教学的重大转变。
 
 "GDS5: Data Modeling" is the easy part of data science to formalize and teach; we have been doing this for generations in statistics courses; for a decade or more in machine learning courses; and this pattern continues in the data science masters programs being introduced all around us, where it consumes most of the coursework time allocation. However, this "easy stuff" covers only a fraction of the effort required in making productive use of data.
 
-“GDS5：数据建模”是数据科学中易于形式化和教授的部分；我们已经在统计学课程中这样做了几代人；在机器学习课程中已经做了十年或更长时间；这种模式在我们周围正在引入的数据科学硕士课程中继续存在，它消耗了大部分课程时间分配。然而，这种“简单的东西”只涵盖了有效利用数据所需努力的一小部分。
+“GDS5：数据建模”是数据科学中易于形式化和教授的部分；我们已经长期在统计学课程中这样做了；在机器学习课程中已经做了十年或更长时间；这种模式在我们周围正在引入的数据科学硕士课程中继续存在，它消耗了大部分课程时间分配。然而，这种“简单的东西”只涵盖了有效利用数据所需努力的一小部分。
 
 
 "GDS1: Data Gathering, Preparation, and Exploration" is more important than "GDS5: Data Modeling," as measured using time spent by practitioners. But there have been few efforts to formalize data exploration and cleaning and such topics still are neglected in teaching. Students who only analyze precooked data are not being given the chance to learn these essential skills.
@@ -1339,28 +1337,25 @@ How might teaching even address such a topic? I suggest the reader study careful
 
 - The Book (Tango, Lichtman, and Dolphin 2007) analyzes a set of databases covering all aspects of the American game of major league baseball, including every game played in recent decades and every player who ever appeared in such games. This amazingly comprehensive work considers a near-exhaustive list of questions one might have about the quantitative performance of different baseball strategies, carefully describes how such questions can be answered using such a database, typically by a statistical two-sample test (or A/B test in internet marketing terminology).
 
-- 这本书(Tango, Lichtman, and Dolphin 2007)分析了一套涵盖美国职业棒球大联盟比赛所有方面的数据集，包括近几十年来玩的每一场比赛和曾经出现在这种比赛中的每一个球员。这项令人惊讶的全面工作考虑了一系列关于不同棒球策略的量化表现的问题，仔细描述了如何使用这样的数据库来回答这些问题，通常通过统计双样本测试（或互联网营销术语中的A/B测试）。
+- （Tango, Lichtman, and Dolphin 2007）这本书分析了一套涵盖美国职业棒球大联盟比赛所有方面的数据集，包括近几十年来进行的每一场比赛和曾经出现在比赛中的每一个球员。这项令人惊讶的全面工作考虑了一系列关于不同棒球策略的量化表现的问题，仔细描述了如何使用这样的数据库来回答这些问题，通常通过统计双样本测试（或互联网营销术语中的 A/B 测试）。
 
 - Analyzing Baseball Data with R (Marchi and Albert 2013) showed how to access the impressive wealth of available Baseball data using the internet and how to use R to insightfully analyze that data.
 
-- 使用R分析棒球数据（Marchi和Albert 2013）展示了如何使用互联网访问丰富的可用棒球数据，以及如何使用R深入分析这些数据。
+- 使用 R 分析棒球数据（Marchi and Albert 2013）展示了如何使用互联网访问丰富的可用棒球数据，以及如何使用 R 深入分析这些数据。
 
 
 A student who could show how to systematically use the tools and methods taught in the second book to answer some of the interesting questions in the first book would, by my lights, have developed real expertise in the above division "GDS1: Data Gathering, Preparation, and Exploration." Similar projects can be developed for all the other "new" divisions of data science. In "GDS3: Computing with Data," one could teach students to develop and new R packages, and new data analysis workflows, in a hands-on manner.
 
-如果一个学生能够做到使用第二本书中教授的工具和方法来回答第一本书中的一些有趣问题，在我看来，他就在“GDS1：数据收集、准备和探索”中获得了真实的专业技能。类似的项目可以为数据科学的其他新部分开发。比如，在“GDS3：数据计算”中，我们可以教学生上手来开发新的R包和新的数据分析工作流。
+如果一个学生能够做到使用第二本书中教授的工具和方法来回答第一本书中的一些有趣问题，在我看来，他就在“GDS1：数据收集、准备和探索”中获得了真实的专业技能。类似的项目也可以用在数据科学的“新”部分中。比如，在“GDS3：基于数据的计算”中，我们可以教学生上手来开发新的 R 包和新的数据分析工作流。
 
 Ben Baumer and co-authors review experiences in Horton, Baumer, and Wickham (2015) and Baumer (2015) teaching first and second courses in data science/statistics that are consistent with this approach.
 
-Ben Baumer及其合著者回顾了Horton、Baumer和Wickham（2015）以及Baumer（2015）教授数据科学/统计学第一和第二门课程的经验，这些课程与该方法一致。
+Ben Baumer 及其合著者回顾了 Horton、Baumer 和 Wickham（2015）以及 Baumer（2015）教授数据科学/统计学入门课程的经验，这些课程与该方法理念一致。
 
 
 The reader will worry that the large scope of GDS is much larger than what we are used to teaching. Tukey anticipated such objections, by pointing out that biochemistry textbooks seem to cover much more material than statistics textbooks; he thought that once the field commits to teaching more ambitiously, it can simply "pick up the pace." $^{49}$
 
-读者会担心广义数据科学(GDS)的范围太大，这要比我们常规的教学要大得多。Tukey 预料到了这样的反对意见，他指出生物化学教科书似乎比统计教科书涵盖了更多的材料；他认为，一旦该领域更加雄心勃勃地致力于教学，它就可以简单地“加快步伐” $^{49}$。
-
-读者会担心GDS的范围比我们习惯的教学范围大得多。Tukey预料到了这样的反对意见，他指出生物化学教科书似乎比统计教科书涵盖了更多的材料；他认为，一旦该领域更加雄心勃勃地致力于教学，它就可以“加快步伐” $^{49}$。
-
+读者可能会担心广义数据科学（GDS）的范围太大，这要比我们常规的教学要大得多。Tukey 预料到了这样的反对意见，他指出生物化学教科书似乎比统计教科书涵盖了更多的材料；他认为，一旦该领域更加雄心勃勃地致力于教学，它就可以简单地“加快步伐” $^{49}$。
 
 > [49] Tukey also felt that focusing on mathematical proof limited the amount of territory that could be covered in university teaching.
 
@@ -1374,9 +1369,9 @@ Once we have the GDS template in mind, we can recognize that today there is all 
 
 一旦我们记住了GDS模板，我们就可以认识到今天有各种有趣且极具影响力的“GDS研究”它的大部分还没有一个自然的“家”，但GDS提供了一个框架来组织它并使其易于访问。我们举几个例子来激发读者的思考。
 
-## 8.4.1. Quantitative Programming Environments: R
+### 8.4.1. Quantitative Programming Environments: R
 
-## 8.4.1. 定量编程环境：R
+### 8.4.1. 定量编程环境：R
 
 
 The general topic of "computing with data" may sound at first as if it is stretchable to cover lots of mainstream academic computer science; suggesting that perhaps there is no real difference between data science and computer science. To the contrary, "computing with data" has a distinct core, and an identity separate from academic computer science. The litmus test is whether the work centers on the need to analyze data.
@@ -1388,9 +1383,9 @@ We argued earlier that the R system transformed the practice of data analysis by
 
 我们之前谈到，R系统通过创建一种标准语言彻底改变了数据分析的实践，不同的分析师都可以使用这种语言来交流和共享算法和工作流程。Becker和Chambers（S）以及后来的Ihaka, Gentleman和R核心团队的成员（R）将他们的工作设想为研究如何用统计学最好地组织计算。我也将其归类为研究，涉及类别“GDS 3：数据计算”。请注意这项工作本质上是多么雄心勃勃，多么有影响力。在最近回顾了许多关于数据科学计划的在线演示时，我惊讶地发现，即使是声称根本不做统计的数据科学讲师，R的依赖程度也是如此之高。
 
-## 8.4.2. Data Wrangling: Tidy Data
+### 8.4.2. Data Wrangling: Tidy Data
 
-## 8.4.2. 数据整理：清洗数据
+### 8.4.2. 数据整理：清洗数据
 
 
 Hadley Wickham is a well-known contributor to the world of statistical computing, as the author of numerous packages becoming popular with R users everywhere; these include ggplot2, reshape2, plyr, tidyr, dplyr; Wickham (2011), Wickham et al. (2007), and Wickham et al. (2011). These packages abstractify and attack certain common issues in data science subfield "GDS 2: Data Representation and Transformation" and also subfield "GDS 4: Data Visualization and Presentation," and Wickham's tools have gained acceptance as indispensable to many.
@@ -1472,9 +1467,9 @@ Without a classification like GDS, it would be hard to know where to "put it all
 
 如果没有像广义数据科学(GDS)这样的分类，就很难知道“把它全部放在哪里”，也很难知道给定的数据科学项目是否为整个领域的学者/研究人员提供了足够的加持。
 
-## 9. Science About Data Science
+# 9. Science About Data Science
 
-## 9. 关于数据科学的科学
+# 9. 关于数据科学的科学
 
 
 A broad collection of technical activities is not a science; it could simply be a trade such as cooking or a technical field such as geotechnical engineering. To be entitled to use the word "science," we must have a continually evolving, evidencebased approach. "GDS6: Science about Data Science" posits such an approach; we briefly review some work showing that we can really have evidence-based data analysis. We also in each instance point to the essential role of information technology skills, the extent to which the work "looks like data science," and the professional background of the researchers involved.
