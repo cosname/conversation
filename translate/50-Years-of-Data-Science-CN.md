@@ -5,7 +5,7 @@
 > 统计之都编辑部按：本文译自 Donoho(2017): 50 Years of Data Science，发表在Journal of Computational and Graphical Statistics 杂志。翻译工作得到了作者的授权。
 > Donoho 是斯坦福大学统计系教授及人文与科学学院Anne T. and Robert M. Bass讲席教授。他在关于稀疏数据、小波除噪、图像的稀疏表达、凸优化、压缩感知等领域的工作，
 > 在统计、 数学、 电子工程等学科和产业界有着深远的影响。Donoho是美国国家科学院院士、法国科学院外籍院士。他曾经获得过麦克阿瑟奖、约翰·冯·诺依曼讲座奖、邵逸夫奖等。
-> 本文译者：于嘉傲，审校：魏太云、邱怡轩，为了便于阅读，将部分较短的脚注合并到了正文括号中！
+> 本文译者：于嘉傲，审校：魏太云、邱怡轩，为了便于网页阅读，进行了细微的调整。
 
 
 # 摘要
@@ -937,18 +937,16 @@ Parmigiani 及其同事考虑了以下交叉研究验证程序：将14个模型�
 令人惊讶的交叉研究结论出现了。首先，一个团队的模型被明确地确定为优于所有其他团队，尽管在最初的发布中，它报告了比较中间的验证性能。其次，就最初报告的误分类率而言，有一个数据集显然比其他数据集“更难”预测。但正是这个数据集产生了整体最佳模型。
 
 
-表2. OMOP 数据集。数字表示人或物的数量。因此，左上角的4650万人意味着4650万人；而右下方的110M表示1.1亿个程序（procedures）。
+表2. OMOP 数据集。数字表示人或物的数量。因此，左上角的46.5 M意味着4650万人；而右下方的110 M表示1.1亿个程序（procedures）。
 
 
-\begin{tabular}{lcccccc}
-\hline Acronym & Pop. size & Source & Timerange & Drugs & Cond & Proc \\
-\hline CCAE & $46.5 \mathrm{M}$ & Private & $2003-2009$ & $1.03 \mathrm{~B}$ & $1.26 \mathrm{~B}$ & $1.98 \mathrm{~B}$ \\
-MDCD & $20.8$ & Medicaid & $2002-2007$ & $360 \mathrm{M}$ & $552 \mathrm{M}$ & $558 \mathrm{M}$ \\
-MDCR & $4.6 \mathrm{M}$ & Medicare & $2003-2009$ & $401 \mathrm{M}$ & $405 \mathrm{M}$ & $478 \mathrm{M}$ \\
-MSLR & $1.2 \mathrm{M}$ & Lab & $2003-2007$ & $38 \mathrm{M}$ & $50 \mathrm{M}$ & $69 \mathrm{M}$ \\
-GE & $11.2 \mathrm{M}$ & EHR & $1996-2008$ & $182 \mathrm{M}$ & $66 \mathrm{M}$ & $110 \mathrm{M}$ \\
-\hline
-\end{tabular}
+| Acronym  | Pop. size  | Source   | Timerange  | Drugs  | Cond   | Proc   |
+|----------|------------|----------|------------|--------|--------|--------|
+| CCAE     | 46.5 M     | Private  | 2003−2009  | 1.03 B | 1.26 B | 1.98 B |
+| MDCD     | 20.8 M     | Medicaid | 2002−2007  | 360 M  | 552 M  | 558 M  |
+| MDCR     | 4.6 M      | Medicare | 2003−2009  | 401 M  | 405 M  | 478 M  |
+| MSLR     | 1.2 M      | Lab      | 2003−2007  | 38 M   | 50 M   | 69 M   |
+| GE       | 11.2 M     | EHR      | 1996−2008  | 182 M  | 66 M   | 110 M  |
 
 
 
@@ -1271,7 +1269,7 @@ Sean Owen 提出，本文还应囊括数据科学出现的完整故事，以及�
 
 Owen 的文章支持了这一观点。Owen 讲述了我在第2.2节中给出的涉及 Hadoop 的示例是如何过时的；数据工程界已经从 Hadoop 转向 Apache Spark，在那里我给出的例子更容易实现。数据工程栈中特定工具的迅速过时表明，今天，学术界最好专注于教授广泛的原则——“科学”而不是“工程”。
 
-> [65] Insight Data 致力于培养通过传统培训的博士成为数据科学家和数据工程师。从他们的网站上看：我们定义的数据工程在一些别的公司可能被称作数据基础设施或数据架构。数据工程师收集数据，存储数据，对其进行批处理或实时处理，并通过 API 将其提供给数据科学家。https://blog.insightdatascience.com/about-insight-b535888ecb3a
+[65] Insight Data 致力于培养通过传统培训的博士成为数据科学家和数据工程师。从他们的网站上看：我们定义的数据工程在一些别的公司可能被称作数据基础设施或数据架构。数据工程师收集数据，存储数据，对其进行批处理或实时处理，并通过 API 将其提供给数据科学家。https://blog.insightdatascience.com/about-insight-b535888ecb3a
 
 
 ## 致谢
