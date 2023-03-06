@@ -1654,7 +1654,7 @@ Where will data science be in 2065 ? The evidence presented so far contains sign
 
 In principle, the purpose of scientific publication is to enable reproducibility of research findings. For centuries, computational results and data analyses have been referred to in scientific publication, but typically only have given readers a hint of the full complexity of the data analysis being described. As computations have become more ambitious, the gap between what readers know about what authors did has become immense. Twenty years ago, Jon Buckheit and I summarized lessons we had learned from Stanford's Jon Claerbout as follows:
 
-原则上，科学出版物的目的是使研究结果具有可重复性。几个世纪以来，科学出版物中大量呈现计算结果和数据分析，但通常只会给读者大致描述其数据分析的复杂性。随着计算变得越来越庞大复杂，研究者的工作会愈发难以理解。20年前，Jon Buckheit和我总结了我们从斯坦福大学的Jon Claerbout那里学到的经验：
+原则上，科学出版物的目的是使研究结果具有可重复性。几个世纪以来，科学出版物中大量呈现计算结果和数据分析，但通常只会给读者大致描述其数据分析的复杂性。随着计算变得越来越庞大复杂，研究者的工作会愈发难以理解。20年前，Jon Buckheit 和我总结了我们从斯坦福大学的 Jon Claerbout 那里学到的经验：
 
 > An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.
 
@@ -1663,12 +1663,12 @@ In principle, the purpose of scientific publication is to enable reproducibility
 
 To meet the original goal of scientific publication, one should share the underlying code and data. Moreover there are benefits to authors. Working from the beginning with a plan for sharing code and data leads to higher quality work, and ensures that authors can access their own former work, and those of their coauthors, students and postdocs (Donoho et al. 2009). Over the years, such practices have become better understood (Stodden 2012; Stodden, Guo, and Ma 2013) and have grown (Freire, Bonnet, and Shasha 2012; Stodden, Leisch, and Peng 2014), though they are still far from universal today. In absolute terms the amount of essentially nonreproducible research is far larger than ever before (Stodden, Guo, and Ma 2013).
 
-为了实现科学出版物的最初目标，人们应该共享基础代码和数据。此外，对作者也有好处。从一开始就制定共享代码和数据的计划，这将带来更高质量的工作，并确保作者能够随时追溯自己以前的工作，以及他们的合著者、学生和博士后的工作（Donoho等人，2009）。多年来，这种做法已经得到了更广泛的认同（Stodden 2012；Stodden、Guo和Ma 2013），并有所发展（Freire、Bonnet和Shasha 2012；Storden、Leisch和Peng 2014），尽管它们在今天还远远没有普及。从绝对值来看，基本上不可重复的研究数量远远超过以往（Stodden、Guo和Ma 2013）。
+为了实现科学出版物的最初目标，人们应该共享基础代码和数据。此外，这对作者也有好处。从一开始就制定共享代码和数据的计划，这将带来更高质量的工作，并确保作者能够随时追溯自己以前的工作，以及他们的合著者、学生和博士后的工作（Donoho 等，2009）。多年来，这种做法已经得到了更广泛的认同（Stodden 2012；Stodden、Guo 和 Ma 2013），并有所发展（Freire、Bonnet 和 Shasha 2012；Storden、Leisch 和 Peng 2014），尽管它们在今天还远远没有普及。从绝对数值来看，基本不可重复的研究数量远远超过以往（Stodden、Guo和Ma 2013）。
 
 
 Reproducible computation is finally being recognized today by many scientific leaders as a central requirement for valid scientific publication. The 2015 annual message from Ralph Cicerone, President of the U.S. National Academy of Sciences, stresses this theme; while funding agencies (Collins and Tabak 2014) and several key journals (Peng 2009; McNutt 2014; Heroux 2015), have developed a series of reproducibility initiatives.
 
-今天，可重复计算终于被许多科学领袖视为有效科学出版物的核心要求。美国国家科学院院长Ralph Cicerone 2015年的年度致辞强调了这一主题；而资助机构（Collins和Tabak，2014）和一些关键期刊（Peng，2009；McNutt，2014；Heroux，2015）已经制定了一系列可重复性计划。
+今天，可重复计算终于被许多科学领袖视为有效科学出版物的核心要求。美国国家科学院院长 Ralph Cicerone 2015年的年度致辞强调了这一主题；而资助机构（Collins 和 Tabak，2014）和一些关键期刊（Peng，2009；McNutt，2014；Heroux，2015）已经制定了一系列可重复性计划。
 
 To work reproducibly in today's computational environment, one constructs automated workflows that generate all the computations and all the analyses in a project. As a corollary, one can then easily and naturally refine and improve earlier work continuously.
 
@@ -1677,28 +1677,28 @@ To work reproducibly in today's computational environment, one constructs automa
 
 Computational results must be integrated into final publications. Traditional methods-running jobs interactively by hand, reformatting data by hand, looking up computational results, and copying and pasting into documents-are now understood to be irresponsible. Recently, several interesting frameworks combining embedded computational scripting with document authoring have been developed. By working within the discipline such systems impose, it becomes very easy to document the full computation leading to a specific result in a specific article. Yihui Xie's work with the knitr package-mentioned earlier-is one such example. $^{53}$
 
-计算结果必须整合到最终出版物中。传统的手工交互运行作业、手工重新格式化数据、查找计算结果以及复制和粘贴到文档中的方法现在被认为是不负责任的。最近，已经开发了几个有趣的框架，将嵌入式计算脚本与文档创作结合起来 $^{52}$。通过在这样的系统所施加的规则内工作，可以使我们轻易地记录特定文章中特定结果的完整计算过程。谢益辉之前提到的knitr就是一个很好的例子 $^{53}$。
+计算结果必须整合到最终出版物中。传统的手工交互运行作业、手工重新格式化数据、查找计算结果以及复制和粘贴到文档中的方法现在被认为是不负责任的。最近，有一些有趣的框架陆续诞生，它们将嵌入式计算脚本与文档创作结合起来 $^{52}$。通过在这样的系统所施加的规则内工作，可以使我们轻易地记录特定文章中特定结果的完整计算过程。之前提到的谢益辉的 knitr 就是一个很好的例子 $^{53}$。
 
 Reproducibility of computational experiments is just as important to industrial data science as it is to scientific publication. It enables a disciplined approach to proposing and evaluating potential system improvements and an easy transition of validated improvements into production use. 
 
-计算实验的再现性对产业数据科学和科学出版物同样重要。它能够提出和评估潜在系统改进的严格方法，并将经过验证的改进轻松过渡到生产使用。
+计算实验的可重复性对产业数据科学和科学出版物同样重要。它给出了一种严格的方法来提出和评估对系统潜在的改进，并将经过验证的改进轻松过渡到生产使用。
 
 Reproducible computation fits into our classification both at "GDS 4: Presentation of Data" and in "GDS 6: Science about Data Science." In particular, teaching students to work reproducibly enables easier and deeper evaluation of their work; having them reproduce parts of analyses by others allows them to learn skills like exploratory data analysis that are commonly practiced but not yet systematically taught; and training them to work reproducibly will make their post-graduation work more reliable.
 
-可重复计算符合前面提到的“GDS 4：数据展示”和“GDS 6：数据科学”。特别是，教学生可再重复工作可以更容易、更深入地评估他们的工作；让他们复制他人的分析方法及代码，可以让他们学习探索性数据分析等技能，这些技能常常被直接实践，但却并未系统地教授；训练他们复现工作将使他们毕业后的工作更加可靠。
+可重复计算符合前面提到的“GDS 4：数据展示”和“GDS 6：关于数据科学的科学”。特别地，教学生可再重复工作可以更容易、更深入地评估他们的工作；让他们复现他人的分析方法及代码，可以让他们学习探索性数据分析等技能，这些技能常常被直接实践，但却并未系统地教授；训练他们复现工作将使他们毕业后的工作更加可靠。
 
 
 Science funding agencies have for a long time included in their funding policies a notional requirement that investigators make code and data available to others. However, there never has been enforcement, and there was always the excuse that there was no standard way to share code and data. Today there are many ongoing development efforts to develop standard tools enabling reproducibility (Freire, Bonnet, and Shasha 2012; Stodden, Leisch, and Peng 2014; Stodden and Miguez 2014); some are part of high profile projects from the Moore and Simons foundations. We can confidently predict that in coming years reproducibility will become widely practiced.
 
-一直以来，科学资助机构在其资助政策中包含了一个“形式主义”的要求，即研究人员应公开代码和数据。然而，这从来没有强制执行过，而且总能以没有标准的方法共享代码数据为借口。如今，有许多正在进行的开发工作在开发能够实现可重复性的标准工具（Freire、Bonnet和Shasha 2012；Stodden、Leisch和Peng 2014；Stoddeen和Miguez 2014）；其中一些是摩尔和西蒙斯基金会知名项目的一部分。我们可以自信地预测，在未来几年，可重复性将得到广泛应用。
+一直以来，科学资助机构在其资助政策中包含了一个“形式主义”的要求，即研究人员应公开代码和数据。然而，这从来没有强制执行过，而且总能以没有标准的方法共享代码数据为借口。如今，有许多正在进行的工作在开发能够实现可重复性的标准工具（Freire、Bonnet 和 Shasha 2012；Stodden、Leisch 和 Peng 2014；Stoddeen 和 Miguez 2014）；其中一些是摩尔和西蒙斯基金会（Moore and Simons foundations）知名项目的一部分。我们可以自信地预测，在未来几年，可重复性将得到广泛应用。
 
 > [52] Such efforts trace back to Donald Knuth's Literate Programming project. While literate programming-mixing code and documentation-does not seem to have become very popular, a close relative-mixing executable code, data, documentation, and execution outputs in a single document-is just what the doctor ordered for reproducible research in computational science.
 
-> [52] 这些工作可以追溯到 Donald Knuth 的文学化编程(Literate Programming)项目。虽然混合代码和文档的文学化编程似乎并不是很流行，但将可执行代码、数据、文档和执行输出紧密结合在一个文档中，这正是计算科学中的可重复研究所要求的。
+> [52] 这些工作可以追溯到 Donald Knuth 的文学化编程（Literate Programming）项目。虽然混合代码和文档的文学化编程似乎并不是很流行，但将可执行代码、数据、文档和执行输出紧密结合在一个文档中，这正是计算科学中的可重复研究所要求的。
 
 > [53] Professor Martin Helm reminds me to mention other examples; he points to the SAS system's StatRep package, saying "SAS Institute twice a year produces tens of thousands pages of SAS documentation from LATEX-files with markups that run SAS and include programs as well as output as well as statistical advice (text). When we tested it, it was better and more stable than knitr. This could have changed in the meantime as knitr evolves but SAS is not so eager to open up and publish improvements." 
 
-> [53] Martin Helm 教授提醒我还有其他不错的例子；比如SAS系统的StatRep包，他表示“SAS研究所每年两次从LATEX文件中生成数万页SAS文档，其中包含运行SAS的标记，包括程序、输出以及统计建议（文本）。当我们测试它时，它比knitr更好、更稳定。随着knitr的发展，这一点可能会发生变化，但SAS并不急于开放并发布改进。" 
+> [53] Martin Helm 教授提醒我还有其他不错的例子；比如 SAS 系统的 StatRep 包，他表示“SAS 研究所每年两次从 LaTeX 文件中生成数万页 SAS 文档，其中包含运行 SAS 的标记、程序、输出以及统计建议（文本）。当我们测试它时，它比 knitr 更好、更稳定。随着 knitr 的发展，这一点可能会发生变化，但 SAS 并不急于开放并发布改进。" 
 
 ## 10.2. Science as Data
 
@@ -1706,29 +1706,29 @@ Science funding agencies have for a long time included in their funding policies
 
 Conceptually attached to a scientific publication is a great deal of numerical information-for example, the $p$-values reported within it (Chavalarias et al. 2016). Such information ought to be studied as data. Today, obtaining that data is problematic; it might involve reading of individual articles and manual extraction and compilation, or web scraping and data cleaning. Both strategies are error prone and time consuming.
 
-科学出版物包含大量数字信息，例如，其中报告的p值（Chavalarias等人，2016）。此类信息应作为数据进行研究。今天，获取这些数据并不容易；它需要阅读每篇文章、手动提取和编译，或者网络抓取和数据清理。这两种策略都容易出错且耗时。
+科学出版物包含大量数字信息，例如，其中报告的 $p$-值（Chavalarias等人，2016）。此类信息应作为数据进行研究。今天，获取这些数据并不容易；它需要阅读每篇文章、手动提取和编译，或者网络抓取和数据清理。这两种策略都容易出错且耗时。
 
 
 With the widespread adoption of open science over the next 50 years, a new horizon becomes visible. Individual computational results reported in an article, and the code and the data underlying those results, will be universally citable and programmatically retrievable. Matan Gavish and I wrote some articles (Gavish and Donoho 2011; Gavish 2012), which proposed a way to open that new world and which then explored the future of science in such a world.
 
-随着开放科学在未来50年中的广泛应用，一个新的模式变得清晰可见。一篇文章报告中的单个计算结果，以及这些结果的代码和数据，将是标准的，通用的，可引用和可编程检索的。我和Matan Gavish写了一些文章（Gavish 和 Donoho，2011年；Gavish，2012年），提出了一种打开新世界的方法，然后探讨了这样一个世界中科学的未来。
+随着开放科学在未来50年中的广泛应用，一个新的模式变得清晰可见。一篇文章报告中的单个计算结果，以及这些结果的代码和数据，将是标准的，通用的，可引用和可编程检索的。我和 Matan Gavish 写了一些文章（Gavish 和 Donoho，2011年；Gavish，2012年），提出了一种打开新世界的方法，然后探讨了这样一个世界中科学的未来。
 
 Those articles defined the notion of verifiable computational result (VCR), a computational result, and metadata about the result, immutably associated with a URL, and hence permanently programmatically citable and retrievable. Combining cloud computing and cloud storage, Gavish developed server frameworks that implemented the VCR notion, recording each key result permanently on the server and returning the citing URL. He also provided client-side libraries (e.g., for Matlab) that allowed creation of VCRs and returned the associated link, and that provided programmatic access to the data referenced by the link. On the document creation side, he provided macro packages that embedded such links into published TEXdocuments. As a result, one could easily write documents in which every numerical result computed for an article was publicly citable and inspectable-not only the numerical value, but the underlying computation script was viewable and could be studied.
 
-这些文章定义了可验证计算结果（VCR）的概念，即计算结果，以及关于结果的元数据，这些元数据与URL直接绑定，因此可以通过编程永久引用和检索。结合云计算和云存储，Gavish开发了实现VCR概念的服务器框架，将每个关键结果永久记录在服务器上并返回引用URL。他还提供了客户端库（例如Matlab），允许创建VCR并返回相关链接，并提供对链接引用的数据的编程访问。在文档创建方面，他提供了宏包，将这些链接嵌入到已发布的TEX文档中。因此，人们可以轻松编写文档，一篇文章中计算的每个数值结果都可以公开引用和检查，不仅是数值，所有基础计算脚本也可以开放浏览。
+这些文章定义了可验证计算结果（VCR）的概念，即计算结果，以及关于结果的元数据，这些元数据与 URL 直接绑定，因此可以通过编程永久引用和检索。结合云计算和云存储，Gavish 开发了实现 VCR 概念的服务器框架，将每个关键结果永久记录在服务器上并返回引用 URL。他还提供了客户端库（例如Matlab），允许创建 VCR 并返回相关链接，并提供对链接引用的数据的编程访问。在文档创建方面，他提供了宏包，将这些链接嵌入到已发布的 TeX 文档中。因此，人们可以轻松编写文档，一篇文章中计算的每个数值结果都可以公开引用和检查，不仅是数值，所有基础计算脚本也可以开放浏览。
 
 
 In a world where each numerical result in a scientific publication is citable and retrievable, along with the underlying algorithm that produced it, current approaches to meta-analysis are much easier to carry out. One can easily extract all the $p$-values from a VCR-compliant article, or extract all the data points in a graph inside it, in a universal and rigorously verifiable way. In this future world, the practice of meta-analysis of the kind we spoke about in Section $9.1$ will of course expand. But many new scientific opportunities arise. We mention two examples:
 
-如果我们科学出版物中的每一个数字结果，每一个基本算法都是可引用和可检索的，当前的荟萃分析方法自然会更容易执行。人们可以轻松地从VCR兼容的文章中提取所有p值，或者以通用且严格可验证的方式提取其中图表中的所有数据点。在这样的世界中，我们在9.1节中提到的那种荟萃分析的实践会得到扩展，而且会出现许多新的科学机会。我们举两个例子：
+如果我们科学出版物中的每一个数字结果，每一个基本算法都是可引用和可检索的，当前的荟萃分析方法自然会更容易执行。人们可以轻松地从 VCR 兼容的文章中提取所有 $p$-值，或者以通用且严格可验证的方式提取其中图表中的所有数据点。在这样的世界中，我们在9.1节中提到的那种荟萃分析的实践会得到扩展，而且会出现许多新的科学机会。我们举两个例子：
 
 - Cross-Study Control Sharing. In this new world, one can extract control data from previous studies (Wandell et al. 2015). New opportunities include: (a) having massively larger control sets in future studies; (b) quantifying the impact of specific control groups and their differences on individual study conclusions; and (c) extensive "real world" calibration exercises where both groups are actually control groups.
 
-- **交叉研究控制共享**。在这样的世界中，人们可以从以前的研究中提取控制数据（Wandell等人，2015）。新的机会包括：(a)在未来的研究中拥有更大的对照组；(b) 量化特定对照组及其差异对个体研究结论的影响；(c) 广泛的“真实世界”校准练习，其中两组实际上都是对照组。
+- **交叉研究控制共享**。在这样的世界中，人们可以从以前的研究中提取控制数据（Wandell等人，2015）。新的机会包括：（a）在未来的研究中拥有更大的对照组；（b）量化特定对照组及其差异对个体研究结论的影响；（c）广泛的“真实世界”校准实践，其中两组实际上都是对照组。
 
 - Cross-Study Comparisons. The cross-study comparisons of Sections $9.2$ and 9.3, required massive efforts to manually rebuild analyses in previous studies by other authors, and then manually curate their data. When studies are computationally reproducible and share code and data, it will be natural to apply the algorithm from paper A on the data from paper B, and thereby understand how different workflows and different datasets cause variations in conclusions. One expects that this will become the dominant trend in algorithmic research.
 
-- **交叉研究比较**。第9.2节和第9.3节的交叉研究比较需要研究人员花费大量的精力来手动重建其他作者以前研究中的分析，然后手动整理他们的数据。当研究在计算上可重复并共享代码和数据时，将论文A的算法应用于论文B的数据将是很简单的，从而更高效地理解不同的工作流和不同的数据集是如何导致结论差异的。我们认为这将成为算法研究的主导趋势。
+- **交叉研究比较**。第9.2节和第9.3节的交叉研究比较需要研究人员花费大量的精力来手动重建其他作者以前研究中的分析，然后手动整理他们的数据。当研究在计算上可重复并共享代码和数据时，将论文 A 的算法应用于论文 B 的数据将是很简单的，从而更高效地理解不同的工作流和不同的数据集是如何导致结论差异的。我们认为这将成为算法研究的主导趋势。
 
 
 Additional possibilities are discussed in Gavish (2012).
@@ -1755,12 +1755,12 @@ Many current judgments about which algorithms are good for which purposes will b
 
 ### 10.3.1. Hand et al. (2006)
 
-### 10.3.1. Hand等人（2006）
+### 10.3.1. Hand 等（2006）
 
 
 In Hand et al. (2006), D. J. Hand summarized the state of classifier research in 2006 . He wrote:
 
-在Hand等人（2006）中，D.J.Hand总结了2006年分类方法研究的现状。他写道：
+在 Hand 等（2006）中，D. J. Hand 总结了2006年分类方法研究的现状。他写道：
 
 
 > The situation to date thus appears to be one of very substantial theoretical progress, leading to deep theoretical developments and to increased predictive power in practical applications. While all of these things are true, it is the contention of this paper that the practical impact of the developments has been inflated; that although progress has been made, it may well not be as great as has been suggested. ...
@@ -1770,76 +1770,76 @@ In Hand et al. (2006), D. J. Hand summarized the state of classifier research in
 >
 > The essence of the argument [in this paper] is that the improvements attributed to the more advanced and recent developments are small, and that aspects of real practical problems often render such small differences irrelevant, or even unreal, so that the gains reported on theoretical grounds, or on empirical comparisons from simulated or even real data sets, do not translate into real advantages in practice. That is, progress is far less than it appears. $^{54}$
 
-> [在本文中]论点的本质是，最近的、更先进的发展带来的改进是很小的，而实际问题的各个方面往往使这种小差异变得无关紧要，甚至是不真实的。因此，基于理论基础所获得的结论，或者基于模拟或甚至基于真实数据集的获得的经验，在实践中并不能转化为真正的优势。也就是说，进展远没有看起来的那么快 $^{54}$。
+> [在本文中]核心地论点是，更近的、更先进的发展带来的改进是很小的，而实际问题的各个方面往往使这种小差异变得无关紧要，甚至是不真实的。因此，基于理论基础所获得的结论，或者基于模拟甚至是真实数据集的经验，在实践中并不能转化为真正的优势。也就是说，进展远没有看起来的那么快 $^{54}$。
 
 
 How did Hand support such a bold claim? On the empirical side, he used "a randomly selected sample of 10 datasets" from the literature and considered empirical classification rate. He showed that linear discriminant analysis, which goes back to Fisher (1936), achieved a substantial fraction (90\% or more) of the achievable improvement above a random guessing baseline. The better-performing methods were much more complicated and sophisticated-but the incremental performance above LDA was relatively small.
 
-Hand是如何论证如此大胆的主张的？在实证方面，他使用了文献中“随机选择的10个数据集样本”，并考察了实证分类率。他表明，线性判别分析（LDA，可追溯到Fisher（1936））在随机猜测基线之上取得了很大改进（90%或更多）。性能更好的方法虽然更加复杂和复杂，但在LDA之上的增量提升相对较小。
+Hand 是如何论证如此大胆的主张的？在实证方面，他使用了文献中“随机选择的10个数据集样本”，并考察了经验分类率。他表明，线性判别分析（LDA，可追溯到 Fisher（1936））在随机猜测基线之上取得了很大改进（90%或更多）。性能更好的方法虽然更加复杂，但在 LDA 之上的增量提升相对较小。
 
 
 
 
 Hand's theoretical point was precisely isomorphic to a point made by Tukey in FoDA about theoretical optimality: optimization under a narrow theoretical model does not lead to performance improvements in practice.
 
-Hand的理论观点与Tukey在“数据分析之未来”(FoDA)中提出的关于理论最优性的观点完全相同：在狭隘的理论模型下进行优化并不能在实践中提升效果。
+Hand 的理论观点与 Tukey 在“数据分析之未来（FoDA）”中提出的关于理论最优性的观点完全相同：在狭隘的理论模型下进行优化并不能在实践中提升效果。
 
 
 
 > [54] The point made by both Hand and Tukey was that optimality theory, with its great charisma, can fool us. J. R. Pierce made a related point in rejecting the "glamor" of theoretical machine translation.
 
-> [54] Hand和Tukey提出的观点是，最优性理论具有巨大的魅力，同时却可能混淆我们。J. R. Pierce在拒绝理论机器翻译的“魅力”时提出了类似的观点。
+> [54] Hand 和 Tukey 提出的观点是，最优性理论具有巨大的魅力，同时却可能混淆我们。J. R. Pierce 在拒绝理论机器翻译的“魅力”时提出了类似的观点。
 
 
 ### 10.3.2. Donoho and Jin (2008)
 
-### 10.3.2. Donoho和Jin（2008）
+### 10.3.2. Donoho 和 Jin（2008）
 
 
 To make Hand's point completely concrete, consider work on high-dimensional classification by myself and Jiashun Jin (Donoho and Jin 2008). $^{55}$
 
-为了使Hand的观点具体化，可以看看我和金家顺（Donoho和Jin，2008）在高维分类方面的工作 $^{55}$
+为了使 Hand 的观点具体化，可以看看我和金家顺（Donoho 和 Jin，2008）在高维分类方面的工作。$^{55}$
 
 
 Suppose we have data $X_{i, j}$ consisting of $1 \leq i \leq n$ observations on $p$ variables, and binary labels $Y_{i} \in\{+1,-1\}$. We look for a classifier $T(X)$, which presented with an unlabeled feature vector predicts the label $Y$. We suppose there are many features, that is, $p$ is large-ish compared to $n$.
 
-假设我们有数据 $X_{i, j}$，$p$个特征，$n$个观测；二分类变量$Y_{i} \in \{+1,-1\}$。我们寻找一个分类器$T(X)$，它与一个未标记的特征向量一起显示，预测标签$Y$。我们假设有很多特征，即$p$与$n$相比是很大的。
+假设我们有数据 $X_{i, j}$，包含 $p$ 个特征，$n$ 个观测；二分类变量 $Y_{i} \in \{+1,-1\}$。我们寻找一个分类器 $T(X)$，它与一个未标记的特征向量一起对标签 $Y$ 进行预测。我们假设有很多特征，即 $p$ 与 $n$ 相比是很大的。
 
 
 Consider a very unglamorous method: a linear classifier $C(x)=\sum_{j \in J_{+}} x(j)-\sum_{j \in J_{-}} x(j)$, which combines the selected features simply with weights $+1$ or $-1$. This method selects features where the absolute value of the univariate $t$-score exceeds a threshold and uses as the sign of the feature coefficient simply the sign of that feature's $t$-score. The threshold is set by higher criticism. In the published article it was called HC-clip; it is a dead-simple rule, much simpler even than classical Fisher linear discriminant analysis, as it makes no use of the covariance matrix, and does not even allow for coefficients of different sizes. The only subtlety is in the use of higher criticism for choosing the threshold. Otherwise, HC-clip is a throwback to a pre-1936 setting, that is, to before Fisher (1936) showed that one "must" use the covariance matrix in classification. $^{56}$
 
-考虑一个非常简单的方法：一个线性分类器 $C(x)=\sum_{j \in J_{+}} x(j)-\sum_{j \in J_{-}} x(j)$，它将选择的特征简单地与权重$+1$或$-1$组合。该方法选择单变量$t$值的绝对值超过阈值的特征，并仅使用该特征$t$值的正负符号作为特征系数的正负符号。阈值由 **考证(higher criticism)** 统计方法设定。在发表的文章中，它被称为HC-clip；这是一个非常简单的规则，甚至比经典的Fisher线性判别分析要简单得多，因为它不使用协方差矩阵，甚至不考虑不同大小的系数。唯一的微妙之处是在选择阈值时使用了**考证(higher criticism)**。否则，HC-clip是回到1936年之前的设置，即在Fisher(1936)表明“必须”在分类中使用协方差矩阵 $^{56}$。
+考虑一个非常简单的方法：一个线性分类器 $C(x)=\sum_{j \in J_{+}} x(j)-\sum_{j \in J_{-}} x(j)$，它将选择的特征简单地与权重 $+1$ 或 $-1$ 组合。该方法选择变量 $t$ 值的绝对值超过某阈值的特征，然后仅使用该特征 $t$ 值的正负符号作为特征系数的正负符号。阈值由 Higher Criticism 统计方法设定。在发表的文章中，它被称为 HC-clip；这是一个非常简单的规则，甚至比经典的 Fisher 线性判别分析要简单得多，因为它不使用协方差矩阵，甚至不考虑不同大小的系数。唯一的微妙之处是在选择阈值时使用了 Higher Criticism。如果不使用这个标准，HC-clip 就回到了1936年之前的设定，即在 Fisher(1936) 表明“必须”在分类中使用协方差矩阵之前 $^{56}$。
 
 
 Dettling (2004) developed a framework for comparing classifiers that were common in Machine Learning based on a standard series of datasets (in the 2-class case, the datasets are called ALL, Leukemia, and Prostate, respectively). He applied these datasets to a range of standard classifier techniques which are popular in the statistical learning community (boosted decision trees, random forests, SVM, KNN, PAM, and DLDA). The machine learning methods that Dettling compared are mostly "glamorous," with high numbers of current citations and vocal adherents.
 
-Detling（2004）开发了一个框架，用于比较机器学习中常见的基于标准数据集系列的分类器（在2类情况下，数据集分别称为全数据、白血病和前列腺）。他将这些数据集应用于统计学习界流行的一系列标准分类器技术（增强决策树、随机森林、SVM、KNN、PAM和DLDA）。Dettling所比较的机器学习方法大多是“迷人的”，当前有大量的引用量和拥护者。
+Detling（2004）开发了一个框架，用于比较机器学习中常见的基于标准数据集系列的分类器（在两分类情况下，数据集分别称为 ALL、Leukemia 和Prostate）。他将这些数据集应用于统计学习界流行的一系列标准分类器技术（Boosting 决策树、随机森林、SVM、KNN、PAM 和 DLDA）。Dettling 所比较的机器学习方法大多是“迷人的”，当前有大量的引用量和拥护者。
 
 As compared to Hand's work, our work used a preexisting collection of datasets that might seem to be less subject to selection bias, as they were already used in multi-classifier shootouts by machine learners.
 
-与Hand的工作相比，我们的工作使用了一组预先存在的数据集，这些数据集似乎不太受选择偏好的影响，因为机器学习者已经在多分类器射击中使用了这些数据集。
+与 Hand 的工作相比，我们的工作使用了一组预先存在的数据集，这些数据集似乎不太受选择偏好的影响，因为机器学习者已经在多分类器测试中使用了这些数据集。
 
 > [55] We did not know about Hand's article at the time, but stumbled to a similar conclusion.
 
-> [55] 我们当时不知道Hand的文章，但得出了类似的结论。
+> [55] 我们当时不知道 Hand 的文章，但得出了类似的结论。
 
 
 > [56] In the era of desk calculators, a rule that did not require multiplication but only addition and subtraction had some advantages. We extended Dettling's study, by adding our dead-simple clipping rule into the mix. We considered the regret (i.e., the ratio of a method's misclassification error on a given dataset to the best misclassification error among all the methods on that specific dataset). Our simple proposal did just as well on these datasets as any of the other methods; it even has the best worst-case regret. That is, every one of the more glamorous techniques suffers worse maximal regret. Boosting, random forests, and so on are dramatically more complex and have correspondingly higher charisma in the machine learning community. But against a series of preexisting benchmarks developed in the machine learning community, the charismatic methods do not outperform the homeliest of procedures-feature clipping with careful selection of features.
 
-> [56] 在台式计算器时代，不需要乘法，只需要加减运算的规则有一些优势。我们扩展了Dettling的研究，在混合中加入了简单的裁剪规则。我们考虑了后悔率（给定数据集上的方法错误分类错误与该特定数据集上所有方法中最佳错误分类错误的比率）。我们的简单方法在这些数据集上的效果与任何其他方法一样好；它甚至有最低的“最差后悔率”。也就是说，每一种更新潮的技术都会遭受更糟糕的“最差后悔率”。Boosting、随机森林等更加复杂，在机器学习社区中魅力更高。但是，在机器学习社区中开发的一系列预先存在的基准数据上，这些魅力四射的方法并没有胜过最平平无奇的方法——特征选择加上HC-clip。
+> [56] 在计算器时代，不需要乘法只需要加减运算的分类规则有一些优势。我们扩展了 Dettling 的研究，加入了简单的裁剪规则。我们考虑了后悔率（给定数据集上的误分率与该数据集上所有方法中最佳误分率的比率），发现我们的简单方法在这些数据集上的效果与任何其他方法一样好；它甚至有最低的“最差后悔率”。也就是说，每一种更新潮的技术都会遭受更糟糕的“最差后悔率”。Boosting、随机森林以及其他很多方法显然更加复杂，而且在机器学习社区中广受欢迎。但是，在机器学习社区中一系列预先存在的基准数据上，这些魅力四射的方法并没有胜过最平平无奇的方法——特征选择加上 HC-clip。
 
 ### 10.3.3. Zhao et al. (2014)
 
-### 10.3.3. Zhao等人（2014）
+### 10.3.3. Zhao 等（2014）
 
 
 In a very interesting project (Zhao et al. 2014), Parmigiani and co-authors discussed what they called the Más-o-Menos classifier, a linear classifier where features may only have coefficients that $\pm 1$; this is very much like the just-discussed HC-clip method, and in fact one of their variants included only those features selected by HC-that is, the method of the previous section. We are again back to pre-Fisher-says-use-covariancematrix, pre-1936 setting.
 
-在另一个非常有趣的项目中（Zhao等人，2014），Parmigiani等人讨论了他们所称的Más-o-Menos分类器，这是一种线性分类器，其中特征的系数可能只有±1；这与刚才讨论的HC-clip方法非常相似，事实上，它们的变体之一即包括HC选择的那些特征，也就是上一节的方法。我们再次回到Fisher使用协方差矩阵之前，即1936年之前的设置。
+在另一个非常有趣的项目中（Zhao 等，2014），Parmigiani 等人讨论了他们所称的 Más-o-Menos 分类器，这是一种线性分类器，其中特征的系数只有±1两种可能；这与刚才讨论的 HC-clip 方法非常相似。事实上，它们的变体之一即包括 HC 选择的那些特征，也就是上一节的方法。我们再次回到 Fisher 使用协方差矩阵之前，即1936年之前的设定。
 
 In their study, Zhao et al. compared Más-o-Menos to "sophisticated" classifiers based on penalization (e.g., lasso, ridge).
 
-在他们的研究中，Zhao等人将Más-o-Menos与基于惩罚的“复杂”分类器（如lasso、ridge）进行了比较。
+在他们的研究中，Zhao 等人将 Más-o-Menos 与基于惩罚的“复杂”分类器（如lasso、ridge）进行了比较。
 
 
 Crucially, the authors took the fundamental step of comparing performance on a universe of datasets used in published clinical medical research. Specifically, they curated a series of datasets from the literature on treatment of bladder, breast, and ovarian cancer, and evaluated prediction performance of each classification method over this universe.
@@ -1849,27 +1849,27 @@ Crucially, the authors took the fundamental step of comparing performance on a u
 
 > We ... demonstrated in an extensive analysis of real cancer gene expression studies that [Más-o-Menos] can indeed achieve good discrimination performance in realistic settings, even compared to lasso and ridge regression. Our results provide some justification to support its widespread use in practice. We hope our work will help shift the emphasis of ongoing prediction modeling efforts in genomics from the development of complex models to the more important issues of study design, model interpretation, and independent validation.
 
-> 我们……在对真实癌症基因表达研究的广泛分析中证明，[Más-o-Menos]确实可以在现实环境中实现较高的判别准确率，即使与Lasso和岭回归相比也是如此。我们的结果为支持其广泛应用于实践提供了一些理论基础。我们希望我们的工作，将有助于将基因组学中正在进行的预测型建模工作的重点，从复杂模型的开发转移到更重要的研究设计、模型解释和独立验证问题。
+> 我们……在对真实癌症基因表达研究的广泛分析中证明，[Más-o-Menos] 确实可以在现实环境中实现较高的判别准确率，即使与 lasso 和岭回归相比也是如此。我们的结果为支持其广泛应用于实践提供了一些理论基础。我们希望我们的工作，将有助于把基因组学中正在进行的预测型建模工作的重点，从复杂模型的开发转移到更重要的研究设计、模型解释和独立验证问题。
 
 
 The implicit point is again that effort devoted to fancy-seeming methods is misplaced compared to other, more important issues. They continue
 
 
-隐含的观点是，与其他更重要的问题相比，过度投入于开发看似花哨的方法是错误的。他们同时认为：
+这其中隐含的观点是，与其他更重要的问题相比，过度投入于开发看似花哨的方法是错误的。他们同时认为：
 
 > One reason why Más-o-Menos is comparable to more sophisticated methods such as penalized regression may be that we often use a prediction model trained on one set of patients to discriminate between subgroups in an independent sample, usually collected from a slightly different population and processed in a different laboratory. This crossstudy variation is not captured by standard theoretical analyses, so theoretically optimal methods may not perform well in real applications. $^{57}$
 
-> Más-o-Menos与惩罚回归等更复杂的方法更优异的一个原因可能是，我们经常使用在一组患者身上训练的预测模型来判别独立样本分类，但这些样本通常是从有异质性的人群中收集的，并在不同的实验室中处理。这种交叉研究变异没有被标准理论分析捕获，因此理论上的最佳方法在实际应用中可能表现不佳 $^{57}$。
+> Más-o-Menos 比惩罚回归等更复杂的方法更优异的一个原因可能是，我们经常使用在一组患者身上训练的预测模型来判别独立样本分类，但这些样本通常是从有异质性的人群中收集的，并在不同的实验室中处理。这种交叉研究变异没有被标准的理论分析捕获，因此理论上的最佳方法在实际应用中可能表现不佳 $^{57}$。
 
 
 In comparison to the articles (Hand et al. 2006; Donoho and Jin 2008) discussed in previous subsections, this work, by mining the scientific literature, speaks directly to practitioners of classification in a specific field-giving evidence-based guidance about what would have been true for studies to date in that field, had people all known to use the recommended technique.
 
-与前几小节中讨论的文章（Hand等人，2006；Donoho和Jin，2008）相比，这项工作通过挖掘科学文献，直接与特定领域分类问题的从业者对话，用证据告诉他们假如人们知道使用推荐的技术的话，这些领域的研究将会是什么样的。
+与前几小节中讨论的文章（Hand 等，2006；Donoho 和 Jin，2008）相比，这项工作通过挖掘科学文献，直接与特定领域分类问题的从业者对话，用证据告诉他们，假如人们知道如何使用推荐的方法，这些领域的研究将会是什么样的。
 
 
 > [57] Again this vindicates Tukey's point from 1962 that optimization of performance under narrow assumptions is likely a waste of effort, because in practice, the narrow assumptions do not apply to new situations and so the supposed benefits of optimality never appear. 
 
-> [57] 这再次证明了Tukey在1962年提出的观点，即在狭隘的假设条件下优化性能很可能是浪费精力，因为在实践中，狭隘的假设不适用于新的情况，因此最佳化的假设从未带来什么好处。
+> [57] 这再次证明了 Tukey 在1962年提出的观点，即在狭隘的假设条件下优化性能很可能是浪费精力，因为在实践中，狭隘的假设不适用于新的情况，因此最佳化的假设从未带来什么好处。
 
 ## 10.4. Data Science in 2065
 
