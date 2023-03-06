@@ -1877,7 +1877,7 @@ In comparison to the articles (Hand et al. 2006; Donoho and Jin 2008) discussed 
 
 In the future, scientific methodology will be validated empirically. Code sharing and data sharing will allow large numbers of datasets and analysis workflows to be derived from studies science-wide. These will be curated into corpora of data and of workflows. Performance of statistical and machine learning methods will thus ultimately rely on the cross-study and crossworkflow approaches we discussed in Sections $9.2$ and $9.3$ Those approaches to quantifying performance will become standards, again because of code and data sharing. Many new common task frameworks will appear; however, the new ones would not always have prediction accuracy for their performance metric. Performance might also involve validity of the conclusions reached, or empirical Type I and II error. Research will move to a meta level, where the question becomes: "if we use such-andsuch a method across all of science, how much will the global science-wide result improve?" measured using an accepted corpus representing science itself.
 
-未来，科学方法论将得到实证验证。代码和数据共享将使所有学科开放大量数据集和分析工作流。这些内容将被整理成数据和工作流的语料库。因此，统计和机器学习方法的性能最终将取决于我们在第9.2和9.3节中讨论的交叉研究和交叉工作流方法。由于代码和数据共享，这些量化性能的方法将成为标准。将出现许多新的共同任务框架；然而，新的任务框架并非总是把预测准确性作为评价指标。效果评估还可能涉及所得出结论的有效性，或经验型一类和二类错误。研究将进入元层次，问题变成：“如果我们在所有科学领域使用这样的方法，全球科学研究的产出将提高多少？”，并使用代表科学本身的公认语料库进行量化。
+未来，科学方法论将通过实证分析进行验证。代码和数据共享将使所有学科开放大量数据集和分析工作流。这些内容将被整理成数据和工作流的语料库。因此，统计和机器学习方法的性能最终将取决于我们在第9.2和9.3节中讨论的交叉研究和交叉工作流方法。由于代码和数据共享，这些量化性能的方法将成为标准。将出现许多新的共同任务框架；然而，新的任务框架并非总是把预测准确性作为评价指标。效果评估还可能涉及所得出结论的有效性，或经验型一类和二类错误。研究将进入元层次，问题变成“如果我们在所有科学领域使用这样的方法，全球科学研究的产出将提高多少？”，并使用代表科学本身的公认语料库进行量化。
 
 
 In 2065 , mathematical derivation and proof will not trump conclusions derived from state-of-the-art empiricism. Echoing Bill Cleveland's point, theory which produces new methodology for use in data analysis or machine learning will be considered valuable, based on its quantifiable benefit in frequently occurring problems, as shown under empirical test. $^{58}$
@@ -1895,17 +1895,17 @@ In 2065 , mathematical derivation and proof will not trump conclusions derived f
 
 Each proposed notion of data science involves some enlargement of academic statistics and machine learning. The "GDS" variant specifically discussed in this article derives from insights about data analysis and modeling stretching back decades. In this variant, the core motivation for the expansion to data science is intellectual. In the future, there may be great industrial demand for the skills inculcated by GDS; however, the core questions which drive the field are scientific, not industrial.
 
-本文提到的每一个数据科学概念都涉及到学术统计和机器学习的一些扩展。本文中特别讨论的广义数据科学(GDS)变体源自几十年前关于数据分析和建模的见解。在这个变体中，扩展到数据科学的核心动机是才智。未来，行业对GDS灌输的技能可能会有很大的需求；然而，推动这一领域的核心问题是科学问题，而不是工业问题。
+本文提到的每一个数据科学概念都涉及到学术统计和机器学习的一些扩展。本文中特别讨论的广义数据科学（GDS）变体源自几十年前关于数据分析和建模的见解。在这个变体中，扩展到数据科学的核心动机是才智。未来，行业对 GDS 灌输的技能可能会有很大的需求；然而，推动这一领域的核心问题是科学问题，而不是工业问题。
 
 GDS proposes that data science is the science of learning from data; it studies the methods involved in the analysis and processing of data and proposes technology to improve methods in an evidence-based manner. The scope and impact of this science will expand enormously in coming decades as scientific data and data about science itself become ubiquitously available.
 
-广义数据科学(GDS)提出数据科学是从数据中学习的科学；它研究数据分析和处理的方法，并提出以循证方式改进方法的技术模式。随着科学数据和关于科学本身的数据变得无处不在，这门科学的范围和影响将在未来几十年中继续深化。
+广义数据科学（GDS）提出数据科学是从数据中学习的科学；它研究数据分析和处理的方法，并提出以循证方式改进方法的技术模式。随着科学数据和关于科学本身的数据变得无处不在，这门科学的范围和影响将在未来几十年中继续深化。
 
 
 
 Society already spends tens of billions of dollars yearly on scientific research, and much of that research takes place at universities. GDS inherently works to understand and improve the validity of the conclusions produced by university research, and can play a key role in all campuses where data analysis and modeling are major activities.
 
-社会每年已经在科学研究上花费数百亿美元，其中大部分研究由各个高校负责。广义数据科学(GDS)本质上致力于理解和提高大学研究得出结论的有效性，并且可以在所有以数据分析建模为主的领域中发挥关键作用。
+社会每年已经在科学研究上花费数百亿美元，其中大部分研究由各个高校负责。广义数据科学（GDS）本质上致力于理解和提高大学研究得出结论的有效性，并且可以在所有以数据分析建模为主的领域中发挥关键作用。
 
 
 
@@ -1925,7 +1925,7 @@ The "1.00 version" of this article was dated September 18, 2015. Since its relea
 
 C. F. Jeff Wu, Professor of Industrial and Systems Engineering at Georgia Tech, wrote to me, pointing out that he had been using the term "data science" in the 1990s. In Section 4.1, we have already mentioned his inaugural Carver lecture at the University of Michigan. Wu proposed in that lecture that statistics rebrand itself.
 
-佐治亚理工大学工业与系统工程教授吴建福写信给我，指出他在20世纪90年代一直使用“数据科学”一词。在第4.1节中，我们已经提到了他在密歇根大学的首次Carver讲座。吴建福在那次演讲中提出，统计学要重塑自己。
+佐治亚理工大学工业与系统工程教授吴建福写信给我，指出他在20世纪90年代一直使用“数据科学”一词。在第4.1节中，我们已经提到了他在密歇根大学的首次 Carver 讲座。吴建福在那次演讲中提出，统计学要重塑自己。
 
 
 We mentioned earlier that the Royal Statistical Society hosted a "debate" in May $2015^{59}$-a video is posted online-asking whether in fact data science is merely such a rebranding, or something larger. Wu's data science proposal was ahead of its time. $^{60}$
@@ -1935,7 +1935,7 @@ We mentioned earlier that the Royal Statistical Society hosted a "debate" in May
 
 I have argued here that data science is not a mere rebranding or retitling of statistics. Today's consensus data science includes statistics as a subset.  $^{61}$ I think data science ought to be even larger, for example, to include GDS6: Science about Data Science.
 
-我认为，数据科学不仅仅是统计学的品牌重塑或重新命名。今天的共识是，统计学是数据科学的一个子集。 $^{61}$。我认为数据科学应该更大，例如，包括GDS6：关于数据科学的科学。
+我认为，数据科学不仅仅是统计学的品牌重塑或重新命名。今天的共识是，统计学是数据科学的一个子集。$^{61}$ 我认为数据科学应该更大，例如，包括GDS6：关于数据科学的科学。
 
 > [59] Data Science and Statistics: Different Worlds? Participants: Zoubin Ghahramani (Professor of Machine Learning, University of Cambridge), Chris Wiggins (Chief Data Scientist, New York Times), David Hand (Emeritus Professor of Mathematics, Imperial College), Francine Bennett (Founder, Mastodon-C), Patrick Wolfe (Professor of Statistics, UCL / Executive Director, UCL Big Data Institute). Chair: Martin Goodson (Vice-President Data Science, Skimlinks). Discussant: John Pullinger (UK National Statistician).
 
@@ -1950,7 +1950,7 @@ I have argued here that data science is not a mere rebranding or retitling of st
 
 > [61] Echoing Wu's master's curriculum proposal from the Carver lecture. 
 
-> [61] 呼应了吴建福教授在Carver讲座中提出的硕士课程建议。
+> [61] 呼应了吴建福教授在 Carver 讲座中提出的硕士课程建议。
 
 ### Comments from University of Michigan Readers
 
@@ -1964,30 +1964,30 @@ I received e-mails from three readers at the University of Michigan who in vario
 
 For example, Peter Lenk told me good-naturedly that I "bashed his University," while statistician R.J.A. Little offered a friendly warning to avoid "inflammatory language."
 
-例如，Peter Lenk善意地告诉我，我“抨击了他的大学”，而统计学家 R.J.A. Little 则友好地警告我要避免“煽动性语言”。
+例如，Peter Lenk 善意地告诉我，我“抨击了他的大学”，而统计学家 R.J.A. Little 则友好地警告我要避免“煽动性语言”。
 
 AL Hero, the director of the MIDAS initiative, wrote to me making several points, some of which are reflected in footnotes to Section 2.1. Hero's points include: (1) that statisticians were involved in the planning effort for MIDAS; (2) that the speakers at the introductory colloquium all used statistical methods in fundamental ways, even though they may not have all been from the Statistics Department; and (3) that the 135 MIDAS affiliated faculty include 30+ statisticians in the Statistics Department and elsewhere. These are all very appropriate points to make.
 
-密歇根数据科学机构(MIDAS)计划的负责人AL Hero写信给我，提出了几点，其中一些内容反映在第2.1节的脚注中。Hero的观点包括：（1）统计学家参与了MIDAS的规划工作；（2） 介绍座谈会上的发言者都以统计方法为基础，尽管他们可能并非都来自统计系；（3）135名MIDAS教员包括统计系和其他系的30多名统计学家。这些观点都十分恰当。
+密歇根数据科学机构（MIDAS）计划的负责人 AL Hero 写信给我，提出了几点，其中一些内容反映在第2.1节的脚注中。Hero 的观点包括：（1）统计学家参与了 MIDAS 的规划工作；（2）介绍座谈会上的发言者都以统计方法为基础，尽管他们可能并非都来自统计系；（3）135名 MIDAS 教员包括统计系和其他系的30多名统计学家。这些观点都十分恰当。
 
 
 I have nothing to criticize about the MIDAS program; nowhere do I point to some other DSI as doing a better job. I have never organized such a program and doubt that I could. The initiative seems well designed and well run.
 
-我对MIDAS没有什么可批评的；我并不认为其他数据科学计划(DSI)可以做得更好。我从来没有组织过这样的项目，我也同时怀疑我能否做到。这项计划似乎设计完善，运行良好。
+我对 MIDAS 没有什么可批评的；我并不认为其他数据科学计划（DSI）可以做得更好。我从来没有组织过这样的项目，我也同时怀疑我能否做到。这项计划似乎设计完善，运行良好。
 
 
 Hero and others were concerned that readers of my article might form the incorrect opinion that statisticians were specifically excluded from the MIDAS data science initiative; Hero explained they were involved all along. I never thought otherwise.
 
-Hero和其他人担心我的文章的读者可能会产生错误的印象，即认为统计学家被明确排除在MIDAS数据科学计划之外；Hero解释说他们一直都参与其中。我其实从来没有这么想过。
+Hero 和其他人担心我的文章的读者可能会产生错误的印象，即认为统计学家被明确排除在 MIDAS 数据科学计划之外；Hero 解释说他们一直都参与其中。我其实从来没有这么想过。
 
 I am writing here about what the program and its announcement would look like to many statisticians upon inception. Moreover, my specific points about the public face of the initiative were uncontested.
 
-我在这里想要表达的是，该计划及其公告一开始给统计学家留下的印象。此外，我关于该计划宣传的具体观点应该是无可争议的。
+我在这里想要表达的是该计划及其公告一开始给统计学家留下的印象。此外，我关于该计划宣传的某些观点应该是无可争议的。
 
 
 To clarify my position: I think that many statisticians would today, on the basis of appearances, conclude that data sciencewhile overlapping heavily with statistics-offers a public face intentionally obscuring this overlap.  $^{62}$ In making a DSI look new and attractive for the media and potential students, DSI administrators downplay continuity with the traditional statistics discipline-suggesting that such discontinuity is a feature and not a bug.
 
-为了澄清我的立场，我需要说明的是：我认为今天许多统计学家会根据表象得出结论，即认为数据科学虽然与统计学有很大的重合，但却同时有意掩饰这种重合 $^{62}$。为了使数据科学计划(DSI)能够显得足够新颖，以吸引媒体和更多有意报考的学生，DSI的管理层淡化了项目与传统统计学科的密切联系，但这种淡化其实是一种策略，而不是一种缺陷。
+为了澄清我的立场，我需要说明的是：我认为今天许多统计学家会根据表象得出结论，即认为数据科学虽然与统计学有很大的重合，但却同时有意掩饰这种重合 $^{62}$。为了使数据科学计划（DSI）能够显得足够新颖，以吸引媒体和更多有意报考的学生，DSI 的管理层淡化了项目与传统统计学科的密切联系，但这种淡化其实是一种策略，而不是一种缺陷。
 
 
 Moreover, I think it is healthy for statisticians to have this perception. Let them ponder the idea that statistics may become marginalized. The train may well be leaving the station. Statisticians may well get left behind.
@@ -1997,7 +1997,7 @@ Moreover, I think it is healthy for statisticians to have this perception. Let t
 
 > [62] In fact, Hero's remarks support this interpretation; Hero says in so many words that, if statisticians really knew all the facts behind the scenes, they would agree that statistics is substantially involved in the MIDAS DSI. Fine-but this means my comment that "statistics is the subject that dare not speak its name" (Aside: Is this the inflammatory language that Professor Little worries about?) is roughly on target.
 
-> [62] 事实上，Hero的评论也支持这种解释；Hero说了这么多话来解释：如果统计学家了解了计划幕后完整的运作流程，他们也会认同统计是MIDAS数据科学计划中不可或缺的一部分。没错，但这意味着我的评论“统计学是一门不敢说出名字的学科”（旁白：这是Little教授担心的煽动性语言吗？）倒也并无不妥。
+> [62] 事实上，Hero 的评论也支持这种解释；Hero 说了这么多话来解释：如果统计学家了解了计划幕后完整的运作流程，他们也会认同统计是 MIDAS 数据科学计划中不可或缺的一部分。没错，但这意味着我的评论“统计学是一门不敢说出名字的学科”（旁白：这是 Little 教授担心的煽动性语言吗？）倒也并无不妥。
 
 
 ### Chris Wiggins, Columbia University
@@ -2011,16 +2011,16 @@ Chris Wiggins 是《纽约时报》的首席数据科学家，也是哥伦比亚
 
 Wiggins and I first interacted after my talk at Princeton in September 2015 when he pointed out to me that he had earlier made a presentation about data science, for example, at ICERM, in which John Tukey's FoDA played a large part. In fact the parallelism in places of the two presentations is striking. $^{63}$
 
-Wiggins和我第一次互动是2015年9月我在普林斯顿的演讲后。当时他提出，他早些时候在ICERM做了一个关于数据科学的演讲，John Tukey的“数据科学之未来”(FoDA)在其中发挥了很大作用。事实上，这两个演讲有诸多惊人的的相似之处 $^{63}$。
+Wiggins 和我第一次互动是2015年9月我在普林斯顿的演讲后。当时他提出，他早些时候在 ICERM 做了一个关于数据科学的演讲，John Tukey 的“数据科学之未来（FoDA）”在其中发挥了很大作用。事实上，这两个演讲有诸多惊人的的相似之处 $^{63}$。
 
 Wiggins made numerous points in conversation and in email, the most striking of which I will now attempt to evoke. I stress that Wiggins did not always use these specific words. I hope that he will publish an essay making his points.
 
-Wiggins在谈话和电子邮件中提出了许多观点，我想转述其中最精彩的一部分。请注意Wiggins可能并未使用这些特定的词汇，我希望他也能发表一篇文章阐述他的观点。
+Wiggins 在谈话和电子邮件中提出了许多观点，我想转述其中最精彩的一部分。请注意 Wiggins 可能并未使用这些特定的词汇，我希望他也能发表一篇文章阐述他的观点。
 
 
 - Academic statistics is permanently deformed by the postwar association with mathematics that Tukey first called attention to.
 
-- 战后，Tukey第一次让人们注意到——学术统计和数学的关系变得畸形。
+- 战后，Tukey 第一次让人们注意到学术统计和数学的关系变得畸形。
 
 - That deformation will prevent it from having relevance in the new data science field and the new big data world that is rapidly forming.
 
@@ -2028,7 +2028,7 @@ Wiggins在谈话和电子邮件中提出了许多观点，我想转述其中最�
 
 - "Data science is not a science, even though Donoho might like it. It is a form of engineering, and the doers in this field will define it, not the would-be scientists." (C. Wiggins, private communication, October 2015.)
 
-- “数据科学不是一门科学，尽管 Donoho 可能喜欢它。它是一种工程形式，该领域的实干家才能定义它，而不是未来的科学家。”（C.Wiggins，私下沟通，2015年10月）
+- “数据科学不是一门科学，尽管 Donoho 可能喜欢它。它是一种工程形式，该领域的实干家才能定义它，而不是未来的科学家。”（C. Wiggins，私下沟通，2015年10月）
 
 
 These statements have weight. I obviously cannot object to the first one. The second and third ones are predictions and time will obviously tell.
@@ -2038,24 +2038,24 @@ These statements have weight. I obviously cannot object to the first one. The se
 
 I agree with Wiggins that whether statisticians will respond energetically to the data science challenge is very much an open question.
 
-我同意Wiggins的观点，即统计学家是否会积极应对数据科学挑战，这是一个非常开放的问题。
+我同意 Wiggins 的观点，即统计学家是否会积极应对数据科学挑战，这是一个非常开放的问题。
 
 > [63] James Guzca, Chief Data Scientist at Deloitte, later wrote to me about a data science course that he gave in which Tukey's statements also play a similar role. 
 
-> [63] 德勤（Deloitte）首席数据科学家 James Guzca 后来写信给我，描述了他开设的数据科学课程，Tukey的观点也起到了类似的作用。
+> [63] 德勤（Deloitte）首席数据科学家 James Guzca 后来写信给我，描述了他开设的数据科学课程，Tukey 的观点也起到了类似的作用。
 
 ### Sean Owen's "What '50 Years of Data Science' Leaves Out"
 
-### Sean Owen的《数据科学50年》
+### Sean Owen 的《〈数据科学50年〉忽略了什么》
 
 
 Sean Owen, Director of Data Science at Cloudera, has posted an essay reacting to my manuscript. (https://medium.com/@srowen/what-50-years-of-data-science-leaves-out-2366c9b61d3d)
 
-Cloudera数据科学总监 Sean Owen 发表了一篇文章，对我的手稿做出了回应。(https://medium.com/@srowen/what-50-years-of-data-science-leaves-out-2366c9b61d3d)
+Cloudera 数据科学总监 Sean Owen 发表了一篇文章，对我的手稿做出了回应。(https://medium.com/@srowen/what-50-years-of-data-science-leaves-out-2366c9b61d3d)
 
 Owen makes many interesting points, and readers will wish to consult the text directly.
 
-Owen提出了许多有趣的观点，读者可以直接看原文。
+Owen 提出了许多有趣的观点，读者可以直接看原文。
 
 Near the beginning, we read:
 
@@ -2068,26 +2068,26 @@ Near the beginning, we read:
 
 I like Owen's essay and offer a few mild responses.
 
-我喜欢Owen的文章，并给出了一些温和的回应。
+我喜欢 Owen 的文章，并给出了一些温和的回应。
 
 - Nowhere did I say that data science cannot be much more than statistics. I quote approvingly others who say the opposite. John Chambers was saying quite literally that there is a larger field than traditional statistics, and Bill Cleveland was saying quite literally that what some academic statistics departments are doing is a small part of data science. I did literally say that even data science as it is currently being instituted is too limited; there is a field I called "greater data science" extending beyond the limits of today's "consensus data science."
 
-- 我没有说过数据科学只能是统计学，恰恰相反，我引用了其他人的对立观点。John Chambers曾直言，有一个比传统统计学更大的领域，Bill Cleveland也曾表示，一些学术统计系正在做的只是数据科学的一小部分。我确实提到过，即使是现在，正在发展的数据科学也依然狭隘；有一个领域我称之为“广义数据科学”，它超越了今天“共识数据科学”的边界。
+- 我没有说过数据科学只能是统计学，恰恰相反，我引用了其他人的对立观点。John Chambers 曾直言，有一个比传统统计学更大的领域，Bill Cleveland 也曾表示，一些学术统计系正在做的只是数据科学的一小部分。我确实提到过，即使是现在，正在发展的数据科学也依然狭隘；有一个领域我称之为“广义数据科学”，它超越了今天“共识数据科学”的边界。
 
 
 - Owen's essay focuses on the important term "data engineering," which I under-played in the main text. Data engineers exploit currently available cloud/cluster computing resources to allow the storage of large databases and to implement complex processing pipelines.  $^{65}$
 
-- Owen的文章集中在“数据工程”这一重要术语上，我在正文中没有提到它。数据工程师利用当前可用的云/集群计算资源来存储大型数据库并实现复杂的处理管道 $^{65}$。
+- Owen 的文章集中在“数据工程”这一重要术语上，我在正文中没有提到它。数据工程师利用当前可用的云/集群计算资源来存储大型数据库并实现复杂的处理管道 $^{65}$。
 
 
 - Owen writes that "data engineering ...is most of what data science is and statistics is not." Owen's claim goes beyond my current understanding of the boundaries of both statistics and data science. A block diagram I used in my talk at Princeton showed blocks labeled "Statistics," "Data Science," and "Data Engineering;" there are important differences between these blocks at the present time.
 
-- Owen写道：“数据工程……是数据科学的主要内容，而统计学不是。” Owen的说法超出了我目前对统计学和数据科学界限的理解。我在普林斯顿大学演讲时使用的框图显示了标有“统计学”、“数据科学”和“数据工程”的方框；目前，我认为这些分类之间存在重要差异。
+- Owen 写道：“数据工程……是数据科学的主要内容，而统计学不是。” Owen 的说法超出了我目前对统计学和数据科学界限的理解。我在普林斯顿大学演讲时使用的框图显示了标有“统计学”、“数据科学”和“数据工程”的方框；目前，我认为这些分类之间存在重要差异。
 
 
 Owen complained that my Version $1.00$ manuscript was "writing data engineering out of the story of data science." I certainly intended no such thing. For the academic statistics audience that I was addressing at the Tukey Centennial, many of whom had not previously heard talks about the data science moment, I judged that I had zero chance of engaging the audience unless I could connect to our (their and my) common academic and historical background.
 
-Owen抱怨说，我的1.00版本手稿是“在数据科学的故事中写数据工程”。”我当然不是有意为之。我在Tukey百年纪念大会上演讲时，台下学术统计听众中的大部分以前从未听到过有关数据科学时刻的消息。我认为，我必须联系到我们（他们和我）共同的学术和历史背景，才能够吸引听众。
+Owen 抱怨说，我的1.00版本手稿是“在数据科学的故事中写数据工程”。我当然不是有意为之。我在 Tukey 百年纪念大会上演讲时，台下学术统计听众中的大部分以前从未听到过有关数据科学时刻的消息。我认为，我必须联系到我们（他们和我）共同的学术和历史背景，才能够吸引听众。
 
 
 Sean Owen is completely correct to say that the full story of the emergence of data science, and the role of industry in shaping and defining it, remains to be written.
@@ -2102,12 +2102,12 @@ I return to a point I made earlier: many of the struggles associated with scalin
 
 Owen's essay supports this point. Owen describes how the example I gave above in Section 2.2, involving Hadoop, is no longer current; the data engineering community has moved away from Hadoop toward Apache Spark, where the example I gave would be much easier to implement. The rapid obsolescence of specific tools in the data engineering stack suggests that today, the academic community can best focus on teaching broad principles-"science" rather than "engineering."
 
-Owen的文章支持了这一观点。Owen讲述了我在第2.2节中给出的涉及Hadoop的示例是如何过时的；数据工程界已经从Hadoop转向Apache Spark，在那里我给出的例子更容易实现。数据工程堆栈中特定工具的迅速过时表明，今天，学术界最好专注于教授广泛的原则——“科学”而不是“工程”。
+Owen 的文章支持了这一观点。Owen 讲述了我在第2.2节中给出的涉及 Hadoop 的示例是如何过时的；数据工程界已经从 Hadoop 转向 Apache Spark，在那里我给出的例子更容易实现。数据工程栈中特定工具的迅速过时表明，今天，学术界最好专注于教授广泛的原则——“科学”而不是“工程”。
 
 
 > [65] Insight Data trains conventionally trained PhD's to become data scientists and data engineers. From their website: Our definition of data engineering includes what some companies might call Data Infrastructure or Data Architecture. The data engineer gathers and collects the data, stores it, does batch processing or real-time processing on it, and serves it via an API to a data scientist who can easily query it. https://blog.insightdatascience.com/about-insight-b535888ecb3a 
 
-> [65] Insight Data致力于培养通过传统培训的博士成为数据科学家和数据工程师。从他们的网站上看：我们对数据工程的定义包括一些公司可能称之为数据基础设施或数据架构。数据工程师收集和收集数据，存储数据，对其进行批处理或实时处理，并通过API将其提供数据科学家。https://blog.insightdatascience.com/about-insight-b535888ecb3a
+> [65] Insight Data 致力于培养通过传统培训的博士成为数据科学家和数据工程师。从他们的网站上看：我们定义的数据工程在一些别的公司可能被称作数据基础设施或数据架构。数据工程师收集数据，存储数据，对其进行批处理或实时处理，并通过 API 将其提供给数据科学家。https://blog.insightdatascience.com/about-insight-b535888ecb3a
 
 
 
@@ -2117,22 +2117,22 @@ Owen的文章支持了这一观点。Owen讲述了我在第2.2节中给出的涉
 
 Thanks to John Storey, Amit Singer, Esther Kim, and all the other organizers of the Tukey Centennial at Princeton, September 18, 2015. This provided an occasion for me to organize my thoughts on this topic, for which I am grateful.
 
-感谢John Storey、Amit Singer、Esther Kim，以及2015年9月18日在普林斯顿举行的Tukey百年纪念的所有其他组织者。这给了我机会组织我对这个主题的思考，我对此表示感谢。
+感谢 John Storey、Amit Singer、Esther Kim，以及2015年9月18日在普林斯顿举行的 Tukey 百年纪念的所有其他组织者。这给了我机会组织我对这个主题的思考，我对此表示感谢。
 
 
 Special thanks to Edgar Dobriban (U. Penn.), Bradley Efron (Stanford), and Victoria Stodden (Univ Illinois) for comments on data science and on pre 1.00 drafts of this article. Thanks to the many readers of the 1.00 draft who wrote to me with valuable suggestions about how it could be improved. In particular, Chris Wiggins (Columbia) corresponded extensively with me on matters large and small concerning many aspects of Version 1.00 and in so doing clarified my thinking notably. This version contains an Epilogue mentioning some important points raised by Wiggins, and also by Jeff Wu (Georgia Tech), AL Hero (University of Michigan), and Sean Owen (Cloudera).
 
-特别感谢Edgar Dobriban（宾夕法尼亚大学），Bradley Efron（斯坦福大学）和Victoria Stodden（伊利诺伊大学）就数据科学和本文1.00前的草稿发表的评论。感谢许多1.00草稿的读者，他们给我写信，就如何改进草稿提出了宝贵的建议。特别是，Chris Wiggins（哥伦比亚）就1.00版诸多方面的各种问题与我进行了广泛沟通，从而明确了我的想法。该版本包含一篇尾声，其中提到了Wiggins、Jeff Wu（佐治亚理工学院）、AL Hero（密歇根大学）和Sean Owen（Cloudera）提出的一些重要观点。
+特别感谢 Edgar Dobriban（宾夕法尼亚大学），Bradley Efron（斯坦福大学）和 Victoria Stodden（伊利诺伊大学）就数据科学和本文1.00前的草稿发表的评论。感谢许多1.00草稿的读者，他们给我写信，就如何改进草稿提出了宝贵的建议。特别是，Chris Wiggins（哥伦比亚）就1.00版诸多方面的各种问题与我进行了广泛沟通，从而明确了我的想法。该版本包含一篇尾声，其中提到了 Wiggins、Jeff Wu（佐治亚理工学院）、AL Hero（密歇根大学）和 Sean Owen（Cloudera）提出的一些重要观点。
 
 
 Thanks are also due to Deepak Agarwal (Linked In), Rudy Beran (UC Davis), Peter Brown (Renaissance Technologies), Jiashun Jin (Carnegie Mellon), Rob Kass (Carnegie Mellon), Martin Helm (Deutsche Bank), Ron Kennett (KPA Associates), Peter Lenk (Univ. Michigan), Mark Liberman (Univ. Pennsylvania), R.J. Little (Univ. Michigan), Xiao-Li Meng (Harvard) and Adrian Raftery (University of Washington), and Hadley Wickham (RStudio and Rice) for encouragement and corrections.
 
-感谢Deepak Agarwal（LinkedIn）、Rudy Beran（UC Davis）、Peter Brown（Renaissance Technologies）、金家顺（卡内基梅隆大学）、Rob Kass（卡内基梅隆大学）、Martin Helm（德意志银行）、Ron Kennett（KPA Associates）、Peter Lenk（密歇根大学）、Mark Liberman（宾夕法尼亚大学）、孟晓犁（哈佛大学）、 Adrian Raftery（华盛顿大学）和Hadley Wickham（RStudio和Rice）鼓励和纠正。
+感谢 Deepak Agarwal（LinkedIn）、Rudy Beran（UC Davis）、Peter Brown（Renaissance Technologies）、金家顺（卡内基梅隆大学）、Rob Kass（卡内基梅隆大学）、Martin Helm（德意志银行）、Ron Kennett（KPA Associates）、Peter Lenk（密歇根大学）、Mark Liberman（宾夕法尼亚大学）、孟晓犁（哈佛大学）、 Adrian Raftery（华盛顿大学）和 Hadley Wickham（RStudio 和莱斯大学）的鼓励和纠正。
 
 
 Belated thanks to my undergraduate statistics teachers: Peter Bloomfield, Henry Braun, Tom Hettmansperger, Larry Mayer, Don McNeil, Geoff Watson, and John Tukey.
 
-感谢我的本科统计老师：Peter Bloomfield, Henry Braun, Tom Hettmansperger, Larry Mayer, Don McNeil, Geoff Watson和John Tukey。
+感谢我的本科统计老师：Peter Bloomfield、Henry Braun、Tom Hettmansperger、Larry Mayer、Don McNeil、Geoff Watson 和 John Tukey。
 
 ## Funding
 
@@ -2141,7 +2141,7 @@ Belated thanks to my undergraduate statistics teachers: Peter Bloomfield, Henry 
 
 Supported in part by NSF DMS-1418362 and DMS-1407813.
 
-部分由NSF DMS-1418362和DMS-1407813支持。
+部分由 NSF DMS-1418362 和 DMS-1407813 支持。
 
 
 ## References
